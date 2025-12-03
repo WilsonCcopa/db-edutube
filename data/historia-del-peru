@@ -1,0 +1,82 @@
+{
+  "curso": "Historia del Perú",
+  "temas": [
+    {
+      "titulo": "Tema 1: Teoría de Conjuntos",
+      "videos": [
+        {
+          "titulo": "1.1 Noción de Conjunto y Relación de Pertenencia",
+          "youtube_id": "VIDEO_ID_YOUTUBE_1",
+          "pdf_link": "https://drive.google.com/uc?id=TU_ID_DRIVE_AQUI",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es la notación correcta para indicar que 'x' pertenece al conjunto A?",
+              "opciones": ["x ⊂ A", "x ∈ A", "x ∉ A", "x ⊃ A", "A ∈ x"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Si A = {1, 2, {3}}, ¿cuál afirmación es verdadera?",
+              "opciones": ["3 ∈ A", "{3} ⊂ A", "{3} ∈ A", "{1} ∈ A", "∅ ∈ A"],
+              "correcta": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.2 Determinación de Conjuntos y Relaciones",
+          "youtube_id": "VIDEO_ID_YOUTUBE_2",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Cómo se determina un conjunto cuando se enumeran sus elementos?",
+              "opciones": ["Por Comprensión", "Por Extensión", "Por Inclusión", "Por Diagrama", "Por Igualdad"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "Dado B = {x/x es vocal}, ¿cuántos elementos tiene B?",
+              "opciones": ["1", "3", "5", "10", "Infinitos"],
+              "correcta": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Numeración",
+      "videos": [
+        {
+          "titulo": "2.1 Principios de la Base y Orden",
+          "youtube_id": "VIDEO_ID_YOUTUBE_3",
+          "pdf_link": "https://drive.google.com/uc?id=OTRO_LINK_PDF",
+          "gratis": false,
+          "preguntas": [
+            {
+              "pregunta": "En el numeral 453(n), ¿cuál es el menor valor posible para n?",
+              "opciones": ["4", "5", "6", "7", "3"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuántas cifras tiene el numeral 100 en base 10?",
+              "opciones": ["1", "2", "3", "4", "5"],
+              "correcta": 2
+            }
+          ]
+        },
+        {
+          "titulo": "2.2 Cambios de Base (De base n a base 10)",
+          "youtube_id": "VIDEO_ID_YOUTUBE_4",
+          "pdf_link": "https://drive.google.com/uc?id=OTRO_LINK_PDF_2",
+          "gratis": false,
+          "preguntas": [
+            {
+              "pregunta": "Convierte 12(5) a base 10.",
+              "opciones": ["5", "6", "7", "10", "12"],
+              "correcta": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

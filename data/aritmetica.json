@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "titulo": "Tema 1: Teoría de Conjuntos",
+    "youtube_id": "TU_ID_YOUTUBE_AQUI", 
+    "pdf_link": "https://tuservidor.com/resumen1.pdf",
+    "es_gratis": true,
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la intersección de {1,2} y {2,3}?",
+        "opciones": ["{1}", "{2}", "{3}", "{1,2,3}"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿El conjunto vacío es subconjunto de todo conjunto?",
+        "opciones": ["Sí", "No", "A veces", "Nunca"],
+        "correcta": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Tema 2: Numeración (Premium)",
+    "youtube_id": "TU_OTRO_ID", 
+    "pdf_link": "",
+    "es_gratis": false,
+    "preguntas": [
+      {
+        "pregunta": "¿Cuál es la base del sistema binario?",
+        "opciones": ["10", "2", "16", "8"],
+        "correcta": 1
+      }
+    ]
+  }
+]

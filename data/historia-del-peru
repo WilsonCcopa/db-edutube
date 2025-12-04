@@ -2,79 +2,1572 @@
   "curso": "Historia del Perú",
   "temas": [
     {
-      "titulo": "Tema 1: Teoría de Conjuntos",
+      "titulo": "Tema 1: Poblamiento de América",
       "videos": [
         {
-          "titulo": "1.1 Noción de Conjunto y Relación de Pertenencia",
-          "youtube_id": "VIDEO_ID_YOUTUBE_1",
-          "pdf_link": "https://drive.google.com/uc?id=TU_ID_DRIVE_AQUI",
+          "titulo": "1.1 Teorías Inmigracionistas",
+          "youtube_id": "vuTyUSB7gLM",
+          "pdf_link": "",
           "gratis": true,
           "preguntas": [
             {
-              "pregunta": "¿Cuál es la notación correcta para indicar que 'x' pertenece al conjunto A?",
-              "opciones": ["x ⊂ A", "x ∈ A", "x ∉ A", "x ⊃ A", "A ∈ x"],
+              "pregunta": "¿Quién propuso la teoría del origen autóctono del hombre americano?",
+              "opciones": ["Florentino Ameghino", "Paul Rivet", "Alex Hrdlicka", "Mendes Correa"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿En qué año Florentino Ameghino planteó su teoría del origen autóctono?",
+              "opciones": ["1869", "1900", "1943", "1920"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría sostiene que los primeros pobladores de América llegaron desde Asia?",
+              "opciones": ["Teoría Asiática", "Teoría Oceánica", "Teoría Australiana", "Teoría Autóctona"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué científico propuso la teoría del origen asiático del hombre americano?",
+              "opciones": ["Alex Hrdlicka", "Paul Rivet", "Florentino Ameghino", "Mendes Correa"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué característica física destacó Alex Hrdlicka en los primeros pobladores americanos?",
+              "opciones": ["Cabello lacio y oscuro", "Cabello rizado y claro", "Ojos grandes", "Piel clara"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría propuso Paul Rivet sobre el origen del hombre americano?",
+              "opciones": ["Teoría Multirracial", "Teoría Asiática", "Teoría Autóctona", "Teoría Oceánica"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué grupo sanguíneo compartían los aborígenes australianos y los indígenas americanos según Mendes Correa?",
+              "opciones": ["Grupo A", "Grupo B", "Grupo O", "Grupo AB"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué yacimiento arqueológico en Estados Unidos tiene una antigüedad de 16,000 años a.C.?",
+              "opciones": ["Meadowcroft Rockshelter", "Monte Verde", "Clovis", "Folsom"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué cultura se consideró la más antigua de América hasta mediados del siglo XX?",
+              "opciones": ["Cultura Clovis", "Cultura Folsom", "Cultura Monte Verde", "Cultura Meadowcroft"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué animal cazaban los Clovis según la evidencia arqueológica?",
+              "opciones": ["Mamut", "Bisonte", "Reno", "Caballo"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué yacimiento arqueológico en Chile tiene una antigüedad de 14,800 años?",
+              "opciones": ["Monte Verde", "Meadowcroft", "Clovis", "Folsom"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué utensilios se encontraron en el yacimiento de Meadowcroft?",
+              "opciones": ["Raspadores y herramientas líticas", "Puntas de lanza Clovis", "Cerámica", "Arte rupestre"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría sostiene que los primeros pobladores de América llegaron desde Australia?",
+              "opciones": ["Teoría Australiana", "Teoría Asiática", "Teoría Oceánica", "Teoría Autóctona"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué antropólogo propuso la teoría del origen australiano del hombre americano?",
+              "opciones": ["Mendes Correa", "Paul Rivet", "Alex Hrdlicka", "Florentino Ameghino"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué yacimiento arqueológico en Nuevo México es conocido por las puntas de lanza Clovis?",
+              "opciones": ["Clovis", "Folsom", "Meadowcroft", "Monte Verde"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué antigüedad tienen las puntas de lanza Clovis encontradas en Nuevo México?",
+              "opciones": ["13,500 años", "16,000 años", "14,800 años", "33,000 años"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué yacimiento arqueológico en Chile tiene una antigüedad de 33,000 años, aunque su validez es cuestionada?",
+              "opciones": ["Monte Verde", "Meadowcroft", "Clovis", "Folsom"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué animal cazaban los Folsom según la evidencia arqueológica?",
+              "opciones": ["Bisonte lanudo", "Mamut", "Reno", "Caballo"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué yacimiento arqueológico en Estados Unidos es conocido por las puntas de lanza Folsom?",
+              "opciones": ["Folsom", "Clovis", "Meadowcroft", "Monte Verde"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría sostiene que los primeros pobladores de América llegaron desde Oceanía?",
+              "opciones": ["Teoría Oceánica", "Teoría Asiática", "Teoría Australiana", "Teoría Autóctona"],
+              "correcta": 0
+            }
+          ]
+        },
+        {
+          "titulo": "1.2 Poblamiento Americano 1/2",
+          "youtube_id": "8dtahvpipP0",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es la teoría que propone que el hombre es originario de América?",
+              "opciones": ["Teoría autoctonista", "Teoría asiática", "Teoría ibérica", "Teoría africana"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Quién propuso la teoría autoctonista?",
+              "opciones": ["Alex Hardyclass", "Florentino Ameghino", "José de Acosta", "David Wilcock"],
               "correcta": 1
             },
             {
-              "pregunta": "Si A = {1, 2, {3}}, ¿cuál afirmación es verdadera?",
-              "opciones": ["3 ∈ A", "{3} ⊂ A", "{3} ∈ A", "{1} ∈ A", "∅ ∈ A"],
+              "pregunta": "Durante qué periodo se cree que ocurrió la migración a América a través del Puente de Bering?",
+              "opciones": ["Era de Hielo", "Era del Bronce", "Neolítico", "Paleolítico"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál es uno de los métodos utilizados para determinar la antigüedad de los restos fósiles?",
+              "opciones": ["Método estratigráfico", "Método de carbono 14", "Dendrocronología", "Termoluminiscencia"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué evidencia se utilizó para descartar la teoría autoctonista de Ameghino?",
+              "opciones": ["Estudios de carbono 14", "Hallazgos en el desierto", "Restos de grandes mamíferos", "Relaciones culturales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué glaciación se menciona como fundamental para el cruce del Puente de Bering?",
+              "opciones": ["Glaciación de Wisconsin", "Glaciación de la Edad de Hielo", "Glaciación de Bérgica", "Glaciación de la Pampa"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "Según Alex Hardyclass, ¿de dónde proviene el hombre americano?",
+              "opciones": ["De Europa", "De Asia", "De África", "De Oceanía"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de rasgos se compararon entre los asiáticos y los americanos para apoyar la teoría inmigracionista?",
+              "opciones": ["Rasgos fisiológicos", "Rasgos culturales", "Rasgos lingüísticos", "Rasgos económicos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cómo se llamó el fenómeno que permitió la formación del Puente de Bering?",
+              "opciones": ["Ciclo del agua", "Instancia glaciar", "Derretimiento polar", "Terremoto glacial"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué rasgo físico es común en los pobladores de Asia y América mencionado en la clase?",
+              "opciones": ["Cabello rizado", "Altura elevada", "Pliegue mongólico", "Piel clara"],
               "correcta": 2
             }
           ]
         },
         {
-          "titulo": "1.2 Determinación de Conjuntos y Relaciones",
-          "youtube_id": "VIDEO_ID_YOUTUBE_2",
+          "titulo": "1.3 Poblamiento americano 2/3",
+          "youtube_id": "5-VSczzQtzk",
           "pdf_link": "",
           "gratis": true,
           "preguntas": [
             {
-              "pregunta": "¿Cómo se determina un conjunto cuando se enumeran sus elementos?",
-              "opciones": ["Por Comprensión", "Por Extensión", "Por Inclusión", "Por Diagrama", "Por Igualdad"],
+              "pregunta": "¿Qué plantea la teoría oceánica de Paul River?",
+              "opciones": ["El hombre proviene de Asia", "El hombre proviene de Oceanía", "El hombre proviene de Europa", "El hombre proviene de África"],
               "correcta": 1
             },
             {
-              "pregunta": "Dado B = {x/x es vocal}, ¿cuántos elementos tiene B?",
-              "opciones": ["1", "3", "5", "10", "Infinitos"],
+              "pregunta": "¿Qué corrientes marinas se mencionan como ayuda para cruzar el océano Pacífico?",
+              "opciones": ["Corriente del Golfo", "Corriente del Atlántico Norte", "Corriente Nora ecuatorial del Pacífico", "Corriente del Antártico"],
               "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué raza se menciona como llegando a América del Sur?",
+              "opciones": ["Los melanesios", "Los esquimales", "Los polinesios", "Los euroasiáticos"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es una similitud cultural entre los melanesios y las tribus de Brasil?",
+              "opciones": ["Uso de la cerbatana", "Construcción de pirámides", "Uso de camisas de rayas", "Tatuajes corporales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué cultivo común se menciona entre los polinesios y América?",
+              "opciones": ["Maíz", "Arroz", "Papa", "Trigo"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Quién es Thor Heyerdahl?",
+              "opciones": ["Un arqueólogo", "Un antropólogo", "Un botánico", "Un paleontólogo"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué balsa construyó Thor Heyerdahl para probar su teoría?",
+              "opciones": ["Kon-Tiki", "Ra", "Balón", "Horus"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál es una de las críticas a la teoría oceánica?",
+              "opciones": ["No existen evidencias culturales", "No existen evidencias arqueológicas", "No existen evidencias lingüísticas", "No existen evidencias genéticas"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué herramienta se menciona que se usa en los cultivos y es similar en ambas culturas?",
+              "opciones": ["Hacha", "Hoz", "Taglia", "Palanca"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué Dios se menciona como común entre los polinesios y la cultura quechua?",
+              "opciones": ["Inti", "Pachamama", "Con Tiki", "Viracocha"],
+              "correcta": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.4 Poblamiento americano 3/3",
+          "youtube_id": "qvtLGdvzlZs",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Qué plantea la teoría australiana de Mendes Correa?",
+              "opciones": ["El hombre proviene de Asia", "El hombre proviene de Oceanía", "El hombre proviene de Europa", "El hombre proviene de Australia"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Cuál es la ruta propuesta por Mendes Correa para el poblamiento americano?",
+              "opciones": ["Cruzando el Estrecho de Bering", "Navegando desde Europa", "Cruzando el océano Atlántico", "Pasando por la Antártida"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Qué similitudes comparan Mendes Correa entre las tribus de Australia y las de América del Sur?",
+              "opciones": ["Uso de herramientas de metal", "Gran resistencia al frío", "Construcción de grandes templos", "Técnicas avanzadas de agricultura"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué crítica se hace a la teoría australiana?",
+              "opciones": ["Nunca existió un óptimo climático", "Las rutas no son viables", "No hay evidencia arqueológica", "No se han encontrado similitudes culturales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Quiénes son los autores de la teoría noratlántica?",
+              "opciones": ["Mendes Correa y Paul Rivet", "Bruce Bradley y Denis Stanford", "Charles Darwin y Alfred Wallace", "Francisco J. Ayala y Richard Dawkins"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Desde dónde se plantea que el hombre llegó a América en la teoría noratlántica?",
+              "opciones": ["Desde Asia", "Desde Oceanía", "Desde Europa", "Desde África"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué cultura se menciona asociada a la teoría noratlántica?",
+              "opciones": ["Cultura Clovis", "Cultura Inca", "Cultura Olmeca", "Cultura Maya"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de herramientas presentan similitudes entre Europa y América?",
+              "opciones": ["Herramientas de metal", "Herramientas líticas", "Armas de fuego", "Instrumentos musicales"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué destaca la teoría del poblamiento americano acerca de la diversidad cultural?",
+              "opciones": ["Es resultado de un solo origen", "Es resultado de múltiples orígenes", "No hay diversidad cultural", "Es un mito"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué se planteó sobre el clima de la Antártida en la teoría australiana?",
+              "opciones": ["Se mantuvo helado siempre", "Hubo un calentamiento que facilitó el paso", "Era inhóspito para cualquier ser vivo", "Era un paraíso tropical"],
+              "correcta": 1
+            }
+          ]
+        },
+        {
+          "titulo": "1.5 Perú Primitivo - parte 1",
+          "youtube_id": "itc4DYbeXuA",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Dónde se ubican las cuevas de Vic y Macháin?",
+              "opciones": ["En Lima", "En Ayacucho", "En La Libertad", "En Tacna"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de economía tenían los primeros pobladores del Perú?",
+              "opciones": ["Economía agrícola", "Economía parasitaria", "Economía industrial", "Economía comercial"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué organización social formaron los primeros pobladores del Perú?",
+              "opciones": ["Bailarinas", "Bandas", "Clanes", "Tribús"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué nombre recibe el primer poblador hallado en Picimachay?",
+              "opciones": ["Hombre de Chivateros", "Hombre de Paiján", "Hombre de lauricocha", "Primer poblador picimachay"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Qué herramienta se encontró en Chivateros?",
+              "opciones": ["Cuchillos de piedra", "Puntas con pedúnculos", "Redes de pescar", "Flautas de pan"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de arte dejaron los pobladores en Toquepala?",
+              "opciones": ["Esculturas", "Pinturas rupestres", "Cerámica", "Armas líticas"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué descubrimiento se hizo sobre el hombre de Santo Domingo?",
+              "opciones": ["Primera floresta", "Red de pescar", "Herramientas de cerámica", "Cuerpos enterrados"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué se desarrolló en el periodo arcaico inferior?",
+              "opciones": ["Agricultura avanzada", "Horticultura", "Caza selectiva", "Ganadería"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es el nombre del hombre que descubrió los primeros restos humanos en Paiján?",
+              "opciones": ["Richard Magnesio", "Edward Lanning", "Rafael Larco Hoyle", "Federico Engels"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué animales comenzó a domesticar el hombre en el periodo arcaico inferior?",
+              "opciones": ["Perros", "Aves", "Auquénidos", "Cerdos"],
+              "correcta": 2
+            }
+          ]
+        },
+        {
+          "titulo": "1.6 Perú primitivo - parte 2",
+          "youtube_id": "z_FXlNCczXE",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Dónde se ubican las cuevas de Vic y Macháin?",
+              "opciones": ["En Lima", "En Ayacucho", "En La Libertad", "En Tacna"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de economía tenían los primeros pobladores del Perú?",
+              "opciones": ["Economía agrícola", "Economía parasitaria", "Economía industrial", "Economía comercial"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál fue la primera forma de economía en el arcaico inferior?",
+              "opciones": ["Economía productiva", "Economía semiproductiva", "Economía comercial", "Economía parasitaria"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Qué desarrollo agrícola se dio en el arcaico superior?",
+              "opciones": ["Caza y recolección", "Horticultura", "Agricultura y ganadería", "Nómadas"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué fenómeno permitió a los hombres volverse sedentarios?",
+              "opciones": ["Aumento de la población", "Excedente productivo", "Cambio climático", "Invasiones"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué práctica comercial surgió gracias al excedente productivo?",
+              "opciones": ["Intercambio monetario", "Trueque", "Venta", "Intercambio internacional"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Quiénes conformaron la primera clase dominante en el arcaico superior?",
+              "opciones": ["Agricultores", "Guerreros", "Sacerdotes astrónomos", "Comerciantes"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál es el centro ceremonial más antiguo mencionado?",
+              "opciones": ["Cerro Paloma", "Caral", "Huaca Prieta", "Cotosh"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de estado se formó en el arcaico superior?",
+              "opciones": ["Monárquico", "Teocrático", "Democrático", "Oligárquico"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de trabajos textiles se desarrollaron en esta época?",
+              "opciones": ["Tejer lana", "Tejer algodón", "Tejer seda", "Tejer sintético"],
+              "correcta": 1
             }
           ]
         }
       ]
     },
     {
-      "titulo": "Tema 2: Numeración",
+      "titulo": "Tema 2: Periodo Formativo al Periodo de Estados Regionales",
       "videos": [
         {
-          "titulo": "2.1 Principios de la Base y Orden",
-          "youtube_id": "VIDEO_ID_YOUTUBE_3",
-          "pdf_link": "https://drive.google.com/uc?id=OTRO_LINK_PDF",
-          "gratis": false,
+          "titulo": "2.1 Periodo Formativo - V1",
+          "youtube_id": "BwGT0H7kYJQ",
+          "pdf_link": "",
+          "gratis": true,
           "preguntas": [
             {
-              "pregunta": "En el numeral 453(n), ¿cuál es el menor valor posible para n?",
-              "opciones": ["4", "5", "6", "7", "3"],
-              "correcta": 2
+              "pregunta": "¿Cuáles son las dos grandes etapas en la historia del Perú?",
+              "opciones": ["Período autónomo y período de dependencia", "Período incaico y período colonial", "Período teocrático y período moderno", "Período prehispánico y período republicano"],
+              "correcta": 0
             },
             {
-              "pregunta": "¿Cuántas cifras tiene el numeral 100 en base 10?",
-              "opciones": ["1", "2", "3", "4", "5"],
-              "correcta": 2
+              "pregunta": "¿Qué marcó el inicio de la civilización en los Andes centrales?",
+              "opciones": ["El desarrollo de la cerámica", "El periodo formativo", "La llegada de los españoles", "La fundación de Chavín de Huántar"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué periodo abarca desde el 2000 a.C.?",
+              "opciones": ["Periodo Formativo", "Periodo Incaico", "Periodo Colonial", "Periodo Precerámico"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál fue un avance clave durante el Periodo Formativo?",
+              "opciones": ["Agricultura de riego", "Escritura jeroglífica", "Uso de armas de hierro", "Construcción de caminos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué clase social dominaba en los estados teocráticos del Periodo Formativo?",
+              "opciones": ["Sacerdotes", "Guerreros", "Comerciantes", "Esclavos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría sobre el origen de la civilización andina fue propuesta por Max Uhle?",
+              "opciones": ["Teoría inmigracionista", "Teoría autoctonista", "Teoría aloctonista", "Teoría hologenista"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Quién afirmó que Chavín es la cultura madre de la civilización andina?",
+              "opciones": ["Julio C. Tello", "Max Uhle", "Federico Kauffmann", "Luis Guillermo Lumbreras"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría combina elementos internos y externos en el origen de la civilización andina?",
+              "opciones": ["Teoría hologenista", "Teoría autoctonista", "Teoría inmigracionista", "Teoría aloctonista"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se encuentra el templo de las Manos Cruzadas?",
+              "opciones": ["Kotosh", "Cerro Sechín", "Garagay", "Cupisnique"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué representa el templo de las Manos Cruzadas?",
+              "opciones": ["La dualidad andina", "El sacrificio humano", "El poder político", "La adoración al sol"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sitio destaca por sus esculturas en bajo relieve relacionadas con sacrificios humanos?",
+              "opciones": ["Cerro Sechín", "Kuntur Wasi", "Garagay", "Cupisnique"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sociedad es conocida por su cerámica globular y esculturas felínicas?",
+              "opciones": ["Cupisnique", "Kotosh", "Garagay", "Chavín"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sociedad destaca por sus murales polícromos?",
+              "opciones": ["Garagay", "Cerro Sechín", "Cupisnique", "Kuntur Wasi"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se encuentra el Lanzón Monolítico?",
+              "opciones": ["Chavín de Huántar", "Cerro Sechín", "Kuntur Wasi", "Garagay"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué característica arquitectónica es típica de Chavín?",
+              "opciones": ["Templos en forma de U", "Murallas circulares", "Caminos elevados", "Pirámides escalonadas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué elementos iconográficos destacan en Chavín?",
+              "opciones": ["Felinos y serpientes", "Aves y jaguares", "Montañas y ríos", "Guerreros y dioses"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sociedad del Periodo Formativo es famosa por su trabajo en orfebrería?",
+              "opciones": ["Kuntur Wasi", "Cupisnique", "Kotosh", "Cerro Sechín"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué elementos culturales se combinan en Chavín de Huántar?",
+              "opciones": ["Elementos selváticos, costeros y andinos", "Arte egipcio y mesoamericano", "Elementos coloniales y preincaicos", "Religión cristiana y politeísta"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué permitió el desarrollo de estados teocráticos en el Periodo Formativo?",
+              "opciones": ["Agricultura avanzada", "Comercio marítimo", "Escritura", "Metalurgia"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál es el legado cultural del Periodo Formativo?",
+              "opciones": ["Técnicas agrícolas, organización social y expresiones artísticas", "Uso del hierro, comercio marítimo y astronomía", "Religión cristiana y caminos elevados", "Desarrollo industrial y ciudades amuralladas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sociedad es considerada la síntesis del Periodo Formativo?",
+              "opciones": ["Chavín de Huántar", "Cerro Sechín", "Garagay", "Kotosh"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué teoría sobre el origen de la civilización andina menciona influencias de la cultura Valdivia?",
+              "opciones": ["Teoría aloctonista", "Teoría autoctonista", "Teoría inmigracionista", "Teoría hologenista"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué elemento caracteriza la arquitectura de Cerro Sechín?",
+              "opciones": ["Esculturas en bajo relieve", "Templos en forma de U", "Obeliscos gigantes", "Columnas de piedra"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué es el Periodo Formativo?",
+              "opciones": ["La etapa inicial de la alta cultura peruana", "El apogeo de los Incas", "El periodo colonial", "La época republicana"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué región se asocia con el templo de Kuntur Wasi?",
+              "opciones": ["Cajamarca", "Lima", "Áncash", "Huánuco"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué avances influyeron en el aumento poblacional del Periodo Formativo?",
+              "opciones": ["Agricultura de riego", "Comercio marítimo", "Construcción de caminos", "Uso de hierro"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de intercambio cultural es evidente en Chavín?",
+              "opciones": ["Peregrinajes y tributos", "Conquista militar", "Comercio marítimo", "Colonización extranjera"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué representaciones iconográficas destacan en Cupisnique?",
+              "opciones": ["Felínicas", "Humanas", "Aviares", "Vegetales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué caracteriza la cerámica de Kotosh?",
+              "opciones": ["Ser la más antigua del Perú", "Representar escenas marítimas", "Ser exclusivamente ceremonial", "Tener formas geométricas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué periodo marca el inicio de la organización social, política y cultural en los Andes?",
+              "opciones": ["Periodo Formativo", "Periodo Incaico", "Periodo Precerámico", "Periodo Colonial"],
+              "correcta": 0
             }
           ]
         },
         {
-          "titulo": "2.2 Cambios de Base (De base n a base 10)",
-          "youtube_id": "VIDEO_ID_YOUTUBE_4",
-          "pdf_link": "https://drive.google.com/uc?id=OTRO_LINK_PDF_2",
-          "gratis": false,
+          "titulo": "2.2 Periodo formativo - V2",
+          "youtube_id": "vE8B7oEds3o",
+          "pdf_link": "",
+          "gratis": true,
           "preguntas": [
             {
-              "pregunta": "Convierte 12(5) a base 10.",
-              "opciones": ["5", "6", "7", "10", "12"],
+              "pregunta": "¿Cómo se llama el período en el que el hombre pasó de ser cazador-recolector a agricultor sedentario?",
+              "opciones": ["Período Lítico", "Período Arcaico", "Período Formativo", "Período Neolítico"],
               "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué divide Guillermo Lumbreras en la historia del Perú primitivo?",
+              "opciones": ["Horizontes culturales", "Períodos líticos y arcaicos", "Horizontes y periodos intermedios", "Horizontes medios y finales"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál es un elemento cultural que surge en el período formativo inicial?",
+              "opciones": ["El bronce", "La cerámica", "El trueque", "La escritura"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué elemento del período formativo permite la creación de tejidos?",
+              "opciones": ["El telar", "La cerámica", "El arado", "El huso"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué cultivo importante apareció en el período formativo inicial?",
+              "opciones": ["Papa", "Yuca", "Maíz", "Frijol"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Por qué era importante el cultivo del maíz?",
+              "opciones": ["Por su sabor único", "Por su fácil transporte", "Por su capacidad de almacenarse", "Por su uso como moneda"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué práctica en metales surge en el período formativo inicial?",
+              "opciones": ["Fundición de hierro", "Metalurgia", "Creación de armas", "Uso del cobre"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿A qué dios se rendía culto en el período formativo inicial?",
+              "opciones": ["Dios Sol", "Dios Jaguar", "Dios Puma", "Dios Cóndor"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué técnica fue desarrollada para mejorar la agricultura en el período formativo inicial?",
+              "opciones": ["Rotación de cultivos", "Uso de abono", "Técnicas hidráulicas", "Riego por goteo"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cómo se llama el período en el que surge la primera síntesis cultural en los Andes?",
+              "opciones": ["Formativo Inicial", "Formativo Medio", "Formativo Final", "Período Arcaico"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál fue la cultura que marcó la primera síntesis cultural andina?",
+              "opciones": ["Chavín", "Paracas", "Nazca", "Vicus"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál era el dominio principal de la cultura Chavín?",
+              "opciones": ["Militar", "Cultural", "Político", "Territorial"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué representaban los dioses de la cultura Chavín?",
+              "opciones": ["Animales marinos", "Fusión de animales y humanos", "Figuras geométricas", "Estrellas y planetas"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué marca el final del período formativo?",
+              "opciones": ["La expansión de Chavín", "La aparición de culturas regionales", "El dominio de los Incas", "El desarrollo del comercio"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué culturas son consideradas de transición al final del período formativo?",
+              "opciones": ["Nazca y Mochica", "Vicus y Paracas", "Chavín y Paracas", "Pucará y Nazca"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué elemento distingue a las culturas puente como Paracas?",
+              "opciones": ["El uso de textiles", "La continuidad del estilo Chavín", "El desarrollo del comercio", "El inicio de la escritura"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué región se desarrolló la cultura Paracas?",
+              "opciones": ["Lambayeque", "Ica", "Ancash", "Cajamarca"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué caracteriza a Paracas Necrópolis respecto a Paracas Cavernas?",
+              "opciones": ["Mayor influencia Chavín", "Alejamiento del estilo Chavín", "Uso de herramientas de bronce", "Introducción de cerámica policromada"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué evento marca el inicio del período formativo inicial?",
+              "opciones": ["La aparición de los textiles", "El surgimiento de la cerámica", "El desarrollo del comercio", "El uso de herramientas de hierro"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué elemento cultural perdura desde el período formativo hasta la actualidad?",
+              "opciones": ["El oro", "El maíz", "El bronce", "El telar"],
+              "correcta": 1
             }
           ]
+        },
+        {
+          "titulo": "2.3 I Desarrollo Regional: Nazca, Moche y Recuay",
+          "youtube_id": "tXLJafa_50M",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Cómo se organizaba la sociedad Mochica?",
+              "opciones": ["En un solo gobierno centralizado", "En señoríos independientes", "En una monarquía", "En tribus nómadas"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Quiénes eran los gobernantes en la cultura Mochica?",
+              "opciones": ["Seich", "Sacerdotes", "Guerreros", "Campesinos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué producto agrícola NO cultivaron los Mochica?",
+              "opciones": ["Maíz", "Frijol", "Caña de azúcar", "Zapallo"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué técnica de pesca utilizaban los Mochica?",
+              "opciones": ["Lanzaban redes", "Usaban caballitos de totora", "Pesca con arpón", "Pesca con anzuelos"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué clase social estaba en la base de la sociedad Mochica?",
+              "opciones": ["Sacerdotes", "Guerreros", "Campesinos", "Seich"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué significa la palabra 'piñas' en la sociedad Mochica?",
+              "opciones": ["Agricultores", "Prisioneros de guerra sacrificados", "Sacerdotes", "Guerreros"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál fue una de las principales actividades económicas de los Mochica?",
+              "opciones": ["Comercio exterior", "Pesca y marisqueo", "Minería", "Caza"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué tipo de metalurgia desarrollaron los Mochica?",
+              "opciones": ["Hierro", "Oro, plata y cobre", "Bronce", "Aluminio"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál de estas huacas es famosa en la cultura Mochica?",
+              "opciones": ["Huaca del Sol", "Huaca de los Reyes", "Huaca de la Luna", "Huaca de los Incas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué evento natural afectó la civilización Mochica?",
+              "opciones": ["Erupción volcánica", "Fenómeno de El Niño", "Terremoto", "Cambio climático global"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué civilización conquistó y absorbió a los Mochica?",
+              "opciones": ["Nazca", "Inca", "Wari", "Chavín"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué tipo de cerámica es característica de los Mochica?",
+              "opciones": ["Cerámica de estilo geométrico", "Cerámica realista y documental", "Cerámica abstracta", "Cerámica decorativa con colores brillantes"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué figura es conocida por sus cerámicas eróticas en la cultura Mochica?",
+              "opciones": ["El Señor de Sipán", "La Dama de Cao", "El Señor de los Milagros", "La Mujer de la Luna"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué recurso natural intercambiaban los Mochica con otras regiones?",
+              "opciones": ["Obsidiana", "Madera", "Piedra caliza", "Cobre puro"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué aspecto de la vida cotidiana era frecuentemente representado en la cerámica Mochica?",
+              "opciones": ["Escenas religiosas y rituales", "Cazadores de ciervos", "Aventuras mitológicas", "Desarrollo tecnológico"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tecnología agrícola desarrollaron los Mochica?",
+              "opciones": ["Sistema de canales y reservorios", "Método de riego por aspersión", "Siembra sin riego", "Invernaderos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué ocurrió con los prisioneros de guerra en la sociedad Mochica?",
+              "opciones": ["Se integraban como trabajadores", "Eran sacrificados en rituales religiosos", "Se les otorgaba un estatus alto", "Vivían como esclavos en las ciudades"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes productos NO formaba parte de la dieta Mochica?",
+              "opciones": ["Frijol", "Lúcuma", "Cereal", "Algodón"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué material era utilizado para la creación de joyas y ornamentos en la cultura Mochica?",
+              "opciones": ["Piedra", "Oro, plata y cobre", "Madera", "Cerámica"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué región de Perú se desarrolló la cultura Mochica?",
+              "opciones": ["Costa sur", "Costa norte", "Sierra central", "Selva baja"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál era la función principal de los sacerdotes Mochica?",
+              "opciones": ["Dirigir el comercio", "Controlar los rituales religiosos", "Organizar la agricultura", "Supervisar las guerras"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué importancia tenía la Huaca del Sol en la cultura Mochica?",
+              "opciones": ["Era una ciudad fortificada", "Era un centro ceremonial y político", "Era una zona de viviendas", "Era una mina de metales"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cuál fue una de las principales causas del declive de la cultura Mochica?",
+              "opciones": ["La expansión del Imperio Inca", "Las invasiones de los Nazca", "Los conflictos internos entre los señoríos", "El auge de las civilizaciones del Altiplano"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué evento natural afectó gravemente los sistemas de irrigación Mochica?",
+              "opciones": ["Fenómeno de El Niño", "Terremoto", "Sequía prolongada", "Inundaciones por lluvias"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo eran representados los prisioneros de guerra en la cerámica Mochica?",
+              "opciones": ["Como héroes", "Como figuras demoníacas", "Como sacrificios rituales", "Como guerreros honorables"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes productos NO era parte de la producción Mochica?",
+              "opciones": ["Algodón", "Cobre", "Piedra de obsidiana", "Oro"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Qué función tenían las huacas en la sociedad Mochica?",
+              "opciones": ["Centros comerciales", "Centros funerarios", "Centros de comunicación", "Centros ceremoniales y políticos"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿Qué técnica usaban los Mochica para crear aleaciones metálicas?",
+              "opciones": ["Técnica de fundición en horno", "Técnica de tumba", "Técnica de martillado", "Técnica de fundición a baja temperatura"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Cómo se llamaban los guerreros de la cultura Mochica?",
+              "opciones": ["Chasquis", "Warriors", "Guerreros", "Piñas"],
+              "correcta": 2
+            },
+            {
+              "pregunta": "¿Cuál de estas clases sociales era la más elevada en la cultura Mochica?",
+              "opciones": ["Campesinos", "Sacerdotes", "Guerreros", "Seich"],
+              "correcta": 3
+            },
+            {
+              "pregunta": "¿A qué grupo cultural pertenecen las famosas líneas de Nazca?",
+              "opciones": ["Cultura Nazca", "Cultura Mochica", "Cultura Inca", "Cultura Paracas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué elemento era común en la cerámica Mochica?",
+              "opciones": ["Colores brillantes", "Realismo y documentación", "Formas geométricas abstractas", "Representación de la naturaleza"],
+              "correcta": 1
+            }
+          ]
+        },
+        {
+          "titulo": "2.4 Horizonte Medio (Tiahuanaco y Wari)",
+          "youtube_id": "veSieDMxjZg",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Qué característica define al Estado de la cultura Tiahuanaco?",
+              "opciones": ["Estado teocrático-militar", "Estado monárquico", "Estado comunal", "Estado republicano"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se desarrolló la cultura Tiahuanaco?",
+              "opciones": ["Costa norte de Perú", "Meseta del Collao, cerca del lago Titicaca", "Región andina de Ecuador", "Llanos de la Amazonía"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué técnica agrícola desarrollaron los Tiahuanaco para regular la temperatura en las chacras?",
+              "opciones": ["Andenes", "Waru waru", "Riego por aspersión", "Cultivos flotantes"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué animales criaban los Tiahuanaco para carne, lana y transporte?",
+              "opciones": ["Cuyes", "Llamas y alpacas", "Caballos", "Perros de los Andes"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué sistema utilizaron los Tiahuanaco para conservar alimentos?",
+              "opciones": ["Deshidratación (charqui y chuño)", "Refrigeración en pozos", "Secado al sol", "Congelación en montañas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de cerámica es característica de la cultura Tiahuanaco?",
+              "opciones": ["Vasos keros con formas zoomorfas", "Vasos de barro blanco", "Cerámica decorada con figuras geométricas", "Vasos de metal dorado"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué gran construcción es emblemática de la arquitectura Tiahuanaco?",
+              "opciones": ["La Portada del Sol", "La Fortaleza de Sacsayhuamán", "El Templo de Pachacamac", "La Huaca del Sol"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué ocurrió probablemente con la cultura Tiahuanaco?",
+              "opciones": ["Cayó por invasiones externas", "Sufrió debido a cambios climáticos", "Fue absorbida por el Imperio Inca", "Se autodestruyó por rebeliones internas"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿En qué región se originó el Imperio Wari?",
+              "opciones": ["Ayacucho", "Cuzco", "Puno", "Arequipa"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cómo se caracterizaba el Imperio Wari en términos políticos?",
+              "opciones": ["Era centralizado y redistributivo", "Era democrático y descentralizado", "Era una teocracia sin emperador", "Era un estado feudal"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué estructura social dominaba en el Imperio Wari?",
+              "opciones": ["Sacerdotes y guerreros", "Campesinos y artesanos", "Mercaderes y aristócratas", "Nobles y plebeyos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál era uno de los principales productos agrícolas cultivados en el Imperio Wari?",
+              "opciones": ["Maíz", "Café", "Trigo", "Patatas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de caminos construyeron los Wari para conectar sus territorios?",
+              "opciones": ["Capac Ñan", "Vías de comunicación marítima", "Red de senderos subterráneos", "Carreteras de piedra"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de cerámica fue usada por el Imperio Wari?",
+              "opciones": ["Vasijas policromas", "Cerámica negra", "Cerámica sin decoración", "Vasos de barro sin esmaltar"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué técnica textil fue utilizada por los Wari?",
+              "opciones": ["Acordeón", "Tejido circular", "Tejido en telares de pie", "Tejido en telares horizontales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué sistema de registro usaban los Wari para guardar información numérica?",
+              "opciones": ["Kipus", "Escritura jeroglífica", "Códigos de piedra", "Pictogramas en cerámica"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué factor contribuyó al declive del Imperio Wari?",
+              "opciones": ["Cambios climáticos y rebeliones internas", "Invasión del Imperio Inca", "Expansión hacia la selva", "Cambio de religión predominante"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué región andina fue ocupada por los Tiahuanaco?",
+              "opciones": ["La sierra central", "La meseta del Collao", "La costa norte", "La selva baja"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué elemento es común en las esculturas de Tiahuanaco?",
+              "opciones": ["Monolitos antropomorfos", "Estatuas de dioses con alas", "Esculturas de cabezas gigantes", "Figuras de guerreros y animales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué culturas fueron contemporáneas durante el Horizonte Medio?",
+              "opciones": ["Wari y Tiahuanaco", "Nazca y Mochica", "Inca y Paracas", "Chavín y Moche"],
+              "correcta": 0
+            }
+          ]
+        },
+        {
+          "titulo": "2.5 Chimú, Chincha, Chachapoyas, Chanka...",
+          "youtube_id": "BNQg7x4m0OA",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+              "pregunta": "¿Qué característica distingue a los Chancas?",
+              "opciones": ["Resistencia a los incas", "Alianza con los incas", "Fueron conquistados por los incas", "Comercio con los españoles"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál era la deidad principal de los Chancas?",
+              "opciones": ["Uscovilca", "Huallallo Carhuincho", "Naylamp", "Viracocha"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se encontraba la pacarina de los Chancas?",
+              "opciones": ["Choclococha", "Tambo de Mora", "Cuzco", "Piura"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué cultura ayudó a los españoles durante la conquista?",
+              "opciones": ["Huancas", "Chancas", "Chimú", "Chachapoyas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué deidad adoraban los Huancas?",
+              "opciones": ["Huallallo Carhuincho", "Uscovilca", "Naylamp", "Viracocha"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál era la pacarina de los Huancas?",
+              "opciones": ["Warivilca", "Choclococha", "Tambo de Mora", "Cuzco"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué cultura destacaba en la región de Amazonas y San Martín?",
+              "opciones": ["Chachapoyas", "Chimú", "Sicán", "Aymara"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué centros urbanos eran destacados en la cultura Chachapoyas?",
+              "opciones": ["Kuélap y Gran Pajatén", "Tambo de Mora y Chan Chan", "Cuzco y Ollantaytambo", "Piura y Chiclayo"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de artefactos son característicos de los Chachapoyas?",
+              "opciones": ["Pinchudos y sarcófagos de Carajía", "Cerámica policroma", "Textiles elaborados", "Vasos keros"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se encontraba la cultura Chimú?",
+              "opciones": ["Costa norte de Perú", "Meseta del Collao", "Selva alta", "Costa sur de Perú"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál era la capital de los Chimú?",
+              "opciones": ["Chan Chan", "Tambo de Mora", "Cuzco", "Piura"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de economía desarrollaron los Chimú?",
+              "opciones": ["Agricultura, pesca y comercio", "Ganadería y comercio", "Agricultura y minería", "Pesca y orfebrería"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de cerámica es característica de los Chimú?",
+              "opciones": ["Monocroma", "Policroma", "Blanca y roja", "Cerámica pintada a mano"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de orfebrería destacaron los Chimú?",
+              "opciones": ["Escultórica", "Joyas de oro y plata", "Cascos de guerreros", "Cuchillos ceremonial"],
+              "correcta": 1
+            },
+            {
+              "pregunta": "¿Qué factor contribuyó a la caída de los Chimú?",
+              "opciones": ["Resistencia y corte de suministros de agua", "Invasión de los incas", "Alianzas con los Huancas", "Conquista por los españoles"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de gobierno tenían los Chincha?",
+              "opciones": ["Talasocracia", "Teocracia", "Monarquía", "República"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué actividades económicas eran destacadas en los Chincha?",
+              "opciones": ["Agricultura intensiva, pesca y comercio triangular", "Pesca y minería", "Comercio con los españoles", "Ganadería de camélidos"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de cerámica era característica de los Chincha?",
+              "opciones": ["Policroma y de cuello largo", "Monocroma", "Cerámica pintada a mano", "Cerámica de tonalidades verdes"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Dónde se ubicaba la cultura Sicán?",
+              "opciones": ["Lambayeque", "Piura", "Cusco", "Puno"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué deidad adoraban los Sicán?",
+              "opciones": ["Naylamp", "Viracocha", "Sol", "Inti"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de arte es destacado en la cultura Sicán?",
+              "opciones": ["Orfebrería", "Cerámica policroma", "Escultura de piedra", "Pinturas rupestres"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de cuchillo ceremonial es característico de los Sicán?",
+              "opciones": ["Tumi", "Pucarás", "Chacra", "Siku"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué factor contribuyó a la caída de la cultura Sicán?",
+              "opciones": ["Fueron conquistados por los Chimú", "Resistencia a los incas", "Invasión de los Chancas", "Alianzas con los españoles"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cómo se originó el Imperio Inca?",
+              "opciones": ["Como un curacazgo en Cuzco", "Como una federación de tribus", "Por la unión de los Chimú y los Chincha", "Por la invasión de los Huancas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de técnicas agrícolas usaban las culturas andinas?",
+              "opciones": ["Control vertical de pisos ecológicos, camellones, andenes, huachaques", "Riego por inundación", "Agricultura extensiva sin uso de terrazas", "Sistemas de monocultivo"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué tipo de arquitectura era característica de los Chachapoyas?",
+              "opciones": ["Construcciones en acantilados y centros urbanos fortificados", "Edificaciones de piedra sin techo", "Piramides de adobe", "Fortalezas subterráneas"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Cuál fue la principal característica de la cerámica en la cultura Chimú?",
+              "opciones": ["Monocromática y utilitaria", "Policroma con figuras geométricas", "Vasijas zoomorfas", "Cerámica decorada con escenas de guerra"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué elementos destacaban en la orfebrería de los Chimú?",
+              "opciones": ["Joyas y adornos de oro", "Hachas de piedra y obsidiana", "Tumi de plata", "Instrumentos musicales de metales"],
+              "correcta": 0
+            },
+            {
+              "pregunta": "¿Qué factor permitió la expansión del Imperio Inca?",
+              "opciones": ["Alianzas con otras culturas", "Conquista por medio de la guerra y la diplomacia", "Desarrollo de nuevas técnicas agrícolas", "Comercio marítimo con otras civilizaciones"],
+              "correcta": 1
+            }
+          ]
+        }
+      ]
+    },
+ {
+  "titulo": "Tema 3: El Tawantinsuyo",
+  "videos": [
+    {
+      "titulo": "3.1 Incas (Origen y expansión)",
+      "youtube_id": "ECa7z5k_jUY",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿De dónde podrían ser descendientes los incas según la teoría del origen Tiahuanaco?",
+          "opciones": ["De los sobrevivientes de Taipicala, la capital de los Tiahuanaco", "De los Huancas", "De los Chancas", "De los Sicán"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué leyenda está relacionada con el origen de los incas?",
+          "opciones": ["La leyenda de Manco Cápac y Mama Ocllo", "La leyenda de Pachacútec y los Pururaucas", "La leyenda de los Chancas", "La leyenda de los Ayarmacas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde se establecieron los incas después de cruzar el lago Titicaca?",
+          "opciones": ["En Acamama (actual Cusco)", "En la ciudad de Chan Chan", "En la región de Ica", "En Tumibamba"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿De qué idioma proviene el término 'Inca'?",
+          "opciones": ["De la lengua puquina", "De la lengua quechua", "De la lengua aimara", "Del idioma español"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué significa la palabra 'Inga' en idioma puquina?",
+          "opciones": ["Jefe", "Dios", "Guerrero", "Líder religioso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era el Inticancha?",
+          "opciones": ["El primer templo al sol", "Un palacio de Pachacútec", "La capital de los incas", "Un centro de producción agrícola"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibió el Inticancha después de ser ampliado?",
+          "opciones": ["Coricancha", "Tampu Tocco", "Machu Picchu", "Sacsayhuamán"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién es considerado el fundador legendario de los incas?",
+          "opciones": ["Manco Cápac", "Pachacútec", "Sinchi Roca", "Huayna Cápac"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué simbolizaba la mascaipacha en la cultura inca?",
+          "opciones": ["El poder del Inca", "La resistencia contra los Chancas", "La expansión del Imperio Inca", "La divinidad del sol"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué función tenía el Huarachico en la sociedad inca?",
+          "opciones": ["Era una prueba de iniciación para los jóvenes", "Era un templo dedicado al dios Sol", "Era una herramienta agrícola", "Era una fortaleza contra los enemigos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pueblo intentó invadir el Cusco durante el gobierno de Inca Huiracocha?",
+          "opciones": ["Los Chancas", "Los Ayarmacas", "Los Huancas", "Los Chimú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la resistencia inca contra los Chancas?",
+          "opciones": ["Cusi Yupanqui (Pachacútec)", "Sinchi Roca", "Huayna Cápac", "Manco Cápac"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamaba la batalla en la que los incas derrotaron a los Chancas?",
+          "opciones": ["La batalla de Yahuarpampa", "La batalla de Sacsayhuamán", "La batalla de Machu Picchu", "La batalla de Tambo de Mora"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el primer inca en usar la mascaipacha?",
+          "opciones": ["Sinchi Roca", "Manco Cápac", "Pachacútec", "Huayna Cápac"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién inició la diarquía en el gobierno inca?",
+          "opciones": ["Inca Roca", "Pachacútec", "Huayna Cápac", "Túpac Yupanqui"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamaba el dios sol de los incas?",
+          "opciones": ["Inti", "Viracocha", "Pachamama", "Túpac Amaru"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué hizo Pachacútec durante su gobierno?",
+          "opciones": ["Inició la expansión del Imperio Inca", "Fundó la ciudad de Machu Picchu", "Consolidó la guerra civil entre Huáscar y Atahualpa", "Abandonó el Cusco para fundar Tumibamba"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el mayor conquistador inca?",
+          "opciones": ["Túpac Yupanqui", "Huayna Cápac", "Pachacútec", "Atahualpa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué territorio llegó a conquistar Túpac Yupanqui?",
+          "opciones": ["Quito y el río Maule", "Piura y Lambayeque", "La costa sur de Perú", "La región del altiplano"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ciudad se convirtió en una segunda capital bajo Huayna Cápac?",
+          "opciones": ["Tumibamba", "Cusco", "Machu Picchu", "Tambo de Mora"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Hasta dónde llegó el Imperio Inca bajo el gobierno de Huayna Cápac?",
+          "opciones": ["Hasta el río Ancasmayo en Colombia", "Hasta el río Maule en Chile", "Hasta el altiplano boliviano", "Hasta la ciudad de Quito"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué estrategia usaban los incas para conquistar otros pueblos?",
+          "opciones": ["Alianzas y guerras", "Solo conquistas militares", "Acuerdos con los pueblos rebeldes", "Negociaciones con los españoles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pasaba si un pueblo rechazaba una alianza con los incas?",
+          "opciones": ["Los incas lo conquistaban militarmente", "Los incas se retiraban pacíficamente", "Los incas ofrecían un trato más favorable", "Los incas enviaban a un emisario para negociar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pasó con los líderes rebeldes durante las conquistas incas?",
+          "opciones": ["Eran ejecutados", "Eran exiliados", "Eran perdonados y reintegrados", "Eran enviados al Cusco como prisioneros"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió tras la muerte de Huayna Cápac?",
+          "opciones": ["Comenzó una guerra civil entre sus hijos Huáscar y Atahualpa", "Los incas expandieron su territorio aún más", "Se estableció un nuevo gobierno con Pachacútec", "Se firmó una alianza con los españoles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué aprovechó los españoles para conquistar el Imperio Inca?",
+          "opciones": ["La guerra civil entre Huáscar y Atahualpa", "Las alianzas con los pueblos rebeldes", "El desinterés de los incas por el oro", "La caída de Tumibamba"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre tenía el Imperio Inca?",
+          "opciones": ["Tahuantinsuyo", "Cuzco", "Machu Picchu", "Inticancha"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué marcó el fin del Imperio Inca?",
+          "opciones": ["La invasión española", "La expansión territorial de los incas", "La unificación de los pueblos bajo Pachacútec", "El fortalecimiento de la religión inca"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "3.2 Incas - Historia del Perú",
+      "youtube_id": "BtghtNOzl3Q",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué cultura existió antes del Imperio Inca?",
+          "opciones": ["Cultura Wari", "Cultura Chimú", "Cultura Chincha", "Cultura Moche"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué período se ubican los Incas según la clasificación de Luis Guillermo Lumbreras y John Rowe?",
+          "opciones": ["Horizonte Tardío", "Horizonte Temprano", "Periodo Intermedio", "Horizonte Medio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cultura destacó en la orfebrería antes del Imperio Inca?",
+          "opciones": ["Cultura Chimú", "Cultura Chancas", "Cultura Chachapoyas", "Cultura Nazca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pueblo se destacó como comerciante y navegante en el Segundo Desarrollo Regional?",
+          "opciones": ["Cultura Chincha", "Cultura Chancas", "Cultura Chimú", "Cultura Moche"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cultura es conocida por ser grandes guerreros antes del Imperio Inca?",
+          "opciones": ["Cultura Chancas", "Cultura Chimú", "Cultura Chachapoyas", "Cultura Nazca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué construcción es destacada de los Chachapoyas?",
+          "opciones": ["Fortaleza de Kuélap", "Tumbas de Karajía", "Pirámides de Túcume", "Templo de Pachacamac"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué área destacó por su arquitectura en la cultura Chachapoyas?",
+          "opciones": ["Fortaleza de Kuélap", "Inti Cancha", "Cora Cora", "Sacsayhuamán"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Hasta qué territorios llegaron a expandirse los Incas?",
+          "opciones": ["Desde Colombia hasta Chile", "Desde Ecuador hasta el río Amazonas", "Desde Bolivia hasta el Ecuador", "Desde Argentina hasta México"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de estructura crearon los Incas a lo largo de su expansión?",
+          "opciones": ["Una estructura panandina", "Una estructura costeña", "Una estructura andina centralizada", "Una estructura amazónica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuáles eran los cuatro suyos en los que estaba dividido el Imperio Inca?",
+          "opciones": ["Chinchaysuyo, Collasuyo, Antisuyo, Contisuyo", "Sicán, Chimú, Ayarmaca, Cuzco", "Mochica, Nazca, Chachapoyas, Inca", "Yauyos, Apurímac, Huancas, Anta"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué área se dedicaba principalmente a la agricultura en el Imperio Inca?",
+          "opciones": ["Chinchaysuyo", "Collasuyo", "Antisuyo", "Contisuyo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región del Imperio Inca se dedicaba a la ganadería?",
+          "opciones": ["Collasuyo", "Chinchaysuyo", "Antisuyo", "Contisuyo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región del Imperio Inca era conocida por su producción de coca?",
+          "opciones": ["Antisuyo", "Chinchaysuyo", "Collasuyo", "Contisuyo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región del Imperio Inca se encontraba en la costa?",
+          "opciones": ["Contisuyo", "Collasuyo", "Chinchaysuyo", "Antisuyo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se conocía al Cusco dentro del Imperio Inca?",
+          "opciones": ["El quinto suyo", "El centro político", "La capital del sol", "El hogar del Inca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de técnicas agrícolas utilizaron los Incas?",
+          "opciones": ["Andenes, Waru Waru y Moray", "Riego por canales y agricultura de terraceo", "Cultivo de arroz y maíz en llanuras", "Técnicas de cultivo en los valles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué eran los andenes en la agricultura incaica?",
+          "opciones": ["Terrazas agrícolas en las laderas de los cerros", "Redes de canales de riego", "Zonas agrícolas en el altiplano", "Túneles subterráneos para cultivos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era el sistema Waru Waru?",
+          "opciones": ["Un sistema de camellones para cultivo en zonas inundables", "Un sistema de canales para el riego de cultivos", "Un sistema de cultivos flotantes en lagos", "Un tipo de semilla mejorada"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica tenía el sistema Moray?",
+          "opciones": ["Terrazas circulares que creaban microclimas", "Cultivos de alta montaña", "Uso de invernaderos subterráneos", "Cultivo de variedades de maíz"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se dividían las tierras en el Imperio Inca?",
+          "opciones": ["Tierra del Inca, tierra del culto, tierra del pueblo", "Tierras de uso agrícola, militar y religioso", "Terrenos de los nobles, campesinos y el Inca", "Zonas para cultivo, pastoreo y rituales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era la máxima autoridad en la sociedad incaica?",
+          "opciones": ["Sapa Inca", "Nobleza", "Ayllu", "Hatun Runas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se clasificaba la nobleza en la sociedad incaica?",
+          "opciones": ["Nobleza de sangre, nobleza advenediza, nobleza de privilegio", "Nobleza de oro, nobleza de plata, nobleza de piedra", "Nobleza local, nobleza imperial, nobleza territorial", "Nobleza política, religiosa, económica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué unidad social básica existía en la sociedad incaica?",
+          "opciones": ["Ayllu", "Hatun Runas", "Nobleza", "Yanaconas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibían los campesinos en la sociedad incaica?",
+          "opciones": ["Hatun Runas", "Ayllus", "Nobles", "Yanaconas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quiénes eran los yanaconas?",
+          "opciones": ["Sirvientes del estado", "Miembros de la nobleza", "Artistas y artesanos", "Sacerdotes de los dioses"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de religión practicaban los Incas?",
+          "opciones": ["Politeísta", "Monoteísta", "De la naturaleza", "Ateísta"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué dios incaico era el más importante?",
+          "opciones": ["Inti", "Pachamama", "Illapa", "Quilla"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ritual incaico consistía en el sacrificio de niños?",
+          "opciones": ["Capacocha", "Cajamarca", "Ayni", "Huarachico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de arquitectura destacaron los Incas?",
+          "opciones": ["Civil, militar y religiosa", "Gótica y medieval", "Barroca y renacentista", "Romana y griega"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál es la obra más grande de la arquitectura civil incaica?",
+          "opciones": ["Machu Picchu", "Sacsayhuamán", "Ollantaytambo", "Coricancha"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sitio incaico es conocido por su arquitectura militar?",
+          "opciones": ["Sacsayhuamán", "Machu Picchu", "Puma Punku", "Kuelap"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde se encontraba el Templo del Sol o Coricancha?",
+          "opciones": ["En Cusco", "En Machu Picchu", "En Ayacucho", "En Arequipa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A quién estaba reservada la educación en el Imperio Inca?",
+          "opciones": ["A la nobleza", "A los hatun runas", "A los yanaconas", "A todos por igual"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "3.3 Invasión al Tahuantinsuyo",
+      "youtube_id": "ppk9ArL8FRs",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién fue el líder de la expedición española que conquistó el Tahuantinsuyo?",
+          "opciones": ["Diego de Almagro", "Francisco Pizarro", "Hernando de Luque", "Cristóbal Colón"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué objetivo principal buscaban los españoles al llegar al Tahuantinsuyo?",
+          "opciones": ["Expandir el cristianismo", "Enriquecerse a través de la explotación de recursos", "Explorar nuevas tierras", "Crear alianzas con pueblos indígenas"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué año firmaron Pizarro, Almagro y Luque el Contrato de Panamá?",
+          "opciones": ["1524", "1532", "1500", "1540"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región del mundo exploraron los españoles antes de llegar al Perú?",
+          "opciones": ["México", "Caribe", "Centroamérica", "Asia"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál fue la principal motivación ideológica de la invasión española al Tahuantinsuyo?",
+          "opciones": ["Expandir el cristianismo", "Explorar nuevas tierras", "Crear imperios coloniales", "Buscar la paz con los pueblos indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién perdió un ojo durante el primer viaje de Pizarro?",
+          "opciones": ["Francisco Pizarro", "Diego de Almagro", "Hernando de Luque", "Felipillo"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué metales preciosos confirmaron los españoles en su segundo viaje al Perú?",
+          "opciones": ["Oro y plata", "Cobre y hierro", "Oro y cobre", "Plata y plomo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ciudad fundó Pizarro en su tercer viaje al Perú?",
+          "opciones": ["Lima", "San Miguel de Piura", "Cusco", "Tumbes"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Dónde ocurrió la famosa Batalla de Cajamarca?",
+          "opciones": ["Cajamarca", "Cusco", "Piura", "Tumbes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ofreció Atahualpa como rescate por su libertad?",
+          "opciones": ["Un cuarto lleno de oro y dos de plata", "Cientos de mujeres y oro", "La mitad del imperio inca", "Territorios en el sur del Tahuantinsuyo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factor contribuyó a la ventaja de los españoles sobre los incas durante la conquista?",
+          "opciones": ["Superioridad tecnológica", "Número de soldados", "Terreno favorable", "Unión de todas las etnias incas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acontecimiento marcó un punto de inflexión en la invasión española?",
+          "opciones": ["La Batalla de Cajamarca", "La llegada de Hernán Cortés", "La firma del Contrato de Panamá", "La fundación de Lima"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el hermano de Atahualpa que luchó por el control del imperio inca?",
+          "opciones": ["Huáscar", "Manco Inca", "Túpac Amaru", "Sacsayhuamán"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Con qué pueblos locales se alió Pizarro durante la invasión?",
+          "opciones": ["Tallanes y huancas", "Aztecas y mayas", "Chancas y chimú", "Chachapoyas y chincha"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué enfermedad trajeron los europeos que afectó gravemente a los indígenas?",
+          "opciones": ["Viruela", "Malaria", "Peste bubónica", "Cólera"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué técnica utilizó Pizarro para generar confusión entre los incas?",
+          "opciones": ["Se presentó como aliado de los huascaristas", "Les ofreció oro", "Prometió la liberación de Atahualpa", "Destruyó la fortaleza de Cusco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibió el nuevo dominio español en el Tahuantinsuyo tras la invasión?",
+          "opciones": ["Virreinato del Perú", "Reino de España", "Imperio Inca", "Reino del Oro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema impuesto por los españoles obligaba a los indígenas a trabajar para los conquistadores?",
+          "opciones": ["Encomienda", "Mita", "Tributo", "Repartimiento"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué papel jugó la Iglesia Católica durante la invasión española?",
+          "opciones": ["Imponer el cristianismo", "Apoyar a los pueblos indígenas", "Destruir la cultura europea", "Proteger a los nativos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión indígena casi expulsó a los españoles del Cusco?",
+          "opciones": ["Gran Rebelión de Manco Inca", "Rebelión de Túpac Amaru", "Rebelión de Huáscar", "Rebelión de Atahualpa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué se logró en la Capitulación de Toledo (1529)?",
+          "opciones": ["El respaldo oficial de la corona española a Pizarro", "La firma del contrato de Panamá", "La liberación de Atahualpa", "El reconocimiento de Huáscar como líder"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué fecha se produjo la ejecución de Atahualpa?",
+          "opciones": ["1533", "1532", "1540", "1529"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica de la guerra civil inca facilitó la invasión española?",
+          "opciones": ["La división entre Huáscar y Atahualpa", "La unión de todos los pueblos incas", "La debilidad de los ejércitos incas", "La falta de recursos en el imperio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamó la capital del imperio Inca?",
+          "opciones": ["Cusco", "Piura", "Tumbes", "Lima"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue una de las principales consecuencias de la invasión española?",
+          "opciones": ["La caída del Tahuantinsuyo", "La expansión de la cultura inca", "La independencia de las regiones incas", "La creación de nuevas alianzas con otras culturas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué técnica militar utilizada por los españoles les dio ventaja sobre los incas?",
+          "opciones": ["Uso de caballos y armas de fuego", "Formación en línea recta", "Uso de guerreros nativos", "Tácticas de guerrilla"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué exploradores españoles participaron en la conquista del Tahuantinsuyo?",
+          "opciones": ["Francisco Pizarro, Diego de Almagro y Hernando de Luque", "Hernán Cortés, Francisco de Orellana y Diego de Almagro", "Juan Ponce de León, Francisco Pizarro y Hernán Cortés", "Cristóbal Colón, Diego de Almagro y Hernán Cortés"],
+          "correcta": 0
         }
       ]
     }

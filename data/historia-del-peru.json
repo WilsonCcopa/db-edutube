@@ -3505,6 +3505,651 @@
           "pregunta": "¿Qué evento dejó al Perú con una crisis económica tras la Guerra del Pacífico?",
           "opciones": ["La pérdida de Tarapacá", "La invasión chilena a Lima", "La destrucción de las haciendas azucareras", "La disolución del Congreso"],
           "correcta": 2
+}
+          ]
+        }
+      ]
+    },
+    {
+  "titulo": "Tema 7: República Aristocrática al Reformismo Moderno",
+  "videos": [
+    {
+      "titulo": "7.1 La república aristocrática",
+      "youtube_id": "bSiy6yo0AJ0",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo se llama el periodo histórico de la República del Perú en el que un grupo de familias tiene el control político, económico y social?",
+          "opciones": ["República aristocrática", "República democrática", "República militar", "República oligárquica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién es el historiador que nombró a este periodo como la 'República aristocrática'?",
+          "opciones": ["Jorge Basadre", "Manuel Pardo", "José Carlos Mariátegui", "Ramón Castilla"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué periodo de tiempo abarca la República aristocrática?",
+          "opciones": ["1899-1919", "1900-1920", "1883-1900", "1895-1915"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué gobierno marca el inicio de la República aristocrática según algunos libros?",
+          "opciones": ["Gobierno de Nicolás de Piérola", "Gobierno de Augusto Leguía", "Gobierno de José Pardo", "Gobierno de Guillermo Billinghurst"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió después de la Guerra del Pacífico en el contexto político del Perú?",
+          "opciones": ["Se inició la reconstrucción nacional", "Se proclamó la República democrática", "Se instauró el militarismo", "Comenzó el periodo de las reformas liberales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida adoptó Nicolás de Piérola para reactivar la economía peruana tras la Guerra del Pacífico?",
+          "opciones": ["Fomentó la agroexportación", "Promovió el sistema de tierras comunales", "Aumentó los impuestos a las tierras", "Reformó la educación pública"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente marcó el fin de la República aristocrática en 1919?",
+          "opciones": ["Augusto Leguía", "José Pardo", "Manuel A. Odría", "Guillermo Billinghurst"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llama el periodo en el que Augusto Leguía gobernó de manera autoritaria durante la República aristocrática?",
+          "opciones": ["El Oncenio", "El Cincuentenario", "La Dictadura", "El Segundo Militarismo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué conflicto mundial comenzó en 1914 que afectó indirectamente al Perú?",
+          "opciones": ["Primera Guerra Mundial", "Guerra Civil Española", "Guerra de los Balcanes", "Segunda Guerra Mundial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo social dominó económicamente durante la República aristocrática?",
+          "opciones": ["La oligarquía terrateniente", "La clase obrera", "La clase media", "Los militares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de producción dominaba la oligarquía terrateniente en la costa peruana?",
+          "opciones": ["La agroexportación", "La minería", "La industria textil", "La pesca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué productos fueron exportados por la oligarquía terrateniente durante la República aristocrática?",
+          "opciones": ["Caña de azúcar y algodón", "Cobre y plata", "Café y cacao", "Petróleo y gas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamaban los terratenientes que controlaban tierras en la sierra del Perú?",
+          "opciones": ["Gamonales", "Latifundistas", "Haciendados", "Caudillos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de explotación existía en las tierras de los gamonales en la sierra?",
+          "opciones": ["Explotación feudal", "Explotación capitalista", "Explotación democrática", "Explotación socialista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de recursos minerales eran explotados por el capital inglés en el Perú durante la República aristocrática?",
+          "opciones": ["El cobre", "El oro", "La plata", "El hierro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué recurso natural de la selva peruana fue explotado durante este periodo?",
+          "opciones": ["Caucho", "Petróleo", "Azúcar", "Lana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político fue fundado por Manuel Pardo y Lavalle y representaba a las familias oligárquicas durante la República aristocrática?",
+          "opciones": ["Partido Civil", "Partido Liberal", "Partido Demócrata", "Partido Militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde se reunían los oligarcas de Lima durante la República aristocrática?",
+          "opciones": ["Club Unión", "Club de la Prensa", "Club Nacional", "Club Social"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de sociedad existía en el Perú durante la República aristocrática?",
+          "opciones": ["Una sociedad jerárquica y excluyente", "Una sociedad igualitaria", "Una sociedad democrática", "Una sociedad capitalista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamaba la ideología que influenció a la clase obrera en las ciudades durante la República aristocrática?",
+          "opciones": ["Anarquismo", "Liberalismo", "Socialismo", "Comunismo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué lucha promovían los obreros durante la República aristocrática?",
+          "opciones": ["Por las 8 horas laborales", "Por la abolición de la propiedad privada", "Por la nacionalización de la minería", "Por la independencia política"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "7.2 El Oncenio",
+      "youtube_id": "RQgkRhXiY24",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién propuso la teoría del origen autóctono del hombre americano?",
+          "opciones": ["Florentino Ameghino", "Paul Rivet", "Alex Hrdlicka", "Mendes Correa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año Florentino Ameghino planteó su teoría del origen autóctono?",
+          "opciones": ["1869", "1900", "1943", "1920"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué teoría sostiene que los primeros pobladores de América llegaron desde Asia?",
+          "opciones": ["Teoría Asiática", "Teoría Oceánica", "Teoría Australiana", "Teoría Autóctona"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué período histórico precede al Oncenio de Leguía en la historia del Perú?",
+          "opciones": ["República Aristocrática", "República Oligárquica", "República Militar", "República Liberal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo llegó Leguía al poder en 1919?",
+          "opciones": ["Mediante un golpe de Estado", "Por elecciones democráticas", "Por nombramiento presidencial", "Tras la renuncia de Sánchez Cerro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué prometió Leguía al asumir la presidencia en 1919?",
+          "opciones": ["Un 'Perú Nuevo' y una 'Patria Nueva'", "Una reforma agraria profunda", "El regreso de los militares al poder", "Una revolución socialista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo económico tenía Leguía durante el Oncenio?",
+          "opciones": ["Desarrollar el capitalismo en el Perú", "Fomentar la agricultura", "Aumentar la producción minera", "Descentralizar el poder económico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué país proporcionó préstamos al Perú durante el Oncenio para financiar obras públicas?",
+          "opciones": ["Estados Unidos", "Inglaterra", "Alemania", "Francia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de obras públicas se construyeron durante el Oncenio?",
+          "opciones": ["Avenidas, palacios y plazas", "Carreteras y ferrocarriles", "Escuelas y hospitales", "Puertos y aeropuertos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué empresa extranjera recibió contratos ventajosos durante el gobierno de Leguía?",
+          "opciones": ["Cerro de Pasco Corporation", "Petroperú", "BHP Billiton", "Cementos Lima"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acuerdo le dio a la IPC control sobre el suelo petrolero de La Brea y Pariñas?",
+          "opciones": ["El Laudo de París", "El Tratado de Lima", "El Tratado Salomón-Lozano", "El Acuerdo de Tacna"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida adoptó Leguía para controlar a las clases sociales en el Perú?",
+          "opciones": ["Construcción de infraestructura", "Expropiación de tierras", "Ley de Aguas", "Reformas laborales"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Cómo favoreció Leguía a la clase media durante el Oncenio?",
+          "opciones": ["Les otorgó viviendas en distritos como Jesús María", "Les dio tierras en la sierra", "Les ofreció préstamos baratos", "Les exoneró de impuestos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué derecho otorgó Leguía a los obreros durante su gobierno?",
+          "opciones": ["Las 8 horas laborales", "El derecho a la huelga", "El derecho a formar sindicatos", "El voto universal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley obligaba a los varones a trabajar gratuitamente en la construcción de carreteras?",
+          "opciones": ["Ley de Conscripción Vial", "Ley de Aguas", "Ley de Protección al Trabajo", "Ley de Reformas Sociales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de dictadura implementó Leguía durante el Oncenio?",
+          "opciones": ["Dictadura civil", "Dictadura militar", "Dictadura totalitaria", "Monarquía constitucional"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué constitución promulgó Leguía en 1920?",
+          "opciones": ["Constitución de 1920", "Constitución de 1930", "Constitución de 1900", "Constitución de 1912"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político fue fundado por Víctor Raúl Haya de la Torre durante el Oncenio?",
+          "opciones": ["APRA", "Partido Socialista", "Partido Comunista", "Partido Democrático"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué propuesta defendía el APRA durante el Oncenio?",
+          "opciones": ["Reforma agraria y nacionalización de empresas", "Monopolio estatal de la minería", "Autarquía económica y militar", "Descentralización del poder"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué conflicto limítrofe fue resuelto con el Tratado Salomón-Lozano en 1922?",
+          "opciones": ["Conflicto con Colombia sobre el Trapecio Amazónico", "Conflicto con Chile sobre Tacna y Arica", "Conflicto con Ecuador sobre la frontera amazónica", "Conflicto con Brasil sobre el río Amazonas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué resolución trajo consigo la devolución de Tacna al Perú en 1929?",
+          "opciones": ["Tratado de Lima", "Tratado Salomón-Lozano", "Tratado de Paz de 1904", "Laudo de París"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento externo afectó económicamente al Perú durante el Oncenio?",
+          "opciones": ["El Crack de 1929", "La Primera Guerra Mundial", "La Guerra del Pacífico", "La Revolución Mexicana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factor interno contribuyó a la caída del Oncenio?",
+          "opciones": ["La crisis económica y las protestas sociales", "La lucha por la reforma agraria", "La resistencia de los gamonales", "La falta de inversión extranjera"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "7.3 Ochenio",
+      "youtube_id": "-gwJ6Z0tZkM",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Cómo llegó Odría al poder en 1948?",
+          "opciones": ["Mediante un golpe de Estado", "Por elecciones democráticas", "Por nombramiento presidencial", "A través de una revuelta popular"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué período fue finalizado con el golpe de Estado de Odría?",
+          "opciones": ["La Primavera Democrática", "La República Aristocrática", "La Revolución Mexicana", "El Oncenio de Leguía"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de gobierno se terminó con la Revolución Restauradora?",
+          "opciones": ["Gobierno democrático", "Gobierno militar", "Gobierno populista", "Gobierno dictatorial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medidas económicas adoptó el gobierno de Bustamante y Rivero que perjudicaron a la oligarquía?",
+          "opciones": ["Políticas intervencionistas y proteccionistas", "Políticas de liberalización del mercado", "Políticas de apertura comercial", "Políticas de privatización de empresas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A qué grupo representó Odría durante la Revolución Restauradora?",
+          "opciones": ["A la oligarquía peruana", "A los trabajadores", "A los indígenas", "A los militares reformistas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué modelo económico implementó Odría tras su golpe de Estado?",
+          "opciones": ["Un modelo económico liberal", "Un modelo socialista", "Un modelo intervencionista", "Un modelo de autarquía económica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la Misión Klein que asesoró el gobierno de Odría?",
+          "opciones": ["Julius Klein", "John Keynes", "Paul Samuelson", "Friedrich Hayek"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento internacional contribuyó al auge de las exportaciones peruanas durante el gobierno de Odría?",
+          "opciones": ["La Guerra de Corea", "La Segunda Guerra Mundial", "La Guerra Civil Española", "La Revolución Rusa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué gran obra pública fue construida durante el gobierno de Odría?",
+          "opciones": ["El Estadio Nacional", "El Palacio de Gobierno", "El Congreso de la República", "El Museo de la Nación"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué proyecto educativo fue iniciado por Odría pero terminado por Fernando Belaúnde Terry?",
+          "opciones": ["La Ciudad Universitaria de San Marcos", "La Universidad Nacional Mayor de San Marcos", "La Escuela Militar", "La Universidad Tecnológica del Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley restringió las libertades civiles y prohibió las protestas durante el gobierno de Odría?",
+          "opciones": ["La Ley de Seguridad Interior", "La Ley de Libertad de Expresión", "La Ley de Reforma Agraria", "La Ley de Autonomía Universitaria"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el principal responsable de la represión durante el gobierno de Odría?",
+          "opciones": ["Alejandro Esparza Zañartu", "Manuel A. Odría", "Juan Velasco Alvarado", "Ramón Castilla"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué derecho otorgó Odría a las mujeres en las elecciones de 1956?",
+          "opciones": ["El derecho al voto", "El derecho a postularse como candidatas", "El derecho a ejercer cargos públicos", "El derecho a la educación superior"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué requisito se pidió a las mujeres para votar en las elecciones de 1956?",
+          "opciones": ["Ser alfabetas", "Tener más de 30 años", "Ser mayores de 18 años", "Pertenecer a una clase social alta"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido fue legalizado tras las elecciones de 1956?",
+          "opciones": ["El Partido Aprista Peruano", "El Partido Comunista Peruano", "El Partido Socialista", "El Partido Liberal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién ganó las elecciones de 1956, después del gobierno de Odría?",
+          "opciones": ["Manuel Prado Ugarteche", "José Luis Bustamante y Rivero", "Víctor Raúl Haya de la Torre", "Fernando Belaúnde Terry"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acuerdo se estableció entre Odría y el APRA en las elecciones de 1956?",
+          "opciones": ["Los apristas votarían por Prado a cambio de la legalización del APRA", "Los apristas no votarían por Prado", "Odría cedía el poder al APRA", "Prado otorgaba impunidad a Odría"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió con las acusaciones de corrupción contra Odría después de las elecciones de 1956?",
+          "opciones": ["Odría obtuvo impunidad por sus actos de gobierno", "Odría fue juzgado por corrupción", "Odría renunció debido a las acusaciones", "Odría fue encarcelado por sus actos de corrupción"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se describe el gobierno de Odría?",
+          "opciones": ["Pan sin libertad", "Paz y prosperidad", "Revolución social", "Gobierno de reformas agrarias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector económico se benefició principalmente con las políticas de Odría?",
+          "opciones": ["La oligarquía y los exportadores", "Los trabajadores y obreros", "El sector agrícola", "El sector de la pesca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambio en la política social de Odría favoreció a los trabajadores?",
+          "opciones": ["Leyes a favor de la indemnización por despido y vacaciones", "Ley de reforma agraria", "Derechos para la sindicalización", "Establecimiento de salarios mínimos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se relaciona el gobierno de Odría con la oligarquía?",
+          "opciones": ["Odría representaba sus intereses", "Odría luchó contra sus intereses", "Odría buscó reformas agrarias", "Odría combatió el poder de las grandes familias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de régimen se instauró durante el gobierno de Odría?",
+          "opciones": ["Dictadura militar", "Democracia representativa", "Monarquía constitucional", "Gobierno socialista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué características tuvo el gobierno de Odría respecto a las libertades civiles?",
+          "opciones": ["Represión y falta de libertades", "Democracia y libertad de expresión", "Plena participación política", "Derechos humanos garantizados"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo describió el gobierno de Odría el período que sucedió a la Revolución Restauradora?",
+          "opciones": ["Como un 'pan sin libertad'", "Como una democracia plena", "Como un gobierno de reformas", "Como una dictadura opresiva"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector de la sociedad fue especialmente perseguido durante el gobierno de Odría?",
+          "opciones": ["Los opositores políticos", "Los empresarios extranjeros", "Los indígenas", "Los campesinos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué obra pública fue significativa durante el gobierno de Odría?",
+          "opciones": ["El Hospital Rebagliati", "El Palacio de Justicia", "El Banco Central de Reserva", "El Congreso de la República"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "7.4 La Primavera Democrática, El Ochenio, La convivencia Falaz",
+      "youtube_id": "FPjgRdx7tx0",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién fue el presidente de Perú durante la Revolución Restauradora?",
+          "opciones": ["Manuel Prado", "José Luis Bustamante y Rivero", "Odría", "Fernando Belaúnde Terry"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿En qué año comenzó el gobierno de Manuel Prado Ugarteche en su segundo mandato?",
+          "opciones": ["1956", "1950", "1962", "1948"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento terminó con la Primavera Democrática en 1948?",
+          "opciones": ["Golpe de estado de Odría", "Revolución de 1962", "La caída de Haya de la Torre", "La Revolución Cubana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibe el periodo de gobierno de Odría entre 1948 y 1956?",
+          "opciones": ["Ochenio de Odría", "Gobierno de la Oligarquía", "Gobierno Militar", "Primavera Democrática"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo político fue legalizado durante el segundo gobierno de Manuel Prado?",
+          "opciones": ["Partido Comunista", "Partido Aprista Peruano", "Partido Popular Cristiano", "Partido Nacionalista Peruano"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué fue la Alianza para el Progreso?",
+          "opciones": ["Un acuerdo entre países latinoamericanos para la cooperación económica", "Una propuesta para reformas agrarias en Perú", "Una reforma educativa de la década de 1950", "Una alianza militar entre Perú y EE. UU."],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué contexto internacional se desarrolla el gobierno de Manuel Prado?",
+          "opciones": ["La Revolución Cubana", "La Segunda Guerra Mundial", "La Guerra de Vietnam", "La Guerra Fría"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Quién lideró la Revolución Cubana que tuvo impacto en América Latina durante los años 50?",
+          "opciones": ["Fidel Castro", "Juan Domingo Perón", "Raúl Haya de la Torre", "Carlos Mariátegui"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política implementó Manuel Prado para el desarrollo industrial en Perú?",
+          "opciones": ["Ley de Promoción Industrial", "Ley de Reforma Agraria", "Política de Economía Planificada", "Alianza Popular Revolucionaria Americana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue el Bumpesquero durante el gobierno de Manuel Prado?",
+          "opciones": ["Un complejo industrial para la minería", "Un programa de educación técnica", "Una iniciativa para promover la harina de pescado", "Una industria pesquera dirigida por el estado"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Quién fue el ministro de Economía durante el segundo gobierno de Manuel Prado?",
+          "opciones": ["Pedro Beltrán", "Julius Klein", "Alejandro Esparza Zañartu", "Luis Felipe de la Fuente"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue el Instituto de Reforma Agraria y Colonización durante el gobierno de Prado?",
+          "opciones": ["Una institución que entregó tierras a los campesinos", "Un programa de educación para trabajadores rurales", "Un organismo encargado de estudiar el problema agrario", "Una institución que expropió tierras a la oligarquía"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Qué líder campesino lideró la toma de tierras en el gobierno de Manuel Prado?",
+          "opciones": ["Hugo Blanco", "Juan José Flores", "Carlos Mariátegui", "Luis Felipe de la Fuente"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acontecimiento ocurrió durante las elecciones de 1962 en Perú?",
+          "opciones": ["Ningún candidato alcanzó la mayoría de votos", "Manuel Prado fue reelegido presidente", "Haya de la Torre asumió el poder", "El APRA alcanzó la mayoría absoluta"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió después de que ninguno de los candidatos alcanzara la mayoría de votos en 1962?",
+          "opciones": ["El Congreso eligió al presidente", "Se realizaron nuevas elecciones", "El Comando Conjunto de las Fuerzas Armadas dio un golpe de estado", "Se declaró el estado de emergencia"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Qué fue el Comando Conjunto de las Fuerzas Armadas?",
+          "opciones": ["Una institución militar que impulsó reformas", "Un grupo de oficiales que apoyaban la legalidad del gobierno de Prado", "Una junta militar que gobernó tras el golpe de 1962", "Una organización paramilitar creada por el APRA"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Qué significó el golpe de estado de 1962 en Perú?",
+          "opciones": ["El fin del gobierno de la oligarquía", "La toma del poder por parte del Comando Conjunto de las Fuerzas Armadas", "La instauración de una dictadura de derecha", "El inicio de reformas agrarias masivas"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué objetivo tenía la Alianza para el Progreso de John F. Kennedy?",
+          "opciones": ["Apoyar el capitalismo y evitar el avance de ideas comunistas en América Latina", "Promover la reforma agraria en América Latina", "Aumentar las inversiones extranjeras en América Latina", "Fomentar la independencia económica de los países latinoamericanos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo político liderado por Víctor Raúl Haya de la Torre participó en la alianza con la oligarquía en el gobierno de Prado?",
+          "opciones": ["APRA", "Partido Comunista Peruano", "Partido Nacionalista Peruano", "Acción Popular"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector se benefició principalmente con el modelo económico del gobierno de Manuel Prado?",
+          "opciones": ["La oligarquía industrial", "Los campesinos", "Los trabajadores urbanos", "La clase media"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambios sociales ocurrieron durante el gobierno de Manuel Prado?",
+          "opciones": ["La migración hacia las ciudades y la creación de barrios marginales", "La mejora de las condiciones laborales en el campo", "La instauración de nuevas políticas sociales para los indígenas", "El aumento de las luchas sindicales en las fábricas"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "7.5 Gobierno de la FF.AA",
+      "youtube_id": "z11o1TMQ3hs",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué periodo en Perú se conoce como la 'Convivencia'?",
+          "opciones": ["1956-1962", "1963-1968", "1945-1955", "1968-1980"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político se alió con el gobierno de Manuel Prado durante la 'Convivencia'?",
+          "opciones": ["Partido Comunista Peruano", "Partido Nacionalista Peruano", "APRA", "Acción Popular"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Qué nombre recibe el pacto entre el APRA y el gobierno de Manuel Prado en 1956?",
+          "opciones": ["Pacto de Monterrico", "Pacto de Lima", "Alianza Popular Revolucionaria Americana", "Pacto de Santa Rosa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue uno de los objetivos principales del Pacto de Monterrico?",
+          "opciones": ["Evitar la persecución del APRA", "Impulsar una reforma agraria", "Fortalecer las relaciones con Cuba", "Derrocar a Manuel A. Odría"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió en el APRA tras el Pacto de Monterrico?",
+          "opciones": ["Se unificó el partido", "Se produjo una división y formación de grupos disidentes", "El APRA fue ilegalizado nuevamente", "Haya de la Torre fue destituido"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué grupo disidente del APRA se convirtió más tarde en el Movimiento de Izquierda Revolucionaria (MIR)?",
+          "opciones": ["APRA Rebelde", "Partido Comunista", "Frente Obrero", "Alianza Popular Revolucionaria Americana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué impacto tuvo la Revolución Cubana de 1959 en América Latina?",
+          "opciones": ["Fortaleció el capitalismo en la región", "Inspiró a movimientos revolucionarios en varios países", "Causó una alianza entre Estados Unidos y los gobiernos de izquierda", "No tuvo mayor repercusión en la política latinoamericana"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué política promovió Estados Unidos en América Latina para evitar revoluciones como la cubana?",
+          "opciones": ["La cooperación económica y social", "La intervención militar directa", "El aislamiento económico", "El apoyo a dictaduras militares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector de la economía peruana experimentó un auge durante el segundo gobierno de Manuel Prado?",
+          "opciones": ["Pesca", "Agricultura", "Minería", "Industria textil"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué producto convirtió a Perú en el principal exportador mundial durante el segundo gobierno de Prado?",
+          "opciones": ["Harina de pescado", "Azúcar", "Café", "Minerales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fenómeno ocurrió en Perú durante el gobierno de Manuel Prado relacionado con la migración?",
+          "opciones": ["Un aumento de la migración rural a las ciudades", "Una disminución en el número de migrantes", "Un éxodo de peruanos hacia Estados Unidos", "La emigración hacia Europa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento reflejó el creciente descontento social en las zonas rurales durante el gobierno de Prado?",
+          "opciones": ["La toma de tierras en la sierra", "El aumento de protestas sindicales", "La creación de nuevas barriadas en Lima", "La fundación de nuevos partidos políticos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió en las elecciones de 1962 en Perú?",
+          "opciones": ["Ningún candidato obtuvo el tercio de votos necesario", "Haya de la Torre fue elegido presidente", "Fernando Belaúnde Terry fue elegido presidente", "Odría regresó al poder"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué institución intentó elegir al presidente en 1962 tras las elecciones fallidas?",
+          "opciones": ["El Congreso", "La Corte Suprema", "Las Fuerzas Armadas", "La Asamblea Constituyente"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo tomó el poder tras la crisis política de 1962 en Perú?",
+          "opciones": ["Las Fuerzas Armadas", "El Partido Comunista Peruano", "El APRA", "Los sectores conservadores del Congreso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la Junta Militar que gobernó Perú en 1962?",
+          "opciones": ["Juan Velasco Alvarado", "Manuel A. Odría", "Luis Felipe de la Fuente", "Alfredo Ybarnegaray"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente fue elegido en 1963 después del golpe militar de 1962?",
+          "opciones": ["Fernando Belaúnde Terry", "Manuel Prado", "Haya de la Torre", "Juan Velasco Alvarado"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué caracterizó al primer gobierno de Fernando Belaúnde Terry?",
+          "opciones": ["El impulso de una reforma agraria", "El fortalecimiento de la oligarquía", "El inicio de un proceso de nacionalización de la industria", "La creación de una dictadura militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué bloque político se opuso a la reforma agraria durante el gobierno de Belaúnde?",
+          "opciones": ["La coalición conservadora entre el APRA y los odriístas", "El Partido Comunista Peruano", "Los militares de la Junta de 1962", "Acción Popular"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué programa implementó Belaúnde que permitía a las comunidades locales construir infraestructura?",
+          "opciones": ["Cooperación Popular", "Promoción de la Agricultura", "Progreso Local", "Construcción Comunal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué escándalo de corrupción afectó al gobierno de Belaúnde en 1968?",
+          "opciones": ["El escándalo de la Página 11", "El contrato de armas con el gobierno de Estados Unidos", "La compra ilegal de terrenos en la sierra", "La evasión de impuestos por parte de la elite empresarial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué desencadenó el golpe de Estado de 1968 en Perú?",
+          "opciones": ["El escándalo de la Página 11", "La caída de Belaúnde en las encuestas", "Un golpe de la coalición del APRA y los odriístas", "La crisis económica de 1968"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reforma intentó implementar el gobierno militar de Juan Velasco Alvarado después del golpe de 1968?",
+          "opciones": ["La Reforma Agraria", "La reforma educativa", "La reforma laboral", "La reforma industrial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nacionalizó el gobierno de Juan Velasco Alvarado?",
+          "opciones": ["Industrias clave", "La minería", "El sistema financiero", "Las empresas extranjeras"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuánto duró el gobierno militar de Juan Velasco Alvarado en Perú?",
+          "opciones": ["12 años", "8 años", "16 años", "5 años"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué lema guiaba las reformas del gobierno de Juan Velasco Alvarado?",
+          "opciones": ["Revolución en marcha", "Perú primero", "Por un Perú justo", "Poder al pueblo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factor fue clave en el ascenso de las Fuerzas Armadas al poder en 1968?",
+          "opciones": ["El descontento con la falta de reformas", "La creciente corrupción en el gobierno de Belaúnde", "La derrota electoral del APRA", "La intervención de Estados Unidos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambió en el contexto político de Perú con el golpe de Estado de 1968?",
+          "opciones": ["El inicio de un régimen militar y la implementación de reformas radicales", "El regreso de Manuel Prado al poder", "La legalización del APRA", "El retorno de la democracia inmediata"],
+          "correcta": 0
         }
         ]
       }

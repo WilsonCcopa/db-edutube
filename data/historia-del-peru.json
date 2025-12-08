@@ -1572,6 +1572,566 @@
           ]
         }
       ]
+    },
+    {
+  "titulo": "Tema 4: Establecimiento del orden virreinal",
+  "videos": [
+    {
+      "titulo": "4.1 Virreinato del Perú - V1",
+      "youtube_id": "ZXLyGRcS2XQ",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién promulgó las Nuevas Leyes de 1542?",
+          "opciones": ["Carlos I de España", "Felipe II", "Fernando de Aragón", "Isabel la Católica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era el principal objetivo de las Nuevas Leyes de 1542?",
+          "opciones": ["Proteger a los indígenas", "Fortalecer el poder de los encomenderos", "Mejorar la economía", "Aumentar la producción minera"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué se prohibió con las Nuevas Leyes de 1542?",
+          "opciones": ["El servicio personal de los indígenas", "El comercio con otros países", "Las encomiendas hereditarias", "La explotación minera"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión se produjo como consecuencia de las Nuevas Leyes?",
+          "opciones": ["Rebelión de Gonzalo Pizarro", "Rebelión de Tupac Amaru", "Rebelión de Manco Inca", "Rebelión de los Comuneros"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año tuvo lugar la Batalla de Jaquijahuana?",
+          "opciones": ["1548", "1532", "1600", "1580"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién implementó las Reformas Toledanas?",
+          "opciones": ["Francisco de Toledo", "Diego de Almagro", "Antonio de Mendoza", "Gonzalo Pizarro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida consistió en agrupar a la población indígena en pueblos para su control?",
+          "opciones": ["Reducciones indígenas", "Mita minera", "Yanaconaje", "Secularización"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuántas reducciones indígenas se establecieron durante las reformas de Toledo?",
+          "opciones": ["Más de 600", "Más de 300", "Más de 1000", "Más de 200"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué es la mita minera?",
+          "opciones": ["Trabajo obligatorio en las minas", "Impuesto en dinero", "Tierra para los yanaconas", "Sueldo para los indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tributo debían pagar los indígenas según las Reformas Toledanas?",
+          "opciones": ["Tributo monetario", "Tributo en trabajo", "Tributo en tierras", "Tributo en especies"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué función tenía el yanaconaje?",
+          "opciones": ["Trabajo en haciendas", "Trabajo en minas", "Trabajo en la agricultura", "Trabajo en el comercio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambio hizo Francisco de Toledo en la Universidad de San Marcos?",
+          "opciones": ["La secularizó", "La cerró", "La abrió a todos los pueblos", "La privatizó"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué institución organizaba el comercio en el Perú durante la época colonial?",
+          "opciones": ["El Tribunal del Consulado de Lima", "El Virreinato del Perú", "La Casa de la Moneda", "El Tribunal Real de Indias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué puerto se concentraba el comercio colonial entre América y España?",
+          "opciones": ["Sevilla", "Veracruz", "Lima", "Buenos Aires"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tratado permitió a Inglaterra comerciar con América?",
+          "opciones": ["Tratado de Utrecht", "Tratado de Tordesillas", "Tratado de París", "Tratado de Ryswick"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley permitió abrir más puertos para el comercio colonial?",
+          "opciones": ["Ley de Libre Comercio", "Ley de Navegación", "Ley de Reforma Comercial", "Ley de Flotas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué significaba la República de Indios?",
+          "opciones": ["Población indígena organizada en reducciones", "Población de mestizos", "Población blanca de América", "Población esclava"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema de trabajo en las minas obligaba a los indígenas a trabajar un año cada siete?",
+          "opciones": ["La mita minera", "El yanaconaje", "La encomienda", "El trabajo forzoso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era la Casa de Moneda de Potosí?",
+          "opciones": ["Un lugar donde se acuñaba moneda", "Una mina de plata", "Un mercado colonial", "Un centro de comercio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué método de refinación de la plata se utilizaba antes del mercurio?",
+          "opciones": ["El uso de guairas", "El uso de agua", "El uso de carbón", "El uso de oxígeno"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuándo fue fundada la Universidad de San Marcos?",
+          "opciones": ["1551", "1600", "1492", "1621"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el primer rector laico de la Universidad de San Marcos?",
+          "opciones": ["Gaspar de Meneses", "Fray Tomás de San Martín", "Francisco de Toledo", "Diego de Almagro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué significa la palabra 'Rímac'?",
+          "opciones": ["Hablador", "Rápido", "Montaña", "Agua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién era el dios asociado a las lluvias torrenciales?",
+          "opciones": ["Pariacaca", "Inti", "Viracocha", "Pachamama"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era el spondylus?",
+          "opciones": ["Un molusco", "Un tipo de planta", "Un mineral", "Un animal terrestre"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué símbolo se utilizaba para indicar cambios en la temperatura del mar?",
+          "opciones": ["El spondylus", "La llama", "El jaguar", "El cóndor"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año se firmó el Tratado de Utrecht?",
+          "opciones": ["1713", "1600", "1800", "1750"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era el principal objetivo del monopolio comercial español?",
+          "opciones": ["Controlar el comercio con las colonias", "Facilitar el comercio con otros países", "Expandir el mercado de productos", "Reducir el costo del comercio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué eran las encomiendas?",
+          "opciones": ["Un sistema de trabajo forzoso", "Un sistema de intercambio comercial", "Un tipo de tributo indígena", "Una forma de propiedad territorial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién envió a España a pedir la fundación de la Universidad de San Marcos?",
+          "opciones": ["Fray Tomás de San Martín", "Gaspar de Meneses", "Francisco de Toledo", "Diego de Almagro"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "4.2 El Virreinato - V2",
+      "youtube_id": "f3kBF7E7jSU",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué año se estableció el Virreinato del Perú?",
+          "opciones": ["1542", "1532", "1569", "1581"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la conquista del Imperio Inca que dio paso al establecimiento del Virreinato del Perú?",
+          "opciones": ["Francisco Pizarro", "Diego de Almagro", "Gonzalo Pizarro", "Pedro de Valdivia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento motivó la creación del Virreinato del Perú?",
+          "opciones": ["La caída del Tahuantinsuyo", "La independencia de Perú", "La llegada de los conquistadores", "El establecimiento de la primera universidad"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién promulgó las Nuevas Leyes de Indias en 1542?",
+          "opciones": ["Carlos I de España", "Felipe II", "Isabel la Católica", "Fernando de Aragón"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió con Blasco Núñez Vela, el primer virrey del Perú?",
+          "opciones": ["Fue asesinado", "Fue desterrado", "Fue depuesto", "Se fugó a España"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el virrey que consolidó el Virreinato del Perú mediante reformas?",
+          "opciones": ["Francisco de Toledo", "Diego de Almagro", "Pedro de la Gasca", "Gonzalo Pizarro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema centralizaba el poder en el Virreinato del Perú?",
+          "opciones": ["La figura del virrey", "La figura del cabildo", "Las audiencias", "El sistema de encomiendas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era la función de las audiencias en el Virreinato del Perú?",
+          "opciones": ["Funciones judiciales y administrativas", "Control de la economía", "Enseñanza religiosa", "Gobernar los corregimientos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué eran los corregimientos en el Virreinato del Perú?",
+          "opciones": ["Divisiones territoriales gobernadas por corregidores", "Regiones dedicadas a la minería", "Zonas para la agricultura", "Lugares para el comercio internacional"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué función tenían los cabildos en las ciudades del Virreinato del Perú?",
+          "opciones": ["Gobernar a los pueblos y ciudades", "Administrar las encomiendas", "Proveer alimentos para los colonos", "Regular el comercio con España"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la principal actividad económica del Virreinato del Perú?",
+          "opciones": ["Minería", "Comercio", "Agricultura", "Ganadería"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde se encontraba la mina de plata más importante del Virreinato del Perú?",
+          "opciones": ["Cerro de Potosí", "Huancavelica", "Cuzco", "Arequipa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema de trabajo obligatorio reclutaba a los indígenas para las minas?",
+          "opciones": ["La mita minera", "El yanaconaje", "La encomienda", "El trabajo forzoso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué actividad comercial estaba monopolizada por España en el Virreinato del Perú?",
+          "opciones": ["El comercio con América", "El comercio con Europa", "El comercio de plata", "El comercio de algodón"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué puerto peruano era importante para el comercio colonial?",
+          "opciones": ["El Callao", "Lima", "Trujillo", "Iquitos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué puerto de Panamá era clave para el comercio colonial del Virreinato del Perú?",
+          "opciones": ["Portobelo", "Veracruz", "Buenos Aires", "Havanna"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué actividad económica se desarrolló secundariamente en el Virreinato del Perú?",
+          "opciones": ["Agricultura y ganadería", "Pesca", "Comercio internacional", "Fabricación de textiles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cultivos europeos fueron introducidos en el Virreinato del Perú?",
+          "opciones": ["Trigo, vid y olivo", "Café y cacao", "Maíz y patata", "Banano y tabaco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo social en el Virreinato del Perú ocupaba los cargos más altos en la administración?",
+          "opciones": ["Españoles peninsulares", "Criollos", "Mestizos", "Indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quiénes eran los criollos en el Virreinato del Perú?",
+          "opciones": ["Hijos de españoles nacidos en América", "Indígenas que adoptaron el cristianismo", "Españoles nacidos en España", "Africanos esclavizados"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo social ocupaba un lugar intermedio en la jerarquía social del Virreinato del Perú?",
+          "opciones": ["Mestizos", "Españoles peninsulares", "Criollos", "Indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quiénes eran los indígenas en la sociedad del Virreinato del Perú?",
+          "opciones": ["La población nativa sometida a trabajos forzados", "Hijos de esclavos africanos", "Inmigrantes europeos", "Colonos españoles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué papel jugó la Iglesia Católica en el Virreinato del Perú?",
+          "opciones": ["Central en la colonización y control social", "Fundadora de universidades", "Controladora del comercio", "Aliada de los indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quiénes fueron los encargados de evangelizar a los indígenas en el Virreinato del Perú?",
+          "opciones": ["Frailes y misioneros", "Gobernadores coloniales", "Esclavos africanos", "Mestizos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era la extirpación de idolatrías en el Virreinato del Perú?",
+          "opciones": ["Campañas para erradicar las creencias religiosas indígenas", "Prácticas para enseñar cristianismo a los mestizos", "Acciones para controlar el comercio ilícito", "Intentos por reducir el contrabando"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué universidad fue fundada en 1551 y es la más antigua de América?",
+          "opciones": ["Universidad Nacional Mayor de San Marcos", "Universidad de Cuzco", "Universidad de Lima", "Universidad de Arequipa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión indígena fue una de las más grandes contra el dominio español en el Virreinato del Perú?",
+          "opciones": ["Rebelión de Túpac Amaru II", "Rebelión de los Comuneros", "Rebelión de Manco Inca", "Rebelión de los Quilmes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde resistieron los incas hasta 1572?",
+          "opciones": ["Vilcabamba", "Potosí", "Lima", "Cuzco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué dejó el Virreinato del Perú como legado en la región?",
+          "opciones": ["Estructura social jerárquica y cultura mestiza", "Independencia política", "Centralismo democrático", "Desarrollo de industrias modernas"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "4.3 Origen del Virreinato",
+      "youtube_id": "QoBWDH1vFnI",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quiénes fueron los primeros gobernadores del territorio peruano tras la conquista?",
+          "opciones": ["Francisco Pizarro y Diego de Almagro", "Gonzalo Pizarro y Pedro de la Gasca", "Blasco Núñez Vela y Francisco de Toledo", "Carlos I de España y Felipe II"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué conflicto enfrentó a Francisco Pizarro y Diego de Almagro?",
+          "opciones": ["Guerras civiles por el poder y riquezas", "Batallas con los aztecas", "Conflictos con los indígenas", "Rebelión de los encomenderos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo murió Francisco Pizarro?",
+          "opciones": ["Fue asesinado por los almagristas", "Fue ejecutado por orden del rey", "Murió en combate contra los incas", "Fue exiliado a España"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue lo que ocurrió con Diego de Almagro?",
+          "opciones": ["Fue ejecutado por orden de Pizarro", "Fue desterrado por la corona", "Murió de causas naturales", "Fue asesinado por los incas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo tenían las Nuevas Leyes de Indias de 1542?",
+          "opciones": ["Proteger a los indígenas y limitar el poder de los encomenderos", "Fomentar el comercio con las colonias", "Establecer un sistema de tributos", "Reforzar el poder de los conquistadores"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el primer virrey del Perú?",
+          "opciones": ["Blasco Núñez Vela", "Francisco de Toledo", "Pedro de la Gasca", "Gonzalo Pizarro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió con Blasco Núñez Vela tras su llegada al Perú?",
+          "opciones": ["Fue asesinado por los encomenderos", "Fue desterrado a España", "Renunció tras las rebeliones", "Fue arrestado por la Corona"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la rebelión de los encomenderos?",
+          "opciones": ["Gonzalo Pizarro", "Pedro de la Gasca", "Francisco Pizarro", "Francisca Pizarro Yupanqui"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acción emprendió Pedro de la Gasca contra los encomenderos?",
+          "opciones": ["Logró derrotarlos en la batalla de Jaquijahuana", "Formó una alianza con Gonzalo Pizarro", "Reforzó el poder de los encomenderos", "Desterró a los líderes de la rebelión"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió con Gonzalo Pizarro tras la rebelión?",
+          "opciones": ["Fue ejecutado", "Fue exiliado a España", "Fue perdonado por el rey", "Renunció a sus cargos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién consolidó el Virreinato del Perú tras la rebelión de los encomenderos?",
+          "opciones": ["Francisco de Toledo", "Diego de Almagro", "Carlos I de España", "Pedro de la Gasca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reformas implementó Francisco de Toledo en el Virreinato del Perú?",
+          "opciones": ["Reducciones y la mita minera", "Fortalecimiento del sistema de encomiendas", "Apertura de nuevas rutas comerciales", "Eliminación de la estructura jerárquica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era la encomienda en el sistema colonial?",
+          "opciones": ["Un sistema en el que los conquistadores recibían indígenas para protegerlos y evangelizarlos", "Un sistema de tributación de los indígenas", "Una red de comercio entre España y las colonias", "Un sistema militar de defensa de las fronteras"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué intentaron lograr las Nuevas Leyes de Indias con respecto a los indígenas?",
+          "opciones": ["Protegerlos de abusos y explotación", "Fomentar su integración en la sociedad europea", "Convertirlos en fuerza laboral gratuita", "Desaparecer sus costumbres y religiones"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la principal consecuencia de las Nuevas Leyes de Indias?",
+          "opciones": ["La rebelión de los encomenderos", "La instauración del sistema de mita minera", "El establecimiento de nuevas gobernaciones", "La independencia de Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué logró el rey Carlos I de España tras la rebelión de los encomenderos?",
+          "opciones": ["Imponer su autoridad y establecer el virreinato", "Promover un sistema de comercio libre", "Expandir las gobernaciones", "Consolidar una alianza con los encomenderos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue la mita minera?",
+          "opciones": ["Un sistema de trabajo forzoso en las minas", "Un sistema de protección de los indígenas", "Un impuesto sobre la minería", "Un sistema de pagos para los encomenderos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué personaje fue un defensor de los derechos de los indígenas?",
+          "opciones": ["Bartolomé de las Casas", "Francisco de Toledo", "Pedro de la Gasca", "Gonzalo Pizarro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué postura defendió Bartolomé de las Casas sobre la encomienda?",
+          "opciones": ["Pidió su eliminación y protección de los indígenas", "Defendió su ampliación", "Abogó por su extensión en las colonias", "Apoyó su mantenimiento por el bien del reino"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué propósito tenía el sistema de encomienda?",
+          "opciones": ["Proteger y evangelizar a los indígenas a cambio de tributos", "Establecer la nobleza española en el Perú", "Crear un sistema de castas en la sociedad colonial", "Regular la educación de los indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se organizaba el poder en el Virreinato del Perú tras su consolidación?",
+          "opciones": ["A través del virrey y las audiencias", "Mediante un sistema feudal", "Con la participación de los encomenderos", "Por medio de los cabildos locales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue lo que llevó a Francisco Pizarro a ejecutar a Diego de Almagro?",
+          "opciones": ["Conflictos por el control territorial", "Ambiciones políticas y personales", "Desacuerdos sobre la distribución de riquezas", "Rebeldía de los indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué intentó hacer Pedro de la Gasca para resolver la rebelión?",
+          "opciones": ["Imponer el control real sobre las fuerzas de los encomenderos", "Aliarse con los líderes de la rebelión", "Crear un nuevo sistema de gobierno", "Reforzar el poder de los encomenderos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pasó con la hija de Francisco Pizarro, Francisca Pizarro Yupanqui?",
+          "opciones": ["Fue llevada a España para evitar que fuera utilizada políticamente", "Se convirtió in virreina del Perú", "Falleció en el Perú durante la rebelión", "Se quedó en el Perú y asumió cargos importantes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de poder político se consolidó en el Virreinato del Perú?",
+          "opciones": ["El poder absoluto del virrey", "El poder compartido entre el rey y los encomenderos", "El poder de las audiencias judiciales", "El poder de los cabildos locales"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "4.4 Virreinato del Perú - Teoria 2",
+      "youtube_id": "t3aBRF1Mu-w",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién era el encargado de cobrar el tributo a los indios en los corregimientos del Virreinato del Perú?",
+          "opciones": ["El virrey", "El corregidor", "El alcalde", "El intendente"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué función principal tenía el corregidor en el Virreinato del Perú?",
+          "opciones": ["Cobrar el tributo", "Organizar la mita", "Supervisar la minería", "Todas las anteriores"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Qué era la mita en el Virreinato del Perú?",
+          "opciones": ["Trabajo obligatorio en las minas", "Un tipo de impuesto", "Un sistema de distribución de tierras", "Un cargo político"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Por qué los corregidores eran odiados por los indios en la colonia?",
+          "opciones": ["Por obligarlos a trabajar en la mita", "Por cobrarles el tributo", "Por obligarlos a comprar productos innecesarios", "Todas las anteriores"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Qué se buscaba lograr al eliminar los corregimientos en el Virreinato del Perú?",
+          "opciones": ["Descentralizar la administración", "Calmar a los indios y evitar rebeliones", "Establecer nuevas leyes", "Introducir el sistema de intendencias"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué institución reemplazó a los corregimientos tras las rebeliones indígenas?",
+          "opciones": ["Las intendencias", "Los cabildos", "La real audiencia", "La mita"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué era el objetivo principal de las intendencias en el Virreinato del Perú?",
+          "opciones": ["Cobrar el tributo", "Organizar la mita", "Impartir justicia", "Distribuir productos mercantiles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuáles son algunas de las intendencias creadas en el Virreinato del Perú?",
+          "opciones": ["Tarma, Trujillo, Arequipa", "Huancavelica, Lima, Puno", "Cuzco, Puno, Tarma", "Todas las anteriores"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Qué función cumplían los cabildos en el Virreinato del Perú?",
+          "opciones": ["Cobrar impuestos", "Administrar el orden en la ciudad", "Ejercer funciones judiciales", "Controlar la mita"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cómo se llamaba el jefe del ayllu bajo la administración española?",
+          "opciones": ["Curaca", "Cacique", "Gobernador", "Intendente"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué papel desempeñaba el cacique en la relación entre los indios y los españoles?",
+          "opciones": ["Intermediario", "Ejecutor de la mita", "Juez local", "Administrador de los tributos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué privilegios mantenía el cacique bajo el dominio español?",
+          "opciones": ["No tributar", "Ser educado en castellano", "No trabajar en la mita", "Todas las anteriores"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Quién fue uno de los caciques más famosos durante la colonia?",
+          "opciones": ["José Gabriel Condorcanqui", "Túpac Amaru I", "Atahualpa", "Manco Inca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué eran las reducciones en el contexto colonial?",
+          "opciones": ["Lugares donde los indios eran obligados a vivir", "Sistemas de trabajo para la mita", "Reformas administrativas", "Instituciones religiosas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Por qué se crearon las reducciones en el Virreinato del Perú?",
+          "opciones": ["Para facilitar el cobro del tributo", "Para organizar mejor a los pueblos indígenas", "Para controlar la población indígena", "Todas las anteriores"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Qué tipo de institución era el 'barayo' en la colonia?",
+          "opciones": ["Alcalde de indios", "Corregidor", "Intendente", "Cacique"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué papel desempeñaban los visitadores en la colonia?",
+          "opciones": ["Supervisar la administración colonial", "Cobrar tributos", "Ejercer funciones judiciales", "Administrar los cabildos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue un visitador famoso durante la rebelión de Túpac Amaru II?",
+          "opciones": ["Visitador Areche", "Visitador Pizarro", "Visitador Arriaga", "Visitador Condorcanqui"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué diferencia había entre los cabildos abiertos y cerrados?",
+          "opciones": ["En los cerrados solo participaban los regidores", "En los abiertos todos los vecinos podían participar", "En los abiertos solo participaba el alcalde", "En los cerrados participaban los corregidores"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál era la función principal de los cabildos en el Virreinato del Perú?",
+          "opciones": ["Cobrar impuestos", "Mantener el orden urbano", "Impartir justicia", "Supervisar la mita"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué institución del Virreinato del Perú se mantuvo hasta la actualidad como la municipalidad?",
+          "opciones": ["Los cabildos", "Las intendencias", "La real audiencia", "La mita"],
+          "correcta": 0
+        }
+      ]
     }
   ]
 }

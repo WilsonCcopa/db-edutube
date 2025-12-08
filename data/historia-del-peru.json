@@ -4151,6 +4151,636 @@
           "opciones": ["El inicio de un régimen militar y la implementación de reformas radicales", "El regreso de Manuel Prado al poder", "La legalización del APRA", "El retorno de la democracia inmediata"],
           "correcta": 0
         }
+          ]
+        }
+      ]
+    },
+    {
+  "titulo": "Tema 8: Perú en las Últimas Décadas",
+  "videos": [
+    {
+      "titulo": "8.1 Gobierno Revolucionario de las Fuerzas Armadas",
+      "youtube_id": "mFmYp8V0LFg",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué evento motivó el golpe de Estado de 1968 en Perú?",
+          "opciones": ["El escándalo de la Página 11", "La falta de reformas agrarias", "La creciente inflación", "La crisis minera"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró el golpe de Estado de 1968 en Perú?",
+          "opciones": ["Juan Velasco Alvarado", "Francisco Morales Bermúdez", "Manuel A. Odría", "Fernando Belaúnde Terry"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué documento reemplazó la Constitución de 1933 tras el golpe de Estado de 1968?",
+          "opciones": ["Estatuto Revolucionario", "Constitución de 1979", "Declaración de Derechos Humanos", "Plan de Gobierno Militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era el objetivo principal del Plan Inca implementado tras el golpe de 1968?",
+          "opciones": ["Implementar un capitalismo de Estado", "Promover el capitalismo libre de mercado", "Reducir la deuda externa", "Fomentar la cooperación internacional"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué empresa fue nacionalizada por el gobierno de Velasco el 9 de octubre de 1968?",
+          "opciones": ["IPC (International Petroleum Company)", "Electroperú", "Pescaperú", "Centromín Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nuevo nombre recibió la empresa nacionalizada IPC en 1968?",
+          "opciones": ["Petroperú", "Electroperú", "Centromín", "PescaPerú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué indemnización pagó Perú a la IPC tras su nacionalización?",
+          "opciones": ["76 millones de dólares", "100 millones de dólares", "50 millones de dólares", "200 millones de dólares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley fue promulgada en 1969 como parte de la reforma agraria?",
+          "opciones": ["Ley 17716", "Ley 12345", "Ley 25678", "Ley 29876"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida fue tomada durante la reforma agraria de Velasco?",
+          "opciones": ["Expropiación de grandes haciendas", "Nacionalización de tierras", "Construcción de nuevas haciendas", "Reforma en la distribución de tierras urbanas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de organización se formó en la reforma agraria para los trabajadores de las haciendas?",
+          "opciones": ["Cooperativas Agrarias (CAP)", "Partidos políticos", "Comités de Lucha", "Sindicato Nacional de Trabajadores"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue uno de los fracasos de la reforma agraria?",
+          "opciones": ["La mala administración y quiebra de muchas haciendas", "La eliminación de la propiedad privada", "La falta de cooperativas agrícolas", "La falta de apoyo del gobierno"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política económica promovió el gobierno de Velasco relacionada con la industria?",
+          "opciones": ["Industrialización por sustitución de importaciones (ISI)", "Desregulación de la industria", "Privatización de las industrias", "Apertura a la economía global"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida de protección económica se implementó en Perú durante el gobierno de Velasco?",
+          "opciones": ["Altos aranceles a productos extranjeros", "Apertura total al comercio internacional", "Reducción de impuestos a las importaciones", "Eliminación de barreras arancelarias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política laboral implementó el gobierno de Velasco en relación con las empresas?",
+          "opciones": ["Los trabajadores debían tener el 50% de las acciones y participar en las utilidades", "La estatalización de todas las empresas", "La eliminación de sindicatos", "La privatización de las empresas estatales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué impacto tuvo la política laboral del gobierno de Velasco en los empresarios?",
+          "opciones": ["Generó desconfianza, muchos prefirieron invertir en el extranjero", "Fomentó la inversión empresarial nacional", "Mejoró la relación con las empresas extranjeras", "Aumentó la productividad en las empresas nacionales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de empresas fueron estatizadas durante el gobierno de Velasco?",
+          "opciones": ["Empresas estratégicas como Electroperú y Centromín", "Grandes cadenas comerciales", "Pequeñas empresas de alimentos", "Empresas extranjeras no relacionadas con recursos naturales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué símbolo cultural promovió Velasco en lugar de símbolos occidentales?",
+          "opciones": ["El Niño Manuelito en lugar del Niño Jesús", "La Virgen María en lugar de la Virgen de Guadalupe", "La bandera del Tahuantinsuyo", "El sol de los incas en lugar del sol de la República"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de censura se implementó durante el gobierno de Velasco?",
+          "opciones": ["Una censura moralista en los medios de comunicación", "Una censura económica en la industria", "Una censura política a los opositores", "Una censura internacional a las noticias extranjeras"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue una de las consecuencias económicas del gobierno de Velasco?",
+          "opciones": ["Inflación, desempleo y escasez de alimentos", "Reducción de la deuda externa", "Crecimiento del PIB", "Aumento de las exportaciones agrícolas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué revuelta social ocurrió en febrero de 1975 en Perú?",
+          "opciones": ["El Limaso", "El Tacnazo", "La Revolución de los Trabajadores", "El Congreso del Pueblo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento interno ocurrió el 29 de agosto de 1975, que destituyó a Velasco?",
+          "opciones": ["El Tacnazo", "La Revolución de los Estudiantes", "La Marcha de los Obreros", "La Huelga Nacional"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró el golpe de Estado interno que destituyó a Velasco en 1975?",
+          "opciones": ["Francisco Morales Bermúdez", "Manuel A. Odría", "Luis Felipe de la Fuente", "José López Sánchez"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambio de rumbo adoptó Morales Bermúdez tras asumir el poder en 1975?",
+          "opciones": ["Políticas económicas más conservadoras", "Reformas radicales", "Mayor apertura a la democracia", "Expulsión de las fuerzas militares del gobierno"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué recomendación siguió Morales Bermúdez del Fondo Monetario Internacional (FMI)?",
+          "opciones": ["Medidas de austeridad, como reducción de subsidios y congelamiento de salarios", "Reformas agrarias", "Industrialización masiva", "Privatización de empresas estatales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué institución fue convocada en 1978 por Morales Bermúdez?",
+          "opciones": ["Una Asamblea Constituyente", "Un Congreso Nacional de Reformas", "Un Comité de Defensa Nacional", "Un Consejo Popular"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué constitución fue redactada por la Asamblea Constituyente de 1978?",
+          "opciones": ["La Constitución de 1979", "La Constitución de 1980", "La Constitución de 1968", "La Constitución de 1993"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento político marcó el fin del gobierno militar en 1980?",
+          "opciones": ["Las elecciones generales ganadas por Fernando Belaúnde Terry", "El golpe de Estado de Morales Bermúdez", "La creación de la Constitución de 1980", "El retorno del Partido Comunista al poder"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué legado dejó el gobierno militar de Velasco en Perú?",
+          "opciones": ["Avances en justicia social, pero con fracasos económicos", "Reformas democráticas profundas", "Una economía más abierta al mercado global", "La disolución del sistema de clases sociales"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "8.2 Segundo Gobierno de Belaunde 1980 - 1985",
+      "youtube_id": "hI7uAY-dWpA",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué años tuvo lugar el segundo gobierno de Fernando Belaúnde Terry?",
+          "opciones": ["1980-1985", "1975-1980", "1985-1990", "1970-1975"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué gobierno precedió al segundo gobierno de Belaúnde?",
+          "opciones": ["Una dictadura militar", "El primer gobierno de Alan García", "El primer gobierno de Belaúnde", "El gobierno de Fujimori"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuánto tiempo duró la dictadura militar previa al segundo gobierno de Belaúnde?",
+          "opciones": ["12 años", "10 años", "15 años", "8 años"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué general lideró parte del gobierno militar previo a Belaúnde?",
+          "opciones": ["Juan Velasco Alvarado", "Francisco Morales Bermúdez", "Manuel A. Odría", "Luis Miguel Sánchez Cerro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué simbolizó el segundo gobierno de Belaúnde?",
+          "opciones": ["El retorno a la democracia", "La caída del socialismo", "La industrialización del Perú", "El inicio de la reforma agraria"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica social marcó el segundo gobierno de Belaúnde?",
+          "opciones": ["Grandes migraciones de la sierra a la costa", "Disminución del desempleo", "Reforma agraria exitosa", "Aumento de la población rural"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué promesa electoral caracterizó al gobierno de Belaúnde?",
+          "opciones": ["Crear un millón de empleos", "Eliminar la deuda externa", "Nacionalizar empresas extranjeras", "Construir un ferrocarril transcontinental"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de gobierno se asocia con el segundo mandato de Belaúnde?",
+          "opciones": ["Populista", "Autoritario", "Socialista", "Monárquico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué organización internacional influyó en las políticas económicas de Belaúnde?",
+          "opciones": ["Fondo Monetario Internacional (FMI)", "Banco Mundial", "Unión Europea", "Naciones Unidas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política económica promovió el FMI durante el gobierno de Belaúnde?",
+          "opciones": ["Exportación de materias primas", "Industrialización nacional", "Aumento del gasto público", "Nacionalización de empresas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué materias primas destacaron en las exportaciones durante el gobierno de Belaúnde?",
+          "opciones": ["Petróleo y cobre", "Oro y plata", "Caña de azúcar y algodón", "Carbón y gas natural"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fenómeno climático afectó gravemente al Perú en 1983?",
+          "opciones": ["El fenómeno El Niño", "La sequía de los Andes", "El huracán Katrina", "La tormenta de los Andes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué consecuencias económicas tuvo el fenómeno El Niño en 1983?",
+          "opciones": ["Destrucción de la pesca y la agricultura", "Incremento de las exportaciones", "Reactivación de la industria nacional", "Reducción de la inflación"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué programa social fue creado durante esta época para apoyar a la población vulnerable?",
+          "opciones": ["El vaso de leche", "Juntos", "Pensión 65", "Techo Propio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué término describe la economía que sigue las recomendaciones del FMI?",
+          "opciones": ["Ortodoxia económica", "Economía proteccionista", "Economía socialista", "Economía comunitaria"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué crisis económica mundial afectó al gobierno de Belaúnde en 1982?",
+          "opciones": ["La crisis de la deuda latinoamericana", "La crisis del petróleo", "La Gran Depresión", "La crisis del euro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió en el mercado internacional durante el gobierno de Belaúnde?",
+          "opciones": ["Disminuyó la demanda de materias primas", "Aumentó la exportación de productos industriales", "Se nacionalizaron las empresas mineras", "El FMI canceló todas las deudas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector de la población se vio más afectado por la crisis económica?",
+          "opciones": ["La población urbana", "La población rural", "Los empresarios extranjeros", "Los funcionarios públicos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fenómeno social se incrementó en Lima durante el gobierno de Belaúnde?",
+          "opciones": ["El trabajo informal", "El empleo estatal", "La reducción del desempleo", "El aumento de las industrias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué relación económica marcó el segundo gobierno de Belaúnde con Estados Unidos?",
+          "opciones": ["Dependencia económica", "Nacionalización de empresas norteamericanas", "Ruptura de relaciones comerciales", "Alianza socialista"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "8.3 Gobierno de Fujimori",
+      "youtube_id": "8sPn9_pK8UQ",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué año fue elegido Alberto Fujimori como presidente del Perú?",
+          "opciones": ["1990", "1985", "1995", "2000"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el principal rival de Fujimori en las elecciones de 1990?",
+          "opciones": ["Mario Vargas Llosa", "Alan García", "Luis Bedoya Reyes", "Valentín Paniagua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el lema de campaña de Fujimori en 1990?",
+          "opciones": ["Honradez, Tecnología y Trabajo", "Paz y Desarrollo", "Cambio con Justicia Social", "Orden y Progreso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo fue percibido Fujimori durante las elecciones de 1990?",
+          "opciones": ["Como un outsider", "Como un político tradicional", "Como un empresario exitoso", "Como un militar retirado"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué contribuyó a la simpatía inicial hacia Fujimori debido a su origen?",
+          "opciones": ["El éxito económico de Japón", "Su experiencia militar", "Su relación con Estados Unidos", "Su postura socialista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factores desprestigiaron a los partidos tradicionales antes de las elecciones de 1990?",
+          "opciones": ["Corrupción y mala gestión económica", "Falta de candidatos carismáticos", "Aislamiento internacional", "Poca participación electoral"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué crisis económica heredó Fujimori al asumir el poder?",
+          "opciones": ["Hiperinflación y deuda externa", "Déficit fiscal y desempleo masivo", "Escasez de alimentos y energía", "Desindustrialización y fuga de capitales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida económica radical implementó Fujimori en 1990?",
+          "opciones": ["Un shock económico", "Una reforma agraria", "La nacionalización de bancos", "La creación de un sistema de subsidios"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué efecto tuvo el shock económico en los precios?",
+          "opciones": ["Aumentaron drásticamente", "Se mantuvieron estables", "Disminuyeron ligeramente", "Fluctuaron sin control"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el impacto social del shock económico de Fujimori?",
+          "opciones": ["Empobreció a la clase media y aumentó la pobreza", "Mejoró las condiciones laborales", "Redujo la brecha económica", "Favoreció el crecimiento industrial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué moneda reemplazó al Inti durante el gobierno de Fujimori?",
+          "opciones": ["El Nuevo Sol", "El Sol de Oro", "El Peso", "El Austral"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué modelo económico adoptó Fujimori?",
+          "opciones": ["Neoliberal", "Socialista", "Proteccionista", "Corporativista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica tuvo el modelo neoliberal de Fujimori?",
+          "opciones": ["Promoción del libre mercado", "Aumento del gasto público", "Protección a las industrias locales", "Nacionalización de recursos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué empresa fue privatizada exitosamente durante el gobierno de Fujimori?",
+          "opciones": ["La Compañía Peruana de Teléfonos", "Petroperú", "Sedapal", "Electroperú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector fue afectado por la apertura comercial?",
+          "opciones": ["Los textiles de Gamarra", "La minería", "La banca", "El sector automotriz"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué efecto tuvo la flexibilización laboral durante el gobierno de Fujimori?",
+          "opciones": ["Reducción de la estabilidad laboral", "Aumento de los derechos laborals", "Reducción del desempleo", "Fortalecimiento de los sindicatos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley ayudó a desarticular grupos terroristas?",
+          "opciones": ["La Ley de Arrepentimiento", "La Ley de Seguridad Nacional", "La Ley de Defensa Popular", "La Ley Antisubversiva"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibieron los grupos armados rurales organizados contra el terrorismo?",
+          "opciones": ["Comités de Autodefensa (CAD)", "Brigadas Antiterroristas", "Fuerzas Patrióticas", "Milicias Populares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué líder terrorista fue capturado por el GEIN?",
+          "opciones": ["Abimael Guzmán", "Víctor Polay", "Osmán Morote", "Edith Lagos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué operación militar rescató a los rehenes de la Embajada de Japón?",
+          "opciones": ["Operación Chavín de Huántar", "Operación Libertad", "Operación Victoria", "Operación Resolución"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acción marcó el inicio del autoritarismo de Fujimori?",
+          "opciones": ["El autogolpe de 1992", "La reforma constitucional", "La intervención en las universidades", "El cierre de los medios de comunicación"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué organismo de inteligencia estuvo involucrado en actos de corrupción durante el gobierno de Fujimori?",
+          "opciones": ["El SIN (Servicio de Inteligencia Nacional)", "La DINCOTE", "La ONPE", "La PNP"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el asesor de Fujimori relacionado con actos de corrupción?",
+          "opciones": ["Vladimiro Montesinos", "Carlos Boloña", "Nicolás Hermoza Ríos", "Jaime Yoshiyama"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo militar estuvo involucrado en violaciones a los derechos humanos?",
+          "opciones": ["El Grupo Colina", "La DIRCOTE", "El Ejército de la Nación", "La Guardia Republicana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tratados firmó Fujimori con Ecuador?",
+          "opciones": ["El Acta de Brasilia", "El Acuerdo de Tiwinza", "El Tratado de Lima", "El Pacto de Paz Andina"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué territorio se cedió a Ecuador tras el tratado de paz?",
+          "opciones": ["Tiwinza", "Zarumilla", "Tumbes", "Loja"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué logros económicos tuvo Fujimori?",
+          "opciones": ["Estabilización de la economía y control de la hiperinflación", "Nacionalización de recursos y reducción del déficit fiscal", "Crecimiento del empleo público", "Reducción de impuestos a las exportaciones"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector fue modernizado tras la privatización de empresas estatales?",
+          "opciones": ["Telecomunicaciones", "Energía", "Transporte", "Educación"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue un aspecto negativo del gobierno de Fujimori?",
+          "opciones": ["Violaciones a los derechos humanos", "Fortalecimiento de los sindicatos", "Nacionalización de empresas", "Aislamiento internacional"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "8.4 Presidentes del Perú - Siglo XXI",
+      "youtube_id": "5Se0IhkY5Hk",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué fecha juramentó Alberto Fujimori para su tercer período presidencial?",
+          "opciones": ["28 de julio de 2000", "28 de julio de 1995", "28 de julio de 1990", "26 de julio de 2000"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento marcó la oposición a la reelección de Fujimori en el año 2000?",
+          "opciones": ["Marcha de los Cuatro Suyos", "Captura de Montesinos", "Renuncia de Fujimori", "Indulto a Fujimori"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo renunció Alberto Fujimori a la presidencia?",
+          "opciones": ["Por fax", "Por carta", "En una conferencia de prensa", "No renunció, fue destituido"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político lideró el gobierno de transición tras la renuncia de Fujimori?",
+          "opciones": ["Acción Popular", "Partido Aprista", "Perú Posible", "Fuerza Popular"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el escándalo principal que implicó a Vladimiro Montesinos?",
+          "opciones": ["Compra de congresistas", "Tráfico de armas", "Corrupción en las licitaciones", "Indulto a narcotraficantes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién asumió la presidencia tras el gobierno de transición?",
+          "opciones": ["Alejandro Toledo", "Alan García", "Ollanta Humala", "Pedro Pablo Kuczynski"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política económica caracterizó el gobierno de Alejandro Toledo?",
+          "opciones": ["Neoliberalismo", "Intervencionismo estatal", "Socialismo del siglo XXI", "Aislamiento económico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué obra de infraestructura importante inició durante el gobierno de Toledo?",
+          "opciones": ["Carretera Transoceánica", "Línea 1 del Metro de Lima", "Parque de las Aguas", "Aeropuerto Internacional Jorge Chávez"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué país fue detenido Alberto Fujimori en 2005?",
+          "opciones": ["Chile", "Japón", "Estados Unidos", "España"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tratado económico impulsó Toledo con Estados Unidos?",
+          "opciones": ["TLC con Estados Unidos", "Unión Aduanera Andina", "Acuerdo de Integración Pacífico-Atlántico", "TLC con Europa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente implementó la Ley de Consulta Previa?",
+          "opciones": ["Ollanta Humala", "Alan García", "Alejandro Toledo", "Pedro Pablo Kuczynski"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento económico mundial afectó al segundo gobierno de Alan García?",
+          "opciones": ["Crisis financiera de 2008", "Caída de los precios del petróleo", "Burbuja inmobiliaria global", "Recesión económica de Asia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué bloque económico promovió Alan García durante su segundo gobierno?",
+          "opciones": ["Alianza del Pacífico", "UNASUR", "MERCOSUR", "OPEP"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cumbre internacional se celebró en Perú en 2008?",
+          "opciones": ["APEC", "COP20", "Foro de Davos", "UNASUR"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue uno de los eventos más trágicos del segundo gobierno de Alan García?",
+          "opciones": ["La masacre de Bagua", "La captura de Montesinos", "El terremoto de Pisco", "La crisis de los alimentos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué obra de transporte público se inauguró durante el segundo gobierno de García?",
+          "opciones": ["El Metropolitano", "Línea 1 del Metro de Lima", "Teleférico de Lima", "Tren Eléctrico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué proyecto minero generó protestas en Cajamarca durante el gobierno de Humala?",
+          "opciones": ["Proyecto Conga", "Proyecto Las Bambas", "Proyecto Quellaveco", "Proyecto Cerro Verde"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente otorgó el indulto a Alberto Fujimori?",
+          "opciones": ["Pedro Pablo Kuczynski", "Ollanta Humala", "Martín Vizcarra", "Alan García"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente peruano enfrentó dos intentos de vacancia antes de renunciar?",
+          "opciones": ["Pedro Pablo Kuczynski", "Martín Vizcarra", "Ollanta Humala", "Alejandro Toledo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué gobierno implementó la Ley de Consulta Previa para proteger a las comunidades nativas?",
+          "opciones": ["Ollanta Humala", "Alan García", "Alejandro Toledo", "Martín Vizcarra"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "8.5 Conflicto armado interno, Comisión de la verdad",
+      "youtube_id": "ooqWK270qP0",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué nombre oficial le dio la Comisión de la Verdad y Reconciliación al período conocido como terrorismo en el Perú?",
+          "opciones": ["Conflicto armado interno", "Guerra civil", "Revolución popular", "Crisis política"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Entre qué años abarca el conflicto armado interno en el Perú?",
+          "opciones": ["1980-2000", "1970-1990", "1985-1995", "1990-2000"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuántos muertos aproximadamente causó el conflicto armado interno en el Perú?",
+          "opciones": ["69,000", "10,000", "30,000", "50,000"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el grupo subversivo más sanguinario durante el conflicto armado interno?",
+          "opciones": ["Sendero Luminoso", "MRTA", "Fuerzas Armadas Revolucionarias", "Movimiento Tupac Amaru"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el líder de Sendero Luminoso?",
+          "opciones": ["Abimael Guzmán", "Víctor Polay", "José Carlos Mariátegui", "Luis Arce"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se conocía popularmente a Abimael Guzmán?",
+          "opciones": ["Presidente Gonzalo", "Comandante Revolucionario", "Líder Supremo", "Guía del Pueblo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ideología seguía Sendero Luminoso?",
+          "opciones": ["Marxismo-Leninismo-Maoísmo", "Capitalismo", "Anarquismo", "Liberalismo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la estrategia principal de Sendero Luminoso para expandirse?",
+          "opciones": ["Del campo a la ciudad", "Infiltración en el gobierno", "Terrorismo urbano", "Alianzas internacionales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué región del Perú se originó Sendero Luminoso?",
+          "opciones": ["Ayacucho", "Lima", "Cusco", "Piura"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento marcó el inicio de las acciones de Sendero Luminoso?",
+          "opciones": ["Quema de ánforas electorales en 1980", "Toma de la embajada japonesa", "Atentado en Tarata", "Matanza de Lucanamarca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político gobernaba cuando inició el conflicto armado interno?",
+          "opciones": ["Acción Popular", "Partido Aprista", "Cambio 90", "Frente Democrático"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente peruano autorizó la intervención de las Fuerzas Armadas en el conflicto?",
+          "opciones": ["Fernando Belaúnde Terry", "Alan García", "Alberto Fujimori", "Alejandro Toledo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué táctica usaba Sendero Luminoso para atacar al Estado?",
+          "opciones": ["Guerra de guerrillas", "Batallas abiertas", "Infiltración diplomática", "Bloqueos económicos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento ocurrió en Lucanamarca?",
+          "opciones": ["Una masacre de campesinos", "Un ataque al Congreso", "La captura de Abimael Guzmán", "Un enfrentamiento armado"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo subversivo era menos violento en comparación con Sendero Luminoso?",
+          "opciones": ["MRTA", "FARC", "ETA", "Movimiento Revolucionario Tupac Amaru"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo tenían los grupos subversivos durante el conflicto armado interno?",
+          "opciones": ["Tomar el poder y establecer un Estado socialista", "Conquistar territorios externos", "Formar alianzas con otros países", "Derrocar gobiernos democráticos en América Latina"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué política aplicaba Sendero Luminoso contra las comunidades que se oponían a ellos?",
+          "opciones": ["Genocidio y represalias", "Reconciliación", "Cooperación económica", "Alianzas estratégicas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región peruana sufrió más durante el conflicto armado interno?",
+          "opciones": ["La zona andina", "La costa norte", "La Amazonía", "Lima Metropolitana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué papel jugaban las Fuerzas Armadas durante el conflicto?",
+          "opciones": ["Combatir a los grupos subversivos", "Apoyar a Sendero Luminoso", "Promover la ideología comunista", "Mediar entre los subversivos y el gobierno"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué informe oficial documentó los crímenes y violaciones durante el conflicto armado interno?",
+          "opciones": ["El Informe de la Comisión de la Verdad y Reconciliación", "El Acuerdo Nacional", "El Informe de Paz y Justicia", "El Plan Nacional de Reconciliación"],
+          "correcta": 0
+        }
         ]
       }
     ]

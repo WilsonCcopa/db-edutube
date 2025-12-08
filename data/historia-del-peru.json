@@ -2134,6 +2134,1381 @@
         ]
       }
     ]
+  },
+{
+  "titulo": "Tema 5: Reformas Borbónicas y Guerras de Independencia",
+  "videos": [
+    {
+      "titulo": "5.1 Reformas Borbónicas y Corrientes Libertadoras",
+      "youtube_id": "zfs2BqTqsc0",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué dinastía implementó las reformas borbónicas en el siglo XVIII?",
+          "opciones": ["Borbónica", "Habsburgo", "Austria", "Francesa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue uno de los principales objetivos de las reformas borbónicas?",
+          "opciones": ["Fortalecer el control sobre las colonias", "Liberar las colonias", "Disminuir los impuestos", "Reducir la corrupción"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la causa económica que motivó las reformas borbónicas?",
+          "opciones": ["El declive de la producción minera", "El aumento del comercio exterior", "La expansión territorial", "La caída de los precios del oro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida fue tomada para combatir la corrupción en las colonias durante las reformas borbónicas?",
+          "opciones": ["Creación de intendencias", "Aumento de impuestos", "Expulsión de los jesuitas", "Reorganización del sistema de comercio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué consecuencia social importante tuvo la reforma borbónica en el Perú?",
+          "opciones": ["Descontento social y rebeliones", "Desaparición del mestizaje", "Mayor autonomía de los criollos", "Revolución en la administración local"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medidas se tomaron para aumentar la recaudación fiscal en las reformas borbónicas?",
+          "opciones": ["Aumento de impuestos", "Eliminación de impuestos", "Libre comercio", "Repartimientos mercantiles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué portador de la reforma económica fue introducido en 1713?",
+          "opciones": ["Navío de permiso", "Impuesto sobre el oro", "Libre comercio", "Repartimientos mercantiles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A qué evento se debe la apertura de nuevos puertos al comercio durante las reformas borbónicas?",
+          "opciones": ["Tratado de Utrecht", "Independencia de las colonias", "La expulsión de los jesuitas", "La lucha contra el contrabando"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo fue expulsado en 1767 como parte de las reformas borbónicas?",
+          "opciones": ["Los jesuitas", "Los monjes benedictinos", "Los franciscanos", "Los dominicos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué prohibición social fue establecida durante las reformas borbónicas?",
+          "opciones": ["Prohibición de matrimonios interraciales", "Prohibición del mestizaje", "Exclusión de los indígenas del comercio", "Prohibición de la educación en lenguas autóctonas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión indígena se desarrolló entre 1742 y 1756?",
+          "opciones": ["Rebelión de Juan Santos Atahualpa", "Rebelión de Túpac Amaru II", "Rebelión de los Comuneros", "Rebelión de Felipe V"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue uno de los principales factores que motivó la rebelión de Túpac Amaru II?",
+          "opciones": ["Aumento de impuestos y explotación en las minas", "El deseo de restaurar el Tahuantinsuyo", "El rechazo a las reformas borbónicas", "La defensa del sistema de castas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año comenzó la rebelión de Túpac Amaru II?",
+          "opciones": ["1780", "1770", "1790", "1765"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué batalla fue derrotada la rebelión de Túpac Amaru II?",
+          "opciones": ["Batalla de Tinta", "Batalla de Ayacucho", "Batalla de Junín", "Batalla de Paracas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió con Túpac Amaru II después de ser capturado?",
+          "opciones": ["Fue ejecutado", "Fue exiliado", "Fue perdonado", "Fue liberado"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida administrativa se introdujo como consecuencia de la rebelión de Túpac Amaru II?",
+          "opciones": ["Eliminación de los corregimientos", "Establecimiento de nuevas aduanas", "Prohibición de la vestimenta indígena", "Creación de nuevos impuestos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibió el proyecto de Bolívar de unir los países de América en una sola república?",
+          "opciones": ["Gran Colombia", "Federación Andina", "República de las Naciones Unidas", "Confederación Americana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Dónde tuvo lugar la entrevista entre José de San Martín y Simón Bolívar?",
+          "opciones": ["Guayaquil", "Paracas", "Lima", "Bogotá"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué guerra marcó la independencia del Perú?",
+          "opciones": ["Guerra de independencia de América del Sur", "Guerra de la independencia del Perú", "Guerra de los Andes", "Guerra de la Reconquista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla aseguró la independencia definitiva del Perú?",
+          "opciones": ["Batalla de Ayacucho", "Batalla de Junín", "Batalla de Tinta", "Batalla de Paracas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue lo que Bolívar no pudo lograr durante su mandato?",
+          "opciones": ["Unir América en una sola república", "Derrocar la monarquía española", "Imponer un sistema político comunista", "Lograr la independencia de Cuba"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué conflicto surgió tras la independencia del Perú?",
+          "opciones": ["Inestabilidad política", "Conflictos con Ecuador", "La invasión de Argentina", "La ocupación española de Lima"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué carga financiera heredó el Perú tras la independencia?",
+          "opciones": ["Deuda externa", "Indemnización a los países libertadores", "Nuevas tarifas aduaneras", "Aumento de impuestos internos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo afectaron las rebeliones indígenas al Perú tras la independencia?",
+          "opciones": ["Dejaron un legado de resistencia y lucha por los derechos", "Propiciaron la creación de un estado federal", "Condujeron a la desaparición del mestizaje", "Impulsaron la independencia de Bolivia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida política fue rechazada por Simón Bolívar en la entrevista de Guayaquil?",
+          "opciones": ["El proyecto monárquico de San Martín", "La creación de la República Andina", "La Confederación Latinoamericana", "La independencia de Brasil"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fecha se considera la proclamación de la independencia del Perú?",
+          "opciones": ["28 de julio de 1821", "6 de agosto de 1824", "9 de diciembre de 1824", "12 de octubre de 1820"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué efecto tuvo la reforma borbónica en la administración local?",
+          "opciones": ["Reorganización territorial en intendencias", "Mayor autonomía para los corregidores", "Disminución de los impuestos", "Fortalecimiento del control de la iglesia"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "5.2 Reformas Borbónicas",
+      "youtube_id": "RXPT8Aq9wXA",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Quién fue el principal monarca durante las reformas borbónicas en España?",
+          "opciones": ["Carlos III", "Felipe V", "Carlos IV", "Fernando VI"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo principal tenían las reformas borbónicas?",
+          "opciones": ["Recuperar el control y maximizar los ingresos de la corona", "Fortalecer las culturas locales", "Promover la independencia de las colonias", "Eliminar el sistema de castas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué virreinato fue creado como resultado de las reformas borbónicas, separándose del Virreinato del Perú?",
+          "opciones": ["Virreinato de Nueva Granada", "Virreinato del Río de la Plata", "Virreinato de la Nueva España", "Virreinato de Chile"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál fue el principal cambio administrativo introducido por las reformas borbónicas en el Perú?",
+          "opciones": ["La creación del sistema de intendencias", "La división de las provincias", "La eliminación de la inquisición", "La instauración del sistema de corregimientos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nueva estructura administrativa reemplazó a los corregimientos en el Virreinato del Perú?",
+          "opciones": ["Intendencias", "Capitanías generales", "Virreinatos", "Audiencias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué impuesto fue incrementado durante las reformas borbónicas para aumentar los ingresos de la corona?",
+          "opciones": ["El impuesto de alcabala", "El quinto real", "El impuesto sobre la tierra", "El impuesto sobre la minería"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo social fue incluido en el pago de tributos tras las reformas borbónicas?",
+          "opciones": ["Indígenas y mestizos", "Criollos", "Negros esclavos", "Peninsulares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo afectó la reforma fiscal a los comerciantes limeños?",
+          "opciones": ["Perdieron su monopolio comercial", "Obtuvieron mayores beneficios", "No fueron afectados", "Gozaron de exenciones fiscales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué puerto dejó de ser el único punto de comercio para los barcos españoles tras las reformas borbónicas?",
+          "opciones": ["El Callao", "Guayaquil", "Buenos Aires", "Valparaíso"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida fue implementada en el ámbito religioso durante las reformas borbónicas?",
+          "opciones": ["El regalismo", "La secularización de la iglesia", "La creación de nuevas órdenes religiosas", "La libertad religiosa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué orden religiosa fue expulsada de los territorios españoles en 1767?",
+          "opciones": ["Los jesuitas", "Los franciscanos", "Los dominicos", "Los agustinos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento fue causado por el aumento de impuestos a los indígenas y mestizos durante las reformas borbónicas?",
+          "opciones": ["Rebelión de Túpac Amaru II", "Revolución de los criollos", "Independencia de Chile", "Conquista del Río de la Plata"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo afectaron las reformas borbónicas a los criollos?",
+          "opciones": ["Perdieron cargos administrativos y poder", "Obtuvieron más poder político", "Fueron incluidos en el comercio libre", "Recibieron beneficios fiscales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue la causa principal del malestar indígena durante las reformas borbónicas?",
+          "opciones": ["El aumento de impuestos y explotación laboral", "La creación de nuevas leyes sociales", "La promoción de nuevas religiones", "La instauración de la educación obligatoria"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué país perdió el control de la mina de Potosí debido a las reformas borbónicas?",
+          "opciones": ["Perú", "México", "Colombia", "Argentina"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo afectó la división del Virreinato del Perú a su influencia política y económica?",
+          "opciones": ["Redujo su poder", "Aumentó su poder", "No tuvo impacto", "Fortaleció su economía"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue uno de los principales defensores de las ideas independentistas que surgieron tras las reformas borbónicas?",
+          "opciones": ["Juan Pablo Vizcardo y Guzmán", "José de San Martín", "Simón Bolívar", "Francisco de Miranda"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué figura histórica se opuso firmemente a las reformas borbónicas y fue expulsada en 1767?",
+          "opciones": ["Los jesuitas", "Los mestizos", "Los criollos", "Los peninsulares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue uno de los principales efectos de la creación de nuevos virreinatos en América?",
+          "opciones": ["Disminución de la influencia del Virreinato del Perú", "Centralización del poder en España", "Mayor autonomía para las colonias", "Promoción del comercio libre entre los virreinatos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema económico favorecieron las reformas borbónicas con el fin de aumentar los ingresos fiscales?",
+          "opciones": ["Libre comercio dentro del imperio español", "Monopolio comercial", "Intervención estatal en la agricultura", "Exenciones fiscales a las grandes haciendas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida fiscal fue implementada para incentivar la minería durante las reformas borbónicas?",
+          "opciones": ["Reducción del quinto real", "Aumento de la alcabala", "Imposición de nuevas aduanas internas", "Eliminación de impuestos a la minería"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reforma fue responsable de crear las capitanías generales en América?",
+          "opciones": ["La reforma territorial", "La reforma religiosa", "La reforma administrativa", "La reforma comercial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué puerto fue uno de los nuevos puntos de comercio habilitados por las reformas borbónicas?",
+          "opciones": ["Buenos Aires", "México", "Lima", "Caracas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo perseguía la implementación del sistema de intendencias?",
+          "opciones": ["Centralizar la administración y mejorar la eficiencia", "Aumentar la autonomía local", "Fortalecer el poder de los criollos", "Reducir los impuestos a los indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de estructura política se favoreció con las reformas borbónicas en cuanto al control de las colonias?",
+          "opciones": ["Centralización del poder", "Descentralización administrativa", "Autonomía para las provincias", "Federalismo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento llevó a la expulsión de los jesuitas en 1767?",
+          "opciones": ["Su oposición al regalismo", "El aumento de los impuestos", "La sublevación de los indígenas", "Las reformas fiscales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reforma fiscal implementada durante las reformas borbónicas afectó el comercio dentro del imperio?",
+          "opciones": ["La creación de aduanas internas", "La eliminación de impuestos a las mercancías", "La exención de impuestos a los comerciantes locales", "La liberalización de las rutas comerciales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué figura histórica relacionada con las reformas borbónicas jugó un papel clave en la difusión de ideas revolucionarias?",
+          "opciones": ["Juan Pablo Vizcardo y Guzmán", "Simón Bolívar", "José de San Martín", "Miguel Hidalgo"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "5.3 Resistencia Andina y Guerras Civiles",
+      "youtube_id": "o6CDY36Hw4E",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Dónde capturó Pizarro al inca Atahualpa?",
+          "opciones": ["Cusco", "Cajamarca", "Quito", "Jauja"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué ofreció Atahualpa a Pizarro para su liberación?",
+          "opciones": ["Oro y plata", "Territorios", "Armas", "Alimentos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién tenía el control del Cusco antes de la llegada de Pizarro?",
+          "opciones": ["Quisquis y Rumiñahui", "Atahualpa", "Huáscar", "Manco Inca"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué estrategia utilizó Pizarro al nombrar un inca títere?",
+          "opciones": ["Prometer riquezas", "Establecer alianzas con líderes locales", "Amenazar con armas", "Ofrecer protección divina"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cómo murió Tupac Huallpa, el inca títere nombrado por Pizarro?",
+          "opciones": ["Fue envenenado", "Fue ejecutado por Pizarro", "Murió en batalla", "Falleció de causas naturales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pueblo apoyó a Pizarro durante el ataque de Quisquis en Jauja?",
+          "opciones": ["Los Chancas", "Los Huancas", "Los Mochicas", "Los Aymaras"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué general lideró la resistencia quiteña contra los españoles?",
+          "opciones": ["Quisquis", "Calcuchima", "Rumiñahui", "Huáscar"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Por qué los cusqueños inicialmente apoyaron a Pizarro?",
+          "opciones": ["Por odio hacia los quiteños", "Por temor a ser conquistados", "Por promesas de riquezas", "Por creencias religiosas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sucedió en el Cusco tras la entrada de los españoles?",
+          "opciones": ["Se fundó una nueva ciudad", "Comenzaron los saqueos y abusos", "Se consolidó la paz", "Los incas recuperaron el poder"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Quién fue Manco Inca?",
+          "opciones": ["Un líder quiteño", "Un aliado de Pizarro", "El último inca legítimo", "El gobernador de Jauja"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Cuál fue la primera ciudad española fundada en el Perú?",
+          "opciones": ["Cusco", "Jauja", "San Miguel de Tangarará", "Cajamarca"],
+          "correcta": 2
+        },
+        {
+          "pregunta": "¿Qué ciudad fue la primera capital de la gobernación de Pizarro?",
+          "opciones": ["Cusco", "Lima", "San Miguel", "Jauja"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Cómo se llamaba la gobernación de Pizarro?",
+          "opciones": ["Nueva España", "Nueva Castilla", "Nueva Toledo", "Nueva Granada"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué líderes enfrentaron a Pizarro desde Quito?",
+          "opciones": ["Quisquis y Rumiñahui", "Huáscar y Atahualpa", "Calcuchima y Manco Inca", "Tupac Huallpa y Quisquis"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué causó la resistencia andina contra los españoles?",
+          "opciones": ["La imposición de la religión cristiana", "El apoyo de los huancas a los españoles", "La ejecución de Atahualpa", "El liderazgo de Pizarro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pueblo cusqueño se alió con Pizarro para derrotar a Quisquis?",
+          "opciones": ["Los Chancas", "Los Huancas", "Los Mochicas", "Los Aymaras"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Quién fue acusado de envenenar a Tupac Huallpa?",
+          "opciones": ["Quisquis", "Calcuchima", "Rumiñahui", "Atahualpa"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cómo murió Calcuchima, el general de Atahualpa?",
+          "opciones": ["Fue quemado vivo", "Fue ejecutado en Cusco", "Murió en batalla", "Fue envenenado"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué líder se presentó a Pizarro como aliado para enfrentar a Quisquis?",
+          "opciones": ["Manco Inca", "Huáscar", "Rumiñahui", "Atahualpa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué promesa utilizó Pizarro para lograr alianzas con los pueblos andinos?",
+          "opciones": ["Libertad y paz", "Riquezas y tierras", "Protección militar", "Reconstrucción del Tahuantinsuyo"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "5.4 Conspiraciones y rebeliones criollas",
+      "youtube_id": "s-Y9JpDM9aM",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué objetivo principal tenían las reformas borbónicas?",
+          "opciones": ["Modernizar el imperio español y aumentar la recaudación de impuestos", "Eliminar el sistema virreinal", "Promover la independencia de las colonias", "Abolir el tributo indígena"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué impuesto fue impuesto a los indígenas durante las reformas borbónicas?",
+          "opciones": ["Alcabala", "Tributo", "Aduanas internas", "Impuesto al comercio"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué rebelión indígena ocurrió en 1780 contra la opresión colonial?",
+          "opciones": ["Rebelión de Francisco de Zela", "Rebelión de Túpac Amaru II", "Rebelión de Huánuco", "Rebelión de los Hermanos Ángulo"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál fue una de las causas principales del descontento criollo?",
+          "opciones": ["Falta de acceso a educación", "Exclusión de cargos públicos importantes", "Prohibición del comercio internacional", "Falta de tierras cultivables"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué puerto se abrió durante las reformas borbónicas, afectando al comercio del Virreinato del Perú?",
+          "opciones": ["Callao", "Buenos Aires", "Veracruz", "Cartagena"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué impuesto afectó a los comerciantes durante las reformas borbónicas?",
+          "opciones": ["Tributo", "Alcabala", "Quinto Real", "Reparto mercantil"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué mina rica en América fue afectada por la creación del Virreinato del Río de la Plata?",
+          "opciones": ["Potosí", "Cerro de Pasco", "Huancavelica", "Chihuahua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se dividieron los criollos según su postura política frente a las reformas?",
+          "opciones": ["Realistas y separatistas", "Reformistas y separatistas", "Conservadores y liberales", "Monárquicos y republicanos"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Quién escribió la 'Carta a los españoles americanos' en 1792?",
+          "opciones": ["Hipólito Unanue", "Juan Pablo Vizcardo y Guzmán", "Francisco de Miranda", "Baquíjano y Carrillo"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué movimiento promovía Francisco de Miranda?",
+          "opciones": ["La reforma del sistema virreinal", "La independencia de América", "La abolición del tributo indígena", "La unión entre criollos e indígenas"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué rebelión criolla ocurrió en Tacna en 1811?",
+          "opciones": ["Rebelión de Túpac Amaru II", "Rebelión de Francisco de Zela", "Rebelión de los Hermanos Ángulo", "Rebelión de Huánuco"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué batalla marcó la derrota de los Hermanos Ángulo y Mateo Pumacahua?",
+          "opciones": ["Batalla de Ambo", "Batalla de Umachiri", "Batalla de Tacna", "Batalla de Ayacucho"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué figura criolla lideró el primer grito de independencia en Tacna?",
+          "opciones": ["Juan José Crespo y Castillo", "Francisco de Zela", "Mateo Pumacahua", "Túpac Amaru II"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué texto liberal se promulgó en las Cortes de Cádiz?",
+          "opciones": ["Elogio a Jáuregui", "Constitución de Cádiz", "Carta a los españoles americanos", "Manifiesto de Independencia"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué reforma promovió la igualdad entre peninsulares y criollos?",
+          "opciones": ["Reformas borbónicas", "Constitución de Cádiz", "Abolición del tributo", "Apertura de puertos"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué periódico fundado por Hipólito Unanue promovía el estudio de la realidad peruana?",
+          "opciones": ["El Peruano", "Mercurio Peruano", "La Gaceta de Lima", "El Comercio"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué rebelión criolla contó con el apoyo de indígenas y ocurrió en 1812?",
+          "opciones": ["Rebelión de Tacna", "Rebelión de Huánuco", "Rebelión de Pumacahua", "Rebelión de Túpac Amaru II"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué evento internacional debilitó al imperio español y facilitó movimientos independentistas?",
+          "opciones": ["La Revolución Francesa", "La invasión napoleónica a España", "La Guerra de Sucesión Española", "La Revolución Industrial"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Quién escribió el 'Elogio a Jáuregui' en 1781?",
+          "opciones": ["Hipólito Unanue", "Baquíjano y Carrillo", "Juan Pablo Vizcardo y Guzmán", "Francisco de Miranda"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué rebelión fue liderada por Juan José Crespo y Castillo?",
+          "opciones": ["Rebelión de Tacna", "Rebelión de Huánuco", "Rebelión de Umachiri", "Rebelión de Túpac Amaru II"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál fue el principal legado de la rebelión de Túpac Amaru II?",
+          "opciones": ["La independencia del Perú", "Un legado de resistencia", "La abolición del tributo", "La creación de nuevas leyes"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué grupo social se sintió marginado por la creación de nuevos virreinatos?",
+          "opciones": ["Indígenas", "Criollos", "Mestizos", "Esclavos"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Quién fue el poeta fusilado tras la rebelión de los Hermanos Ángulo?",
+          "opciones": ["Juan José Crespo y Castillo", "Mariano Melgar", "Mateo Pumacahua", "Baquíjano y Carrillo"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué factores limitaron las rebeliones criollas en el Perú?",
+          "opciones": ["Falta de líderes y recursos", "Fidelismo y poderío militar realista", "Excesiva dispersión geográfica", "Desinterés en la independencia"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué virrey organizó un fuerte ejército para reprimir las rebeliones en el Perú?",
+          "opciones": ["Fernando de Abascal", "José de San Martín", "Simón Bolívar", "Manuel Belgrano"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reforma borbónica afectó directamente a los comerciantes limeños?",
+          "opciones": ["Creación de nuevos virreinatos", "Apertura de nuevos puertos", "Reparto mercantil", "Aumento de la alcabala"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "¿Qué documento abogaba por la independencia y la igualdad en 1812?",
+          "opciones": ["Manifiesto de Independencia", "Constitución de Cádiz", "Carta de Vizcardo", "Elogio a Jáuregui"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué rebelión en Cusco fue liderada por Mateo Pumacahua?",
+          "opciones": ["Rebelión de Túpac Amaru II", "Rebelión de los Hermanos Ángulo", "Rebelión de Huánuco", "Rebelión de Francisco de Zela"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué movimiento inspiró a los criollos separatistas?",
+          "opciones": ["La Revolución Industrial", "La Revolución Francesa", "El Renacimiento", "El descubrimiento de América"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué evento marcó el inicio de la independencia del Perú?",
+          "opciones": ["La rebelión de Túpac Amaru II", "La llegada de José de San Martín", "La invasión napoleónica a España", "La proclamación de la Constitución de Cádiz"],
+          "correcta": 1
+        }
+      ]
+    },
+    {
+      "titulo": "5.5 El verdadero proceso de la Independencia del Perú",
+      "youtube_id": "fGu7Nv9j0hs",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Cuánto tiempo aproximadamente duró el periodo colonial del Perú bajo el dominio español?",
+          "opciones": ["200 años", "300 años", "150 años", "250 años"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál fue el principal recurso explotado en el Perú durante la colonia española?",
+          "opciones": ["Oro", "Plata", "Cobre", "Hierro"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué mina era considerada la más importante para la economía colonial española?",
+          "opciones": ["Mina de Potosí", "Mina de Huancavelica", "Mina de Cerro de Pasco", "Mina de Yanacocha"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué reformas implementadas por España en el siglo XVIII generaron descontento en las colonias americanas?",
+          "opciones": ["Reformas liberales", "Reformas borbónicas", "Reformas ilustradas", "Reformas virreinales"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué grupo social fue excluido de los cargos públicos durante las reformas borbónicas?",
+          "opciones": ["Indígenas", "Criollos", "Peninsulares", "Esclavos"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué impuesto aumentó durante las reformas borbónicas, afectando especialmente a los indígenas?",
+          "opciones": ["Tributo indígena", "Alcabala", "Impuesto al comercio", "Aranceles"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la rebelión indígena más importante contra las reformas borbónicas en 1780?",
+          "opciones": ["Túpac Amaru II", "Juan Santos Atahualpa", "Micaela Bastidas", "Mateo Pumacahua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el objetivo principal de las reformas borbónicas?",
+          "opciones": ["Modernizar el imperio español", "Abolir la esclavitud", "Establecer repúblicas en América", "Fomentar la independencia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué corriente libertadora proclamó la independencia del Perú en 1821?",
+          "opciones": ["Corriente libertadora del sur", "Corriente libertadora del norte", "Movimiento criollo", "Revolución ilustrada"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la corriente libertadora del sur?",
+          "opciones": ["José de San Martín", "Simón Bolívar", "Antonio José de Sucre", "Francisco de Zela"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué fecha se proclamó la independencia del Perú?",
+          "opciones": ["28 de julio de 1821", "9 de diciembre de 1824", "6 de agosto de 1824", "15 de septiembre de 1823"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la corriente libertadora del norte?",
+          "opciones": ["Simón Bolívar", "José de San Martín", "Antonio José de Sucre", "Francisco Miranda"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla consolidó la independencia del Perú?",
+          "opciones": ["Batalla de Ayacucho", "Batalla de Junín", "Batalla de Pichincha", "Batalla de Chacabuco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año ocurrió la Batalla de Ayacucho?",
+          "opciones": ["1824", "1821", "1823", "1825"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué líder patriota comandó el ejército en la Batalla de Ayacucho?",
+          "opciones": ["Antonio José de Sucre", "Simón Bolívar", "José de San Martín", "Francisco de Zela"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema legal estableció San Martín tras la proclamación de la independencia?",
+          "opciones": ["Estatuto provisorio", "Constitución de Cádiz", "Constitución vitalicia", "Decreto libertador"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué institución creó San Martín para promover la monarquía constitucional?",
+          "opciones": ["Sociedad Patriótica", "Congreso Constituyente", "Gran Logia Americana", "Junta de Gobierno"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla fue considerada la última gran derrota de los realistas en el Perú?",
+          "opciones": ["Batalla de Ayacucho", "Batalla de Junín", "Batalla de Ambo", "Batalla de Umachiri"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué líder criollo organizó la rebelión de Tacna en 1811?",
+          "opciones": ["Francisco de Zela", "Mateo Pumacahua", "Juan Santos Atahualpa", "Túpac Amaru II"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión combinó fuerzas criollas e indígenas en 1814-1815?",
+          "opciones": ["Rebelión de los hermanos Ángulo y Pumacahua", "Rebelión de Zela", "Rebelión de Huánuco", "Rebelión de Túpac Amaru II"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué texto liberal fue redactado durante las Cortes de Cádiz?",
+          "opciones": ["Constitución de Cádiz", "Estatuto provisorio", "Constitución vitalicia", "Carta a los españoles americanos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla ocurrió el 6 de agosto de 1824 en la sierra central?",
+          "opciones": ["Batalla de Junín", "Batalla de Ayacucho", "Batalla de Pichincha", "Batalla de Umachiri"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo tenía Bolívar al redactar la Constitución vitalicia de 1826?",
+          "opciones": ["Centralizar el poder en su figura", "Establecer la independencia total de América", "Implementar un sistema republicano", "Fomentar la igualdad entre criollos e indígenas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rol jugó Inglaterra en el proceso de independencia del Perú?",
+          "opciones": ["Apoyó con préstamos y comercio", "Envió tropas para liberar el Perú", "Fomentó las reformas borbónicas", "Se mantuvo neutral"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión indígena ocurrió en la selva central del Perú?",
+          "opciones": ["Rebelión de Juan Santos Atahualpa", "Rebelión de Túpac Amaru II", "Rebelión de Huánuco", "Rebelión de Pumacahua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento internacional influyó en los movimientos independentistas de América?",
+          "opciones": ["La invasión napoleónica a España", "La Revolución Rusa", "La Guerra de Sucesión Española", "La Revolución Industrial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué institución estableció el primer congreso constituyente del Perú?",
+          "opciones": ["Gobierno provisional", "Estatuto provisorio", "Constitución vitalicia", "Sociedad Patriótica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rebelión ocurrió en 1812 en Huánuco?",
+          "opciones": ["Rebelión de Juan José Crespo y Castillo", "Rebelión de Zela", "Rebelión de los hermanos Ángulo", "Rebelión de Pumacahua"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué figura libertadora planteó una monarquía constitucional en el Perú?",
+          "opciones": ["José de San Martín", "Simón Bolívar", "Antonio José de Sucre", "Francisco de Zela"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla permitió la proclamación de la independencia del Perú?",
+          "opciones": ["Batalla de Junín", "Batalla de Pichincha", "Batalla de Maipú", "Batalla de Ayacucho"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "5.6 Corrientes libertadoras",
+      "youtube_id": "6GwDX43yVTY",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Dónde nació José de San Martín?",
+          "opciones": ["Argentina", "España", "Chile", "Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué batalla San Martín ganó credibilidad tras regresar a Argentina?",
+          "opciones": ["Batalla de San Lorenzo", "Batalla de Maipú", "Batalla de Chacabuco", "Batalla de Junín"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué objetivo tenía José de San Martín al cruzar los Andes?",
+          "opciones": ["Liberar Chile", "Liberar Venezuela", "Formar la Gran Colombia", "Conquistar Alto Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién apoyó a San Martín en la liberación de Chile?",
+          "opciones": ["Bernardo O'Higgins", "Simón Bolívar", "Antonio José de Sucre", "Manuel Belgrano"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué forma de gobierno proponía San Martín para Perú?",
+          "opciones": ["Monarquía constitucional", "República unificada", "Dictadura vitalicia", "Confederación"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué corriente libertadora lideró Simón Bolívar?",
+          "opciones": ["Corriente libertadora del norte", "Corriente libertadora del sur", "Corriente revolucionaria criolla", "Corriente federalista"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué países fueron liberados por Bolívar antes de llegar a Perú?",
+          "opciones": ["Venezuela, Colombia y Ecuador", "Argentina, Chile y Bolivia", "Perú, Chile y Ecuador", "México, Venezuela y Colombia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué unión de territorios independientes formó Bolívar?",
+          "opciones": ["Gran Colombia", "Confederación Andina", "República de Sudamérica", "Alianza de los Andes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué año se encontraron San Martín y Bolívar en la Conferencia de Guayaquil?",
+          "opciones": ["1822", "1820", "1821", "1824"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el principal desacuerdo entre San Martín y Bolívar en Guayaquil?",
+          "opciones": ["El sistema de gobierno para América del Sur", "La estrategia militar para liberar Perú", "El liderazgo único en la región", "El control del Alto Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batallas lideró Bolívar para sellar la independencia de Perú?",
+          "opciones": ["Batallas de Junín y Ayacucho", "Batallas de Maipú y Chacabuco", "Batallas de Carabobo y Boyacá", "Batallas de San Lorenzo y Tucumán"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿En qué fecha se llevó a cabo la Batalla de Ayacucho?",
+          "opciones": ["9 de diciembre de 1824", "28 de julio de 1821", "6 de agosto de 1824", "7 de abril de 1823"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién comandó las fuerzas patriotas en la Batalla de Ayacucho?",
+          "opciones": ["Antonio José de Sucre", "Simón Bolívar", "José de San Martín", "Bernardo O'Higgins"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué región actual continuó con focos de resistencia realista tras la independencia de Perú?",
+          "opciones": ["Alto Perú", "La Gran Colombia", "Chile", "Patagonia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué proyecto político intentó implementar Bolívar tras la independencia?",
+          "opciones": ["Una confederación hispanoamericana", "Una monarquía constitucional", "Una república democrática descentralizada", "Un protectorado militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué constitución redactó Bolívar en 1826?",
+          "opciones": ["Constitución vitalicia", "Constitución de Cádiz", "Constitución de Guayaquil", "Estatuto provisorio"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ocurrió tras el rechazo a los planes políticos de Bolívar?",
+          "opciones": ["Se retiró del poder", "Se exilió en Europa", "Continuó liderando campañas militares", "Fundó un nuevo gobierno en Alto Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamó la etapa posterior a la independencia de Perú liderada por caudillos militares?",
+          "opciones": ["Primer militarismo republicano", "Confederación Andina", "Periodo de transición criolla", "Dictadura vitalicia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué visión política tenía Bolívar para los territorios liberados?",
+          "opciones": ["Una república unificada", "Una monarquía constitucional", "Un protectorado europeo", "Una confederación descentralizada"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla aseguró la independencia de Chile bajo el mando de San Martín?",
+          "opciones": ["Batalla de Maipú", "Batalla de Chacabuco", "Batalla de Junín", "Batalla de San Lorenzo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué rol desempeñó Bernardo O'Higgins en la lucha por la independencia de Chile?",
+          "opciones": ["Apoyó a San Martín como líder chileno", "Fue el comandante en la Batalla de Ayacucho", "Firmó la Constitución vitalicia", "Liberó el Alto Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué país fue considerado el núcleo del poder español en América del Sur?",
+          "opciones": ["Perú", "Venezuela", "México", "Colombia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué líder criollo argentino ideó la Expedición Libertadora hacia Perú?",
+          "opciones": ["José de San Martín", "Simón Bolívar", "Antonio José de Sucre", "Bernardo O'Higgins"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el principal propósito de la Conferencia de Guayaquil?",
+          "opciones": ["Discutir el futuro político de América del Sur", "Planear la liberación de México", "Firmar la independencia de Chile", "Acordar una alianza militar entre los libertadores"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema de gobierno buscaba establecer Bolívar en Perú tras la independencia?",
+          "opciones": ["Una república centralista", "Una monarquía constitucional", "Un protectorado militar", "Una federación democrática"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué país lideró Bolívar tras formar la Gran Colombia?",
+          "opciones": ["Venezuela", "Perú", "Argentina", "Chile"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué batalla liderada por Bolívar ocurrió el 6 de agosto de 1824?",
+          "opciones": ["Batalla de Junín", "Batalla de Ayacucho", "Batalla de Maipú", "Batalla de Chacabuco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué estrategia utilizó San Martín para iniciar la liberación del Perú?",
+          "opciones": ["Desembarco en la costa peruana", "Alianza con las fuerzas chilenas", "Ataque directo a Lima", "Negociación con los realistas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica distinguió la visión política de Bolívar respecto a San Martín?",
+          "opciones": ["Prefería una república frente a una monarquía", "Buscaba establecer un protectorado militar", "Defendía la descentralización del poder", "Promovía alianzas con potencias europeas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la última gran batalla que marcó el fin del dominio español en América del Sur?",
+          "opciones": ["Batalla de Ayacucho", "Batalla de Junín", "Batalla de Maipú", "Batalla de Pichincha"],
+          "correcta": 0
+        }
+      ]
+    }
+  ]
+},
+    {
+  "titulo": "Tema 6: El siglo XIX en el Perú",
+  "videos": [
+    {
+      "titulo": "6.1 Inicios de la República y Primer Militarismo",
+      "youtube_id": "WOGsBwEmzHw",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué año comienza la República del Perú?",
+          "opciones": ["1827", "1821", "1830", "1810"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué principio establece que los territorios virreinales hasta 1810 servirían de base para formar los nuevos países?",
+          "opciones": ["Principio de Libre Determinación", "Principio de Uti Possidetis", "Principio de Autonomía Regional", "Principio de Soberanía Nacional"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Cuál es el otro principio para la formación de los límites territoriales además de Uti Possidetis?",
+          "opciones": ["Principio de Soberanía Nacional", "Principio de Libre Determinación de los Pueblos", "Principio de Autonomía Regional", "Principio de Concordia"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué territorio decidió pertenecer a la Gran Colombia por libre determinación de los pueblos?",
+          "opciones": ["Guayaquil", "Jaén", "El Alto Perú", "La Paz"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué territorio decidió pertenecer al Perú por libre determinación de los pueblos?",
+          "opciones": ["Jaén", "Guayaquil", "El Alto Perú", "Quito"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué país se formó a partir del Alto Perú por libre determinación de los pueblos?",
+          "opciones": ["Bolivia", "Argentina", "Perú", "Gran Colombia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llama el periodo inicial de la República del Perú gobernado por militares?",
+          "opciones": ["Primer Militarismo", "Segundo Militarismo", "Caudillismo Republicano", "Era de Transición"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué característica principal tuvo el primer militarismo?",
+          "opciones": ["Estabilidad política", "Inestabilidad política", "Prosperidad económica", "Unificación nacional"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué término describe a los líderes militares que se creían los únicos capaces de gobernar durante el primer militarismo?",
+          "opciones": ["Caudillos", "Presidentes", "Virreyes", "Revolucionarios"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué situaciones eran comunes durante el primer militarismo?",
+          "opciones": ["Golpes de estado y guerras civiles", "Reformas económicas y educativas", "Unificación política y territorial", "Prosperidad económica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué consecuencias económicas trajo la inestabilidad política del primer militarismo?",
+          "opciones": ["Crisis económica", "Prosperidad económica", "Aumento de exportaciones", "Desarrollo industrial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A qué país le debía el Perú gran parte de su deuda externa tras la independencia?",
+          "opciones": ["Inglaterra", "Francia", "España", "Estados Unidos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema económico se mantenía en el Perú tras la independencia?",
+          "opciones": ["Semi feudalismo", "Capitalismo industrial", "Socialismo", "Mercantilismo"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de capitalismo dominaba la economía del Perú tras la independencia?",
+          "opciones": ["Capitalismo extranjero", "Capitalismo nacional", "Capitalismo agrario", "Capitalismo comercial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se denominaba el impuesto que los indígenas seguían pagando tras la independencia?",
+          "opciones": ["Contribución indígena", "Tributo real", "Tributo indígena", "Contribución civil"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué grupo social siguió siendo esclavo hasta la época de la prosperidad falaz?",
+          "opciones": ["Los negros", "Los indígenas", "Los criollos", "Los mestizos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ideas de la Ilustración no se reflejaron en la República inicial del Perú?",
+          "opciones": ["Libertad, igualdad y solidaridad", "Poder absoluto y monarquía", "Feudalismo y esclavitud", "Autoritarismo y censura"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de relación tenían los campesinos indígenas con la tierra tras la independencia?",
+          "opciones": ["Explotación en tierras de gamonales", "Propiedad comunal", "Redistribución agraria", "Tierra propia"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factor limitó el desarrollo económico y social del Perú tras la independencia?",
+          "opciones": ["Inestabilidad política", "Reformas liberales", "Unificación territorial", "Independencia económica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema económico global dominaba al Perú tras la independencia?",
+          "opciones": ["Capitalismo mercantil e industrial", "Socialismo estatal", "Economía comunitaria", "Autarquía regional"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "6.2 La prosperidad Falaz",
+      "youtube_id": "9Z7JXSAGvCc",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué recurso natural permitió la prosperidad económica del Perú entre 1845 y 1872?",
+          "opciones": ["Guano", "Cobre", "Plata", "Oro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A qué país se exportaba principalmente el guano durante la prosperidad falaz?",
+          "opciones": ["Inglaterra", "Francia", "España", "Estados Unidos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamaba el sistema inicial de explotación del guano en el que los empresarios arrendaban las islas?",
+          "opciones": ["Arriendo", "Consignación", "Monopolio", "Nacionalización"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue uno de los principales empresarios que se enriqueció explotando las islas Chincha?",
+          "opciones": ["Francisco Quirós", "José Balta", "Rufino Echenique", "Ramón Castilla"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sistema implementó el Estado peruano que involucraba a intermediarios para vender el guano?",
+          "opciones": ["Consignaciones", "Arriendo", "Monopolio", "Distribución directa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué casa inglesa fue una de las primeras en actuar como consignatarios del guano?",
+          "opciones": ["Hicks", "Dreyfus", "Rothschild", "Vanderbilt"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue la casa que monopolizó la venta del guano hacia el final del período de prosperidad?",
+          "opciones": ["Dreyfus", "Hicks", "Vanderbilt", "Rothschild"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿A qué se destinó gran parte de los ingresos del guano durante la prosperidad falaz?",
+          "opciones": ["Gastos en obras públicas y burocracia", "Desarrollo agrícola", "Inversiones en la industria", "Expansión territorial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué obras sociales se realizaron durante la prosperidad falaz?",
+          "opciones": ["Abolición de la esclavitud y tributo indígena", "Reforma agraria", "Educación gratuita", "Sufragio universal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente consolidó la venta del guano y modernizó el país durante la prosperidad falaz?",
+          "opciones": ["Ramón Castilla", "José Balta", "Mariano Ignacio Prado", "Rufino Echenique"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley permitió a Perú pagar la deuda interna durante el gobierno de Ramón Castilla?",
+          "opciones": ["Ley de Consolidación", "Ley de Reforma Fiscal", "Ley de Pago Externo", "Ley de Reforma Social"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué escándalo afectó el gobierno de Rufino Echenique durante la prosperidad falaz?",
+          "opciones": ["Consolidación de la deuda interna", "Escándalo de corrupción", "Desplome de los precios del guano", "Crisis fiscal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento resultó en el derrocamiento de Rufino Echenique por Ramón Castilla?",
+          "opciones": ["Batalla de La Palma", "Batalla de Ayacucho", "Revolución de 1854", "Guerra con Chile"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué presidente lideró el país durante la crisis económica que marcó el declive de la prosperidad falaz?",
+          "opciones": ["Mariano Ignacio Prado", "José Balta", "Ramón Castilla", "Rufino Echenique"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué consecuencia económica importante sufrió el Perú tras el agotamiento de las reservas de guano?",
+          "opciones": ["Crisis económica", "Devaluación de la moneda", "Inflación extrema", "Recesión agrícola"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué factor principal contribuyó a la deuda externa del Perú durante la prosperidad falaz?",
+          "opciones": ["El endeudamiento con capitales extranjeros, especialmente ingleses", "La inversión en infraestructura", "El financiamiento de guerras", "La expansión territorial"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se describe la estructura social del Perú durante la prosperidad falaz?",
+          "opciones": ["Desigual", "Igualitaria", "Democrática", "Feudal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué sector se benefició principalmente de la venta de guano en el Perú?",
+          "opciones": ["Las familias criollas y los consignatarios extranjeros", "El campesinado", "Los trabajadores chinos", "La clase media"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué pasó cuando los precios del guano cayeron y las reservas se agotaron?",
+          "opciones": ["El Perú entró en una crisis económica profunda", "El Perú se volvió autosuficiente", "El Perú invadió territorios vecinos", "El Perú encontró nuevos recursos naturales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué legado dejó la prosperidad falaz en el Perú?",
+          "opciones": ["Una economía dependiente de un solo recurso y una gran deuda externa", "Una economía diversificada y autosuficiente", "Una gran inversión en educación y salud", "Una estructura política estable"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué caracterizó la economía del Perú durante la prosperidad falaz?",
+          "opciones": ["Dependencia de las exportaciones de guano", "Diversificación industrial", "Desarrollo del turismo", "Reforma agraria"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "6.3 Primer Civilismo y la Guerra del Pacífico",
+      "youtube_id": "yVuqw6Sbx28",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿En qué año comienza el primer civilismo en la República del Perú?",
+          "opciones": ["1872", "1880", "1866", "1900"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué partido político agrupa a los civiles durante el primer civilismo?",
+          "opciones": ["Partido Civil", "Partido Liberal", "Partido Conservador", "Partido Militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el líder del Partido Civil durante el primer civilismo?",
+          "opciones": ["Manuel Pardo y Lavalle", "José Balta", "Ramón Castilla", "Felipe Pardo y Aliaga"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llama el periodo de bonanza económica que precede al primer civilismo?",
+          "opciones": ["La prosperidad falaz", "El auge del guano", "La bonanza del salitre", "La era del oro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué crisis económica enfrenta el Perú al inicio del primer civilismo?",
+          "opciones": ["Déficit fiscal", "Crisis agrícola", "Crisis minera", "Crisis monetaria"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál era uno de los principales proyectos del gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["Educación, salud e integración territorial", "Reforma agraria y minería", "Centralización y comercio exterior", "Desarrollo tecnológico y energía"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué recurso natural se vuelve clave en la economía durante el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["El guano", "El salitre", "La plata", "El oro"],
+          "correcta": 1
+        },
+        {
+          "pregunta": "¿Qué política implementa Manuel Pardo y Lavalle para enfrentar la crisis económica?",
+          "opciones": ["Política de austeridad", "Reformas fiscales", "Impuesto a la minería", "Nacionalización del guano"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida económica afectó principalmente a la defensa durante el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["Reducción del ejército y no compra de armas", "Impuesto sobre la guerra", "Aumento en el gasto militar", "Expropiación de empresas extranjeras"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué acción decide tomar el gobierno de Manuel Pardo y Lavalle con respecto a la deuda externa?",
+          "opciones": ["Deja de pagar la deuda externa", "La paga con nuevas emisiones de moneda", "Solicita un préstamo internacional", "Realiza una quita sobre la deuda"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué importancia tiene la descentralización durante el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["Recaudar impuestos de manera más equitativa", "Fomentar la centralización económica", "Fortalecer la economía de Lima", "Crear nuevos impuestos sobre los recursos naturales"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llama la rebelión de los hermanos Gutiérrez contra el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["La rebelión de 1872", "La rebelión de la Marina", "La sublevación de los ex consignatarios", "La insurrección de los militares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién protege a Manuel Pardo y Lavalle durante la rebelión de los hermanos Gutiérrez?",
+          "opciones": ["Miguel Grau", "José de la Riva Agüero", "Ramón Castilla", "Félix Berrocal"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué gran recurso natural se encontraba en Tarapacá y fue objeto de disputa en el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["El salitre", "El guano", "El cobre", "El oro"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida económica toma Manuel Pardo y Lavalle respecto al salitre de Tarapacá?",
+          "opciones": ["Lo nacionaliza", "Lo compra a empresas extranjeras", "Lo exporta sin restricciones", "Lo vende a Chile"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué cambio importante implementa Manuel Pardo y Lavalle en el sistema educativo del Perú?",
+          "opciones": ["La municipalización de la educación", "La creación de universidades nacionales", "La privatización de la educación primaria", "La creación de academias militares"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de educación se vuelve obligatoria y gratuita durante el gobierno de Manuel Pardo y Lavalle?",
+          "opciones": ["Educación primaria", "Educación secundaria", "Educación universitaria", "Educación técnica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo contribuye Manuel Pardo y Lavalle al desarrollo del sistema de educación superior?",
+          "opciones": ["Construcción de centros de educación superior", "Creación de becas para estudiar en el extranjero", "Fundación de nuevas universidades en Lima", "Reforma del sistema educativo para hacerla más inclusiva"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál es uno de los principales recursos de los consignatarios que perdieron al firmarse el contrato Dreyfus?",
+          "opciones": ["El guano", "El petróleo", "El salitre", "La plata"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué nombre recibe el period posterior al primer civilismo, cuando los militares vuelven al poder?",
+          "opciones": ["Segundo militarismo", "Segundo civilismo", "Revolución de 1879", "Reconstrucción nacional"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué guerra enfrenta el Perú al finalizar el primer civilismo?",
+          "opciones": ["La Guerra del Pacífico", "La Guerra con Colombia", "La Guerra de la Independencia", "La Guerra del Salitre"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué importante evento internacional afecta a los países industriales durante el periodo del primer civilismo?",
+          "opciones": ["La segunda Revolución Industrial", "La Paz Armada", "La crisis de 1890", "La expansión del imperialismo"],
+          "correcta": 0
+        }
+      ]
+    },
+    {
+      "titulo": "6.4 Segundo militarismo: Segundo Gobierno de Píérola",
+      "youtube_id": "b2532erMNSg",
+      "pdf_link": "",
+      "gratis": true,
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tratado firmó el Perú tras la derrota en la Guerra del Pacífico?",
+          "opciones": ["Tratado de Ancón", "Tratado de Lima", "Tratado de Paz", "Tratado de Tiahuanaco"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué territorio perdió Perú definitivamente tras la Guerra del Pacífico?",
+          "opciones": ["Tarapacá", "Tacna", "Arica", "Maynas"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué recursos naturales fueron fundamentales en la economía peruana antes de la guerra?",
+          "opciones": ["Guano y salitre", "Petróleo y oro", "Cobre y plata", "Café y cacao"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ciudad peruana fue devastada por la Expedición Lynch?",
+          "opciones": ["Piura", "Lima", "Arequipa", "Trujillo"],
+          "correcta": 3
+        },
+        {
+          "pregunta": "Según Jorge Basadre, ¿cuántas familias ricas quedaban en el Perú tras la guerra?",
+          "opciones": ["Cuatro", "Cinco", "Seis", "Tres"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de crisis sufrió Perú tras la Guerra del Pacífico?",
+          "opciones": ["Económica y social", "Ecológica y política", "Cultural y moral", "Militar y diplomática"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue la Rebelión Campesina de Huaraz?",
+          "opciones": ["Una revuelta por los impuestos y trabajos forzados", "Una rebelión militar", "Un movimiento de independencia", "Una lucha por el territorio de Tacna"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién lideró la Rebelión Campesina de Huaraz?",
+          "opciones": ["Pedro Pablo Atusparia", "Andrés A. Cáceres", "Miguel Iglesias", "Felipe Santiago Salaverry"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cómo se llamó la guerra civil entre Cáceres e Iglesias?",
+          "opciones": ["Guerra de los Quepís", "Guerra de los Andes", "Guerra de los Liberales", "Guerra del Pacífico"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién derrotó a Miguel Iglesias en la Batalla de Huaripampa?",
+          "opciones": ["Andrés A. Cáceres", "Ramón Castilla", "Nicolás de Piérola", "Manuel Pardo y Lavalle"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento importante ocurrió durante el Segundo Gobierno de Nicolás de Piérola?",
+          "opciones": ["La mejora económica", "La Guerra con Ecuador", "La instauración del primer civilismo", "La independencia del Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medidas tomó Nicolás de Piérola para reactivar la economía?",
+          "opciones": ["Eliminación de impuestos y reformas fiscales", "Nacionalización de empresas extranjeras", "Explotación de minas de plata", "Apertura de nuevas rutas comerciales con Europa"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué periodo se considera el inicio de la República Aristocrática?",
+          "opciones": ["Durante el gobierno de Nicolás de Piérola", "Con el gobierno de Andrés A. Cáceres", "Tras la Guerra Civil de 1895", "Con la independencia del Perú"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué contrato firmó el gobierno de Cáceres para resolver la deuda externa?",
+          "opciones": ["Contrato Grace", "Contrato Dreyfus", "Contrato de Ancón", "Contrato de Paz"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué recursos fueron entregados a los acreedores en el Contrato Grace?",
+          "opciones": ["Ferrocarriles, guano y tierras", "Oro y plata", "Salitre y cobre", "Áreas de minería y puertos"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fue la Peruvian Corporation?",
+          "opciones": ["Una empresa que explotó recursos en el Perú", "Una corporación militar", "Una empresa de ferrocarriles en Chile", "Una organización de la élite peruana"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué medida implementó Cáceres para descentralizar la administración del país?",
+          "opciones": ["Juntas departamentales", "Gobiernos regionales", "División de poderes", "Creación de nuevas provincias"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué discurso pronunció Manuel González Prada en 1888?",
+          "opciones": ["Discurso del Politeama", "Discurso del Congreso", "Discurso de la Independencia", "Discurso contra la corrupción"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué crítica hizo González Prada en su Discurso del Politeama?",
+          "opciones": ["Denunció la corrupción de las élites", "Criticó la falta de educación", "Apoyó la independencia de Tacna", "Defendió a la clase trabajadora"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué ley incentivó la migración europea a Perú durante la reconstrucción?",
+          "opciones": ["Ley de Inmigración de 1893", "Ley de Colonización de 1892", "Ley de Extranjeros", "Ley de Repatriación de 1894"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué beneficio ofrecía la Ley de Inmigración de 1893 a los europeos?",
+          "opciones": ["Pasajes, tierras y beneficios fiscales", "Un salario fijo por trabajar en el Perú", "Exoneración de impuestos por 5 años", "Ciudadanía inmediata a los inmigrantes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tratado buscó resolver el conflicto limítrofe con Ecuador?",
+          "opciones": ["Tratado García-Herrera", "Tratado de Ancón", "Tratado de Tumbes", "Tratado de Piérola"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué parte del Perú fue cedida a Ecuador en el Tratado García-Herrera?",
+          "opciones": ["Maynas", "Tacna", "Arica", "Tumbes"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué conflicto se prolongó debido a la falta de aprobación del Tratado García-Herrera?",
+          "opciones": ["El conflicto limítrofe con Ecuador", "La Guerra del Pacífico", "La guerra civil entre Cáceres e Iglesias", "El conflicto con Chile sobre Tacna y Arica"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué tipo de corrupción afectó las juntas departamentales creadas por Cáceres?",
+          "opciones": ["Corrupción local y política", "Corrupción en el Congreso", "Corrupción en el sistema judicial", "Corrupción militar"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Cuál fue el propósito principal del Contrato Grace de 1889?",
+          "opciones": ["Resolver la deuda externa del Perú", "Obtener independencia económica", "Reactivar la minería en el sur", "Fortalecer el ejército peruano"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué fecha marca el fin del Segundo Militarismo en Perú?",
+          "opciones": ["1895", "1890", "1900", "1919"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Quién fue el principal líder del Segundo Gobierno Militar en Perú?",
+          "opciones": ["Nicolás de Piérola", "Andrés A. Cáceres", "Ramón Castilla", "José Balta"],
+          "correcta": 0
+        },
+        {
+          "pregunta": "¿Qué evento dejó al Perú con una crisis económica tras la Guerra del Pacífico?",
+          "opciones": ["La pérdida de Tarapacá", "La invasión chilena a Lima", "La destrucción de las haciendas azucareras", "La disolución del Congreso"],
+          "correcta": 2
+        }
+        ]
+      }
+    ]
   }
 ]
 }

@@ -1,0 +1,2721 @@
+{
+  "curso": "Biología",
+  "temas": [
+    {
+      "titulo": "Tema 1: Introducción a la Biología y Seres Vivos",
+      "videos": [
+        {
+          "titulo": "1.1 Introducción a la Biología",
+          "youtube_id": "9OvG1gjJozQ",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué significa el término griego 'bios' según la definición de biología? [1]",
+    "opciones": [
+      "Estudio o tratado",
+      "Vida",
+      "Naturaleza",
+      "Organismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objeto de estudio de la biología descrito en el video? [1]",
+    "opciones": [
+      "La estructura de los seres vivos y sus procesos vitales",
+      "Únicamente la clasificación de las especies animales",
+      "Los elementos químicos inorgánicos",
+      "La formación geológica de la Tierra"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la disciplina de la fisiología? [1]",
+    "opciones": [
+      "La clasificación de los seres vivos",
+      "La función de los órganos de los seres vivos",
+      "Los fósiles y organismos del pasado",
+      "La estructura molecular de las células"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la citología, una de las disciplinas en las que se apoya la biología celular? [2]",
+    "opciones": [
+      "Los tejidos",
+      "La formación del cigoto",
+      "La célula en su estructura y sus funciones",
+      "Los genes y la herencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la histología? [2]",
+    "opciones": [
+      "Los tejidos formados por la unión de células",
+      "Los procesos virales",
+      "El desarrollo embrionario",
+      "La clasificación taxonómica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Con qué otro nombre se conoce a la anatomía? [2]",
+    "opciones": [
+      "Fisiología aplicada",
+      "Morfología biológica",
+      "Biología del desarrollo",
+      "Biofísica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la genética? [2]",
+    "opciones": [
+      "El estado físico de la materia viva",
+      "Los genes que determinan caracteres biológicos como fenotipo y genotipo",
+      "Exclusivamente el reino animal",
+      "Los microorganismos unicelulares"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la biología del desarrollo, también conocida como biología evolutiva? [3]",
+    "opciones": [
+      "La ontogenia, desde la fecundación del cigoto hasta la muerte",
+      "La estructura de las plantas",
+      "La propagación de enfermedades",
+      "Las moléculas inorgánicas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la biofísica? [3]",
+    "opciones": [
+      "La clasificación de los seres vivos",
+      "El estado físico de la materia viva",
+      "La propagación de virus",
+      "Los ecosistemas del pasado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De qué se encarga la taxonomía? [3]",
+    "opciones": [
+      "Estudiar las funciones celulares",
+      "Analizar el ADN y ARN",
+      "La clasificación de los seres vivos",
+      "Estudiar el entorno o hábitat"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la microbiología? [4]",
+    "opciones": [
+      "Todos los microorganismos unicelulares",
+      "Los animales vertebrados",
+      "Las plantas en toda su variedad",
+      "Los fósiles"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la paleoecología? [4]",
+    "opciones": [
+      "Las interacciones actuales en los ecosistemas",
+      "Los organismos y ecosistemas del pasado, relacionando a los fósiles",
+      "La estructura molecular de los seres vivos",
+      "Las enfermedades en una población"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Con qué otro nombre es conocida la biología molecular? [5]",
+    "opciones": [
+      "Biofísica",
+      "Morfología",
+      "Bioquímica",
+      "Citología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo define el video a los virus? [5]",
+    "opciones": [
+      "Microorganismos unicelulares vivos",
+      "Materia no viva que necesita de una célula para hacer copias de sí misma",
+      "Bacterias complejas",
+      "Tejidos orgánicos en descomposición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la epidemiología? [5]",
+    "opciones": [
+      "Cómo se propagan e inciden las enfermedades en una población",
+      "La estructura de los genes",
+      "El desarrollo del cigoto",
+      "La clasificación de las plantas"
+    ],
+    "correcta": 0
+  }
+          ]
+        },
+        {
+          "titulo": "1.2 Ramas de la Biología",
+          "youtube_id": "SaUprQT9gj0",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la motivación primaria de la biología descrita en el video?",
+    "opciones": [
+      "Clasificar plantas",
+      "Entender el origen, estructuras y correlaciones de los seres vivos",
+      "Estudiar los minerales",
+      "Analizar el clima"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué rama estudia la estructura ósea y muscular, considerando ubicación y forma?",
+    "opciones": [
+      "Fisiología",
+      "Anatomía",
+      "Taxonomía",
+      "Genética"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el interés principal de la astrobiología?",
+    "opciones": [
+      "Las plantas desérticas",
+      "La vida existente fuera del planeta Tierra",
+      "Los animales marinos",
+      "Los fósiles antiguos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué analiza la ingeniería bioquímica?",
+    "opciones": [
+      "Los procesos relacionados con la fermentación",
+      "La estructura ósea",
+      "El comportamiento animal",
+      "Los astros"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la biogeografía además de la distribución de los seres vivos?",
+    "opciones": [
+      "La estructura celular",
+      "El porqué de esa distribución y sus relaciones",
+      "La composición química del agua",
+      "La historia de la humanidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la bioinformática?",
+    "opciones": [
+      "Crear robots biológicos",
+      "Aplicar la informática a datos médicos o biológicos",
+      "Estudiar el hardware de computadoras",
+      "Analizar redes sociales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué se enfoca la biolingüística?",
+    "opciones": [
+      "En el canto de las aves",
+      "En los lenguajes de programación",
+      "En los fundamentos del lenguaje humano",
+      "En la comunicación de los delfines"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la biomecánica?",
+    "opciones": [
+      "La mecánica automotriz",
+      "Las consecuencias mecánicas del movimiento en el cuerpo humano",
+      "La estructura de las plantas",
+      "El movimiento de los planetas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la premisa principal de la biofísica?",
+    "opciones": [
+      "Que todo es caos",
+      "Que los fenómenos naturales tienen una explicación científica predecible",
+      "Que la biología no tiene relación con la física",
+      "Que solo importa la química"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué persigue la biotecnología?",
+    "opciones": [
+      "Combinar tecnología con sistemas biológicos para generar nuevos procesos",
+      "Estudiar la historia del arte",
+      "Observar estrellas",
+      "Crear mapas geográficos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función de la biología sintética?",
+    "opciones": [
+      "Generar organismos con genética modificada",
+      "Estudiar plásticos",
+      "Analizar rocas sintéticas",
+      "Observar el comportamiento de insectos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la ficología?",
+    "opciones": [
+      "Los ficus",
+      "Las algas",
+      "Los hongos",
+      "Las bacterias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de plantas estudia la astrobotánica?",
+    "opciones": [
+      "Las que crecen en jardines",
+      "Las plantas medicinales",
+      "Las capaces de desarrollarse en espacios con características extremas",
+      "Las plantas acuáticas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la cronobiología?",
+    "opciones": [
+      "La historia de la biología",
+      "Los ritmos biológicos y variaciones en el tiempo",
+      "La edad de los fósiles",
+      "El tiempo atmosférico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué surgió la conservación biológica?",
+    "opciones": [
+      "Por el aumento de bosques",
+      "Como consecuencia de la enorme pérdida de especies",
+      "Para estudiar nuevos planetas",
+      "Para mejorar la agricultura"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la criobiología?",
+    "opciones": [
+      "Estudiar volcanes",
+      "Criar animales de granja",
+      "Aprovechar las bajas temperaturas para conservar materia orgánica",
+      "Analizar el calor corporal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué se enfoca la embriología?",
+    "opciones": [
+      "En la vejez",
+      "En el estudio de los seres antes de su nacimiento",
+      "En la adolescencia",
+      "En la vida después de la muerte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la gerontología?",
+    "opciones": [
+      "Los procesos de la niñez",
+      "Los procesos que se producen en la vejez",
+      "El desarrollo muscular",
+      "La genética vegetal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la epigenética?",
+    "opciones": [
+      "El ADN mitocondrial",
+      "Las variaciones heredadas que no corresponden a alteraciones en la cadena de ADN",
+      "La clonación",
+      "La estructura de las proteínas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la microbiología?",
+    "opciones": [
+      "Animales grandes",
+      "Microorganismos que solo se ven con microscopio",
+      "Las estrellas",
+      "Los océanos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la parasitología?",
+    "opciones": [
+      "Los parásitos y su interacción con el hospedador",
+      "Las plantas parásitas solamente",
+      "La psicología humana",
+      "Los virus informáticos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿De qué se encarga la virología?",
+    "opciones": [
+      "De las bacterias",
+      "De los virus, su estructura y ciclo evolutivo",
+      "De los hongos",
+      "De las algas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué macromoléculas estudia la biología molecular?",
+    "opciones": [
+      "Solo el agua",
+      "ADN, ARN y hormonas",
+      "Minerales y rocas",
+      "Gases nobles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objeto de estudio de la paleontología?",
+    "opciones": [
+      "Las rocas sedimentarias",
+      "Los fósiles",
+      "Las cuevas marinas",
+      "La atmósfera antigua"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la fitopatología?",
+    "opciones": [
+      "El crecimiento de las plantas",
+      "Las enfermedades que afectan a las plantas (excluyendo daños por animales)",
+      "La clasificación de las flores",
+      "El uso medicinal de hierbas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fenómeno analiza la biología cuántica?",
+    "opciones": [
+      "La gravedad",
+      "El efecto túnel y procesos biológicos relacionados con el ámbito cuántico",
+      "La fotosíntesis clásica",
+      "La circulación sanguínea"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la biología estructural?",
+    "opciones": [
+      "La estructura de edificios",
+      "La estructura tridimensional de macromoléculas",
+      "El esqueleto humano",
+      "La forma de las hojas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la etiología?",
+    "opciones": [
+      "El comportamiento animal",
+      "Las causas que generan una enfermedad en particular",
+      "La ética biológica",
+      "El origen de las especies"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué rama de la zoología estudia los peces?",
+    "opciones": [
+      "Herpetología",
+      "Entomología",
+      "Ictiología",
+      "Ornitología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la herpetología?",
+    "opciones": [
+      "Mamíferos",
+      "Aves",
+      "Reptiles y anfibios",
+      "Insectos"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "1.3 Método Científico",
+          "youtube_id": "GXPCqoIpdIA",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué requisito fundamental menciona el video para hablar de un conocimiento científico?",
+    "opciones": [
+      "Que sea contado por muchas personas",
+      "Que se hable con evidencia",
+      "Que sea una tradición antigua",
+      "Que sea aprobado por un gobierno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué invención humana hace aproximadamente 10,000 años permitió al hombre tener tiempo para preguntarse el porqué de las cosas?",
+    "opciones": [
+      "La rueda",
+      "La escritura",
+      "La agricultura",
+      "La navegación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál fue la primera forma de explicación que el ser humano dio a los fenómenos naturales antes de la filosofía?",
+    "opciones": [
+      "Científica y metodológica",
+      "Matemática y lógica",
+      "Religiosa y mágica",
+      "Tecnológica e industrial"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué rama de la filosofía se encarga de estudiar el conocimiento científico?",
+    "opciones": [
+      "La ética",
+      "La epistemología",
+      "La estética",
+      "La metafísica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se clasifican las matemáticas y la lógica dentro de los tipos de ciencia?",
+    "opciones": [
+      "Ciencias fácticas",
+      "Ciencias sociales",
+      "Ciencias formales",
+      "Ciencias naturales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de ciencia es la biología según la clasificación presentada?",
+    "opciones": [
+      "Ciencia formal abstracta",
+      "Ciencia fáctica natural",
+      "Ciencia fáctica social",
+      "Ciencia metafísica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa etimológicamente la palabra biología?",
+    "opciones": [
+      "Estudio de la tierra",
+      "Tratado de la vida",
+      "Ciencia de los animales",
+      "Análisis de la materia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define la ciencia en el video?",
+    "opciones": [
+      "Un conjunto de creencias populares",
+      "Ideas aisladas de grandes pensadores",
+      "Conjunto de conocimientos estructurados producidos por investigación y experimentación",
+      "Cualquier teoría que suene lógica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué caracteriza a una ciencia fáctica u objetiva según el video?",
+    "opciones": [
+      "Es puramente abstracta como los números",
+      "Se basa solo en la fe",
+      "Es factible y tiene características perceptibles como olor, color o dimensiones",
+      "No requiere demostración física"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ejemplo químico se usa en el video para explicar un conocimiento objetivo sobre el olor?",
+    "opciones": [
+      "El olor a azufre de los volcanes",
+      "El olor a nitrógeno al quemar cabello",
+      "El olor a cloro en el agua",
+      "El olor a metano en el gas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la explicación científica mencionada para que una zona del cuerpo se ponga roja e inflamada?",
+    "opciones": [
+      "Acumulación de grasa",
+      "Dilatación de los vasos sanguíneos",
+      "Falta de oxígeno",
+      "Exceso de vello"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué características debe tener la evidencia científica para ser considerada como tal?",
+    "opciones": [
+      "Debe ser única e irrepetible",
+      "Debe ser demostrada, verificada y reproducible",
+      "Debe ser secreta y patentada",
+      "Debe ser aceptada sin cuestionamientos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la tecnología según la explicación del video?",
+    "opciones": [
+      "La invención de máquinas exclusivamente",
+      "La aplicación del conocimiento científico",
+      "Cualquier herramienta hecha de metal",
+      "El estudio teórico de la física"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de biotecnología mencionado?",
+    "opciones": [
+      "El descubrimiento de la célula",
+      "La aplicación de vacunas",
+      "El estudio básico del ADN",
+      "La clasificación taxonómica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A quiénes se les otorgó el Premio Nobel en 1962 por el estudio del ADN?",
+    "opciones": [
+      "Darwin, Wallace y Mendel",
+      "Watson, Crick y Wilkins",
+      "Franklin, Brown y Miescher",
+      "Pasteur, Koch y Fleming"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que los conocimientos científicos sean 'estructurados'?",
+    "opciones": [
+      "Que se enseñan en escuelas",
+      "Que un conocimiento trae otro y se usan como antecedentes",
+      "Que son rígidos y no pueden cambiar",
+      "Que están escritos en libros grandes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se entiende por 'marco teórico' en una investigación?",
+    "opciones": [
+      "El lugar físico donde se hace el estudio",
+      "El uso de estudios anteriores como antecedentes",
+      "El presupuesto del proyecto",
+      "La portada del trabajo final"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué descubrió el estudioso Brown en 1831?",
+    "opciones": [
+      "La estructura del ADN",
+      "El núcleo celular en células vegetales",
+      "Las bacterias",
+      "La penicilina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sustancia química descubrió Miescher en el núcleo celular en 1869?",
+    "opciones": [
+      "La proteína",
+      "La nucleína",
+      "La glucosa",
+      "La insulina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué descubrió Kossel en 1935 respecto a la composición del núcleo?",
+    "opciones": [
+      "Que estaba vacío",
+      "Que tenía cuatro bases: adenina, guanina, citosina y timina",
+      "Que era un cristal sólido",
+      "Que contenía solo agua"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es considerada en el video como la verdadera descubridora de la estructura de doble hélice mediante rayos X?",
+    "opciones": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Barbara McClintock",
+      "Ada Lovelace"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué técnica utilizó Rosalind Franklin para fotografiar el ADN?",
+    "opciones": [
+      "Microscopía electrónica",
+      "Difracción por rayos X (cristalografía)",
+      "Resonancia magnética",
+      "Tinción de Gram"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la cristalografía mencionada en el video?",
+    "opciones": [
+      "La formación de piedras preciosas",
+      "Los átomos y moléculas usando instrumentos como rayos X",
+      "Los cristales de hielo en los glaciares",
+      "La dureza de los minerales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad falleció Rosalind Franklin según el video?",
+    "opciones": [
+      "50 años",
+      "38 años",
+      "65 años",
+      "25 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué rama de la biología estudia actualmente los componentes fundamentales de la vida como el ADN?",
+    "opciones": [
+      "Biología marina",
+      "Biología molecular",
+      "Zoología",
+      "Botánica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué información contiene el ADN según el video?",
+    "opciones": [
+      "La información para construir nuestros rasgos físicos",
+      "La memoria de nuestros ancestros",
+      "Solo el color de los ojos",
+      "La fecha de nuestra muerte"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué permite hacer la ciencia con los conocimientos previos?",
+    "opciones": [
+      "Descartarlos inmediatamente",
+      "Refutarlos, confirmarlos o negarlos con nuevos estudios",
+      "Guardarlos en secreto",
+      "Evitar que cambien"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es importante cuestionar en la ciencia?",
+    "opciones": [
+      "Para molestar a los científicos",
+      "Para entender el porqué, para qué y cómo suceden las cosas",
+      "Para evitar estudiar",
+      "Para crear conflictos políticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre biología básica y biotecnología dada en el ejemplo del ADN?",
+    "opciones": [
+      "La biología básica clona y la biotecnología observa",
+      "El estudio del comportamiento de ácidos nucleicos es básica; la clonación es biotecnología",
+      "No hay diferencia",
+      "La biología básica es más cara"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la ciencia mencionado al final del video?",
+    "opciones": [
+      "Generar riqueza política",
+      "Mejorar la calidad de vida de las personas",
+      "Crear armas potentes",
+      "Ganar premios internacionales"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "1.4 Seres vivos - Características",
+          "youtube_id": "9qjDnWK08NQ",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "Según el video, ¿cómo se define a un ser vivo citando al libro de la pre?",
+    "opciones": [
+      "Un sistema cerrado e inerte",
+      "Un sistema abierto, complejo y altamente organizado",
+      "Una estructura simple sin intercambio de energía",
+      "Un organismo que solo realiza fotosíntesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas características de los seres vivos menciona el video que se deben aprender?",
+    "opciones": [
+      "Cinco",
+      "Diez",
+      "Ocho",
+      "Seis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué teoría establece que todo ser vivo está formado por células?",
+    "opciones": [
+      "Teoría de la Evolución",
+      "Teoría Celular",
+      "Teoría del Big Bang",
+      "Teoría de la Generación Espontánea"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué nivel de organización de la materia viva pertenece un virus según el video?",
+    "opciones": [
+      "Nivel Celular",
+      "Nivel Atómico",
+      "Nivel Supramolecular",
+      "Nivel Tisular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué el video afirma que un virus no es un ser vivo?",
+    "opciones": [
+      "Porque no tiene movimiento",
+      "Porque es muy pequeño",
+      "Porque no es una célula ni está formado por ellas",
+      "Porque no tiene colores"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre células procariotas y eucariotas mencionada en el video?",
+    "opciones": [
+      "El tamaño",
+      "La presencia o ausencia de carioteca (núcleo)",
+      "El color",
+      "La presencia de flagelos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde se encuentra el ADN en las células procariotas?",
+    "opciones": [
+      "Dentro del núcleo",
+      "En las mitocondrias",
+      "Disperso en el citoplasma",
+      "Fuera de la célula"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué organismos son ejemplos de seres unicelulares según el video?",
+    "opciones": [
+      "Humanos y perros",
+      "Plantas y hongos grandes",
+      "Bacterias y protozoarios",
+      "Insectos y aves"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia técnica mencionada entre organismos pluricelulares y multicelulares?",
+    "opciones": [
+      "El tamaño del organismo",
+      "Los pluricelulares tienen tejidos no diferenciados y los multicelulares tejidos diferenciados",
+      "No existe ninguna diferencia",
+      "Los multicelulares tienen menos células"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la reproducción según la definición dada?",
+    "opciones": [
+      "Generar movimiento",
+      "Consumir energía",
+      "Generar descendencia garantizando la perpetuidad de la especie",
+      "Aumentar el tamaño del individuo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la reproducción asexual?",
+    "opciones": [
+      "Participan dos progenitores",
+      "Existe fusión de gametos",
+      "No hay fusión de gametos y no hay variabilidad genética",
+      "Los hijos son muy diferentes a los padres"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de reproducción asexual realizan las bacterias?",
+    "opciones": [
+      "Fragmentación",
+      "Bipartición",
+      "Gemación",
+      "Partenogénesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué animal se menciona como ejemplo de reproducción por fragmentación?",
+    "opciones": [
+      "La abeja",
+      "El perro",
+      "La estrella de mar y la planaria",
+      "El ser humano"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la partenogénesis explicada con el ejemplo de las abejas?",
+    "opciones": [
+      "Cuando la abeja reina se divide en dos",
+      "El desarrollo de un individuo a partir de un óvulo no fecundado",
+      "La unión de dos abejas reinas",
+      "La regeneración de las alas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos progenitores pueden participar en la reproducción sexual según el video?",
+    "opciones": [
+      "Exclusivamente dos",
+      "Uno o dos",
+      "Más de tres",
+      "Ninguno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué permite la reproducción sexual que no permite la asexual?",
+    "opciones": [
+      "Velocidad",
+      "Variabilidad genética",
+      "Identidad genética total",
+      "Ahorro de energía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define el metabolismo en el video?",
+    "opciones": [
+      "El proceso de comer",
+      "Conjunto de reacciones bioquímicas catalizadas",
+      "El movimiento de los músculos",
+      "La capacidad de pensar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de las enzimas en el metabolismo?",
+    "opciones": [
+      "Frenar las reacciones químicas",
+      "Aumentar el consumo de energía",
+      "Acelerar las reacciones químicas y disminuir la energía de activación",
+      "Destruir las células"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué proceso metabólico convierte sustancias simples en complejas y consume energía?",
+    "opciones": [
+      "Catabolismo",
+      "Anabolismo",
+      "Digestión",
+      "Respiración"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proceso metabólico degrada sustancias complejas a simples y libera energía?",
+    "opciones": [
+      "Anabolismo",
+      "Fotosíntesis",
+      "Catabolismo",
+      "Crecimiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la irritabilidad?",
+    "opciones": [
+      "La capacidad de enojarse",
+      "La capacidad de responder a estímulos externos",
+      "El aumento de tamaño",
+      "El proceso de evolución"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un tropismo?",
+    "opciones": [
+      "Un movimiento con desplazamiento del organismo",
+      "Un movimiento involuntario orientado por un estímulo sin desplazamiento",
+      "Un cambio genético a largo plazo",
+      "La digestión de alimentos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de tropismo realiza el tallo respecto a la luz?",
+    "opciones": [
+      "Fototropismo negativo",
+      "Geotropismo positivo",
+      "Fototropismo positivo",
+      "Hidrotropismo positivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre tropismo y taxia?",
+    "opciones": [
+      "No hay diferencia",
+      "La taxia implica desplazamiento del organismo (común en animales)",
+      "El tropismo es solo para animales",
+      "La taxia es irreversible"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es una nastia, como en el caso de la planta 'mimosa' o sensitiva?",
+    "opciones": [
+      "Un crecimiento permanente",
+      "Una respuesta de apertura o cierre no orientada y reversible ante el tacto",
+      "Un movimiento hacia la luz",
+      "Una adaptación al frío"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la homeostasis?",
+    "opciones": [
+      "El proceso de reproducción celular",
+      "La regulación del equilibrio interno del organismo",
+      "La transformación de energía",
+      "El crecimiento muscular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo es el crecimiento en los animales comparado con las plantas?",
+    "opciones": [
+      "Los animales tienen crecimiento indefinido",
+      "Las plantas tienen crecimiento definido",
+      "Los animales tienen crecimiento definido y las plantas indefinido",
+      "Ambos crecen igual"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la adaptación según el video?",
+    "opciones": [
+      "Cambios genéticos en una población a largo plazo",
+      "Conjunto de cambios morfológicos, fisiológicos o etológicos del individuo a corto plazo",
+      "La capacidad de moverse",
+      "El proceso de morir"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia clave entre adaptación y evolución mencionada?",
+    "opciones": [
+      "La adaptación es de la población y la evolución del individuo",
+      "La adaptación es a corto plazo (individuo) y la evolución a largo plazo (población)",
+      "Son exactamente lo mismo",
+      "La evolución ocurre en un solo día"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes se menciona como un vestigio de evolución en el ser humano?",
+    "opciones": [
+      "El cerebro",
+      "El corazón",
+      "El apéndice y la muela del juicio",
+      "Los dedos de la mano"
+    ],
+    "correcta": 2
+  }
+          ]
+        },
+        {
+          "titulo": "1.5 Niveles de Organización",
+          "youtube_id": "rSre33QY3wM",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Cuáles son las partículas subatómicas que conforman el átomo mencionadas en el video?",
+    "opciones": [
+      "Quarks y leptones",
+      "Protones, neutrones y electrones",
+      "Positrones y neutrinos",
+      "Fotones y gluones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nivel de organización ocupa una molécula de agua?",
+    "opciones": [
+      "Nivel atómico",
+      "Nivel macro molecular",
+      "Nivel molecular",
+      "Nivel supramolecular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son las tres moléculas consideradas clásicamente como macromoléculas?",
+    "opciones": [
+      "Agua, sales y gases",
+      "Polisacáridos, proteínas y ácidos nucleicos",
+      "Glucosa, fructosa y sacarosa",
+      "Lípidos, vitaminas y minerales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué la glucosa no es considerada una macromolécula según el video?",
+    "opciones": [
+      "Porque es un gas",
+      "Porque es tóxica",
+      "Porque no tiene el tamaño suficiente, es un monosacárido",
+      "Porque es inorgánica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de lípidos sí podrían considerarse en el rango de macromoléculas por su gran tamaño?",
+    "opciones": [
+      "Los triglicéridos",
+      "Las ceras",
+      "El colesterol",
+      "Los ácidos grasos simples"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se le llama a la unidad sencilla que forma un polímero?",
+    "opciones": [
+      "Monómero",
+      "Dímero",
+      "Átomo",
+      "Célula"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué nivel de organización se encuentran los virus, los ribosomas y los cromosomas?",
+    "opciones": [
+      "Nivel Celular",
+      "Nivel Molecular",
+      "Nivel Supramolecular",
+      "Nivel Atómico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal para que una estructura sea considerada en el nivel organular (organela)?",
+    "opciones": [
+      "Que tenga ADN",
+      "Que sea membranosa (tenga membrana)",
+      "Que sea visible a simple vista",
+      "Que se encuentre fuera de la célula"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el nivel químico de mayor jerarquía antes de llegar a la célula?",
+    "opciones": [
+      "Supramolecular",
+      "Macromolecular",
+      "Orgánular",
+      "Atómico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Con qué otro nombre se conoce a los niveles químicos por estar debajo del nivel celular?",
+    "opciones": [
+      "Niveles abióticos superiores",
+      "Niveles subcelulares",
+      "Niveles ecológicos",
+      "Niveles tisulares"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el requisito para que un conjunto de células sea considerado un tejido?",
+    "opciones": [
+      "Que estén juntas simplemente",
+      "Que sean de diferentes especies",
+      "Que estén especializadas para cumplir una función determinada y tengan diferenciación",
+      "Que sean células procariotas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué un champiñón (hongo pluricelular) no tiene tejidos según la explicación?",
+    "opciones": [
+      "Porque es una planta",
+      "Porque sus células son similares y no existe diferenciación entre ellas",
+      "Porque es unicelular",
+      "Porque no tiene núcleo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué organismos se encuentran exclusivamente los tejidos?",
+    "opciones": [
+      "En bacterias y hongos",
+      "En protozoarios y algas",
+      "En las plantas propiamente dichas y los animales",
+      "En los virus"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué nivel de organización pertenece la sangre?",
+    "opciones": [
+      "Celular",
+      "Tisular (Tejido)",
+      "Orgánico",
+      "Sistémico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué nivel de organización pertenece un hueso específico como el fémur o un músculo como el bíceps?",
+    "opciones": [
+      "Tisular",
+      "Celular",
+      "Orgánico (Órgano)",
+      "Sistémico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el órgano más grande del cuerpo humano mencionado en el video?",
+    "opciones": [
+      "El hígado",
+      "El cerebro",
+      "El fémur",
+      "La piel"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cómo se llama el sistema de las plantas que incluye todas las partes por encima del suelo (hojas, flores, tallos)?",
+    "opciones": [
+      "Sistema radical",
+      "Sistema aéreo o vástago",
+      "Sistema circulatorio",
+      "Sistema nervioso vegetal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué nivel se encuentra la 'fibra muscular'?",
+    "opciones": [
+      "Nivel Tisular",
+      "Nivel Orgánico",
+      "Nivel Celular (es una célula)",
+      "Nivel Molecular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué niveles ocupa simultáneamente un organismo unicelular como una bacteria?",
+    "opciones": [
+      "Nivel Atómico y Molecular",
+      "Nivel Celular y Nivel Individuo (Organismo)",
+      "Nivel Tisular y Orgánico",
+      "Nivel Población y Comunidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia técnica entre tener vida y ser un ser vivo según el ejemplo de la neurona?",
+    "opciones": [
+      "La neurona tiene vida pero no es un ser vivo porque depende de una unidad mayor",
+      "La neurona es un ser vivo independiente",
+      "La neurona no tiene vida",
+      "No hay diferencia, son lo mismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se define una población?",
+    "opciones": [
+      "Conjunto de individuos de distintas especies",
+      "Conjunto de órganos",
+      "Conjunto de individuos de la misma especie",
+      "Un paisaje natural"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué constituye una colonia de bacterias?",
+    "opciones": [
+      "Una comunidad",
+      "Una población (aunque haya variantes, se asume una especie dominante o grupo específico)",
+      "Un ecosistema",
+      "Un organismo pluricelular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué constituye el conjunto de 'peces del mar'?",
+    "opciones": [
+      "Una población",
+      "Una comunidad (por haber diversas especies)",
+      "Un organismo",
+      "Un sistema"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un ecosistema?",
+    "opciones": [
+      "Solo los seres vivos de un lugar",
+      "Solo el medio ambiente físico",
+      "La interacción de factores bióticos (con vida) y abióticos (sin vida)",
+      "Un conjunto de tejidos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la ecosfera?",
+    "opciones": [
+      "La atmósfera solamente",
+      "El ecosistema planetario (todo el planeta como ecosistema)",
+      "El núcleo de la Tierra",
+      "Una capa de ozono"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo define el video a la biosfera usando una analogía?",
+    "opciones": [
+      "Como la pulpa de una manzana",
+      "Como la semilla de una fruta",
+      "Como la cáscara de vida del planeta (partes de litosfera, hidrosfera y atmósfera con vida)",
+      "Como el aire que respiramos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un científico estudia el canibalismo en cocodrilos, ¿en qué nivel está trabajando?",
+    "opciones": [
+      "Nivel individuo",
+      "Nivel población (requiere interacción entre individuos de la misma especie)",
+      "Nivel comunidad",
+      "Nivel celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el ejemplo del corral con gallos y gallinas, ¿qué nivel de organización representan?",
+    "opciones": [
+      "Comunidad",
+      "Población",
+      "Ecosistema",
+      "Biosfera"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nivel de organización representa una 'sabana africana' con leones, cebras, árboles y suelo?",
+    "opciones": [
+      "Población",
+      "Comunidad",
+      "Ecosistema",
+      "Tejido"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes términos no es considerado un término científico estricto y puede referirse tanto a tejido como a órgano?",
+    "opciones": [
+      "Hepatocito",
+      "Hueso",
+      "Neurona",
+      "Eritrocito"
+    ],
+    "correcta": 1
+  }
+          ]
+        },
+        {
+          "titulo": "1.6 El Agua - Biomoléculas Inorgánicas",
+          "youtube_id": "OqIhYmEHzIY",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué estudia la bioquímica según el video?",
+    "opciones": [
+      "La estructura de los ecosistemas",
+      "La composición química de los seres vivos",
+      "Los fósiles antiguos",
+      "El movimiento de los astros"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos elementos de la tabla periódica forman parte aproximadamente de los seres vivos?",
+    "opciones": [
+      "Todos los elementos",
+      "100 elementos",
+      "25 elementos",
+      "10 elementos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el criterio para clasificar a los bioelementos en primarios, secundarios y oligoelementos?",
+    "opciones": [
+      "Su peso atómico",
+      "Su abundancia",
+      "Su color",
+      "Su radioactividad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje de abundancia tienen los bioelementos primarios según San Marcos y Villarreal?",
+    "opciones": [
+      "50%",
+      "96%",
+      "99%",
+      "10%"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son los bioelementos primarios clásicos mencionados?",
+    "opciones": [
+      "Sodio, Potasio, Cloro y Magnesio",
+      "Carbono, Hidrógeno, Oxígeno y Nitrógeno (CHON)",
+      "Hierro, Zinc, Cobre y Oro",
+      "Calcio, Fósforo, Azufre y Litio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mnemotecnia se utiliza en el video para recordar los bioelementos secundarios?",
+    "opciones": [
+      "CHONSP",
+      "Pesca magna quiero cloro y fierro",
+      "La tabla del dos",
+      "Agua pasa por mi casa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los oligoelementos?",
+    "opciones": [
+      "Están en ínfimas concentraciones (elementos traza)",
+      "Son los más abundantes",
+      "No son necesarios para la vida",
+      "Son gases nobles"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre biomoléculas inorgánicas y orgánicas?",
+    "opciones": [
+      "Las inorgánicas tienen carbono",
+      "Las orgánicas tienen enlaces carbono-carbono y las inorgánicas no",
+      "Las inorgánicas son más grandes",
+      "No hay diferencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la biomolécula inorgánica más abundante en los seres vivos?",
+    "opciones": [
+      "La glucosa",
+      "El ADN",
+      "El agua",
+      "El calcio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la biomolécula orgánica más abundante en los seres vivos?",
+    "opciones": [
+      "Los lípidos",
+      "Las proteínas",
+      "Los glúcidos",
+      "Las vitaminas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué componente celular se encuentra el magnesio actuando como núcleo?",
+    "opciones": [
+      "En la hemoglobina",
+      "En la clorofila",
+      "En los huesos",
+      "En el ADN"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple el hierro mencionado en el video?",
+    "opciones": [
+      "Forma parte de la hemoglobina y transporta gases",
+      "Forma parte de la clorofila",
+      "Ayuda a la digestión",
+      "Forma el esqueleto de moléculas orgánicas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el nombre químico del agua mencionado en el video?",
+    "opciones": [
+      "Dióxido de carbono",
+      "Protóxido de hidrógeno",
+      "Peróxido de hidrógeno",
+      "Ácido sulfúrico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de enlace une a los átomos de hidrógeno con el oxígeno DENTRO de la molécula de agua?",
+    "opciones": [
+      "Enlace iónico",
+      "Enlace metálico",
+      "Puente de hidrógeno",
+      "Enlace covalente"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es el ángulo que forman los enlaces de hidrógeno en la molécula de agua?",
+    "opciones": [
+      "90 grados",
+      "180 grados",
+      "104.5 grados (aproximado a 105)",
+      "45 grados"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se dice que la molécula de agua es polar?",
+    "opciones": [
+      "Porque vive en el polo norte",
+      "Porque es fría",
+      "Porque tiene una carga positiva por un lado y negativa por el otro (dipolo)",
+      "Porque no tiene carga"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el enlace que une a una molécula de agua con OTRA molécula de agua?",
+    "opciones": [
+      "Enlace covalente",
+      "Enlace iónico",
+      "Puente de hidrógeno",
+      "Enlace peptídico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Con cuántas moléculas más puede unirse una molécula de agua gracias a su disposición?",
+    "opciones": [
+      "Con 1",
+      "Con 2",
+      "Con 4",
+      "Con 10"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué propiedad le permite al agua ser el disolvente universal?",
+    "opciones": [
+      "Su color transparente",
+      "Su polaridad (disuelve sustancias polares e iónicas)",
+      "Su sabor",
+      "Su densidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué propiedad del agua le permite actuar como termorregulador?",
+    "opciones": [
+      "El bajo punto de congelación",
+      "El alto calor específico",
+      "La baja ionización",
+      "La tensión superficial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple el líquido cefalorraquídeo mencionado como ejemplo?",
+    "opciones": [
+      "Digestiva",
+      "Respiratoria",
+      "Amortiguador mecánico",
+      "Reproductiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ocurre con la sal (NaCl) cuando se disuelve en agua?",
+    "opciones": [
+      "Se evapora inmediatamente",
+      "Se disocia en cationes y aniones rodeados por moléculas de agua",
+      "Se convierte en azúcar",
+      "Se vuelve sólida"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que el agua tenga una baja ionización?",
+    "opciones": [
+      "Que se disocia muy poco (no forma iones fácilmente)",
+      "Que es muy ácida",
+      "Que es muy básica",
+      "Que conduce mucha electricidad"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es la tensión superficial?",
+    "opciones": [
+      "La capacidad de subir por tubos",
+      "La resistencia de la superficie del agua que permite a insectos caminar sobre ella",
+      "La capacidad de disolver grasas",
+      "El cambio de estado a gas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué catión intracelular participa activamente en los impulsos nerviosos?",
+    "opciones": [
+      "Sodio",
+      "Calcio",
+      "Potasio",
+      "Hierro"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué catión extracelular participa en la bomba sodio-potasio?",
+    "opciones": [
+      "Potasio",
+      "Sodio",
+      "Magnesio",
+      "Cloro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde encontramos fósforo (P) en el cuerpo humano según el video?",
+    "opciones": [
+      "En los fosfolípidos de las membranas celulares y ácidos nucleicos",
+      "Solamente en los dientes",
+      "En la hemoglobina",
+      "En la clorofila"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el bioelemento más abundante en los seres vivos según el video (aprox 65%)?",
+    "opciones": [
+      "Carbono",
+      "Oxígeno",
+      "Nitrógeno",
+      "Calcio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál se menciona como el bioelemento más escaso (dentro de los mencionados) con 0.05%?",
+    "opciones": [
+      "Oxígeno",
+      "Carbono",
+      "Hierro",
+      "Hidrógeno"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué propiedad permite al agua subir por tubitos finos (capilaridad)?",
+    "opciones": [
+      "Adhesión y cohesión",
+      "Baja ionización",
+      "Alto calor de fusión",
+      "Sabor insípido"
+    ],
+    "correcta": 0
+  }
+          ]
+        },
+        {
+          "titulo": "1.7 Bioquímica",
+          "youtube_id": "BkbqoTmkh1Y",
+          "pdf_link": "https://drive.google.com/file/d/1f36Duaz5YaHr5uETAisJfsos0-HaiVL7/view",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Qué fenómeno permite que el agua suba por tubos delgados, como en las plantas?",
+    "opciones": [
+      "La ionización",
+      "La capilaridad",
+      "La solvatación",
+      "La densidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fuerzas permiten el fenómeno de la capilaridad?",
+    "opciones": [
+      "Gravedad y magnetismo",
+      "Adhesión y cohesión",
+      "Fusión y ebullición",
+      "Acidez y alcalinidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proceso crea los vacíos que ayudan a jalar el agua hacia arriba en las plantas?",
+    "opciones": [
+      "La fotosíntesis",
+      "La respiración radicular",
+      "La transpiración",
+      "La germinación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué propiedad se debe que caer mal en el agua ('panzazo') pueda causar dolor o lesiones?",
+    "opciones": [
+      "A la alta tensión superficial",
+      "Al bajo punto de congelación",
+      "A la densidad anómala",
+      "A la baja ionización"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué propiedad del agua le permite regular la temperatura corporal al absorber mucha energía sin calentarse rápido?",
+    "opciones": [
+      "Baja tensión superficial",
+      "Alto calor específico",
+      "Baja constante dieléctrica",
+      "Alto punto de fusión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el punto de ebullición del agua a nivel del mar?",
+    "opciones": [
+      "50 grados Celsius",
+      "100 grados Celsius",
+      "0 grados Celsius",
+      "80 grados Celsius"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica molecular permite al agua disolver sales y separarlas en iones?",
+    "opciones": [
+      "Su naturaleza apolar",
+      "Su alta constante dieléctrica y carácter dipolar",
+      "Su baja densidad",
+      "Su capacidad de congelarse"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso en el que el agua rodea a los iones de una sal disuelta?",
+    "opciones": [
+      "Oxidación",
+      "Solvatación o hidratación",
+      "Evaporación",
+      "Condensación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el punto de congelación del agua mencionado en el video?",
+    "opciones": [
+      "4 grados Celsius",
+      "-10 grados Celsius",
+      "0 grados Celsius",
+      "10 grados Celsius"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que el agua tenga bajo poder de ionización?",
+    "opciones": [
+      "Que aporta una pequeñísima cantidad de iones (se rompe difícilmente)",
+      "Que conduce mucha electricidad",
+      "Que se evapora rápido",
+      "Que siempre es ácida"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿A qué temperatura el agua alcanza su máxima densidad de 1 g/cm³?",
+    "opciones": [
+      "0 grados Celsius",
+      "4 grados Celsius",
+      "100 grados Celsius",
+      "25 grados Celsius"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con la densidad del agua cuando se congela?",
+    "opciones": [
+      "Aumenta",
+      "Se mantiene igual",
+      "Disminuye",
+      "Se vuelve infinita"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se rompe una botella de vidrio con agua si se deja en el congelador?",
+    "opciones": [
+      "Porque el vidrio se contrae demasiado",
+      "Porque el agua se expande al congelarse",
+      "Porque el hielo es más pesado",
+      "Por la presión atmosférica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué flotan los cubitos de hielo en una bebida?",
+    "opciones": [
+      "Porque tienen menos densidad que el agua líquida",
+      "Porque tienen más densidad que el agua líquida",
+      "Porque tienen aire adentro",
+      "Porque el vidrio los empuja"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuáles son los dos tipos de sales minerales mencionadas?",
+    "opciones": [
+      "Ácidas y básicas",
+      "Precipitadas y disociadas (disueltas)",
+      "Orgánicas e inorgánicas",
+      "Gaseosas y líquidas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las sales precipitadas?",
+    "opciones": [
+      "Regular el pH",
+      "Formar estructuras duras y esqueléticas",
+      "Transportar oxígeno",
+      "Generar energía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sales se mencionan como ejemplo de dar dureza a huesos y dientes?",
+    "opciones": [
+      "Cloruro de sodio",
+      "Carbonato de calcio y fosfato",
+      "Sulfato de magnesio",
+      "Nitrato de potasio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué el caparazón del cangrejo es más duro que el del camarón según el video?",
+    "opciones": [
+      "Porque tiene más agua",
+      "Porque tiene mayor cantidad de sales minerales precipitadas",
+      "Porque come más",
+      "Porque vive a mayor profundidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué forma toman las sales en presencia de agua?",
+    "opciones": [
+      "Se convierten en gases",
+      "Se disocian en iones o electrolitos",
+      "Se vuelven proteínas",
+      "Se precipitan inmediatamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ion es importante para iniciar la transmisión nerviosa (despolarización)?",
+    "opciones": [
+      "Calcio",
+      "Sodio",
+      "Hierro",
+      "Flúor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ion es fundamental para la contracción muscular?",
+    "opciones": [
+      "Cloro",
+      "Calcio",
+      "Yodo",
+      "Zinc"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué dolencia puede causar la falta de calcio en los músculos?",
+    "opciones": [
+      "Migraña",
+      "Calambre",
+      "Fiebre",
+      "Artritis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué iones regulan el equilibrio osmótico (paso de agua)?",
+    "opciones": [
+      "Hierro y cobre",
+      "Cloro y potasio",
+      "Carbono y nitrógeno",
+      "Oro y plata"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mide la escala de pH?",
+    "opciones": [
+      "La temperatura del agua",
+      "La concentración de iones hidrógeno (grado de acidez)",
+      "La cantidad de sal",
+      "La velocidad de la sangre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el rango de la escala de pH?",
+    "opciones": [
+      "De 0 a 100",
+      "De 0 a 14",
+      "De 1 a 10",
+      "De -5 a +5"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué valor de pH se considera neutro?",
+    "opciones": [
+      "0",
+      "7",
+      "14",
+      "10"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede con el valor del pH si aumenta la concentración de hidrógenos (se hace más ácido)?",
+    "opciones": [
+      "El número aumenta",
+      "El número disminuye (se acerca a 0)",
+      "Se mantiene en 7",
+      "Se vuelve negativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuánto varía la concentración real al cambiar una unidad de pH (ej. de 6 a 7)?",
+    "opciones": [
+      "Varia 1 vez",
+      "Varia 10 veces (escala logarítmica)",
+      "Varia 100 veces",
+      "Varia 2 veces"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el pH aproximado del plasma sanguíneo?",
+    "opciones": [
+      "2 a 3",
+      "7.4 (ligeramente alcalino)",
+      "14",
+      "5"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumplen los 'buffers' o tampones como la hemoglobina y el bicarbonato?",
+    "opciones": [
+      "Aumentar la temperatura",
+      "Regular los cambios bruscos de pH",
+      "Crear más acidez",
+      "Eliminar el agua del cuerpo"
+    ],
+    "correcta": 1
+  }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Bioquímica: Biomoléculas Orgánicas",
+      "videos": [
+        {
+          "titulo": "2.1 Glúcidos: Monosacáridos y Disacáridos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.2 Polisacáridos de Reserva y Estructurales",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.3 Lípidos: Clasificación y Funciones",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.4 Proteínas: Aminoácidos y Enlace Peptídico",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.5 Estructura y Función de las Proteínas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.6 Ácidos Nucleicos (ADN y ARN)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Citología I (Envolturas y Membrana)",
+      "videos": [
+        {
+          "titulo": "3.1 Teoría Celular y Tipos de Células",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.2 Célula Procariota vs Eucariota",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.3 Pared Celular y Glucocálix",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.4 Membrana Celular: Estructura",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.5 Transporte Pasivo y Activo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.6 Bombas y Transporte en Masa",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Citología II (Citoplasma y Núcleo)",
+      "videos": [
+        {
+          "titulo": "4.1 Citosol y Citoesqueleto",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.2 Sistema de Endomembranas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.3 Organelas de una membrana y dos membranas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.4 Mitocondrias y Cloroplastos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.5 Núcleo Celular y Cromatina",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.6 Repaso Citología",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Metabolismo Celular",
+      "videos": [
+        {
+          "titulo": "5.1 Introducción al Metabolismo (ATP y Enzimas)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.2 Fotosíntesis: Fase Luminosa",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.3 Fotosíntesis: Fase Oscura (Ciclo de Calvin)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.4 Respiración Celular Aeróbica: Glucólisis",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.5 Ciclo de Krebs y Cadena Respiratoria",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.6 Fermentación Láctica y Alcohólica",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Ciclo Celular y Reproducción",
+      "videos": [
+        {
+          "titulo": "6.1 Ciclo Celular: Interfase",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.2 Mitosis: Fases e Importancia",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.3 Meiosis I (Reduccional)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.4 Meiosis II (Ecuacional)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.5 Gametogénesis (Espermatogénesis y Ovogénesis)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.6 Reproducción Asexual en Animales y Plantas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Genética Mendeliana",
+      "videos": [
+        {
+          "titulo": "7.1 Conceptos Básicos de Genética",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.2 Primera Ley de Mendel",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.3 Segunda Ley de Mendel",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.4 Codominancia y Dominancia Incompleta",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.5 Alelos Múltiples (Grupos Sanguíneos)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.6 Ejercicios de Genética Mendeliana",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Genética Post-Mendeliana y Humana",
+      "videos": [
+        {
+          "titulo": "8.1 Determinación del Sexo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.2 Herencia Ligada al Sexo (Daltonismo y Hemofilia)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.3 Mutaciones Cromosómicas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.4 Síndromes Genéticos (Down, Turner, Klinefelter)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.5 Dogma Central de la Biología (Replicación, Transcripción)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.6 Traducción y Código Genético",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: Evolución y Origen de la Vida",
+      "videos": [
+        {
+          "titulo": "9.1 Teorías del Origen de la Vida",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.2 Evolución: Lamarck vs Darwin",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.3 Neodarwinismo y Pruebas de la Evolución",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.4 Evolución Humana (Hominización)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.5 Taxonomía y Nomenclatura Binomial",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.6 Los 5 Reinos Biológicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Reinos Monera, Protista y Fungi",
+      "videos": [
+        {
+          "titulo": "10.1 Reino Monera: Bacterias y Cianobacterias",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.2 Importancia y Enfermedades Bacterianas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.3 Reino Protista: Protozoarios",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.4 Reino Protista: Algas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.5 Reino Fungi: Características y Clasificación",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.6 Virus (No son seres vivos)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Reino Plantae (Botánica)",
+      "videos": [
+        {
+          "titulo": "11.1 Clasificación de las Plantas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.2 Histología Vegetal: Tejidos Meristemáticos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.3 Tejidos Adultos (Parenquima, Sostén, Conductor)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.4 Organografía: Raíz y Tallo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.5 Organografía: Hoja, Flor y Fruto",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.6 Fitohormonas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Reino Animalia (Zoología I)",
+      "videos": [
+        {
+          "titulo": "12.1 Clasificación y Criterios Zoológicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.2 Poríferos y Celentéreos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.3 Platelmintos y Nematodos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.4 Anélidos y Moluscos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.5 Artrópodos: Insectos, Arácnidos, Crustáceos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.6 Equinodermos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Reino Animalia (Zoología II - Cordados)",
+      "videos": [
+        {
+          "titulo": "13.1 Características de los Cordados",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.2 Peces (Condrictios y Osteíctios)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.3 Anfibios",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.4 Reptiles",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.5 Aves",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.6 Mamíferos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Anatomía I (Nutrición)",
+      "videos": [
+        {
+          "titulo": "14.1 Sistema Digestivo: Tubo Digestivo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.2 Sistema Digestivo: Glándulas Anexas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.3 Sistema Circulatorio: Corazón y Ciclo Cardiaco",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.4 Vasos Sanguíneos y Sangre",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.5 Sistema Respiratorio",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.6 Sistema Excretor",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Anatomía II (Relación y Reproducción)",
+      "videos": [
+        {
+          "titulo": "15.1 Sistema Nervioso Central",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.2 Sistema Nervioso Periférico y Autónomo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.3 Sistema Endocrino: Glándulas Principales",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.4 Sistema Reproductor Masculino",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.5 Sistema Reproductor Femenino y Ciclo Menstrual",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.6 Sistema Inmunológico",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Ecología y Ambiente",
+      "videos": [
+        {
+          "titulo": "16.1 Conceptos de Ecología y Niveles",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.2 Dinámica de Poblaciones y Comunidades",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.3 Cadenas y Redes Tróficas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.4 Ciclos Biogeoquímicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.5 Contaminación Ambiental y Cambio Climático",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.6 Áreas Naturales Protegidas del Perú",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    }
+  ]
+}

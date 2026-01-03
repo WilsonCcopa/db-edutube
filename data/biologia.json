@@ -2013,49 +2013,1755 @@
       ]
     },
     {
-      "titulo": "Tema 2: Bioquímica: Biomoléculas Orgánicas",
+      "titulo": "Tema 2: La Célula",
       "videos": [
         {
-          "titulo": "2.1 Glúcidos: Monosacáridos y Disacáridos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.1 Citología",
+          "youtube_id": "iNgwDKVkOrw",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+             {
+    "pregunta": "¿Quiénes son los tres representantes principales de la teoría celular mencionados en el video?",
+    "opciones": [
+      "Watson, Crick y Franklin",
+      "Schleiden, Schwann y Virchow",
+      "Darwin, Wallace y Mendel",
+      "Singer, Nicholson y Hooke"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente de la envoltura celular presentan las plantas?",
+    "opciones": [
+      "Glucocálix",
+      "Pared celular",
+      "Cápsula viral",
+      "Quitina pura"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el componente principal de la pared celular en los hongos?",
+    "opciones": [
+      "Celulosa",
+      "Mureína",
+      "Quitina",
+      "Peptidoglucano"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple el glucocálix relacionada con los trasplantes de órganos?",
+    "opciones": [
+      "La síntesis de ATP",
+      "La protección osmótica",
+      "El reconocimiento celular y compatibilidad",
+      "La fotosíntesis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué modelo explica la estructura de la membrana celular?",
+    "opciones": [
+      "Modelo de la llave y cerradura",
+      "Modelo del mosaico fluido",
+      "Modelo estático",
+      "Modelo de doble hélice"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componentes garantizan la fluidez de la membrana celular?",
+    "opciones": [
+      "Las proteínas integrales",
+      "Los glúcidos del glucocálix",
+      "Los ácidos grasos insaturados y el colesterol",
+      "Los ribosomas adheridos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué caracteriza al transporte pasivo?",
+    "opciones": [
+      "Gasta energía (ATP) y va en contra de la gradiente",
+      "No gasta energía y va a favor de la gradiente (mayor a menor concentración)",
+      "Utiliza bombas de sodio y potasio",
+      "Solo ocurre en células muertas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de transporte utiliza la bomba de sodio y potasio?",
+    "opciones": [
+      "Difusión simple",
+      "Difusión facilitada",
+      "Transporte activo",
+      "Ósmosis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el fenómeno de ingreso de agua a la célula vegetal en un medio hipotónico?",
+    "opciones": [
+      "Plasmólisis",
+      "Turgencia",
+      "Crenación",
+      "Lisis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede en la plasmólisis?",
+    "opciones": [
+      "La célula vegetal expulsa agua y se deshidrata",
+      "La célula animal revienta",
+      "La célula vegetal absorbe agua hasta hincharse",
+      "El núcleo se divide"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estructura celular animal es homóloga a la turgencia vegetal pero termina en el estallido de la célula?",
+    "opciones": [
+      "Crenación",
+      "Plasmólisis",
+      "Lisis",
+      "Mitosis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la ósmosis?",
+    "opciones": [
+      "El transporte de solutos con gasto de energía",
+      "El transporte de agua de una zona más diluida a otra menos diluida a través de membranas",
+      "La síntesis de proteínas",
+      "La digestión celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la naturaleza física del citoplasma?",
+    "opciones": [
+      "Sólida rígida",
+      "Gaseosa",
+      "Coloidal",
+      "Cristalina"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué proteína forma los microfilamentos del citoesqueleto?",
+    "opciones": [
+      "Tubulina",
+      "Queratina",
+      "Actina",
+      "Colágeno"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué organela se encarga de la digestión celular y la autofagia?",
+    "opciones": [
+      "Mitocondria",
+      "Lisosoma",
+      "Ribosoma",
+      "Aparato de Golgi"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las mitocondrias?",
+    "opciones": [
+      "La fotosíntesis",
+      "La digestión celular",
+      "La respiración celular y síntesis de ATP",
+      "El almacenamiento de agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función realizan los ribosomas?",
+    "opciones": [
+      "Síntesis de lípidos",
+      "Síntesis de proteínas",
+      "Empaquetamiento de secreciones",
+      "Formación del huso acromático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué organela se encarga de la detoxificación celular (ej. degradar alcohol)?",
+    "opciones": [
+      "Retículo endoplasmático rugoso",
+      "Aparato de Golgi",
+      "Retículo endoplasmático liso",
+      "Lisosomas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué organela sintetiza las proteínas de exportación?",
+    "opciones": [
+      "Retículo endoplasmático liso",
+      "Retículo endoplasmático rugoso",
+      "Peroxisoma",
+      "Centriolo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del Aparato de Golgi?",
+    "opciones": [
+      "Respiración celular",
+      "Secreción celular y modificación de proteínas",
+      "Síntesis de ADN",
+      "Fotosíntesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué plastidio almacena pigmentos de color en las plantas?",
+    "opciones": [
+      "Cloroplasto",
+      "Leucoplasto",
+      "Cromoplasto",
+      "Proteinoplasto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple el cloroplasto?",
+    "opciones": [
+      "Almacenar almidón",
+      "Realizar la fotosíntesis",
+      "Degradar lípidos",
+      "Respiración celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué organela vegetal convierte los lípidos en glúcidos (ciclo del glioxilato)?",
+    "opciones": [
+      "Peroxisoma",
+      "Glioxisoma",
+      "Ribosoma",
+      "Lisosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la membrana de la vacuola?",
+    "opciones": [
+      "Carioteca",
+      "Tonoplasto",
+      "Plasmalema",
+      "Glucocálix"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura sintetiza los ribosomas dentro del núcleo?",
+    "opciones": [
+      "La carioteca",
+      "El nucleolo",
+      "La cromatina",
+      "El carioplasma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la cromatina?",
+    "opciones": [
+      "ADN más histonas",
+      "ARN puro",
+      "Proteínas del citoesqueleto",
+      "Lípidos de membrana"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué son los telómeros en un cromosoma?",
+    "opciones": [
+      "La parte central estrecha",
+      "Los extremos del cromosoma relacionados con la vejez",
+      "Las proteínas que unen las cromátides",
+      "El fluido nuclear"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué organela realiza la apoptosis o muerte celular programada?",
+    "opciones": [
+      "Mitocondria",
+      "Lisosoma",
+      "Ribosoma",
+      "Centriolo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura forma el huso acromático en las células animales?",
+    "opciones": [
+      "Casquete polar",
+      "Centrosoma (Centriolos)",
+      "Pared celular",
+      "Vacuola"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde se realiza la síntesis de esteroides?",
+    "opciones": [
+      "Retículo endoplasmático liso",
+      "Retículo endoplasmático rugoso",
+      "Nucleolo",
+      "Ribosomas"
+    ],
+    "correcta": 0
+  }
+          ]
         },
         {
-          "titulo": "2.2 Polisacáridos de Reserva y Estructurales",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.2 Célula Procariota",
+          "youtube_id": "M9tgN0_Xq1Y",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿A qué reino pertenecen las bacterias según la clasificación tradicional mencionada?",
+    "opciones": [
+      "Reino Fungi",
+      "Reino Protista",
+      "Reino Monera",
+      "Reino Plantae"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño de los ribosomas en las células procariotas?",
+    "opciones": [
+      "80S",
+      "70S",
+      "50S",
+      "40S"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llaman las bacterias que tienen forma redonda?",
+    "opciones": [
+      "Bacilos",
+      "Espirilos",
+      "Cocos",
+      "Vibriones"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se denomina a una agrupación de cocos en forma de cadena o fila?",
+    "opciones": [
+      "Estafilococos",
+      "Estreptococos",
+      "Diplococos",
+      "Tétradas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llaman las bacterias con forma de racimo de uvas?",
+    "opciones": [
+      "Estreptococos",
+      "Estafilococos",
+      "Espirilos",
+      "Bacilos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué forma tiene una bacteria tipo 'vibrio'?",
+    "opciones": [
+      "Forma de esfera",
+      "Forma de bastón",
+      "Forma de coma",
+      "Forma de resorte"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se clasifica una bacteria que tiene flagelos en todo su perímetro?",
+    "opciones": [
+      "Monotrica",
+      "Lofotrica",
+      "Anfitrica",
+      "Peritrica"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué significa que una bacteria sea 'anfitrica'?",
+    "opciones": [
+      "Que no tiene flagelos",
+      "Que tiene flagelos a ambos lados",
+      "Que tiene un solo flagelo",
+      "Que tiene flagelos en todo el cuerpo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son las bacterias saprófitas?",
+    "opciones": [
+      "Las que producen su propio alimento",
+      "Las que consumen materia orgánica muerta o en descomposición",
+      "Las que viven sin oxígeno",
+      "Las que realizan fotosíntesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué producen las bacterias 'E. coli' en el intestino?",
+    "opciones": [
+      "Vitamina C",
+      "Vitamina K",
+      "Alcohol",
+      "Oxígeno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De qué color se tiñen las bacterias Gram positivas?",
+    "opciones": [
+      "Rosado o rojo",
+      "Verde",
+      "Azul o violeta",
+      "Amarillo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la pared celular de las Gram positivas?",
+    "opciones": [
+      "Tienen poca mureína",
+      "Tienen abundante mureína",
+      "No tienen pared celular",
+      "Tienen doble membrana externa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De qué color se tiñen las bacterias Gram negativas?",
+    "opciones": [
+      "Violeta",
+      "Rosado o rojo",
+      "Negro",
+      "Blanco"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura le da el poder patógeno a la bacteria y evita la fagocitosis?",
+    "opciones": [
+      "La membrana celular",
+      "La cápsula",
+      "El ribosoma",
+      "El mesosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enfermedad causa el 'Vibrio cholerae'?",
+    "opciones": [
+      "Tuberculosis",
+      "Cólera",
+      "Neumonía",
+      "Caries"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la importancia ecológica principal de las bacterias?",
+    "opciones": [
+      "Son productores primarios",
+      "Son el último eslabón de la cadena trófica (descomponedores)",
+      "Son consumidores terciarios",
+      "No tienen importancia ecológica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué bacteria causa la tuberculosis?",
+    "opciones": [
+      "Salmonella typhi",
+      "Mycobacterium tuberculosis (Bacilo de Koch)",
+      "Streptococcus pneumoniae",
+      "Treponema pallidum"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ácido se encuentra en la pared celular de las bacterias Gram positivas?",
+    "opciones": [
+      "Ácido clorhídrico",
+      "Ácido teicoico",
+      "Ácido desoxirribonucleico",
+      "Ácido acético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llaman las invaginaciones de la membrana celular bacteriana?",
+    "opciones": [
+      "Cilios",
+      "Mesosomas",
+      "Plásmidos",
+      "Inclusiones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del mesosoma lateral?",
+    "opciones": [
+      "División celular",
+      "Respiración celular",
+      "Fotosíntesis",
+      "Síntesis de proteínas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del mesosoma de tabique?",
+    "opciones": [
+      "Sostener el flagelo",
+      "División celular (sostener el ADN)",
+      "Respiración celular",
+      "Digestión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la zona donde se encuentra el ADN en la bacteria?",
+    "opciones": [
+      "Núcleo",
+      "Nucleoide",
+      "Ribosoma",
+      "Cápsula"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo es el ADN de las bacterias?",
+    "opciones": [
+      "Lineal y con histonas",
+      "Circular y desnudo (sin histonas)",
+      "Fragmentado en cromosomas",
+      "De cadena simple"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el plásmido?",
+    "opciones": [
+      "Un organelo de respiración",
+      "Un segmento extra de ADN circular usado en conjugación",
+      "Una proteína de membrana",
+      "Un tipo de ribosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué sirven las fimbrias?",
+    "opciones": [
+      "Para la locomoción",
+      "Para la adherencia a superficies",
+      "Para la respiración",
+      "Para la síntesis de alimentos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura bacteriana se utiliza para el intercambio de material genético (conjugación)?",
+    "opciones": [
+      "El flagelo",
+      "El pili sexual",
+      "La cápsula",
+      "El ribosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente químico forma la membrana celular bacteriana?",
+    "opciones": [
+      "Solo proteínas",
+      "Fosfolípidos (bicapa) y proteínas",
+      "Celulosa",
+      "Quitina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué bacteria se menciona como causante de la caries dental?",
+    "opciones": [
+      "Streptococcus mutans",
+      "E. coli",
+      "Salmonella",
+      "Bacillus"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumplen las inclusiones en el citoplasma bacteriano?",
+    "opciones": [
+      "Movimiento",
+      "Almacenamiento de alimento/reservas",
+      "Reproducción",
+      "Respiración"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el proceso de transferencia de plásmidos entre bacterias?",
+    "opciones": [
+      "Mitosis",
+      "Conjugación",
+      "Meiosis",
+      "Esporulación"
+    ],
+    "correcta": 1
+  }
+          ]
         },
         {
-          "titulo": "2.3 Lípidos: Clasificación y Funciones",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.3 Célula Procariota: Partes, Características",
+          "youtube_id": "nGa9O2VecEk",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué organismos conforman a las células procariotas según el video?",
+    "opciones": [
+      "Animales y plantas",
+      "Hongos y protistas",
+      "Bacterias y arqueas",
+      "Virus y priones"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el significado etimológico de 'procariota'?",
+    "opciones": [
+      "Sin membrana",
+      "Antes del núcleo",
+      "Núcleo verdadero",
+      "Célula pequeña"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se encuentra el ADN en las células procariotas?",
+    "opciones": [
+      "Disperso aleatoriamente por todo el citoplasma",
+      "Encerrado en una carioteca",
+      "Concentrado en una región conocida como nucleoide",
+      "Dentro de las mitocondrias"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia de tamaño promedio entre una célula procariota y una célula animal pequeña?",
+    "opciones": [
+      "Son del mismo tamaño",
+      "La procariota es hasta 15 veces más pequeña",
+      "La procariota es el doble de grande",
+      "La procariota es 100 veces más grande"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica interna distingue a las procariotas de las eucariotas?",
+    "opciones": [
+      "Carecen de compartimientos membranosos u orgánulos",
+      "Tienen múltiples núcleos",
+      "No tienen citosol",
+      "Tienen cloroplastos grandes"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de reproducción realizan las células procariotas al dividirse?",
+    "opciones": [
+      "Exclusivamente sexual con gametos",
+      "Exclusivamente asexual, generando células idénticas",
+      "Por esporas sexuales",
+      "Por fertilización in vitro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De qué está compuesta químicamente la cápsula de algunas células procariotas?",
+    "opciones": [
+      "Solo de agua",
+      "De azúcares asociados con lípidos y proteínas",
+      "De ADN puro",
+      "De celulosa exclusivamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de las fimbrias?",
+    "opciones": [
+      "La digestión de alimentos",
+      "La fotosíntesis",
+      "Permitir la movilidad y la adherencia a superficies",
+      "Almacenar agua"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructura utilizan algunas bacterias para la conjugación o intercambio genético?",
+    "opciones": [
+      "El flagelo",
+      "La cápsula",
+      "El pili sexual",
+      "El ribosoma"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo describe el video a los flagelos?",
+    "opciones": [
+      "Estructuras cortas y ramificadas",
+      "Filamentos largos con aspecto de cola compuestos por proteínas",
+      "Bolsas de aire para flotar",
+      "Capa gelatinosa protectora"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de la membrana celular descrita en el video?",
+    "opciones": [
+      "Generar energía nuclear",
+      "Funcionar como un filtro selectivo de moléculas",
+      "Producir ribosomas",
+      "Almacenar el ADN"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué sirve la pared celular en las bacterias?",
+    "opciones": [
+      "Para la reproducción sexual",
+      "Para proteger de la deshidratación y dar rigidez",
+      "Para captar luz solar",
+      "Para digerir proteínas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son los plásmidos?",
+    "opciones": [
+      "Fragmentos de ADN más pequeños que aportan información valiosa",
+      "Proteínas de desecho",
+      "Organelos respiratorios",
+      "Virus invasores"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función de los ribosomas en el citosol bacteriano?",
+    "opciones": [
+      "La traducción del mensaje del ADN para formar proteínas",
+      "La protección contra el calor",
+      "El movimiento celular",
+      "La formación de la pared celular"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué forma tienen los procariotas conocidos como 'cocos'?",
+    "opciones": [
+      "Forma de bastón",
+      "Forma de espiral",
+      "Forma esférica",
+      "Forma de cubo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se agrupan comúnmente los cocos en la naturaleza según el video?",
+    "opciones": [
+      "En forma de estrella",
+      "En grupos similares a un racimo de uvas",
+      "En láminas planas",
+      "Solitarios siempre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué forma tienen los bacilos?",
+    "opciones": [
+      "Forma de esfera",
+      "Aspecto bastoniforme (forma de bastón)",
+      "Forma de coma",
+      "Forma triangular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde reside comúnmente la bacteria Escherichia coli mencionada como ejemplo?",
+    "opciones": [
+      "En el intestino humano",
+      "En los pulmones",
+      "En el agua hirviendo",
+      "En la piel de los anfibios"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué característica peculiar tiene la arquea 'Haloarcula quadrata' (mencionada fonéticamente en el video)?",
+    "opciones": [
+      "Tiene forma de caja o cubo",
+      "Es invisible al microscopio",
+      "Tiene forma de espiral",
+      "Vive en el hielo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Dónde vive la arquea 'Nitrosocaldus yellowstonii'?",
+    "opciones": [
+      "En el intestino de las vacas",
+      "En el Parque Nacional de Yellowstone (lugares muy calientes)",
+      "En el fondo del océano Ártico",
+      "En las raíces de las plantas"
+    ],
+    "correcta": 1
+  }
+          ]
         },
         {
-          "titulo": "2.4 Proteínas: Aminoácidos y Enlace Peptídico",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.4 Bacterias - Repaso",
+          "youtube_id": "cVwJc3x-w3g",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué autor propuso los reinos Eubacteria y Archaebacteria, separando al antiguo reino Monera?",
+    "opciones": [
+      "Whittaker",
+      "Carl Woese",
+      "Darwin",
+      "Pasteur"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño de los ribosomas en las bacterias?",
+    "opciones": [
+      "80S",
+      "70S",
+      "50S",
+      "40S"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la forma inactiva y resistente de una bacteria?",
+    "opciones": [
+      "Cápsula",
+      "Espora",
+      "Plásmido",
+      "Mesosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre reciben las bacterias con forma de coma?",
+    "opciones": [
+      "Cocos",
+      "Bacilos",
+      "Vibriones",
+      "Espirilos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se clasifican las bacterias que tienen un mechón de flagelos en un solo lado?",
+    "opciones": [
+      "Monotricas",
+      "Lofotricas",
+      "Anfitricas",
+      "Peritricas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que una bacteria sea peritrica?",
+    "opciones": [
+      "Que no tiene flagelos",
+      "Que tiene un flagelo a cada lado",
+      "Que tiene flagelos en todo su perímetro",
+      "Que tiene un solo flagelo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de nutrición tienen las bacterias que degradan compuestos inorgánicos para convertirlos en orgánicos?",
+    "opciones": [
+      "Fotolitótrofas",
+      "Quimiolitótrofas",
+      "Saprófitas",
+      "Parásitas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llaman las bacterias heterótrofas que se alimentan de materia muerta?",
+    "opciones": [
+      "Parásitas",
+      "Mutualistas",
+      "Saprófitas",
+      "Autótrofas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ejemplo se da de una bacteria aerobia estricta usada para hacer vinagre?",
+    "opciones": [
+      "Escherichia coli",
+      "Lactobacillus bulgaricus",
+      "Acetobacter aceti",
+      "Bartonella"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se clasifica a la Escherichia coli según su respiración?",
+    "opciones": [
+      "Aerobia estricta",
+      "Anaerobia estricta",
+      "Anaerobia facultativa",
+      "Microaerófila"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿De qué color se tiñen las bacterias Gram positivas?",
+    "opciones": [
+      "Rojo o rosado",
+      "Violeta o azul",
+      "Verde",
+      "Amarillo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente de la pared celular determina si una bacteria es Gram positiva o negativa?",
+    "opciones": [
+      "La celulosa",
+      "El peptidoglucano (mureína)",
+      "La quitina",
+      "El colesterol"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura bacteriana otorga el poder patógeno y evita la fagocitosis?",
+    "opciones": [
+      "El flagelo",
+      "La cápsula",
+      "El ribosoma",
+      "El mesosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué sirve el mesosoma lateral?",
+    "opciones": [
+      "Para la fotosíntesis",
+      "Para sostener el ADN",
+      "Para la respiración celular",
+      "Para la digestión"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función del mesosoma de tabique?",
+    "opciones": [
+      "Realizar la respiración celular",
+      "Sostener al ADN durante la división",
+      "Formar la cápsula",
+      "Sintetizar proteínas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del pili ordinario?",
+    "opciones": [
+      "Conjugación bacteriana",
+      "Adherencia a superficies",
+      "Respiración",
+      "Almacenamiento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué sirve el pili sexual?",
+    "opciones": [
+      "Locomoción",
+      "Adherencia",
+      "Conjugación bacteriana",
+      "Fotosíntesis"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son las inclusiones citoplasmáticas?",
+    "opciones": [
+      "Reservas energéticas (almidón, lípidos)",
+      "Fragmentos de ADN",
+      "Organelos digestivos",
+      "Virus inactivos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo es el ADN en el nucleoide de las bacterias?",
+    "opciones": [
+      "Lineal y con histonas",
+      "Circular y desnudo (sin histonas)",
+      "Fragmentado",
+      "De cadena simple"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué bacterias se caracterizan por ser las más pequeñas y no tener pared celular?",
+    "opciones": [
+      "Rickettsias",
+      "Micoplasmas",
+      "Clamidias",
+      "Cianobacterias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué bacteria causa el 'mal de Carrión'?",
+    "opciones": [
+      "Bartonella bacilliformis",
+      "Escherichia coli",
+      "Acetobacter aceti",
+      "Lactobacillus"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de tinción presentan las Rickettsias, Clamidias y Micoplasmas?",
+    "opciones": [
+      "Gram positivas",
+      "Gram negativas",
+      "No se tiñen",
+      "Gram neutras"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué pigmentos fotorreceptores tienen las cianobacterias?",
+    "opciones": [
+      "Clorofila y ficocianina",
+      "Hemoglobina y caroteno",
+      "Melanina y clorofila",
+      "Xantofila y rodopsina"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué ejemplo de cianobacteria comestible en los Andes se menciona?",
+    "opciones": [
+      "El yuyo",
+      "El cushuro (o nostoc)",
+      "El musgo",
+      "La espirulina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué componente tienen las arqueobacterias en su pared celular en lugar de mureína?",
+    "opciones": [
+      "Celulosa",
+      "Pseudopeptidoglucano",
+      "Quitina",
+      "Queratina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde viven las arqueobacterias termoacidófilas?",
+    "opciones": [
+      "En el hielo",
+      "En manantiales ácidos y calientes (ej. Yellowstone)",
+      "En el intestino humano",
+      "En agua salada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué producen las arqueobacterias metanógenas?",
+    "opciones": [
+      "Oxígeno",
+      "Metano",
+      "Azufre",
+      "Alcohol"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde suelen vivir las bacterias metanógenas?",
+    "opciones": [
+      "En la piel",
+      "En desagües o el tubo digestivo de animales",
+      "En la superficie del mar",
+      "En las nubes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde habitan las arqueobacterias halófilas extremas?",
+    "opciones": [
+      "En ambientes con extremada salinidad",
+      "En ambientes muy ácidos",
+      "En ambientes muy fríos",
+      "En agua dulce"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Según el video, qué bacterias se consideran las precursoras de la vida en el planeta?",
+    "opciones": [
+      "Las cianobacterias",
+      "Las arqueobacterias termoacidófilas",
+      "Las rickettsias",
+      "Los micoplasmas"
+    ],
+    "correcta": 1
+  }
+          ]
         },
         {
-          "titulo": "2.5 Estructura y Función de las Proteínas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.5 Célula Eucariota",
+          "youtube_id": "zhDUWilWzSg",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la definición de célula dada en el video?",
+    "opciones": [
+      "La parte más pequeña del cuerpo que tiene átomos",
+      "La parte más pequeña del cuerpo que tiene vida",
+      "Un conjunto de tejidos",
+      "Una molécula compleja"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal mencionada entre célula procariota y eucariota?",
+    "opciones": [
+      "La procariota tiene núcleo y la eucariota no",
+      "La procariota no tiene núcleo y la eucariota sí",
+      "La procariota es multicelular",
+      "La eucariota no tiene membrana"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la membrana que rodea al material genético en las células eucariotas?",
+    "opciones": [
+      "Plasmalema",
+      "Glucocálix",
+      "Carioteca",
+      "Pared celular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿De qué está compuesta la envoltura celular llamada glucocálix?",
+    "opciones": [
+      "Lípidos",
+      "Proteínas",
+      "Carbohidratos",
+      "Ácidos nucleicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de envoltura celular presenta la célula animal?",
+    "opciones": [
+      "Pared celular",
+      "Cápsula",
+      "Glucocálix",
+      "Membrana de celulosa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué funciones permite el glucocálix?",
+    "opciones": [
+      "Síntesis de proteínas",
+      "Reconocimiento y adhesión celular",
+      "Fotosíntesis",
+      "Respiración celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo es el ADN de las células procariotas (bacterias)?",
+    "opciones": [
+      "Lineal y asociado a histonas",
+      "Circular",
+      "Fragmentado",
+      "De cadena simple"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proteínas básicas se asocian al ADN lineal en la cromatina eucariota?",
+    "opciones": [
+      "Albúminas",
+      "Histonas",
+      "Globulinas",
+      "Enzimas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas histonas forman el octámero sobre el cual se enrolla el ADN?",
+    "opciones": [
+      "Cuatro",
+      "Seis",
+      "Ocho",
+      "Diez"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama la unidad básica de la cromatina (ADN + Octámero de histonas)?",
+    "opciones": [
+      "Cromosoma",
+      "Nucleosoma",
+      "Gen",
+      "Ribosoma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura brinda soporte, forma y movimiento a la célula animal?",
+    "opciones": [
+      "La pared celular",
+      "El citoesqueleto",
+      "El núcleo",
+      "La vacuola"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la única célula humana que presenta flagelo?",
+    "opciones": [
+      "El óvulo",
+      "La neurona",
+      "El espermatozoide",
+      "El glóbulo blanco"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estructuras forman los leucocitos gracias al citoesqueleto para desplazarse o fagocitar?",
+    "opciones": [
+      "Flagelos",
+      "Cilios",
+      "Pseudópodos (falsos pies)",
+      "Paredes celulares"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el citosol o matriz citoplasmática?",
+    "opciones": [
+      "El núcleo de la célula",
+      "La parte líquida del citoplasma (sin organelas)",
+      "La membrana celular",
+      "El conjunto de ribosomas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del centrosoma durante la división celular?",
+    "opciones": [
+      "Formación del huso acromático",
+      "Síntesis de ATP",
+      "Digestión celular",
+      "Almacenamiento de agua"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño del ribosoma en la célula eucariota?",
+    "opciones": [
+      "70S",
+      "80S",
+      "50S",
+      "60S"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los ribosomas (traducción)?",
+    "opciones": [
+      "Síntesis de lípidos",
+      "Síntesis de proteínas",
+      "Síntesis de glucosa",
+      "Formación de ATP"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué diferencia al Retículo Endoplasmático Rugoso (RER) del Liso (REL)?",
+    "opciones": [
+      "El RER tiene ribosomas y sintetiza proteínas",
+      "El RER sintetiza lípidos",
+      "El RER no tiene membrana",
+      "El REL tiene ribosomas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una función del Retículo Endoplasmático Liso (REL)?",
+    "opciones": [
+      "Sintetizar ADN",
+      "Formar ribosomas",
+      "Detoxificación celular y síntesis de lípidos",
+      "Digestión celular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función cumple el Aparato de Golgi?",
+    "opciones": [
+      "Respiración celular",
+      "Secreción celular y formación de lisosomas",
+      "Síntesis de ADN",
+      "Degradación de agua oxigenada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De qué organela se originan los lisosomas?",
+    "opciones": [
+      "Del núcleo",
+      "De la mitocondria",
+      "Del Aparato de Golgi",
+      "Del ribosoma"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los lisosomas?",
+    "opciones": [
+      "La respiración celular",
+      "La digestión celular",
+      "La fotosíntesis",
+      "El movimiento celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la autofagia?",
+    "opciones": [
+      "Cuando la célula come bacterias",
+      "Cuando la célula digiere sus propias partes u organelas dañadas",
+      "Cuando la célula explota",
+      "Cuando la célula produce su propio alimento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué enzima contiene el peroxisoma para descomponer el agua oxigenada?",
+    "opciones": [
+      "Hidrolasa",
+      "Catalaza",
+      "Amilasa",
+      "Lipasa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple la mitocondria?",
+    "opciones": [
+      "Digestión celular",
+      "Síntesis de ATP mediante respiración celular aerobia",
+      "Almacenamiento de agua",
+      "Síntesis de proteínas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la vacuola en la célula vegetal?",
+    "opciones": [
+      "Digestión",
+      "Almacén de agua (reserva)",
+      "Síntesis de lípidos",
+      "División celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función tiene el núcleo celular?",
+    "opciones": [
+      "Síntesis de ATP",
+      "Síntesis de ADN (replicación) y ARN (transcripción)",
+      "Digestión de partículas",
+      "Desintoxicación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una organela exclusiva de la célula animal mencionada en el video?",
+    "opciones": [
+      "Ribosoma",
+      "Lisosoma",
+      "Mitocondria",
+      "Retículo endoplasmático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué plastidios sirven como almacén de almidón, aceites o proteínas (incoloros)?",
+    "opciones": [
+      "Cloroplastos",
+      "Cromoplastos",
+      "Leucoplastos",
+      "Protoplastos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué organela exclusiva de la célula vegetal convierte aceites en azúcares?",
+    "opciones": [
+      "Peroxisoma",
+      "Glioxisoma",
+      "Lisosoma",
+      "Ribosoma"
+    ],
+    "correcta": 1
+  }
+          ]
         },
         {
-          "titulo": "2.6 Ácidos Nucleicos (ADN y ARN)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.6 Morfofisiología I - Citoplasma",
+          "youtube_id": "MTaYtGwqmpY",
+          "pdf_link": "https://drive.google.com/file/d/1EvX_Ttg-MPtl9fXLeUmjBf-12hbqoa8Y/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define el citoplasma en el video?",
+    "opciones": [
+      "El núcleo de la célula",
+      "El medio interno de la célula comprendido entre la membrana plasmática y la envoltura nuclear",
+      "La pared externa de la célula",
+      "El conjunto de cromosomas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué el citoplasma tiene un aspecto granuloso al microscopio?",
+    "opciones": [
+      "Por la presencia de agua congelada",
+      "Por la presencia abundante de ribosomas y organelas",
+      "Por la suciedad del lente",
+      "Por la membrana plasmática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los dos componentes principales que forman el citoplasma?",
+    "opciones": [
+      "Núcleo y membrana",
+      "Citosol y organelas",
+      "Agua y aceite",
+      "ADN y ARN"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el citosol?",
+    "opciones": [
+      "Una organela sólida",
+      "La solución líquida ubicada en el interior de la célula (fuera de las organelas y el núcleo)",
+      "La membrana nuclear",
+      "El citoesqueleto exclusivamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje de agua compone aproximadamente al citosol?",
+    "opciones": [
+      "10 a 15 por ciento",
+      "50 por ciento",
+      "70 a 75 por ciento",
+      "99 por ciento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué dos estados puede estar el agua del citosol?",
+    "opciones": [
+      "Sólido y gaseoso",
+      "Estado gel y estado sol",
+      "Plasma y vapor",
+      "Hielo y líquido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica tiene el estado 'gel' del citosol?",
+    "opciones": [
+      "Consistencia viscosa y aspecto gelatinoso",
+      "Consistencia fluida y aspecto líquido",
+      "Estado gaseoso",
+      "Estado rígido como roca"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué permite el cambio entre estado gel y estado sol en la célula?",
+    "opciones": [
+      "La fotosíntesis",
+      "La realización de movimientos ameboides",
+      "La respiración celular",
+      "La división del núcleo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué compone el 25-30% restante del citosol además del agua?",
+    "opciones": [
+      "Solo aire",
+      "Proteínas, lípidos, carbohidratos, ácidos nucleicos y sales minerales",
+      "Huesos y músculos",
+      "Tejidos vegetales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una función importante del citosol mencionada en el video?",
+    "opciones": [
+      "Proteger a la célula del sol",
+      "El desarrollo de numerosas reacciones metabólicas y regulación del pH",
+      "La eliminación de agua",
+      "La creación de la pared celular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los tres componentes del citosol que se detallan en el video?",
+    "opciones": [
+      "Ribosomas, inclusiones citoplasmáticas y citoesqueleto",
+      "Mitocondrias, lisosomas y núcleo",
+      "Agua, aire y fuego",
+      "Membrana, pared y cápsula"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se llama el retículo endoplasmático cuando tiene ribosomas adosados a su cara externa?",
+    "opciones": [
+      "Retículo endoplasmático liso",
+      "Retículo endoplasmático rugoso",
+      "Aparato de Golgi",
+      "Vacuola"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Con qué otro nombre se le conoce al ribosoma?",
+    "opciones": [
+      "Ribonucleoproteico",
+      "Desoxirribonucleico",
+      "Lipoproteína",
+      "Glucoproteína"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño de los ribosomas en las células eucariotas?",
+    "opciones": [
+      "70S",
+      "80S",
+      "50S",
+      "100S"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿De cuántas subunidades está formado el ribosoma?",
+    "opciones": [
+      "Una sola unidad",
+      "Dos subunidades (mayor y menor)",
+      "Tres subunidades",
+      "Cuatro subunidades"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde se forman las subunidades del ribosoma?",
+    "opciones": [
+      "En el aparato de Golgi",
+      "En el núcleo",
+      "En la membrana plasmática",
+      "En el exterior de la célula"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje químico aproximado de ARN ribosómico tiene la parte sólida (no agua) del ribosoma?",
+    "opciones": [
+      "100 por ciento",
+      "40 por ciento",
+      "60 por ciento",
+      "10 por ciento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los ribosomas?",
+    "opciones": [
+      "La síntesis de proteínas",
+      "La digestión de lípidos",
+      "El transporte de agua",
+      "La formación de glucosa"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué son las inclusiones citoplasmáticas?",
+    "opciones": [
+      "Organelas con doble membrana",
+      "Elementos o acumulaciones de sustancias que se almacenan en el citoplasma",
+      "Poros nucleares",
+      "Virus invasores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica de solubilidad tienen las inclusiones citoplasmáticas?",
+    "opciones": [
+      "Son hidrófilas (se disuelven en agua)",
+      "Tienen carácter hidrófugo (no se disuelven en el hialoplasma)",
+      "Son gaseosas",
+      "Son líquidas siempre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de inclusión citoplasmática de reserva en células animales?",
+    "opciones": [
+      "Aceites esenciales",
+      "Glucógeno",
+      "Almidón",
+      "Celulosa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función pueden tener los pigmentos almacenados como inclusiones?",
+    "opciones": [
+      "Función protectora",
+      "Función digestiva",
+      "Función motora",
+      "Función respiratoria"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es el citoesqueleto?",
+    "opciones": [
+      "La piel de la célula",
+      "Una red fibrosa que constituye el esqueleto interno de la célula",
+      "El núcleo celular",
+      "El conjunto de mitocondrias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los tres tipos de estructuras que forman el citoesqueleto?",
+    "opciones": [
+      "Huesos, cartílagos y tendones",
+      "Microfilamentos, filamentos intermedios y microtúbulos",
+      "ADN, ARN y proteínas",
+      "Lípidos, glúcidos y sales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proteína globular forma los microfilamentos?",
+    "opciones": [
+      "Queratina",
+      "Actina",
+      "Colágeno",
+      "Hemoglobina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Con qué función celular están muy relacionados los microfilamentos de actina?",
+    "opciones": [
+      "Con la visión",
+      "Con la contracción muscular",
+      "Con la digestión",
+      "Con la excreción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de los filamentos intermedios?",
+    "opciones": [
+      "Soportar tensiones mecánicas",
+      "Transportar oxígeno",
+      "Sintetizar ADN",
+      "Generar luz"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿De qué proteína están constituidos los microtúbulos?",
+    "opciones": [
+      "Actina",
+      "Tubulina",
+      "Miosina",
+      "Albúmina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructuras complejas pueden formar los microtúbulos?",
+    "opciones": [
+      "Ribosomas y lisosomas",
+      "Cilios, flagelos y centriolos",
+      "Pared celular",
+      "Membrana plasmática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se describen las organelas al final del texto?",
+    "opciones": [
+      "Estructuras grandes fuera de la célula",
+      "Estructuras incluidas en el citoplasma que cumplen funciones específicas",
+      "Líquidos sin forma",
+      "Gases inertes"
+    ],
+    "correcta": 1
+  }
+          ]
         }
       ]
     },

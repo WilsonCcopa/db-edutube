@@ -11,7 +11,7 @@
           "gratis": true,
           "preguntas": [
             {
-    "pregunta": "¿Qué significa el término griego 'bios' según la definición de biología? [1]",
+    "pregunta": "¿Qué significa el término griego 'bios' según la definición de biología?",
     "opciones": [
       "Estudio o tratado",
       "Vida",
@@ -21,7 +21,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Cuál es el objeto de estudio de la biología descrito en el video? [1]",
+    "pregunta": "¿Cuál es el objeto de estudio de la biología descrito en el video?",
     "opciones": [
       "La estructura de los seres vivos y sus procesos vitales",
       "Únicamente la clasificación de las especies animales",
@@ -31,7 +31,7 @@
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué estudia la disciplina de la fisiología? [1]",
+    "pregunta": "¿Qué estudia la disciplina de la fisiología?",
     "opciones": [
       "La clasificación de los seres vivos",
       "La función de los órganos de los seres vivos",
@@ -41,7 +41,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué estudia la citología, una de las disciplinas en las que se apoya la biología celular? [2]",
+    "pregunta": "¿Qué estudia la citología, una de las disciplinas en las que se apoya la biología celular?",
     "opciones": [
       "Los tejidos",
       "La formación del cigoto",
@@ -51,7 +51,7 @@
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué estudia la histología? [2]",
+    "pregunta": "¿Qué estudia la histología?",
     "opciones": [
       "Los tejidos formados por la unión de células",
       "Los procesos virales",
@@ -61,7 +61,7 @@
     "correcta": 0
   },
   {
-    "pregunta": "¿Con qué otro nombre se conoce a la anatomía? [2]",
+    "pregunta": "¿Con qué otro nombre se conoce a la anatomía?",
     "opciones": [
       "Fisiología aplicada",
       "Morfología biológica",
@@ -71,7 +71,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué estudia la genética? [2]",
+    "pregunta": "¿Qué estudia la genética?",
     "opciones": [
       "El estado físico de la materia viva",
       "Los genes que determinan caracteres biológicos como fenotipo y genotipo",
@@ -81,7 +81,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué estudia la biología del desarrollo, también conocida como biología evolutiva? [3]",
+    "pregunta": "¿Qué estudia la biología del desarrollo, también conocida como biología evolutiva?",
     "opciones": [
       "La ontogenia, desde la fecundación del cigoto hasta la muerte",
       "La estructura de las plantas",
@@ -91,7 +91,7 @@
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué estudia la biofísica? [3]",
+    "pregunta": "¿Qué estudia la biofísica?",
     "opciones": [
       "La clasificación de los seres vivos",
       "El estado físico de la materia viva",
@@ -101,7 +101,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿De qué se encarga la taxonomía? [3]",
+    "pregunta": "¿De qué se encarga la taxonomía?",
     "opciones": [
       "Estudiar las funciones celulares",
       "Analizar el ADN y ARN",
@@ -111,7 +111,7 @@
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué estudia la microbiología? [4]",
+    "pregunta": "¿Qué estudia la microbiología?",
     "opciones": [
       "Todos los microorganismos unicelulares",
       "Los animales vertebrados",
@@ -121,7 +121,7 @@
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué estudia la paleoecología? [4]",
+    "pregunta": "¿Qué estudia la paleoecología?",
     "opciones": [
       "Las interacciones actuales en los ecosistemas",
       "Los organismos y ecosistemas del pasado, relacionando a los fósiles",
@@ -131,7 +131,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Con qué otro nombre es conocida la biología molecular? [5]",
+    "pregunta": "¿Con qué otro nombre es conocida la biología molecular?",
     "opciones": [
       "Biofísica",
       "Morfología",
@@ -141,7 +141,7 @@
     "correcta": 2
   },
   {
-    "pregunta": "¿Cómo define el video a los virus? [5]",
+    "pregunta": "¿Cómo define el video a los virus?",
     "opciones": [
       "Microorganismos unicelulares vivos",
       "Materia no viva que necesita de una célula para hacer copias de sí misma",
@@ -151,7 +151,7 @@
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué estudia la epidemiología? [5]",
+    "pregunta": "¿Qué estudia la epidemiología?",
     "opciones": [
       "Cómo se propagan e inciden las enfermedades en una población",
       "La estructura de los genes",

@@ -919,49 +919,919 @@
       ]
     },
     {
-      "titulo": "Tema 2: Bioquímica: Biomoléculas Orgánicas",
+      "titulo": "Tema 2: Polígonos y Ángulos en la circunferencia",
       "videos": [
         {
-          "titulo": "2.1 Glúcidos: Monosacáridos y Disacáridos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.1 Cuadrilateros",
+          "youtube_id": "czyyFjKexfc",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la definición de un trapezoide simétrico según el video?",
+    "opciones": [
+      "Es un cuadrilátero con dos lados paralelos.",
+      "Es un cuadrilátero donde una de las diagonales es mediatriz de la otra.",
+      "Es un cuadrilátero con todos sus lados de diferente longitud.",
+      "Es un cuadrilátero con sus cuatro ángulos iguales."
+    ],
+    "correcta": 1,
+    "resolucion": "El trapezoide simétrico es aquel donde una de las diagonales actúa como eje de simetría, siendo la mediatriz de la otra diagonal, dividiendo la figura en dos triángulos congruentes."
+  },
+  {
+    "pregunta": "En un cuadrilátero cualquiera, si trazamos las bisectrices de dos ángulos interiores consecutivos, ¿a qué es igual la medida del ángulo $x$ formado por ellas?",
+    "opciones": [
+      "$x = \\frac{\\alpha + \\beta}{2}$ (Semisuma de los otros dos ángulos)",
+      "$x = \\alpha + \\beta$ (Suma de los otros dos ángulos)",
+      "$x = \\frac{\\alpha - \\beta}{2}$ (Semidiferencia de los otros dos ángulos)",
+      "$x = 180^\\circ - (\\alpha + \\beta)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Según el Teorema 1 explicado, el ángulo formado por las bisectrices de dos ángulos adyacentes es igual a la semisuma de los otros dos ángulos interiores del cuadrilátero: $x = \\frac{\\theta + \\omega}{2}$."
+  },
+  {
+    "pregunta": "¿Qué relación se cumple entre las bisectrices de dos ángulos opuestos de un cuadrilátero y el menor ángulo $x$ que forman al cortarse?",
+    "opciones": [
+      "$x$ es la suma de los otros dos ángulos.",
+      "$x$ es el complemento de la suma.",
+      "$x = \\frac{|\\alpha - \\theta|}{2}$ (Semidiferencia de los otros dos ángulos opuestos)",
+      "$x = \\frac{\\alpha + \\theta}{2}$ (Semisuma de los otros dos ángulos opuestos)"
+    ],
+    "correcta": 2,
+    "resolucion": "El Teorema 2 indica que el menor ángulo formado por las bisectrices de dos ángulos opuestos es igual a la semidiferencia de los otros dos ángulos opuestos del cuadrilátero."
+  },
+  {
+    "pregunta": "¿Cuál es la característica fundamental de las diagonales en un trapecio isósceles?",
+    "opciones": [
+      "Son perpendiculares entre sí.",
+      "Son bisectrices de los ángulos interiores.",
+      "Son de igual longitud (congruentes).",
+      "Se cortan en su punto medio."
+    ],
+    "correcta": 2,
+    "resolucion": "En todo trapecio isósceles, las diagonales son congruentes (tienen la misma medida), además de que los ángulos adyacentes a una misma base son iguales."
+  },
+  {
+    "pregunta": "En un trapezoide $ABCD$, la suma de las medidas de los ángulos interiores en $C$ y $D$ es $230^\\circ$. Calcule la medida del ángulo formado por las bisectrices interiores de los ángulos $A$ y $B$.",
+    "opciones": [
+      "$100^\\circ$",
+      "$115^\\circ$",
+      "$120^\\circ$",
+      "$130^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando el Teorema 1: El ángulo formado es la semisuma de los otros dos ángulos. $x = \\frac{230^\\circ}{2} = 115^\\circ$."
+  },
+  {
+    "pregunta": "Se tiene un trapezoide donde dos ángulos opuestos miden $120^\\circ$ y $80^\\circ$. Calcule la medida del menor ángulo formado por las bisectrices de los otros dos ángulos opuestos.",
+    "opciones": [
+      "$10^\\circ$",
+      "$20^\\circ$",
+      "$40^\\circ$",
+      "$15^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando el Teorema 2: El ángulo es la semidiferencia de los ángulos opuestos no involucrados. $x = \\frac{120^\\circ - 80^\\circ}{2} = \\frac{40^\\circ}{2} = 20^\\circ$."
+  },
+  {
+    "pregunta": "En un trapecio, la base menor mide 4 y la base mayor mide 10. Calcule la longitud de la mediana del trapecio.",
+    "opciones": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "La mediana es la semisuma de las bases: $MN = \\frac{B + b}{2} = \\frac{10 + 4}{2} = 7$."
+  },
+  {
+    "pregunta": "En un trapecio cuyas bases miden 6 y 14, calcule la longitud del segmento que une los puntos medios de las diagonales.",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "El segmento que une los puntos medios de las diagonales es la semidiferencia de las bases: $x = \\frac{B - b}{2} = \\frac{14 - 6}{2} = 4$."
+  },
+  {
+    "pregunta": "En un trapecio $ABCD$ ($BC // AD$), se sabe que $m\\angle A = 30^\\circ$ y $m\\angle D = 60^\\circ$. Si la base menor $BC=5$ y el lado lateral $CD=6$, calcule la longitud de la mediana.",
+    "opciones": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "Trazando alturas desde $B$ y $C$: En el triángulo notable de $60^\\circ$ (lado $CD=6$), la proyección es 3. En el otro lado, la altura es $3\\sqrt{3}$, y con ángulo $30^\\circ$, la proyección es 9. La base mayor es $9 + 5 + 3 = 17$. La mediana es $\\frac{17+5}{2} = 11$."
+  },
+  {
+    "pregunta": "En un trapecio rectángulo $ABCD$ (recto en A y B), la base menor $BC$ mide 5, la base mayor $AD$ mide 11 y el lado lateral $CD$ mide 10. Calcule la altura $AB$.",
+    "opciones": [
+      "6",
+      "8",
+      "7",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "Trazamos la altura $CH$. Se forma un rectángulo $ABCH$ donde $AH=5$, por lo que $HD = 11-5=6$. En el triángulo rectángulo $CHD$ (hipotenusa 10, cateto 6), por Pitágoras la altura es 8. Entonces $AB=8$."
+  },
+  {
+    "pregunta": "En un trapecio isósceles, las bases miden 10 y 22. Si los ángulos de la base mayor miden $45^\\circ$, calcule la altura del trapecio.",
+    "opciones": [
+      "6",
+      "12",
+      "5",
+      "8"
+    ],
+    "correcta": 0,
+    "resolucion": "Al trazar las alturas, se forman dos triángulos rectángulos isósceles de $45^\\circ$ en los extremos. La proyección de cada uno es $\\frac{22-10}{2} = 6$. Como es triángulo de $45^\\circ$, la altura es igual a la proyección, es decir, 6."
+  },
+  {
+    "pregunta": "Se tiene un trapecio $ABCD$ ($BC // AD$). Si $m\\angle A = 70^\\circ$, $m\\angle D = 40^\\circ$ y el lado lateral $CD = 12$, calcule la longitud del segmento que une los puntos medios de las diagonales.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correcta": 2,
+    "resolucion": "Trazamos una paralela a $AB$ desde $C$. Se forma un triángulo con ángulos $70^\\circ$ y $40^\\circ$, el tercer ángulo es $70^\\circ$, por lo que es isósceles. La diferencia de las bases es igual al lado lateral $CD=12$. El segmento pedido es $\\frac{B-b}{2} = \\frac{12}{2} = 6$."
+  },
+  {
+    "pregunta": "En un trapezoide simétrico formado por un triángulo equilátero y un triángulo rectángulo isósceles (como en el problema 3 del video), ¿cuál es la razón entre la diagonal menor y la mayor?",
+    "opciones": [
+      "$\\sqrt{3}$",
+      "$\\sqrt{3} - 1$",
+      "$\\sqrt{2} + 1$",
+      "$2 - \\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Resolviendo geométricamente, la diagonal menor es $2k$ y la mayor es $k(1+\\sqrt{3})$. Al dividir y racionalizar $\\frac{2}{1+\\sqrt{3}}$, se obtiene $\\sqrt{3}-1$."
+  },
+  {
+    "pregunta": "En un trapecio isósceles, la longitud de la base menor sumada con la base mayor es igual a $12$ unidades. Si las diagonales forman un ángulo de $45^\\circ$ con la base mayor, calcule la mediana.",
+    "opciones": [
+      "6",
+      "4",
+      "8",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "En un trapecio isósceles con diagonales a $45^\\circ$, la altura es igual a la mediana. Si la suma de bases es 12, la mediana es $\\frac{12}{2} = 6$."
+  },
+  {
+    "pregunta": "En un trapecio rectángulo $ABCD$ (recto en A y B), las bisectrices de los ángulos $C$ y $D$ se intersectan en un punto $P$ que pertenece al lado $AB$. Si $BC+AD = 18$, calcule la distancia de $P$ al lado $CD$.",
+    "opciones": [
+      "9",
+      "18",
+      "6",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser $P$ intersección de bisectrices en un trapecio, $P$ equidista de las bases y del lado lateral. Se demuestra que la distancia es igual a la mediana del trapecio. Mediana = $\\frac{18}{2} = 9$."
+  },
+  {
+    "pregunta": "En un cuadrilátero $ABCD$ donde $AB=BC=CD$, el ángulo $A$ es recto y el ángulo $D$ mide $72^\\circ$. Si $M$ y $N$ son puntos medios de $BC$ y $AD$ respectivamente, calcule la medida del ángulo $MNA$.",
+    "opciones": [
+      "$72^\\circ$",
+      "$81^\\circ$",
+      "$90^\\circ$",
+      "$60^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la construcción auxiliar de congruencia (Problema 5 del video), se forma un triángulo isósceles con ángulo de $18^\\circ$ en el vértice superior. El ángulo pedido resulta ser $72^\\circ + 9^\\circ = 81^\\circ$."
+  },
+  {
+    "pregunta": "En un trapecio $ABCD$ ($BC // AD$), $M$ es punto medio de $AB$ y $N$ es punto medio de $CD$. Si la medida de $AD$ es el triple de $BC$ y la mediana $MN$ mide 12, calcule $BC$.",
+    "opciones": [
+      "4",
+      "6",
+      "8",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "Sea $BC=x$, entonces $AD=3x$. La mediana es $\\frac{x+3x}{2} = 2x$. Si $2x=12$, entonces $x=6$. La base menor $BC$ es 6."
+  },
+  {
+    "pregunta": "Si las diagonales de un trapecio miden 6 y 8, ¿cuál es el máximo valor entero que puede tomar la mediana si las diagonales son perpendiculares?",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correcta": 0,
+    "resolucion": "Si las diagonales son perpendiculares, se puede construir un triángulo rectángulo con catetos 6 y 8 (trasladando una diagonal). La hipotenusa sería 10, que equivale a la suma de las bases ($B+b$). La mediana es $\\frac{B+b}{2} = \\frac{10}{2} = 5$. Sin embargo, por desigualdad triangular en el trapecio general, la mediana debe ser menor que la semisuma de diagonales. El problema es teórico basado en propiedades."
+  },
+  {
+    "pregunta": "En el problema 17 (el problema turco), se tiene un trapecio isósceles donde la base menor es $AD$. Si se construye un triángulo equilátero interior, ¿cuánto resultó el ángulo $x$ pedido?",
+    "opciones": [
+      "$10^\\circ$",
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$30^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "En la resolución del problema 17, mediante congruencia y construcción de un triángulo equilátero, se llegó a la conclusión de que el ángulo $x$ valía $10^\\circ$."
+  },
+  {
+    "pregunta": "Si un trapecio tiene lados laterales de longitudes 6 y 8, ¿cuál es el mínimo valor entero de la diferencia de sus bases?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correcta": 2,
+    "resolucion": "En un trapecio, si trasladamos un lado lateral para formar un triángulo con el otro lado lateral y la diferencia de bases, se aplica la desigualdad triangular: $8-6 < \\text{Diferencia} < 8+6$. La diferencia debe ser mayor a 2. El mínimo entero es 3."
+  }
+          ]
         },
         {
-          "titulo": "2.2 Polisacáridos de Reserva y Estructurales",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.2 Circunferencia, ángulos en la circunferencia",
+          "youtube_id": "Ru8ZYCvN7RE",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según la definición dada en el video, ¿qué es la circunferencia?",
+    "opciones": [
+      "El área interna de un círculo",
+      "El lugar geométrico de los puntos que equidistan de un centro",
+      "Una línea curva cualquiera",
+      "El segmento que une dos puntos"
+    ],
+    "correcta": 1,
+    "resolucion": "Se define como el lugar geométrico de los puntos de un plano que equidistan de otro punto fijo del mismo plano llamado centro."
+  },
+  {
+    "pregunta": "¿Cómo se le llama a la cuerda que pasa necesariamente por el centro de la circunferencia?",
+    "opciones": [
+      "Radio",
+      "Flecha",
+      "Diámetro",
+      "Secante"
+    ],
+    "correcta": 2,
+    "resolucion": "El diámetro es la cuerda mayor que pasa por el centro y su longitud es el doble del radio."
+  },
+  {
+    "pregunta": "Si desde el centro de una circunferencia se traza un radio perpendicular a una cuerda, ¿qué propiedad se cumple?",
+    "opciones": [
+      "El radio divide a la cuerda en dos segmentos iguales.",
+      "El radio es paralelo a la cuerda.",
+      "La cuerda mide el doble del radio.",
+      "El radio no toca a la cuerda."
+    ],
+    "correcta": 0,
+    "resolucion": "Un radio o diámetro perpendicular a una cuerda biseca a dicha cuerda, es decir, pasa por su punto medio."
+  },
+  {
+    "pregunta": "¿Cuánto suman los ángulos opuestos de un cuadrilátero inscrito en una circunferencia?",
+    "opciones": [
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$360^\\circ$",
+      "$270^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "En todo cuadrilátero inscrito, la suma de las medidas de los ángulos opuestos es $180^\\circ$."
+  },
+  {
+    "pregunta": "En una circunferencia, si un ángulo central subtiende un arco de medida $\\alpha$, ¿cuánto mide el ángulo central?",
+    "opciones": [
+      "$\\alpha / 2$",
+      "$2\\alpha$",
+      "$\\alpha$",
+      "$180^\\circ - \\alpha$"
+    ],
+    "correcta": 2,
+    "resolucion": "La medida del ángulo central es igual a la medida del arco que subtiende."
+  },
+  {
+    "pregunta": "Si un ángulo inscrito subtiende un arco de $80^\\circ$, ¿cuál es la medida de dicho ángulo?",
+    "opciones": [
+      "$40^\\circ$",
+      "$80^\\circ$",
+      "$160^\\circ$",
+      "$20^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "La medida del ángulo inscrito es la mitad del arco que subtiende. $80^\\circ / 2 = 40^\\circ$."
+  },
+  {
+    "pregunta": "Calcule la medida del ángulo semi-inscrito si el arco que intercepta mide $120^\\circ$.",
+    "opciones": [
+      "$120^\\circ$",
+      "$60^\\circ$",
+      "$240^\\circ$",
+      "$90^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo semi-inscrito mide la mitad del arco interceptado por la cuerda y la tangente. $120^\\circ / 2 = 60^\\circ$."
+  },
+  {
+    "pregunta": "Si un ángulo interior intercepta dos arcos de medidas $40^\\circ$ y $60^\\circ$, ¿cuánto mide el ángulo?",
+    "opciones": [
+      "$50^\\circ$",
+      "$100^\\circ$",
+      "$20^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "El ángulo interior es la semisuma de los arcos: $\\frac{40^\\circ + 60^\\circ}{2} = 50^\\circ$."
+  },
+  {
+    "pregunta": "Calcule el ángulo exterior formado por dos secantes si los arcos que intercepta miden $100^\\circ$ y $30^\\circ$.",
+    "opciones": [
+      "$65^\\circ$",
+      "$35^\\circ$",
+      "$70^\\circ$",
+      "$130^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo exterior es la semidiferencia de los arcos: $\\frac{100^\\circ - 30^\\circ}{2} = 35^\\circ$."
+  },
+  {
+    "pregunta": "En una circunferencia, el diámetro $AB$ es perpendicular a una cuerda $CD$ en el punto $M$. Si $CM = 4$, calcule $CD$.",
+    "opciones": [
+      "4",
+      "8",
+      "2",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser el diámetro perpendicular a la cuerda, la divide en dos partes iguales. $CD = CM + MD = 4 + 4 = 8$."
+  },
+  {
+    "pregunta": "Si desde un punto exterior $P$ se trazan dos tangentes $PA$ y $PB$ a una circunferencia, y el ángulo entre ellas es $40^\\circ$, ¿cuánto mide el arco menor $AB$?",
+    "opciones": [
+      "$40^\\circ$",
+      "$140^\\circ$",
+      "$220^\\circ$",
+      "$180^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el ángulo circunscrito, la suma del ángulo exterior y el arco menor es $180^\\circ$. Arco = $180^\\circ - 40^\\circ = 140^\\circ$."
+  },
+  {
+    "pregunta": "Se tiene un ángulo ex-inscrito cuyo arco adyacente mide $100^\\circ$. Calcule la medida del ángulo.",
+    "opciones": [
+      "$50^\\circ$",
+      "$130^\\circ$",
+      "$100^\\circ$",
+      "$80^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo ex-inscrito mide la mitad del arco total que no corresponde al ángulo inscrito adyacente. Si el arco del inscrito es $100^\\circ$, el resto es $260^\\circ$. $260^\\circ / 2 = 130^\\circ$."
+  },
+  {
+    "pregunta": "En una semicircunferencia de diámetro $AB$, se toma un punto $P$ en el arco. ¿Cuánto mide el ángulo $APB$?",
+    "opciones": [
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Todo ángulo inscrito en una semicircunferencia mide $90^\\circ$, ya que subtiende un arco de $180^\\circ$."
+  },
+  {
+    "pregunta": "Si dos cuerdas paralelas interceptan dos arcos laterales, ¿cómo son las medidas de dichos arcos?",
+    "opciones": [
+      "Diferentes",
+      "Suplementarios",
+      "Congruentes (Iguales)",
+      "Complementarios"
+    ],
+    "correcta": 2,
+    "resolucion": "Los arcos comprendidos entre cuerdas paralelas son congruentes."
+  },
+  {
+    "pregunta": "Calcule el valor de $x$ si es un ángulo inscrito que subtiende el mismo arco que un ángulo central de $50^\\circ$.",
+    "opciones": [
+      "$50^\\circ$",
+      "$25^\\circ$",
+      "$100^\\circ$",
+      "$75^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo central es igual al arco ($50^\\circ$). El ángulo inscrito es la mitad del arco: $50^\\circ / 2 = 25^\\circ$."
+  },
+  {
+    "pregunta": "Si el lado de un pentágono regular inscrito subtiende un arco, ¿cuál es la medida de dicho arco?",
+    "opciones": [
+      "$60^\\circ$",
+      "$90^\\circ$",
+      "$72^\\circ$",
+      "$108^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "La circunferencia completa ($360^\\circ$) se divide entre 5 lados iguales: $360^\\circ / 5 = 72^\\circ$."
+  },
+  {
+    "pregunta": "En dos circunferencias tangentes exteriores, el ángulo formado por las rectas que unen el punto de tangencia con los puntos de contacto de una tangente común exterior es:",
+    "opciones": [
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$",
+      "$120^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Según la propiedad demostrada, el ángulo formado en el punto de tangencia es recto ($90^\\circ$)."
+  },
+  {
+    "pregunta": "Si una cuerda tiene la misma longitud que el radio, ¿cuánto mide el arco que subtiende?",
+    "opciones": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al formar un triángulo equilátero con los radios, el ángulo central es $60^\\circ$, por lo tanto el arco mide $60^\\circ$."
+  },
+  {
+    "pregunta": "En un cuadrilátero inscrito, si un ángulo interior mide $70^\\circ$, ¿cuánto mide el ángulo interior opuesto?",
+    "opciones": [
+      "$70^\\circ$",
+      "$110^\\circ$",
+      "$20^\\circ$",
+      "$90^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Los ángulos opuestos suman $180^\\circ$. $180^\\circ - 70^\\circ = 110^\\circ$."
+  },
+  {
+    "pregunta": "Calcule el ángulo $x$ formado por dos tangentes si el arco mayor interceptado es $260^\\circ$.",
+    "opciones": [
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$80^\\circ$",
+      "$100^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "El arco menor sería $360^\\circ - 260^\\circ = 100^\\circ$. Por propiedad del ángulo circunscrito: $x + 100^\\circ = 180^\\circ \\rightarrow x = 80^\\circ$."
+  }
+          ]
         },
         {
-          "titulo": "2.3 Lípidos: Clasificación y Funciones",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.3 Cuadrilateros inscritos e inscriptibles",
+          "youtube_id": "ntL_smCLGh8",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la definición exacta de un cuadrilátero inscrito dada en el video?",
+    "opciones": [
+      "Aquel cuyos cuatro vértices pertenecen a una circunferencia.",
+      "Aquel que tiene una circunferencia tangente a sus cuatro lados.",
+      "Un cuadrilátero con sus lados iguales.",
+      "Un cuadrilátero con sus diagonales perpendiculares."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor define al cuadrilátero inscrito como aquel en el cual sus cuatro vértices pertenecen a una circunferencia."
+  },
+  {
+    "pregunta": "¿Qué propiedad fundamental cumplen los ángulos opuestos de un cuadrilátero inscrito?",
+    "opciones": [
+      "Son iguales.",
+      "Suman $90^\\circ$.",
+      "Suman $180^\\circ$ (Son suplementarios).",
+      "Su producto es constante."
+    ],
+    "correcta": 2,
+    "resolucion": "En todo cuadrilátero inscrito, la suma de las medidas de los ángulos opuestos debe ser igual a $180^\\circ$ ($2x + 2y = 360^\\circ \\rightarrow x + y = 180^\\circ$)."
+  },
+  {
+    "pregunta": "¿Qué ocurre con el ángulo exterior de un cuadrilátero inscrito?",
+    "opciones": [
+      "Es el suplemento del ángulo interior adyacente.",
+      "Es igual al ángulo interior opuesto.",
+      "Mide la mitad del arco que subtiende.",
+      "Es siempre $90^\\circ$."
+    ],
+    "correcta": 1,
+    "resolucion": "Si el interior es $x$, su adyacente es $180-x$. Como el opuesto interior debe sumar 180 con $x$, entonces el opuesto interior es igual al exterior."
+  },
+  {
+    "pregunta": "Si en un cuadrilátero se cumple la propiedad del 'Choque y Rebote' al trazar sus diagonales, ¿qué podemos afirmar?",
+    "opciones": [
+      "Que es un paralelogramo.",
+      "Que sus diagonales se bisecan.",
+      "Que el cuadrilátero es inscriptible.",
+      "Que es un trapecio isósceles."
+    ],
+    "correcta": 2,
+    "resolucion": "El fenómeno de 'choque y rebote' (ángulos iguales subtendidos por el mismo arco) es una condición necesaria y suficiente para que un cuadrilátero sea inscriptible."
+  },
+  {
+    "pregunta": "En el problema 1, se tiene que $AE = ED$. Si los ángulos en la base del isósceles son $\\alpha$ y el ángulo exterior en $E$ es $28^\\circ$, ¿cuánto vale $\\alpha$?",
+    "opciones": [
+      "$62^\\circ$",
+      "$34^\\circ$",
+      "$28^\\circ$",
+      "$56^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "En el triángulo isósceles $AED$, $2\\alpha + 56 = 180$, resultando $2\\alpha = 124$, por tanto $\\alpha = 62^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 1, tras hallar que $\\alpha = 62^\\circ$, se plantea la ecuación $x + 28 = 62$ por la propiedad de inscriptible. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$30^\\circ$",
+      "$34^\\circ$",
+      "$44^\\circ$",
+      "$24^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Despejando la ecuación: $x = 62 - 28 = 34^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 2, al ser $ABCD$ un cuadrado y $AB$ diámetro, se forma un cuadrilátero inscriptible por el choque y rebote del ángulo de $90^\\circ$. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$45^\\circ$",
+      "$37^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo $x$ choca y rebota, coincidiendo con el ángulo formado por la diagonal y el lado de un cuadrado, que es $45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 4, al unir un punto de la semicircunferencia con los extremos del diámetro, se forma un ángulo de $90^\\circ$. Si el arco mide $90^\\circ$ por ser central, ¿cuánto mide el ángulo inscrito adyacente?",
+    "opciones": [
+      "$45^\\circ$",
+      "$90^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Si el arco es $90^\\circ$, el ángulo inscrito que lo mira es la mitad: $45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 4, la ecuación final para hallar $x$ fue $x + 45 = 90$. ¿Cuál es el resultado?",
+    "opciones": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al despejar $x = 90 - 45$, obtenemos $x = 45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 3 (dos circunferencias secantes), se tiene que el arco $CR = 80^\\circ$. ¿Cuál es el valor del ángulo $X$ hallado?",
+    "opciones": [
+      "$80^\\circ$",
+      "$40^\\circ$",
+      "$20^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por propiedad de inscriptible y paralelas, el ángulo $X$ resulta ser la mitad del arco $80^\\circ$, es decir, $40^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 5, se tienen dos ángulos dato: $45^\\circ$ y $35^\\circ$. ¿Cuál es el valor de $x$ aplicando la propiedad de inscriptibles en ambas circunferencias?",
+    "opciones": [
+      "$10^\\circ$",
+      "$80^\\circ$",
+      "$90^\\circ$",
+      "$40^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo $x$ es la suma de los interiores opuestos trasladados por propiedad de inscriptible: $x = 45 + 35 = 80^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 6, se plantea la ecuación $\\theta + x = 40 + \\theta$ gracias a la propiedad del ángulo exterior en un cuadrilátero inscriptible. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$140^\\circ$",
+      "$100^\\circ$",
+      "$40^\\circ$",
+      "$70^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al cancelar $\\theta$ en ambos lados de la ecuación, queda directamente $x = 40^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 7 (Tiranosaurio Rex), se tiene un arco de $5x$ y un ángulo recto. Al aplicar inscriptibles y choque-rebote, se llega a la ecuación $6x = 180$. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$20^\\circ$",
+      "$36^\\circ$",
+      "$30^\\circ$",
+      "$15^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al sumar los ángulos internos del triángulo formado ($5x + x = 6x$) e igualar a 180 (por suplementarios), $x = 30^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 8 (Hangares), se forma un cuadrilátero inscriptible con un ángulo recto. Al trazar la otra diagonal, se encuentra un triángulo notable de catetos iguales. ¿De qué ángulo estamos hablando?",
+    "opciones": [
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$37^\\circ$",
+      "$45^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Se forma un triángulo rectángulo con catetos iguales (radios), por lo que es un notable de $45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 8, el valor final de $x$ es la suma de $90^\\circ$ más el ángulo notable hallado. ¿Cuál es la respuesta?",
+    "opciones": [
+      "$120^\\circ$",
+      "$135^\\circ$",
+      "$150^\\circ$",
+      "$145^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "$x = 90 + 45 = 135^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 9, se aplica el Teorema de Chadú para un triángulo equilátero inscrito. Si las distancias son $m$ y $n$, ¿cuál es la relación para $x$?",
+    "opciones": [
+      "$x = m \\cdot n$",
+      "$x = m - n$",
+      "$x = m + n$",
+      "$x = \\sqrt{m^2 + n^2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "El Teorema de Chadú establece que para un punto en el arco de un equilátero, la distancia al vértice lejano es la suma de las distancias a los cercanos: $x = m + n$."
+  },
+  {
+    "pregunta": "Para aplicar el Teorema de Chadú en el problema 9, fue necesario demostrar primero que el cuadrilátero era inscriptible sumando ángulos opuestos. ¿Cuánto sumaron?",
+    "opciones": [
+      "$90^\\circ$",
+      "$120^\\circ$",
+      "$150^\\circ$",
+      "$180^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Se sumaron $120^\\circ$ (obtenido por incentro) y $60^\\circ$ (del equilátero/arco), dando $180^\\circ$, condición de inscriptible."
+  },
+  {
+    "pregunta": "En el problema 10, se tiene un arco de $160^\\circ$. Al trazar la cuerda, el ángulo inscrito mide la mitad. ¿Cuánto es este ángulo?",
+    "opciones": [
+      "$160^\\circ$",
+      "$80^\\circ$",
+      "$320^\\circ$",
+      "$40^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo inscrito es la mitad del arco: $160 / 2 = 80^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 10, al cerrar el cuadrilátero, se forma un trapecio isósceles inscrito. Si los ángulos en la base son iguales, se plantea $2x + 80 = 180$. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$100^\\circ$",
+      "$25^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Resolviendo: $2x = 100 \\rightarrow x = 50^\\circ$."
+  },
+  {
+    "pregunta": "Según el video, si se cumple el Teorema de Ptolomeo ($AB \\cdot CD + BC \\cdot AD = AC \\cdot BD$) en un cuadrilátero sin circunferencia dibujada, ¿cómo se clasifica dicho cuadrilátero?",
+    "opciones": [
+      "Como un romboide.",
+      "Como inscriptible.",
+      "Como un trapecio rectángulo.",
+      "No se puede clasificar."
+    ],
+    "correcta": 1,
+    "resolucion": "Si un cuadrilátero cumple la relación métrica de Ptolomeo, necesariamente es inscriptible (por sus vértices pasa una circunferencia)."
+  }
+          ]
         },
         {
-          "titulo": "2.4 Proteínas: Aminoácidos y Enlace Peptídico",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "2.4 Puntos notables",
+          "youtube_id": "aLQrKV_OpnQ",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "2.5 Estructura y Función de las Proteínas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "2.6 Ácidos Nucleicos (ADN y ARN)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué es el Incentro de un triángulo según la definición del video?",
+    "opciones": [
+      "El punto de concurrencia de las medianas.",
+      "El punto de concurrencia de las alturas.",
+      "El punto de concurrencia de las bisectrices interiores.",
+      "El punto de concurrencia de las mediatrices."
+    ],
+    "correcta": 2,
+    "resolucion": "El incentro se define como el punto donde se intersectan las tres bisectrices interiores del triángulo. Además, equidista de los tres lados."
+  },
+  {
+    "pregunta": "¿Qué propiedad cumple el Excentro de un triángulo?",
+    "opciones": [
+      "Es el punto de intersección de tres alturas.",
+      "Es el punto de concurrencia de dos bisectrices exteriores y una interior.",
+      "Es el centro de la circunferencia inscrita.",
+      "Siempre está en el interior del triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "El excentro es el punto donde concurren dos bisectrices exteriores y la bisectriz interior del tercer ángulo. Todo triángulo tiene tres excentros."
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal del Baricentro?",
+    "opciones": [
+      "Es el centro de la circunferencia circunscrita.",
+      "Divide a cada mediana en la relación de 2 a 1 (del vértice al lado).",
+      "Es el punto donde se cortan las alturas.",
+      "Equidista de los vértices del triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "El baricentro (intersección de medianas) tiene la propiedad fundamental de dividir a cada mediana en dos segmentos cuya relación es de 2 a 1, siendo el segmento mayor el que parte del vértice."
+  },
+  {
+    "pregunta": "¿Dónde se ubica el Ortocentro en un triángulo rectángulo?",
+    "opciones": [
+      "En el punto medio de la hipotenusa.",
+      "En el interior del triángulo.",
+      "En el vértice del ángulo recto.",
+      "En el exterior del triángulo."
+    ],
+    "correcta": 2,
+    "resolucion": "En un triángulo rectángulo, las alturas correspondientes a los catetos coinciden con los catetos mismos, intersectándose en el vértice del ángulo recto."
+  },
+  {
+    "pregunta": "En el ejercicio 1, se tiene un cuadrilátero donde el Incentro $I$ forma un ángulo $x$ con dos vértices. Si los ángulos superiores miden $70^\\circ$ y $80^\\circ$, ¿cuánto vale $x$?",
+    "opciones": [
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$60^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se aplica la propiedad del ángulo formado por bisectrices: $90^\\circ + x/2$. Luego se usa la suma de ángulos en el cuadrilátero cóncavo (pescadito): $x + (90^\\circ + x/2) = 70^\\circ + 80^\\circ$. Resolviendo $3x/2 = 60^\\circ$, $x=40^\\circ$."
+  },
+  {
+    "pregunta": "En el ejercicio 2, dado el excentro $E$, se calcula el ángulo $\\theta$. Si los ángulos exteriores dados son $60^\\circ$ y $70^\\circ$, ¿cuánto resultó $\\theta$?",
+    "opciones": [
+      "$80^\\circ$",
+      "$90^\\circ$",
+      "$100^\\circ$",
+      "$110^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Usando propiedades de ángulo exterior y bisectrices, se completan ángulos. $\\theta$ resulta ser la suma de dos internos no adyacentes ($60^\\circ + 40^\\circ$), dando $100^\\circ$."
+  },
+  {
+    "pregunta": "En el ejercicio 3, se tiene un triángulo obtusángulo con ángulos de $20^\\circ$ y $110^\\circ$. Se pide el ángulo $IAO$. ¿Cuánto vale?",
+    "opciones": [
+      "$10^\\circ$",
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$40^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo $A$ total es $20^\\circ$, su bisectriz ($AI$) es $10^\\circ$. El circuncentro $O$ forma un isósceles con $A$ y $C$. El ángulo central es $100^\\circ$ (doble de $50^\\circ$), por lo que los ángulos base son $40^\\circ$. El ángulo pedido es la diferencia o suma según gráfico, resultando $30^\\circ$."
+  },
+  {
+    "pregunta": "En el ejercicio 4, se da un triángulo isósceles con altura y mediana que se cortan en $P$. Si $PM = \\sqrt{2}$, ¿cuánto mide $BH$?",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser intersección de mediana y altura (que es mediana en isósceles), $P$ es baricentro. $AP = 2(\\sqrt{2})$. Se forma un triángulo rectángulo notable de $45^\\circ$. $PH=2$, $BP=4$. Total $BH = 6$."
+  },
+  {
+    "pregunta": "En el ejercicio 5, $ABCD$ es paralelogramo y $H$ es ortocentro de $\\triangle BCD$. Si un ángulo es $4x$, ¿cuánto vale $x$?",
+    "opciones": [
+      "$15^\\circ$",
+      "$18^\\circ$",
+      "$20^\\circ$",
+      "$22.5^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al trazar las alturas, se forma un cuadrilátero inscriptible $ABHD$. Por rebote, el ángulo $x$ se traslada. En el triángulo rectángulo final, $x + 4x = 90^\\circ$, $5x=90^\\circ$, $x=18^\\circ$."
+  },
+  {
+    "pregunta": "Si $O$ es el circuncentro de un triángulo acutángulo $ABC$, ¿qué relación existe entre el ángulo central $AOC$ y el ángulo inscrito $ABC$ ($\\beta$)?",
+    "opciones": [
+      "$m\\angle AOC = \\beta$",
+      "$m\\angle AOC = 90^\\circ + \\beta$",
+      "$m\\angle AOC = 2\\beta$",
+      "$m\\angle AOC = 180^\\circ - \\beta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Por propiedad de ángulo central y circuncentro, la medida del ángulo central es el doble del ángulo inscrito que subtiende el mismo arco: $m\\angle AOC = 2\\beta$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, ¿cuál es la ubicación exacta del Circuncentro?",
+    "opciones": [
+      "En el vértice del ángulo recto.",
+      "En el punto medio de la hipotenusa.",
+      "En el baricentro.",
+      "Fuera del triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "En todo triángulo rectángulo, el circuncentro coincide con el punto medio de la hipotenusa."
+  },
+  {
+    "pregunta": "Si $H$ es el ortocentro de un triángulo $ABC$, ¿qué relación cumplen el ángulo $AHC$ ($x$) y el ángulo $B$ ($\\alpha$)?",
+    "opciones": [
+      "$x = \\alpha$",
+      "$x = 2\\alpha$",
+      "$x + \\alpha = 180^\\circ$",
+      "$x = 90^\\circ + \\alpha$"
+    ],
+    "correcta": 2,
+    "resolucion": "Debido a los cuadriláteros inscriptibles que se forman con las alturas, el ángulo en el ortocentro y el ángulo del vértice opuesto son suplementarios: $x + \\alpha = 180^\\circ$."
+  },
+  {
+    "pregunta": "Para la circunferencia inscrita en un triángulo de lados $a$, $b$, $c$ y semiperímetro $p$, ¿a qué es igual la longitud de la tangente desde el vértice $A$ hasta el punto de contacto ($x$)?",
+    "opciones": [
+      "$x = p - a$ (donde $a$ es el lado opuesto a $A$)",
+      "$x = p$",
+      "$x = p - b$",
+      "$x = a + b - c$"
+    ],
+    "correcta": 0,
+    "resolucion": "La propiedad de la circunferencia inscrita establece que la distancia del vértice al punto de tangencia es igual al semiperímetro menos el lado opuesto: $x = p - a$."
+  },
+  {
+    "pregunta": "Para la circunferencia ex-inscrita relativa al lado $BC$ (lado $a$), ¿cuánto mide la distancia desde el vértice $A$ hasta el punto de tangencia con la prolongación del lado?",
+    "opciones": [
+      "El perímetro $2p$.",
+      "El semiperímetro $p$.",
+      "El lado $a$.",
+      "La diferencia $b-c$."
+    ],
+    "correcta": 1,
+    "resolucion": "Una propiedad importante de la circunferencia ex-inscrita es que la distancia desde el vértice opuesto hasta el punto de tangencia en la prolongación es igual al semiperímetro $p$ del triángulo."
+  },
+  {
+    "pregunta": "¿Dónde se ubica el Ortocentro de un triángulo obtusángulo?",
+    "opciones": [
+      "En el interior del triángulo.",
+      "En el vértice del ángulo obtuso.",
+      "En el exterior del triángulo.",
+      "En el punto medio del lado mayor."
+    ],
+    "correcta": 2,
+    "resolucion": "En un triángulo obtusángulo, las alturas (o sus prolongaciones) se intersectan en un punto situado en la región exterior al triángulo."
+  },
+  {
+    "pregunta": "¿Qué líneas notables concurren en el Incentro?",
+    "opciones": [
+      "Alturas",
+      "Medianas",
+      "Mediatrices",
+      "Bisectrices interiores"
+    ],
+    "correcta": 3,
+    "resolucion": "El incentro es la intersección de las bisectrices interiores."
+  },
+  {
+    "pregunta": "En el gráfico del baricentro, si se traza una paralela a un lado que pasa por el baricentro, ¿qué relación de semejanza se genera típicamente desde el vértice?",
+    "opciones": [
+      "1 a 1",
+      "2 a 1",
+      "2 a 3",
+      "1 a 3"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el baricentro divide la mediana en 2 a 1, la relación de lados (por Tales) desde el vértice es de 2 a 3."
+  },
+  {
+    "pregunta": "Si un triángulo es isósceles ($AB=BC$), la altura trazada desde $B$ pasa necesariamente por:",
+    "opciones": [
+      "Solo el Ortocentro.",
+      "Solo el Incentro.",
+      "Todos los puntos notables (Ortocentro, Baricentro, Incentro, Circuncentro).",
+      "Solo el Baricentro."
+    ],
+    "correcta": 2,
+    "resolucion": "En un triángulo isósceles, la altura relativa a la base es eje de simetría y contiene a todos los puntos notables alineados."
+  },
+  {
+    "pregunta": "En el ejercicio 3, para resolver el problema se formó un triángulo isósceles con el circuncentro. ¿Cuál era el ángulo en el vértice $O$ de dicho triángulo?",
+    "opciones": [
+      "$50^\\circ$",
+      "$80^\\circ$",
+      "$100^\\circ$",
+      "$120^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo en el vértice $B$ era $50^\\circ$. Por propiedad del circuncentro, el ángulo central $AOC$ es el doble: $100^\\circ$."
+  },
+  {
+    "pregunta": "En el ejercicio 4, se utilizó que en un triángulo rectángulo de $45^\\circ$, si la hipotenusa es $2\\sqrt{2}$, los catetos miden:",
+    "opciones": [
+      "1",
+      "2",
+      "$\\sqrt{2}$",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "En un triángulo notable de $45^\\circ$, $K\\sqrt{2} = 2\\sqrt{2}$, por lo tanto $K=2$. Los catetos miden 2."
+  }
+          ]
         }
       ]
     },

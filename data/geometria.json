@@ -1,0 +1,671 @@
+{
+  "curso": "Geometría",
+  "temas": [
+    {
+      "titulo": "Tema 1: Teoría de Exponentes",
+      "pdf_resuelto": "https://drive.google.com/file/d/1w60r7Exil90_kbsUH2aG6E5DiRkRXjFU/view",
+      "preguntas": [
+        {
+    "pregunta": "¿Cómo se define geométricamente un ángulo según la explicación inicial del video?",
+    "opciones": [
+      "La intersección de dos rectas paralelas",
+      "La unión de dos rayos no colineales con un origen común",
+      "Una línea recta infinita",
+      "La medida de la distancia entre dos puntos"
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor define el ángulo como la figura geométrica formada por la unión de dos rayos que no están alineados (no colineales) pero que comparten un origen común llamado vértice."
+  },
+  {
+    "pregunta": "Si la medida de un ángulo es $x$, ¿cuál es la fórmula para calcular su complemento ($C_x$) y su suplemento ($S_x$)?",
+    "opciones": [
+      "$C_x = 180^\\circ - x$ y $S_x = 90^\\circ - x$",
+      "$C_x = 90^\\circ + x$ y $S_x = 180^\\circ + x$",
+      "$C_x = 90^\\circ - x$ y $S_x = 180^\\circ - x$",
+      "$C_x = 360^\\circ - x$ y $S_x = 180^\\circ - x$"
+    ],
+    "correcta": 3,
+    "resolucion": "Por definición teórica explicada en el video, el complemento es lo que le falta al ángulo para llegar a $90^\\circ$ ($90-x$) y el suplemento lo que le falta para $180^\\circ$ ($180-x$)."
+  },
+  {
+    "pregunta": "En el Ejercicio 1 (abanico), se tiene que $m\\angle BOD = 90^\\circ$ y $OC$ biseca a $\\angle AOD$. Si $m\\angle AOB + m\\angle AOC = 90^\\circ$, ¿cuál es el valor de $x$ (medida de $\\angle DOC$)?",
+    "opciones": [
+      "$45^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$75^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Se plantea que $y + x = 90^\\circ$ y $x - y = 90^\\circ - x$. Al sumar las ecuaciones y simplificar, se obtiene $3x = 180^\\circ$, resultando $x = 60^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 2, se busca el mayor valor entero del ángulo $COE$. Si $m\\angle AOB = 10k$ es agudo, ¿cuál es la desigualdad inicial para $k$?",
+    "opciones": [
+      "$10k > 90$",
+      "$10k < 90$",
+      "$10k = 90$",
+      "$10k < 180$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser un ángulo agudo, su medida debe ser menor a $90^\\circ$. Por lo tanto, se plantea $10k < 90$, lo que implica $k < 9$."
+  },
+  {
+    "pregunta": "Continuando con el Ejercicio 2, si $k < 9$ y el ángulo $COE$ mide $7k$, ¿cuál es el máximo valor entero de $m\\angle COE$?",
+    "opciones": [
+      "$56^\\circ$",
+      "$63^\\circ$",
+      "$62^\\circ$",
+      "$59^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Si $k < 9$, multiplicamos por 7 para obtener la forma del ángulo pedido: $7k < 63$. El máximo valor entero menor a 63 es $62^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 3, se plantea un sistema de ecuaciones para hallar $x$ donde $Y + X = 100$ y $Y - X = 40$. ¿Cuánto vale $x$?",
+    "opciones": [
+      "$20^\\circ$",
+      "$40^\\circ$",
+      "$30^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Resolviendo el sistema: Restando las ecuaciones o despejando, si la suma es 100 y la diferencia 40, los números son 70 y 30. Como $x$ es el menor en la resta, $x = 30^\\circ$."
+  },
+  {
+    "pregunta": "¿Qué característica define a la bisectriz de un ángulo?",
+    "opciones": [
+      "Divide al ángulo en tres partes iguales",
+      "Es un rayo que divide al ángulo en dos medidas congruentes",
+      "Siempre forma un ángulo de $90^\\circ$",
+      "Es la suma de dos ángulos adyacentes"
+    ],
+    "correcta": 2,
+    "resolucion": "La bisectriz se define como el rayo que biseca (divide en dos partes iguales) a un ángulo. Si el ángulo total es $2\\beta$, la bisectriz genera dos ángulos de $\\beta$."
+  },
+  {
+    "pregunta": "En el Ejercicio 4 del rayo luminoso, se pide calcular $2x$ cuando $x$ asume su mínimo valor entero. Si se llega a la desigualdad $x > 36^\\circ$, ¿cuál es el valor final?",
+    "opciones": [
+      "$72^\\circ$",
+      "$74^\\circ$",
+      "$37^\\circ$",
+      "$76^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Si $x > 36$, el mínimo valor entero es $x = 37$. El problema pide calcular el ángulo entre el rayo refractado y el depósito, que es $2x$. Por tanto, $2(37) = 74^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 5, se tienen 5 ángulos en progresión aritmética que suman $180^\\circ$. ¿Cuál es la medida del ángulo central?",
+    "opciones": [
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$36^\\circ$",
+      "$45^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Al sumar términos en progresión aritmética $(\\alpha-2r) + (\\alpha-r) + \\alpha + (\\alpha+r) + (\\alpha+2r) = 180$, las razones se cancelan quedando $5\\alpha = 180$, por lo que el central $\\alpha = 36^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 5, se da el dato $(36 - 2r)^2 = 36 + 2r$. ¿Cuál es el valor de la razón $r$ encontrada?",
+    "opciones": [
+      "$10^\\circ$",
+      "$12^\\circ$",
+      "$14^\\circ$",
+      "$8^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Al resolver la ecuación cuadrática planteada por el dato 'el cuadrado del menor es igual al mayor', se encuentra que $r = 14$. Esto hace que el ángulo menor sea $36 - 2(14) = 8^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 6, se tienen ángulos congruentes $A_1OA_{16}$. ¿Cuántos ángulos simples de medida $\\alpha$ hay en total?",
+    "opciones": [
+      "16 ángulos",
+      "15 ángulos",
+      "14 ángulos",
+      "10 ángulos"
+    ],
+    "correcta": 2,
+    "resolucion": "Del índice 1 al 16 hay 16 rayos, lo que genera $16 - 1 = 15$ espacios o ángulos simples consecutivos."
+  },
+  {
+    "pregunta": "En el Ejercicio 6, si $15\\alpha < 90^\\circ$, ¿cuál es el máximo valor entero del ángulo formado por $A_2 O A_{12}$ (que equivale a $10\\alpha$)?",
+    "opciones": [
+      "$60^\\circ$",
+      "$58^\\circ$",
+      "$59^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "Si $15\\alpha < 90$, entonces $\\alpha < 6$. Se pide el máximo entero de $10\\alpha$. Multiplicando la desigualdad: $10\\alpha < 60$. El máximo entero menor a 60 es $59^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 7, se busca maximizar $x = 6a - a^2$. ¿Cuál es el valor máximo de $x$ obtenido completando cuadrados?",
+    "opciones": [
+      "6",
+      "9",
+      "12",
+      "3"
+    ],
+    "correcta": 2,
+    "resolucion": "La expresión se reescribe como $-(a^2 - 6a + 9) + 9 = -(a-3)^2 + 9$. El valor máximo ocurre cuando el cuadrado es cero, quedando $x_{max} = 9$."
+  },
+  {
+    "pregunta": "En el Ejercicio 7, al obtener $x_{max} = 9^\\circ$, ¿cuál es el valor del cociente $\\theta / x$ sabiendo que $\\theta + x = 360^\\circ$?",
+    "opciones": [
+      "38",
+      "40",
+      "39",
+      "41"
+    ],
+    "correcta": 3,
+    "resolucion": "Si $x=9$, entonces $\\theta = 360 - 9 = 351$. El cociente es $351 / 9 = 39$."
+  },
+  {
+    "pregunta": "En el Ejercicio 8, se tienen $n$ rayos interiores dividiendo un ángulo. ¿Cuántos ángulos pequeños $\\alpha$ se forman en total?",
+    "opciones": [
+      "$n$ ángulos",
+      "$n-1$ ángulos",
+      "$n+1$ ángulos",
+      "$2n$ ángulos"
+    ],
+    "correcta": 3,
+    "resolucion": "Por inducción explicada en el video: 1 rayo crea 2 ángulos, 2 rayos crean 3 ángulos. Por ende, $n$ rayos crean $n+1$ ángulos."
+  },
+  {
+    "pregunta": "En el Ejercicio 8, ¿cuál es la expresión final para $x$ en función de $\\theta$ y $n$?",
+    "opciones": [
+      "$x = \\frac{\\theta(n-2)}{n+1}$",
+      "$x = \\frac{\\theta(n-1)}{n}$",
+      "$x = \\frac{\\theta(n-3)}{n+1}$",
+      "$x = \\frac{\\theta(n+1)}{n-2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se deduce que $x = \\theta - 3\\alpha$ y $\\alpha = \\frac{\\theta}{n+1}$. Sustituyendo y factorizando, se obtiene $x = \\theta \\frac{n-2}{n+1}$."
+  },
+  {
+    "pregunta": "En el Ejercicio 9, se trabaja con complementarios. Si $y = 90 - x$ y se halla el mínimo entero de $x$ como 52 y el máximo como 64, ¿cuánto es la suma pedida?",
+    "opciones": [
+      "115",
+      "120",
+      "110",
+      "116"
+    ],
+    "correcta": 4,
+    "resolucion": "El problema pide la suma del máximo y mínimo valor entero. Según los cálculos del video: $52 + 64 = 116$."
+  },
+  {
+    "pregunta": "En el Ejercicio 10, se plantea $S_x + C_x = k \\cdot C_x$. ¿Cuál es la ecuación simplificada que relaciona $x$ y $k$?",
+    "opciones": [
+      "$x = \\frac{270 - 90k}{2 - k}$",
+      "$x = 90(k-1)$",
+      "$x = \\frac{180}{k}$",
+      "$x = 90k - 270$"
+    ],
+    "correcta": 1,
+    "resolucion": "Despejando de la ecuación $(180-x) + (90-x) = k(90-x)$, se obtiene que $x$ en función de $k$ es $x = \\frac{270 - 90k}{2 - k}$ (o su equivalente factorizado)."
+  },
+  {
+    "pregunta": "En el Ejercicio 10, ¿por qué se descarta el valor $k=3$?",
+    "opciones": [
+      "Porque da un ángulo negativo",
+      "Porque da un ángulo de $0^\\circ$",
+      "Porque $k$ debe ser par",
+      "Porque no es entero"
+    ],
+    "correcta": 2,
+    "resolucion": "Al reemplazar $k=3$ en la fórmula derivada, el numerador se hace $270 - 270 = 0$, resultando en un ángulo de $0^\\circ$, lo cual no se considera una medida válida para el contexto del problema."
+  },
+  {
+    "pregunta": "Finalmente, en el Ejercicio 10, con $k=4$, ¿cuál es el menor valor posible para el ángulo $x$?",
+    "opciones": [
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$53^\\circ$",
+      "$45^\\circ$"
+    ],
+    "correcta": 4,
+    "resolucion": "Con $k=4$, la operación es $\\frac{270 - 360}{2 - 4} = \\frac{-90}{-2} = 45^\\circ$."
+  }
+      ],
+      "videos": [
+        {
+          "titulo": "1.1 Teoría de Exponentes - Parte 1",
+          "youtube_id": "IIlRlU1VU9g",
+          "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
+          "gratis": true
+        },
+        {
+          "titulo": "1.2 Teoría de Exponentes - Parte 2",
+          "youtube_id": "6wfyQCuehbY",
+          "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
+          "gratis": false
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Polinomios",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "2.1 Teoría de Polinomios",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Productos Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: División Algebraica (Horner y Ruffini)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "4.1 Métodos de División",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Teorema del Resto y Divisibilidad",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "5.1 Aplicaciones del Teorema del Resto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Cocientes Notables",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "6.1 Casos de Cocientes Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Factorización I (Factor Común e Identidades)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "7.1 Criterios de Factorización",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 8: Factorización II (Aspas)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "8.1 Aspa Simple y Doble",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 9: MCD y MCM de Polinomios",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "9.1 Cálculo de MCD y MCM",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 10: Fracciones Algebraicas",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "10.1 Operaciones con Fracciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        },
+        {
+          "titulo": "3.1 Principales Productos Notables",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 11: Binomio de Newton",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "11.1 Desarrollo del Binomio",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 12: Radicación y Racionalización",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "12.1 Transformación de Radicales Dobles",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 13: Números Complejos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "13.1 Cantidades Imaginarias y Complejos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Ecuaciones de Primer Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "14.1 Planteo de Ecuaciones Lineales",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "15.1 Fórmula General y Propiedades",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Desigualdades e Inecuaciones",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "16.1 Puntos Críticos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 17: Valor Absoluto",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "17.1 Ecuaciones con Valor Absoluto",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 18: Funciones (Dominio y Rango)",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "18.1 Introducción a Funciones",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 19: Logaritmos",
+      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
+      "preguntas": [
+        {
+          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
+          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
+          "correcta": 0,
+          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
+        }
+      ],
+      "videos": [
+        {
+          "titulo": "19.1 Propiedades de Logaritmos",
+          "youtube_id": "ID_YOUTUBE",
+          "pdf_link": "LINK_DRIVE",
+          "gratis": true
+        }
+      ]
+    }
+  ]
+}

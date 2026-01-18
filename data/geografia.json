@@ -11,204 +11,204 @@
           "gratis": true,
           "preguntas": [
 {
-    "pregunta": "¿Cuál es el objeto de estudio de la biología descrito en el video?",
+    "pregunta": "¿Cuál es el significado etimológico de la palabra 'Geografía' mencionado en el video?",
     "opciones": [
-      "La estructura de los seres vivos y sus procesos vitales",
-      "Únicamente la clasificación de las especies animales",
-      "Los elementos químicos inorgánicos",
-      "La formación geológica de la Tierra"
+      "Estudio del universo",
+      "Descripción de la tierra",
+      "Medición de los suelos",
+      "Tratado de los mapas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la geografía como ciencia según la explicación del profesor?",
+    "opciones": [
+      "La distribución de los astros en el espacio",
+      "Únicamente los fenómenos naturales físicos",
+      "La interrelación del hombre con la naturaleza",
+      "La historia de las civilizaciones antiguas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre de la geografía antigua?",
+    "opciones": [
+      "Alexander von Humboldt",
+      "Federico Ratzel",
+      "Hecateo de Mileto",
+      "Karl Ritter"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre de la geografía moderna?",
+    "opciones": [
+      "Paul Vidal de la Blache",
+      "Alexander von Humboldt",
+      "Jean Brunhes",
+      "Eratóstenes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el objeto de estudio de la geografía?",
+    "opciones": [
+      "El Espacio Geográfico",
+      "La Atmósfera",
+      "El Núcleo Terrestre",
+      "Los Oceanos"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué significado etimológico tiene la palabra 'Biología'?",
+    "pregunta": "¿Cómo se define el 'Espacio Geográfico' en el video?",
     "opciones": [
-      "Estudio de la Tierra",
-      "Tratado o estudio de la vida",
-      "Ciencia de los animales",
-      "Estudio de las células"
+      "Cualquier lugar fuera del planeta Tierra",
+      "El lugar donde el hombre realiza sus actividades económicas",
+      "Un espacio natural sin intervención humana",
+      "El conjunto de estrellas visibles"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Cuál es la unidad básica funcional y estructural de todo ser vivo?",
+    "pregunta": "¿Cuál es el límite superior del espacio geográfico mencionado?",
     "opciones": [
-      "El tejido",
-      "El órgano",
-      "La célula",
-      "El átomo"
+      "La Estratosfera a 50 km",
+      "La Tropopausa a los primeros 18 km de altitud",
+      "La Exosfera",
+      "La capa de ozono"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Hasta qué profundidad se considera el límite inferior del espacio geográfico en el mar (zona fótica)?",
+    "opciones": [
+      "Hasta los 1000 metros",
+      "Hasta los 500 metros",
+      "Hasta los 200 metros",
+      "Hasta el fondo de las fosas marianas"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Cómo se denomina la capacidad de los organismos para mantener un equilibrio interno estable?",
+    "pregunta": "¿Qué es la 'Sociosfera'?",
     "opciones": [
-      "Metabolismo",
-      "Homeostasis",
-      "Evolución",
-      "Irritabilidad"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿A qué se refiere el concepto de 'metabolismo'?",
-    "opciones": [
-      "Al movimiento físico de un organismo",
-      "A la capacidad de reproducirse",
-      "Al conjunto de reacciones químicas dentro del organismo",
-      "Al crecimiento en tamaño"
+      "La capa de gases que envuelve la tierra",
+      "La parte sólida de la tierra",
+      "La población o sociedad que vive en el espacio geográfico",
+      "La esfera de vida vegetal y animal"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué característica permite a los seres vivos responder a estímulos del medio ambiente?",
+    "pregunta": "¿A qué se refiere el término 'Ecumene'?",
     "opciones": [
-      "Adaptación",
-      "Homeostasis",
-      "Irritabilidad",
-      "Metabolismo"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Cuál es la diferencia principal entre crecimiento y desarrollo?",
-    "opciones": [
-      "No hay diferencia, son sinónimos",
-      "El crecimiento es aumento de tamaño y el desarrollo es adquisición de nuevas habilidades o características",
-      "El crecimiento es mental y el desarrollo es físico",
-      "El desarrollo ocurre solo en plantas"
+      "Un espacio inexplorado por el hombre",
+      "Un espacio modificado por el hombre",
+      "El centro de la tierra",
+      "La parte más alta de la atmósfera"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué tipo de reproducción involucra la combinación de material genético de dos progenitores?",
+    "pregunta": "¿Quién es el autor del principio geográfico de Localización o Extensión?",
     "opciones": [
-      "Reproducción asexual",
-      "Clonación",
-      "Reproducción sexual",
-      "Bipartición"
+      "Alexander von Humboldt",
+      "Jean Brunhes",
+      "Karl Ritter",
+      "Federico Ratzel"
     ],
-    "correcta": 2
+    "correcta": 3
   },
   {
-    "pregunta": "¿Qué nivel de organización biológica está formado por un conjunto de células del mismo tipo?",
+    "pregunta": "¿En qué consiste el principio de Descripción propuesto por Paul Vidal de la Blache?",
     "opciones": [
-      "Órgano",
-      "Sistema",
-      "Tejido",
-      "Organismo"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Cómo se define una 'población' en biología?",
-    "opciones": [
-      "Conjunto de organismos de diferentes especies en un lugar",
-      "Conjunto de organismos de la misma especie que coexisten en tiempo y lugar",
-      "La suma de factores abióticos y bióticos",
-      "Un organismo individual"
+      "En ubicar el lugar exacto del fenómeno",
+      "En dar a conocer las características del hecho o fenómeno geográfico",
+      "En buscar las causas del fenómeno",
+      "En comparar el fenómeno con otros similares"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué término describe la interacción entre una comunidad biológica y su medio físico (abiótico)?",
+    "pregunta": "¿Qué plantea el principio de Causalidad o Explicación?",
     "opciones": [
-      "Biosfera",
-      "Ecosistema",
-      "Población",
-      "Bioma"
+      "Que todo espacio geográfico es localizable",
+      "Que se deben buscar las causas que originan los fenómenos",
+      "Que el espacio geográfico está en constante cambio",
+      "Que se deben describir las características del paisaje"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Cuál es el primer paso del método científico mencionado?",
+    "pregunta": "¿Quién es el autor del principio de Conexión o Relación?",
     "opciones": [
-      "Formulación de hipótesis",
-      "Experimentación",
-      "Observación",
-      "Conclusión"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Qué es una hipótesis en el contexto científico?",
-    "opciones": [
-      "Una verdad absoluta",
-      "Una posible respuesta o explicación tentativa a una pregunta",
-      "El resultado final de un experimento",
-      "Una ley establecida"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué proceso permite a las especies cambiar a lo largo del tiempo para sobrevivir en su entorno?",
-    "opciones": [
-      "Homeostasis",
-      "Metabolismo",
-      "Evolución / Adaptación",
-      "Crecimiento"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿En qué fase del metabolismo se construyen moléculas complejas a partir de otras más simples?",
-    "opciones": [
-      "Catabolismo",
-      "Anabolismo",
-      "Digestion",
-      "Respiración"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuál es el nivel de organización más complejo que abarca todos los ecosistemas de la Tierra?",
-    "opciones": [
-      "Comunidad",
-      "Biosfera",
-      "Bioma",
-      "Sistema solar"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué caracteriza a la reproducción asexual?",
-    "opciones": [
-      "Requiere dos progenitores",
-      "Genera alta variabilidad genética",
-      "Un solo progenitor genera descendencia genéticamente idéntica",
-      "Ocurre mediante la fusión de gametos"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Qué son los factores abióticos?",
-    "opciones": [
-      "Los seres vivos del ecosistema",
-      "Los componentes sin vida (agua, luz, temperatura)",
-      "Las bacterias y hongos",
-      "Los animales carnívoros"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuál es el objetivo principal de la experimentación?",
-    "opciones": [
-      "Confirmar o refutar la hipótesis",
-      "Escribir un libro",
-      "Observar sin intervenir",
-      "Crear nuevas leyes"
+      "Jean Brunhes",
+      "Federico Ratzel",
+      "Alexander von Humboldt",
+      "Hecateo de Mileto"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué característica vital asegura la continuidad de la especie en el tiempo?",
+    "pregunta": "¿Qué diferencia menciona el video entre 'Relación' e 'Interrelación'?",
     "opciones": [
-      "Irritabilidad",
-      "Movimiento",
-      "Reproducción",
-      "Nutrición"
+      "Son sinónimos exactos",
+      "La relación es unidireccional y la interrelación implica una consecuencia mutua (positiva o negativa)",
+      "La interrelación solo se da entre animales",
+      "La relación es solo para objetos inanimados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sostiene la corriente del 'Determinismo Geográfico' de Ratzel?",
+    "opciones": [
+      "Que el hombre puede transformar cualquier medio",
+      "Que el hombre está determinado por los recursos naturales y el medio para su desarrollo",
+      "Que la naturaleza no influye en el hombre",
+      "Que la tecnología supera cualquier barrera natural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sostiene la corriente del 'Posibilismo Geográfico'?",
+    "opciones": [
+      "Que el medio ambiente define estrictamente al hombre",
+      "Que el hombre tiene la capacidad de transformar y adaptarse al medio geográfico",
+      "Que los recursos naturales son infinitos",
+      "Que la geografía solo debe describir paisajes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son los 'Hechos Geográficos' según el video?",
+    "opciones": [
+      "Eventos naturales como terremotos",
+      "Sucesos que ocurren en el espacio exterior",
+      "Acciones del hombre que cambian el espacio de manera trascendental",
+      "Fenómenos atmosféricos leves"
     ],
     "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son los 'Fenómenos Geográficos'?",
+    "opciones": [
+      "Construcciones realizadas por el hombre",
+      "Eventos de origen natural (terremotos, lluvias, huaicos) que alteran el paisaje",
+      "Divisiones políticas de los países",
+      "Acuerdos económicos internacionales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es una característica fundamental del espacio geográfico mencionada en el video?",
+    "opciones": [
+      "Es estático y nunca cambia",
+      "Es dinámico y cambiante",
+      "Es infinito",
+      "No se puede localizar"
+    ],
+    "correcta": 1
   }
 ]
         },

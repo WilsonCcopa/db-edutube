@@ -2781,7 +2781,7 @@
       "7"
     ],
     "correcta": 1,
-    "resolucion": "Usando la propiedad de existencia o el punto interior, se acotó el perímetro entre 23 y 31. Los valores enteros son $\{23, ..., 31\}$, totalizando 9 valores."
+    "resolucion": "Usando la propiedad de existencia o el punto interior, se acotó el perímetro entre 23 y 31. Los valores enteros son $\\{23, ..., 31\\}$, totalizando 9 valores."
   },
   {
     "pregunta": "En el problema 4 (barcos), se tiene un triángulo con dos medianas perpendiculares que miden 24 y 30 (hasta el baricentro). ¿Cuál es el máximo valor entero del tercer lado (base)?",

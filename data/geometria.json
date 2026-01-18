@@ -2,668 +2,1624 @@
   "curso": "Geometría",
   "temas": [
     {
-      "titulo": "Tema 1: Teoría de Exponentes",
-      "pdf_resuelto": "https://drive.google.com/file/d/1w60r7Exil90_kbsUH2aG6E5DiRkRXjFU/view",
-      "preguntas": [
+      "titulo": "Tema 1: Segmento de Recta",
+      "videos": [
         {
-    "pregunta": "¿Cómo se define geométricamente un ángulo según la explicación inicial del video?",
+          "titulo": "1.1 Ángulos",
+          "youtube_id": "1c_wtQ5_ywA",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la definición geométrica de un ángulo según el video?",
     "opciones": [
-      "La intersección de dos rectas paralelas",
-      "La unión de dos rayos no colineales con un origen común",
-      "Una línea recta infinita",
-      "La medida de la distancia entre dos puntos"
+      "La intersección de dos rectas perpendiculares.",
+      "La unión de dos rayos no colineales con un origen común.",
+      "Una línea recta que gira 360 grados.",
+      "La distancia más corta entre dos puntos."
     ],
-    "correcta": 2,
-    "resolucion": "El profesor define el ángulo como la figura geométrica formada por la unión de dos rayos que no están alineados (no colineales) pero que comparten un origen común llamado vértice."
+    "correcta": 1,
+    "resolucion": "El ángulo se define como la figura geométrica formada por la unión de dos rayos que no están alineados (no colineales) y que comparten un vértice común."
   },
   {
-    "pregunta": "Si la medida de un ángulo es $x$, ¿cuál es la fórmula para calcular su complemento ($C_x$) y su suplemento ($S_x$)?",
+    "pregunta": "Si un ángulo mide $x$, ¿cuál es la expresión correcta para calcular su complemento ($C_x$) y su suplemento ($S_x$)?",
     "opciones": [
       "$C_x = 180^\\circ - x$ y $S_x = 90^\\circ - x$",
-      "$C_x = 90^\\circ + x$ y $S_x = 180^\\circ + x$",
       "$C_x = 90^\\circ - x$ y $S_x = 180^\\circ - x$",
-      "$C_x = 360^\\circ - x$ y $S_x = 180^\\circ - x$"
+      "$C_x = x - 90^\\circ$ y $S_x = x - 180^\\circ$",
+      "$C_x = 360^\\circ - x$ y $S_x = 180^\\circ + x$"
     ],
-    "correcta": 3,
-    "resolucion": "Por definición teórica explicada en el video, el complemento es lo que le falta al ángulo para llegar a $90^\\circ$ ($90-x$) y el suplemento lo que le falta para $180^\\circ$ ($180-x$)."
+    "correcta": 1,
+    "resolucion": "Por definición, el complemento es lo que falta para llegar a $90^\\circ$ ($90-x$) y el suplemento lo que falta para llegar a $180^\\circ$ ($180-x$)."
   },
   {
-    "pregunta": "En el Ejercicio 1 (abanico), se tiene que $m\\angle BOD = 90^\\circ$ y $OC$ biseca a $\\angle AOD$. Si $m\\angle AOB + m\\angle AOC = 90^\\circ$, ¿cuál es el valor de $x$ (medida de $\\angle DOC$)?",
+    "pregunta": "Según la clasificación por la abertura de sus lados, ¿en qué intervalo se encuentra un ángulo obtuso?",
+    "opciones": [
+      "$\\alpha = 90^\\circ$",
+      "$0^\\circ < \\alpha < 90^\\circ$",
+      "$90^\\circ < \\alpha < 180^\\circ$",
+      "$\\alpha = 180^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Un ángulo obtuso es aquel cuya medida es mayor a $90^\\circ$ pero menor a $180^\\circ$."
+  },
+  {
+    "pregunta": "¿Qué propiedad fundamental cumple la bisectriz de un ángulo?",
+    "opciones": [
+      "Divide al ángulo en dos medidas congruentes (iguales).",
+      "Siempre forma un ángulo de $90^\\circ$ con uno de los lados.",
+      "Divide al ángulo en tres partes proporcionales.",
+      "Es una recta que pasa por el vértice opuesto."
+    ],
+    "correcta": 0,
+    "resolucion": "La bisectriz es el rayo que biseca al ángulo, es decir, lo divide en dos ángulos de igual medida."
+  },
+  {
+    "pregunta": "Se tienen dos ángulos adyacentes $AOB$ y $BOC$ cuya suma es $90^\\circ$. Si $m\\angle AOB = 2x$ y $m\\angle BOC = x$, ¿cuánto vale $x$?",
     "opciones": [
       "$45^\\circ$",
-      "$30^\\circ$",
       "$60^\\circ$",
-      "$75^\\circ$"
-    ],
-    "correcta": 3,
-    "resolucion": "Se plantea que $y + x = 90^\\circ$ y $x - y = 90^\\circ - x$. Al sumar las ecuaciones y simplificar, se obtiene $3x = 180^\\circ$, resultando $x = 60^\\circ$."
-  },
-  {
-    "pregunta": "En el Ejercicio 2, se busca el mayor valor entero del ángulo $COE$. Si $m\\angle AOB = 10k$ es agudo, ¿cuál es la desigualdad inicial para $k$?",
-    "opciones": [
-      "$10k > 90$",
-      "$10k < 90$",
-      "$10k = 90$",
-      "$10k < 180$"
-    ],
-    "correcta": 2,
-    "resolucion": "Al ser un ángulo agudo, su medida debe ser menor a $90^\\circ$. Por lo tanto, se plantea $10k < 90$, lo que implica $k < 9$."
-  },
-  {
-    "pregunta": "Continuando con el Ejercicio 2, si $k < 9$ y el ángulo $COE$ mide $7k$, ¿cuál es el máximo valor entero de $m\\angle COE$?",
-    "opciones": [
-      "$56^\\circ$",
-      "$63^\\circ$",
-      "$62^\\circ$",
-      "$59^\\circ$"
-    ],
-    "correcta": 3,
-    "resolucion": "Si $k < 9$, multiplicamos por 7 para obtener la forma del ángulo pedido: $7k < 63$. El máximo valor entero menor a 63 es $62^\\circ$."
-  },
-  {
-    "pregunta": "En el Ejercicio 3, se plantea un sistema de ecuaciones para hallar $x$ donde $Y + X = 100$ y $Y - X = 40$. ¿Cuánto vale $x$?",
-    "opciones": [
-      "$20^\\circ$",
-      "$40^\\circ$",
       "$30^\\circ$",
-      "$50^\\circ$"
-    ],
-    "correcta": 3,
-    "resolucion": "Resolviendo el sistema: Restando las ecuaciones o despejando, si la suma es 100 y la diferencia 40, los números son 70 y 30. Como $x$ es el menor en la resta, $x = 30^\\circ$."
-  },
-  {
-    "pregunta": "¿Qué característica define a la bisectriz de un ángulo?",
-    "opciones": [
-      "Divide al ángulo en tres partes iguales",
-      "Es un rayo que divide al ángulo en dos medidas congruentes",
-      "Siempre forma un ángulo de $90^\\circ$",
-      "Es la suma de dos ángulos adyacentes"
+      "$15^\\circ$"
     ],
     "correcta": 2,
-    "resolucion": "La bisectriz se define como el rayo que biseca (divide en dos partes iguales) a un ángulo. Si el ángulo total es $2\\beta$, la bisectriz genera dos ángulos de $\\beta$."
+    "resolucion": "Como suman $90^\\circ$, planteamos la ecuación: $2x + x = 90^\\circ \\rightarrow 3x = 90^\\circ \\rightarrow x = 30^\\circ$."
   },
   {
-    "pregunta": "En el Ejercicio 4 del rayo luminoso, se pide calcular $2x$ cuando $x$ asume su mínimo valor entero. Si se llega a la desigualdad $x > 36^\\circ$, ¿cuál es el valor final?",
+    "pregunta": "Si la diferencia entre el suplemento y el complemento de un ángulo $x$ es igual a $k$ veces el complemento del mismo ángulo, y se sabe que $S_x - C_x = 90^\\circ$, ¿qué valor toma $k$ si el ángulo es $45^\\circ$?",
     "opciones": [
-      "$72^\\circ$",
-      "$74^\\circ$",
-      "$37^\\circ$",
-      "$76^\\circ$"
+      "1",
+      "2",
+      "3",
+      "0.5"
     ],
-    "correcta": 2,
-    "resolucion": "Si $x > 36$, el mínimo valor entero es $x = 37$. El problema pide calcular el ángulo entre el rayo refractado y el depósito, que es $2x$. Por tanto, $2(37) = 74^\\circ$."
+    "correcta": 1,
+    "resolucion": "Sabemos que $S_x - C_x = (180-x) - (90-x) = 90$. Si $x=45$, su complemento es $45$. La ecuación es $90 = k(45)$, por lo tanto $k=2$."
   },
   {
-    "pregunta": "En el Ejercicio 5, se tienen 5 ángulos en progresión aritmética que suman $180^\\circ$. ¿Cuál es la medida del ángulo central?",
+    "pregunta": "Se tienen 5 ángulos consecutivos sobre una recta formando un ángulo llano ($180^\\circ$). Si sus medidas están en progresión aritmética, ¿cuánto mide el ángulo central?",
     "opciones": [
       "$20^\\circ$",
       "$30^\\circ$",
       "$36^\\circ$",
       "$45^\\circ$"
     ],
-    "correcta": 3,
-    "resolucion": "Al sumar términos en progresión aritmética $(\\alpha-2r) + (\\alpha-r) + \\alpha + (\\alpha+r) + (\\alpha+2r) = 180$, las razones se cancelan quedando $5\\alpha = 180$, por lo que el central $\\alpha = 36^\\circ$."
+    "correcta": 2,
+    "resolucion": "En una progresión aritmética de 5 términos, la suma es $5$ veces el término central. $5\\alpha = 180^\\circ$, por lo tanto el ángulo central es $36^\\circ$."
   },
   {
-    "pregunta": "En el Ejercicio 5, se da el dato $(36 - 2r)^2 = 36 + 2r$. ¿Cuál es el valor de la razón $r$ encontrada?",
+    "pregunta": "Si un ángulo $AOB$ mide $8k$ y se clasifica como agudo, ¿cuál es el máximo valor entero que puede tomar $k$?",
+    "opciones": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "Si es agudo, $8k < 90^\\circ$. Dividiendo, $k < 11.25$. El máximo valor entero es 11."
+  },
+  {
+    "pregunta": "Se tienen dos ángulos opuestos por el vértice. Si uno mide $3x + 10^\\circ$ y el otro $x + 50^\\circ$, ¿cuál es el valor de $x$?",
     "opciones": [
       "$10^\\circ$",
-      "$12^\\circ$",
-      "$14^\\circ$",
-      "$8^\\circ$"
-    ],
-    "correcta": 3,
-    "resolucion": "Al resolver la ecuación cuadrática planteada por el dato 'el cuadrado del menor es igual al mayor', se encuentra que $r = 14$. Esto hace que el ángulo menor sea $36 - 2(14) = 8^\\circ$."
-  },
-  {
-    "pregunta": "En el Ejercicio 6, se tienen ángulos congruentes $A_1OA_{16}$. ¿Cuántos ángulos simples de medida $\\alpha$ hay en total?",
-    "opciones": [
-      "16 ángulos",
-      "15 ángulos",
-      "14 ángulos",
-      "10 ángulos"
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$25^\\circ$"
     ],
     "correcta": 2,
-    "resolucion": "Del índice 1 al 16 hay 16 rayos, lo que genera $16 - 1 = 15$ espacios o ángulos simples consecutivos."
+    "resolucion": "Al ser opuestos por el vértice, son iguales: $3x + 10 = x + 50 \\rightarrow 2x = 40 \\rightarrow x = 20^\\circ$."
   },
   {
-    "pregunta": "En el Ejercicio 6, si $15\\alpha < 90^\\circ$, ¿cuál es el máximo valor entero del ángulo formado por $A_2 O A_{12}$ (que equivale a $10\\alpha$)?",
+    "pregunta": "Calcule el valor de $x$ si se sabe que la suma del suplemento de $x$ más el complemento de $x$ es igual a $210^\\circ$.",
     "opciones": [
-      "$60^\\circ$",
-      "$58^\\circ$",
-      "$59^\\circ$",
-      "$50^\\circ$"
-    ],
-    "correcta": 3,
-    "resolucion": "Si $15\\alpha < 90$, entonces $\\alpha < 6$. Se pide el máximo entero de $10\\alpha$. Multiplicando la desigualdad: $10\\alpha < 60$. El máximo entero menor a 60 es $59^\\circ$."
-  },
-  {
-    "pregunta": "En el Ejercicio 7, se busca maximizar $x = 6a - a^2$. ¿Cuál es el valor máximo de $x$ obtenido completando cuadrados?",
-    "opciones": [
-      "6",
-      "9",
-      "12",
-      "3"
-    ],
-    "correcta": 2,
-    "resolucion": "La expresión se reescribe como $-(a^2 - 6a + 9) + 9 = -(a-3)^2 + 9$. El valor máximo ocurre cuando el cuadrado es cero, quedando $x_{max} = 9$."
-  },
-  {
-    "pregunta": "En el Ejercicio 7, al obtener $x_{max} = 9^\\circ$, ¿cuál es el valor del cociente $\\theta / x$ sabiendo que $\\theta + x = 360^\\circ$?",
-    "opciones": [
-      "38",
-      "40",
-      "39",
-      "41"
-    ],
-    "correcta": 3,
-    "resolucion": "Si $x=9$, entonces $\\theta = 360 - 9 = 351$. El cociente es $351 / 9 = 39$."
-  },
-  {
-    "pregunta": "En el Ejercicio 8, se tienen $n$ rayos interiores dividiendo un ángulo. ¿Cuántos ángulos pequeños $\\alpha$ se forman en total?",
-    "opciones": [
-      "$n$ ángulos",
-      "$n-1$ ángulos",
-      "$n+1$ ángulos",
-      "$2n$ ángulos"
-    ],
-    "correcta": 3,
-    "resolucion": "Por inducción explicada en el video: 1 rayo crea 2 ángulos, 2 rayos crean 3 ángulos. Por ende, $n$ rayos crean $n+1$ ángulos."
-  },
-  {
-    "pregunta": "En el Ejercicio 8, ¿cuál es la expresión final para $x$ en función de $\\theta$ y $n$?",
-    "opciones": [
-      "$x = \\frac{\\theta(n-2)}{n+1}$",
-      "$x = \\frac{\\theta(n-1)}{n}$",
-      "$x = \\frac{\\theta(n-3)}{n+1}$",
-      "$x = \\frac{\\theta(n+1)}{n-2}$"
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$60^\\circ$"
     ],
     "correcta": 1,
-    "resolucion": "Se deduce que $x = \\theta - 3\\alpha$ y $\\alpha = \\frac{\\theta}{n+1}$. Sustituyendo y factorizando, se obtiene $x = \\theta \\frac{n-2}{n+1}$."
+    "resolucion": "Planteamos: $(180 - x) + (90 - x) = 210$. Esto es $270 - 2x = 210 \\rightarrow 2x = 60 \\rightarrow x = 30^\\circ$."
   },
   {
-    "pregunta": "En el Ejercicio 9, se trabaja con complementarios. Si $y = 90 - x$ y se halla el mínimo entero de $x$ como 52 y el máximo como 64, ¿cuánto es la suma pedida?",
+    "pregunta": "¿Cómo se clasifican los ángulos cuya suma de medidas es igual a $180^\\circ$?",
     "opciones": [
-      "115",
-      "120",
-      "110",
-      "116"
-    ],
-    "correcta": 4,
-    "resolucion": "El problema pide la suma del máximo y mínimo valor entero. Según los cálculos del video: $52 + 64 = 116$."
-  },
-  {
-    "pregunta": "En el Ejercicio 10, se plantea $S_x + C_x = k \\cdot C_x$. ¿Cuál es la ecuación simplificada que relaciona $x$ y $k$?",
-    "opciones": [
-      "$x = \\frac{270 - 90k}{2 - k}$",
-      "$x = 90(k-1)$",
-      "$x = \\frac{180}{k}$",
-      "$x = 90k - 270$"
+      "Complementarios",
+      "Suplementarios",
+      "Opuestos por el vértice",
+      "Consecutivos"
     ],
     "correcta": 1,
-    "resolucion": "Despejando de la ecuación $(180-x) + (90-x) = k(90-x)$, se obtiene que $x$ en función de $k$ es $x = \\frac{270 - 90k}{2 - k}$ (o su equivalente factorizado)."
+    "resolucion": "Por definición teórica, dos ángulos cuyas medidas suman $180^\\circ$ se llaman suplementarios."
   },
   {
-    "pregunta": "En el Ejercicio 10, ¿por qué se descarta el valor $k=3$?",
+    "pregunta": "Se tiene una expresión para un ángulo dada por $x = 10a - a^2$. ¿Cuál es el valor máximo que puede tomar este ángulo $x$?",
     "opciones": [
-      "Porque da un ángulo negativo",
-      "Porque da un ángulo de $0^\\circ$",
-      "Porque $k$ debe ser par",
-      "Porque no es entero"
+      "$20^\\circ$",
+      "$25^\\circ$",
+      "$50^\\circ$",
+      "$100^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Completando cuadrados: $-(a^2 - 10a + 25) + 25 = -(a-5)^2 + 25$. El valor máximo es $25^\\circ$ cuando $a=5$."
+  },
+  {
+    "pregunta": "Si trazamos $n$ rayos interiores desde el vértice de un ángulo, dividiéndolo en partes iguales, ¿cuántos ángulos pequeños simples se forman?",
+    "opciones": [
+      "$n - 1$",
+      "$n$",
+      "$n + 1$",
+      "$2n$"
     ],
     "correcta": 2,
-    "resolucion": "Al reemplazar $k=3$ en la fórmula derivada, el numerador se hace $270 - 270 = 0$, resultando en un ángulo de $0^\\circ$, lo cual no se considera una medida válida para el contexto del problema."
+    "resolucion": "Por inducción: 1 rayo crea 2 ángulos, 2 rayos crean 3 ángulos. Por lo tanto, $n$ rayos crean $n+1$ ángulos."
   },
   {
-    "pregunta": "Finalmente, en el Ejercicio 10, con $k=4$, ¿cuál es el menor valor posible para el ángulo $x$?",
+    "pregunta": "En un gráfico donde varios ángulos consecutivos alrededor de un punto suman una vuelta completa, ¿a cuánto se debe igualar la suma de sus medidas?",
+    "opciones": [
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$270^\\circ$",
+      "$360^\\circ$"
+    ],
+    "correcta": 3,
+    "resolucion": "La suma de los ángulos consecutivos alrededor de un punto (una vuelta completa) es siempre $360^\\circ$."
+  },
+  {
+    "pregunta": "Si $m\\angle AOB = 40^\\circ$ y se traza su bisectriz $OM$, ¿cuánto mide el ángulo $AOM$?",
+    "opciones": [
+      "$40^\\circ$",
+      "$20^\\circ$",
+      "$80^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "La bisectriz divide el ángulo en dos partes iguales, por lo que $40^\\circ / 2 = 20^\\circ$."
+  },
+  {
+    "pregunta": "Dos ángulos son complementarios y están en relación de 1 a 5. ¿Cuánto mide el ángulo menor?",
+    "opciones": [
+      "$10^\\circ$",
+      "$15^\\circ$",
+      "$18^\\circ$",
+      "$20^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Si están en relación 1 a 5, son $k$ y $5k$. Como son complementarios: $k + 5k = 90 \\rightarrow 6k = 90 \\rightarrow k = 15^\\circ$."
+  },
+  {
+    "pregunta": "Si un ángulo recto se divide en tres ángulos parciales $x$, $2x$ y $3x$, ¿cuál es el valor de $x$?",
+    "opciones": [
+      "$15^\\circ$",
+      "$18^\\circ$",
+      "$10^\\circ$",
+      "$12^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "La suma es $x + 2x + 3x = 90 \\rightarrow 6x = 90 \\rightarrow x = 15^\\circ$."
+  },
+  {
+    "pregunta": "Determine el suplemento del complemento de $80^\\circ$.",
+    "opciones": [
+      "$10^\\circ$",
+      "$100^\\circ$",
+      "$170^\\circ$",
+      "$160^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Primero hallamos el complemento de $80^\\circ$: $90 - 80 = 10^\\circ$. Luego, el suplemento de $10^\\circ$: $180 - 10 = 170^\\circ$."
+  },
+  {
+    "pregunta": "Si la medida de un ángulo es menor que $90^\\circ$ pero mayor que $0^\\circ$, ¿qué tipo de ángulo es?",
+    "opciones": [
+      "Recto",
+      "Obtuso",
+      "Agudo",
+      "Llano"
+    ],
+    "correcta": 2,
+    "resolucion": "Esta es la definición teórica del ángulo agudo dada en el video."
+  },
+  {
+    "pregunta": "Tenemos ángulos consecutivos sobre una recta $AOB$, $BOC$ y $COD$. Si $AOD$ es un ángulo llano y $m\\angle AOB = m\\angle COD = 50^\\circ$, ¿cuánto mide $m\\angle BOC$?",
+    "opciones": [
+      "$50^\\circ$",
+      "$100^\\circ$",
+      "$80^\\circ$",
+      "$130^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser llano, todo suma $180^\\circ$. Entonces $50 + x + 50 = 180 \\rightarrow x + 100 = 180 \\rightarrow x = 80^\\circ$."
+  }
+          ]
+        },
+        {
+          "titulo": "1.2 Congruencia y Aplicaciones",
+          "youtube_id": "iOjX5dH_eM8",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo define el profesor el concepto de 'congruencia' en un caso ideal al inicio del video?",
+    "opciones": [
+      "Como una semejanza entre figuras",
+      "Como una igualdad en forma y tamaño",
+      "Como una equivalencia de áreas",
+      "Como una relación de proporcionalidad"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor indica explícitamente que 'congruencia' en un caso ideal significa igualdad; es decir, tener la misma forma y el mismo tamaño."
+  },
+  {
+    "pregunta": "¿Qué condiciones debe cumplir el caso de congruencia ALA (Ángulo-Lado-Ángulo)?",
+    "opciones": [
+      "Se repiten dos ángulos y cualquier lado.",
+      "Se repiten tres ángulos.",
+      "Se repiten dos ángulos y el lado comprendido entre ellos.",
+      "Se repiten dos lados y un ángulo."
+    ],
+    "correcta": 2,
+    "resolucion": "En el caso ALA, se deben repetir dos ángulos y necesariamente el lado que se encuentra entre dichos ángulos."
+  },
+  {
+    "pregunta": "En el caso de congruencia LAL (Lado-Ángulo-Lado), ¿dónde debe estar ubicado el ángulo que se repite?",
+    "opciones": [
+      "Opuesto al lado mayor.",
+      "Entre los dos lados que se repiten.",
+      "En cualquier posición.",
+      "Opuesto al lado menor."
+    ],
+    "correcta": 1,
+    "resolucion": "Para que se cumpla el caso LAL, el ángulo congruente debe estar formado por (o entre) los dos lados congruentes."
+  },
+  {
+    "pregunta": "¿Cuál es la condición especial para el cuarto caso de congruencia LLA (Lado-Lado-Ángulo)?",
+    "opciones": [
+      "El ángulo debe ser agudo.",
+      "El ángulo debe estar entre los lados.",
+      "El ángulo debe oponerse al lado mayor.",
+      "El ángulo debe ser de $90^\\circ$."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor enfatiza que en el caso LLA, el ángulo que se repite debe oponerse al lado mayor de los dos lados conocidos."
+  },
+  {
+    "pregunta": "Según las aplicaciones de la congruencia, ¿qué trazo se recomienda hacer en un triángulo rectángulo?",
+    "opciones": [
+      "Trazar la altura relativa a la hipotenusa.",
+      "Trazar la bisectriz del ángulo recto.",
+      "Trazar la mediana relativa a la hipotenusa.",
+      "Trazar una ceviana interior cualquiera."
+    ],
+    "correcta": 2,
+    "resolucion": "La recomendación dada en el video es trazar la mediana relativa a la hipotenusa, ya que esta mide lo mismo que los segmentos en los que divide a la hipotenusa."
+  },
+  {
+    "pregunta": "Si trazamos la mediana relativa a la hipotenusa en un triángulo rectángulo, ¿qué tipo de triángulos se forman al interior?",
+    "opciones": [
+      "Dos triángulos equiláteros.",
+      "Dos triángulos isósceles.",
+      "Dos triángulos escalenos.",
+      "Un triángulo rectángulo y uno obtusángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser la mediana igual a la mitad de la hipotenusa ($BM = AM = MC$), se forman dos triángulos isósceles dentro del triángulo original."
+  },
+  {
+    "pregunta": "¿Qué propiedad cumple cualquier punto situado en la bisectriz de un ángulo?",
+    "opciones": [
+      "Equidista de los vértices del triángulo.",
+      "Equidista de los lados del ángulo.",
+      "Divide al ángulo en tres partes iguales.",
+      "Forma un triángulo equilátero con los lados."
+    ],
+    "correcta": 1,
+    "resolucion": "El Teorema de la Bisectriz establece que cualquier punto de la bisectriz equidista de los lados del ángulo (las perpendiculares trazadas a los lados son iguales)."
+  },
+  {
+    "pregunta": "Según el Teorema de la Mediatriz, si tomamos un punto de la mediatriz de un segmento y lo unimos a los extremos, ¿qué figura se forma?",
+    "opciones": [
+      "Un triángulo escaleno.",
+      "Un triángulo isósceles.",
+      "Un triángulo rectángulo.",
+      "Un trapecio."
+    ],
+    "correcta": 1,
+    "resolucion": "Todo punto de la mediatriz equidista de los extremos del segmento, por lo que al unirlo con ellos se forma un triángulo con dos lados iguales (isósceles)."
+  },
+  {
+    "pregunta": "En el problema 1 del video (triángulos superpuestos), se deduce que $40^\\circ + x$ es igual a un ángulo externo de $70^\\circ$. ¿Cuál es el valor de $x$?",
+    "opciones": [
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por la propiedad del ángulo exterior: interno + interno = externo. $40^\\circ + x = 70^\\circ$, por lo tanto $x = 30^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 2 (lotes y pintura), se pintan 150 metros en 10 horas. ¿Cuánto tiempo tomará pintar un tramo de 30 metros?",
+    "opciones": [
+      "1 hora",
+      "2 horas",
+      "3 horas",
+      "1.5 horas"
+    ],
+    "correcta": 1,
+    "resolucion": "Si 150m son 10h, la velocidad es 15m/h. O usando proporción simple como en el video: $150 \\div 5 = 30$, entonces $10 \\div 5 = 2$ horas."
+  },
+  {
+    "pregunta": "En el problema 3 (Excavación), se construye un triángulo isósceles exterior para resolverlo. Si se llega a la ecuación $10x = 180^\\circ$ (suma de ángulos internos), ¿cuánto vale $x$?",
+    "opciones": [
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$18^\\circ$",
+      "$10^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "La suma de los ángulos internos del triángulo isósceles formado era $4x + 3x + 3x = 10x$. Al igualar a $180^\\circ$, $x = 18^\\circ$."
+  },
+  {
+    "pregunta": "En el problema de la sombrilla (triángulo rectángulo), los catetos están en relación de 1 a 2. ¿Cuál es el ángulo aproximado de ese triángulo?",
+    "opciones": [
+      "$37^\\circ/2$",
+      "$53^\\circ/2$",
+      "$30^\\circ$",
+      "$15^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Un triángulo rectángulo con catetos en relación de 1 a 2 corresponde al triángulo notable aproximado de $53^\\circ/2$."
+  },
+  {
+    "pregunta": "En el problema de los navegantes (playa), al trazar las medianas relativas a la hipotenusa en dos triángulos rectángulos, se forma un triángulo central que resulta ser:",
+    "opciones": [
+      "Isósceles obtusángulo",
+      "Equilátero",
+      "Rectángulo",
+      "Escaleno"
+    ],
+    "correcta": 1,
+    "resolucion": "Al igualar las longitudes de las medianas y usar los datos de ángulos ($2\\alpha + 2\\theta = 60^\\circ$), el triángulo central tiene un ángulo de $60^\\circ$ entre dos lados iguales, lo que lo hace equilátero."
+  },
+  {
+    "pregunta": "Si un punto medio de un lado de un triángulo se une con el punto medio de otro lado, ¿cómo se llama este segmento y qué relación tiene con el tercer lado?",
+    "opciones": [
+      "Mediana; es igual al tercer lado.",
+      "Base media; es paralelo y mide la mitad del tercer lado.",
+      "Ceviana; es perpendicular al tercer lado.",
+      "Altura; mide el doble del tercer lado."
+    ],
+    "correcta": 1,
+    "resolucion": "Se llama Base Media. Es paralela a la base (tercer lado) y su longitud es la mitad de esta ($AC/2$)."
+  },
+  {
+    "pregunta": "En un triángulo isósceles, la altura trazada hacia la base cumple simultáneamente las funciones de:",
+    "opciones": [
+      "Solo mediana.",
+      "Solo bisectriz.",
+      "Mediana, bisectriz y mediatriz.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": 2,
+    "resolucion": "En un triángulo isósceles, la altura relativa al lado desigual es también mediana (divide al lado en dos), bisectriz (divide al ángulo en dos) y está contenida en la mediatriz."
+  },
+  {
+    "pregunta": "En el último problema resuelto (triángulo acutángulo con alturas iguales), ¿qué propiedad de las alturas en triángulos isósceles se utiliza?",
+    "opciones": [
+      "Que las alturas son proporcionales a los lados.",
+      "Que las alturas trazadas a los lados congruentes (iguales) son también congruentes.",
+      "Que las alturas siempre se cortan en el punto medio.",
+      "Que la suma de alturas es constante."
+    ],
+    "correcta": 1,
+    "resolucion": "Se usa la propiedad de que en un triángulo isósceles, las alturas relativas a los lados iguales son de igual longitud ($h_1 = h_2$)."
+  },
+  {
+    "pregunta": "Si se tiene un punto en la bisectriz de un ángulo y se trazan perpendiculares a los lados, los triángulos rectángulos que se forman son:",
+    "opciones": [
+      "Semejantes pero no congruentes.",
+      "Congruentes.",
+      "De áreas diferentes.",
+      "Equiláteros."
+    ],
+    "correcta": 1,
+    "resolucion": "Se forman dos triángulos rectángulos congruentes (caso Hipotenusa-Ángulo o LAA), lo que implica que los catetos (distancias) son iguales."
+  },
+  {
+    "pregunta": "En el problema donde $AB = CD$ (escaleno), se trazan perpendiculares para formar congruencia. ¿Qué caso de congruencia se utilizó al final para hallar $x$?",
+    "opciones": [
+      "Lado-Lado-Lado (LLL)",
+      "Lado-Ángulo-Lado (LAL)",
+      "Ángulo-Lado-Ángulo (ALA)",
+      "Lado-Lado-Ángulo Mayor"
+    ],
+    "correcta": 3,
+    "resolucion": "Se completó la figura formando un rectángulo y triángulos rectángulos congruentes. Al tener hipotenusas iguales y ángulos complementarios trasladados, se aplicó el caso LAA o ALA (generalizado en hipotenusa-ángulo)."
+  },
+  {
+    "pregunta": "¿Qué recomienda el profesor verificar primero al ver dos triángulos sospechosos de ser congruentes?",
+    "opciones": [
+      "Verificar si tienen la misma área.",
+      "Contar cuántos lados y ángulos se repiten.",
+      "Asumir que son congruentes y operar.",
+      "Medir los lados con una regla."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor recomienda identificar ('contar') la cantidad de lados y ángulos que se repiten para ver si encajan en alguno de los 4 casos teóricos."
+  },
+  {
+    "pregunta": "En el problema de la excavación (Examen de admisión), se determinó que el triángulo formado con los trazos auxiliares era isósceles. ¿Qué lados resultaron ser iguales?",
+    "opciones": [
+      "La base y la altura.",
+      "Los lados opuestos a los ángulos $3x$ y $x$.",
+      "El lado generado por la construcción y el lado dato del problema.",
+      "No se formó ningún isósceles."
+    ],
+    "correcta": 2,
+    "resolucion": "Mediante la construcción de un triángulo congruente exterior, se demostró que el nuevo triángulo grande formado tenía dos lados iguales, permitiendo igualar sus ángulos de base."
+  }
+          ]
+        },
+        {
+          "titulo": "1.3 Triángulos: Teorema y clasificación",
+          "youtube_id": "mAiJOV08Vig",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "En un triángulo, las medidas de sus ángulos internos son $x+2y$, $2x+y$ y $x-y$. Determine la relación entre $x$ y $y$ después de aplicar el teorema de suma de ángulos internos.",
+    "opciones": [
+      "$2x + y = 90^\\circ$",
+      "$4x + 2y = 180^\\circ$",
+      "$2x + y = 180^\\circ$",
+      "$x + y = 45^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Sumamos los internos: $(x+2y) + (2x+y) + (x-y) = 180^\\circ$. Simplificando: $4x + 2y = 180^\\circ$. Sacando mitad: $2x + y = 90^\\circ$."
+  },
+  {
+    "pregunta": "Se tiene un triángulo con ángulos externos $x$, $y$ y $z$. Si se sabe que la suma de sus ángulos internos es $180^\\circ$, ¿cuál es el valor de $x + y + z$?",
+    "opciones": [
+      "$180^\\circ$",
+      "$270^\\circ$",
+      "$360^\\circ$",
+      "$540^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Por el segundo teorema fundamental demostrado en el video, la suma de las medidas de los ángulos exteriores de cualquier triángulo es siempre $360^\\circ$."
+  },
+  {
+    "pregunta": "En una figura tipo 'Boomerang', los ángulos internos miden $\\alpha$, $\\beta$ y $\\theta$. Si el ángulo externo cóncavo mide $x$, ¿qué relación se cumple?",
+    "opciones": [
+      "$x = \\alpha + \\beta - \\theta$",
+      "$x = \\alpha \\cdot \\beta \\cdot \\theta$",
+      "$x = \\frac{\\alpha + \\beta + \\theta}{2}$",
+      "$x = \\alpha + \\beta + \\theta$"
+    ],
+    "correcta": 3,
+    "resolucion": "El teorema auxiliar del boomerang establece que el ángulo exterior es igual a la suma de los tres ángulos internos no adyacentes: $x = \\alpha + \\beta + \\theta$."
+  },
+  {
+    "pregunta": "Aplique la propiedad de la 'Mariposa' (o Corbatita). Si en un lado los ángulos son $x$ y $40^\\circ$, y en el otro lado cruzado son $30^\\circ$ y $50^\\circ$, halle $x$.",
     "opciones": [
       "$30^\\circ$",
-      "$60^\\circ$",
-      "$53^\\circ$",
-      "$45^\\circ$"
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$20^\\circ$"
     ],
-    "correcta": 4,
-    "resolucion": "Con $k=4$, la operación es $\\frac{270 - 360}{2 - 4} = \\frac{-90}{-2} = 45^\\circ$."
+    "correcta": 1,
+    "resolucion": "La propiedad dice que la suma de ángulos de un ala es igual a la suma de la otra: $x + 40^\\circ = 30^\\circ + 50^\\circ$. Entonces $x + 40 = 80$, por lo tanto $x = 40^\\circ$."
+  },
+  {
+    "pregunta": "Usando la propiedad del 'Pescadito', si los ángulos internos opuestos son $60^\\circ$ y $80^\\circ$, y los ángulos externos opuestos son $x$ y $x+20^\\circ$, calcule $x$.",
+    "opciones": [
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$70^\\circ$",
+      "$40^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "La suma de internos opuestos es igual a la suma de externos opuestos: $60 + 80 = x + (x+20)$. $140 = 2x + 20 \\rightarrow 120 = 2x \\rightarrow x = 60^\\circ$."
+  },
+  {
+    "pregunta": "Si los lados de un triángulo miden 4, 7 y $x$, ¿cuál es el intervalo de valores enteros que puede tomar $x$ según el Teorema de Existencia?",
+    "opciones": [
+      "$3 < x < 11$",
+      "$4 < x < 7$",
+      "$3 \\leq x \\leq 11$",
+      "$1 < x < 10$"
+    ],
+    "correcta": 0,
+    "resolucion": "El lado $x$ debe ser mayor que la diferencia y menor que la suma: $7-4 < x < 7+4$. Por lo tanto, $3 < x < 11$."
+  },
+  {
+    "pregunta": "¿Cómo se clasifica un triángulo si sus ángulos miden $40^\\circ$, $60^\\circ$ y $80^\\circ$?",
+    "opciones": [
+      "Obtusángulo",
+      "Rectángulo",
+      "Acutángulo",
+      "Equiángulo"
+    ],
+    "correcta": 2,
+    "resolucion": "Como los tres ángulos ($40^\\circ, 60^\\circ, 80^\\circ$) son menores a $90^\\circ$ (agudos), el triángulo se clasifica como Acutángulo."
+  },
+  {
+    "pregunta": "En un triángulo isósceles, uno de los ángulos iguales mide $x$. Según el video, ¿cuál es el límite superior teórico para $x$?",
+    "opciones": [
+      "$x < 60^\\circ$",
+      "$x < 45^\\circ$",
+      "$x < 90^\\circ$",
+      "$x < 180^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "En un triángulo isósceles, los ángulos iguales deben ser agudos. Si fueran $90^\\circ$ o más, la suma excedería o igualaría $180^\\circ$ sin contar el tercer ángulo. Por tanto, $x < 90^\\circ$."
+  },
+  {
+    "pregunta": "Se observa un ángulo de $60^\\circ$ formado por dos lados de igual longitud ($a$). ¿Cuál es el trazo auxiliar recomendado en el video?",
+    "opciones": [
+      "Trazar la bisectriz del ángulo de $60^\\circ$.",
+      "Unir los extremos libres para formar un triángulo equilátero.",
+      "Trazar una altura hacia uno de los lados.",
+      "Prolongar uno de los lados."
+    ],
+    "correcta": 1,
+    "resolucion": "La recomendación es unir los extremos. Al tener dos lados iguales y un ángulo de $60^\\circ$, el triángulo isósceles que se forma tiene sus otros ángulos también de $60^\\circ$, convirtiéndose en equilátero."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo de perímetro 60, ¿cuál es la desigualdad especial que cumple la hipotenusa $c$ con respecto a los catetos $a$ y $b$?",
+    "opciones": [
+      "$c > a + b$",
+      "$c\\sqrt{2} \\geq a + b$",
+      "$c^2 < a + b$",
+      "$c < a - b$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se demuestra en el video construyendo un cuadrado exterior que $c\\sqrt{2} \\geq a + b$ (la igualdad se da si es isósceles). Esta propiedad ayuda a acotar valores de la hipotenusa."
+  },
+  {
+    "pregunta": "Si se tiene un triángulo escaleno de lados enteros y razón aritmética 5 (lados $a-5$, $a$, $a+5$). ¿Cuál es el mínimo valor entero de su perímetro?",
+    "opciones": [
+      "31",
+      "33",
+      "30",
+      "29"
+    ],
+    "correcta": 0,
+    "resolucion": "Por existencia: $a < (a-5) + (a+5) \\rightarrow a < 2a$ (siempre cierto). Y $a > (a+5) - (a-5) \\rightarrow a > 10$. Si $a > 10$, el perímetro $3a > 30$. El mínimo entero es 31."
+  },
+  {
+    "pregunta": "Teorema de Correspondencia: En un triángulo, si el ángulo $A = 80^\\circ$ y el ángulo $B = 40^\\circ$, ¿cuál es la relación entre el lado $a$ (opuesto a A) y el lado $b$ (opuesto a B)?",
+    "opciones": [
+      "$a < b$",
+      "$a = b$",
+      "$a > b$",
+      "$a = 2b$"
+    ],
+    "correcta": 2,
+    "resolucion": "A mayor ángulo se opone mayor lado. Como $80^\\circ > 40^\\circ$, entonces el lado $a$ es mayor que el lado $b$."
+  },
+  {
+    "pregunta": "En el ejercicio de la 'Carterita' (Teorema auxiliar), si los ángulos superiores son $\\alpha$ y $\\beta$, y los inferiores son $m$ y $n$, ¿qué se cumple?",
+    "opciones": [
+      "$\\alpha + m = \\beta + n$",
+      "$\\alpha + \\beta = m + n$",
+      "$\\alpha \\cdot \\beta = m \\cdot n$",
+      "$\\alpha + n = \\beta + m$"
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad de la carterita indica que la suma de los ángulos 'de arriba' es igual a la suma de los ángulos 'de abajo': $\\alpha + \\beta = m + n$."
+  },
+  {
+    "pregunta": "Si un triángulo tiene lados en progresión geométrica ($1$, $q$, $q^2$), ¿qué teorema se usó en el video para hallar el rango de la razón $q$?",
+    "opciones": [
+      "Teorema de Pitágoras",
+      "Teorema de la Base Media",
+      "Teorema de la Existencia",
+      "Teorema de la Bisectriz"
+    ],
+    "correcta": 2,
+    "resolucion": "Se usó el Teorema de Existencia ($q^2 < 1 + q$) completando cuadrados para hallar el intervalo válido de la razón $q$."
+  },
+  {
+    "pregunta": "En un triángulo, el ángulo exterior en el vértice A mide $140^\\circ$. Si el ángulo interior en B mide $x$ y en C mide $x+20^\\circ$, halle $x$.",
+    "opciones": [
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$70^\\circ$",
+      "$80^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo exterior es la suma de los internos no adyacentes: $140 = x + (x+20)$. $120 = 2x \\rightarrow x = 60^\\circ$."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el triángulo que tiene los tres lados de diferente medida?",
+    "opciones": [
+      "Isósceles",
+      "Equilátero",
+      "Escaleno",
+      "Rectángulo"
+    ],
+    "correcta": 2,
+    "resolucion": "El triángulo escaleno es aquel que tiene sus tres lados de medidas diferentes."
+  },
+  {
+    "pregunta": "Si en un problema nos dicen que el perímetro de un triángulo rectángulo es 60 y queremos hallar los valores enteros de la hipotenusa ($c$), llegamos a $c \\sqrt{2} \\ge 60$. ¿Cuál es el menor valor entero de $c$ aprox?",
+    "opciones": [
+      "24",
+      "25",
+      "26",
+      "30"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la aproximación $\\sqrt{2}+1 \\approx 2.41$ y operando $c \\ge 60 / 2.41$, resulta $c \\ge 24.8$. El menor entero es 25."
+  },
+  {
+    "pregunta": "En un triángulo isósceles ABC ($AB=BC$), se traza una ceviana interior tal que forma un ángulo de $40^\\circ$ y otro de $20^\\circ$. ¿Qué técnica se usó en el video (problema 14) para resolverlo?",
+    "opciones": [
+      "Trazar una altura.",
+      "Prolongar la base para formar un isósceles exterior.",
+      "Prolongar un lado para formar un triángulo equilátero aprovechando un ángulo de $60^\\circ$.",
+      "Aplicar el teorema de Pitágoras."
+    ],
+    "correcta": 2,
+    "resolucion": "Se prolongó el lado CA para aprovechar que $40^\\circ+20^\\circ=60^\\circ$ exterior, construyendo así un triángulo equilátero auxiliar."
+  },
+  {
+    "pregunta": "Si la suma de las medidas de los ángulos $x$, $y$, $z$ (externos de triángulos interiores) es mayor a $300^\\circ$ y se relacionan con $\\alpha$, ¿qué buscábamos en ese ejercicio (Problema 2)?",
+    "opciones": [
+      "El mínimo valor entero de $\\alpha$.",
+      "El máximo valor entero de $\\alpha$.",
+      "El valor exacto de $\\alpha$.",
+      "Que no existe solución."
+    ],
+    "correcta": 1,
+    "resolucion": "Se planteó una desigualdad del tipo $1080 - 32\\alpha > 300$ para hallar el máximo valor entero posible de $\\alpha$, resultando en 24."
+  },
+  {
+    "pregunta": "¿Por qué la medida de un ángulo interno de un triángulo equilátero es $60^\\circ$?",
+    "opciones": [
+      "Porque $360^\\circ / 3 = 120^\\circ$.",
+      "Porque los tres lados son diferentes.",
+      "Porque al ser equilátero es equiángulo, y $180^\\circ / 3 = 60^\\circ$.",
+      "Por el teorema de Pitágoras."
+    ],
+    "correcta": 2,
+    "resolucion": "Al tener tres lados iguales, tiene tres ángulos iguales. Como la suma interna es $180^\\circ$, cada uno debe medir $180/3 = 60^\\circ$."
   }
-      ],
-      "videos": [
-        {
-          "titulo": "1.1 Teoría de Exponentes - Parte 1",
-          "youtube_id": "IIlRlU1VU9g",
-          "pdf_link": "https://drive.google.com/file/d/1K4G42gPGhePqiNAzJMXvVZEa5n0e0cSP/view",
-          "gratis": true
+          ]
         },
         {
-          "titulo": "1.2 Teoría de Exponentes - Parte 2",
-          "youtube_id": "6wfyQCuehbY",
-          "pdf_link": "https://drive.google.com/file/d/1GHpclc0rXjoNwr4Y5tgmiK2VcsCAJTrc/view",
-          "gratis": false
+          "titulo": "1.4 Rectas perpendiculares | Ecuación de la recta",
+          "youtube_id": "IP8HI9gAdoE",
+          "pdf_link": "",
+          "gratis": true,
+          "preguntas": [
+            {
+    "pregunta": "Según la definición del video, ¿qué condición geométrica deben cumplir dos rectas para ser perpendiculares?",
+    "opciones": [
+      "Deben intersectarse formando un ángulo de 45°.",
+      "Deben ser paralelas y nunca tocarse.",
+      "Deben intersectarse formando un ángulo de 90°.",
+      "Deben tener la misma pendiente."
+    ],
+    "correcta": 2,
+    "resolucion": "El video inicia explicando que dos rectas son perpendiculares si al intersectarse forman un ángulo recto (90 grados)."
+  },
+  {
+    "pregunta": "¿Qué propiedad fundamental deben cumplir las pendientes ($m_1$ y $m_2$) de dos rectas perpendiculares?",
+    "opciones": [
+      "$m_1 \\cdot m_2 = 1$",
+      "$m_1 = m_2$",
+      "$m_1 + m_2 = 0$",
+      "$m_1 \\cdot m_2 = -1$"
+    ],
+    "correcta": 3,
+    "resolucion": "El profesor explica que la condición matemática para la perpendicularidad es que el producto de sus pendientes sea igual a -1 ($m_1 \\cdot m_2 = -1$)."
+  },
+  {
+    "pregunta": "Si tenemos la recta $y = 5x + 3$, ¿cuál es su pendiente?",
+    "opciones": [
+      "3",
+      "5",
+      "-5",
+      "1/5"
+    ],
+    "correcta": 1,
+    "resolucion": "En la ecuación punto-pendiente ($y = mx + b$), el número que acompaña a la $x$ es la pendiente. En este caso, es 5."
+  },
+  {
+    "pregunta": "En el primer ejemplo del video, se tiene una recta con pendiente $m_1 = 5$. ¿Cuál debe ser la pendiente $m_2$ de una recta perpendicular a ella?",
+    "opciones": [
+      "5",
+      "-5",
+      "-1/5",
+      "1/5"
+    ],
+    "correcta": 2,
+    "resolucion": "Para que el producto sea -1, se invierte el número y se cambia el signo. Si $m_1 = 5$, entonces $m_2 = -1/5$."
+  },
+  {
+    "pregunta": "Al multiplicar las pendientes $5$ y $-1/5$ en el primer ejemplo, ¿cuál es el resultado de la operación?",
+    "opciones": [
+      "1",
+      "0",
+      "-1",
+      "-25"
+    ],
+    "correcta": 2,
+    "resolucion": "$5 \\cdot (-1/5) = -5/5 = -1$. Esto confirma que son perpendiculares."
+  },
+  {
+    "pregunta": "En la ecuación general de la recta $Ax + By + C = 0$, ¿cuál es la fórmula para hallar la pendiente ($m$)?",
+    "opciones": [
+      "$m = -A/B$",
+      "$m = A/B$",
+      "$m = -B/A$",
+      "$m = C/A$"
+    ],
+    "correcta": 0,
+    "resolucion": "El video recuerda que cuando la ecuación está en forma general, la pendiente se calcula como $m = -A/B$."
+  },
+  {
+    "pregunta": "Para la recta $6x - 3y + 2 = 0$ (del segundo ejemplo), ¿cuánto vale el coeficiente $A$?",
+    "opciones": [
+      "-3",
+      "2",
+      "6",
+      "0"
+    ],
+    "correcta": 2,
+    "resolucion": "El coeficiente $A$ es el número que acompaña a la $x$. En este caso, $A = 6$."
+  },
+  {
+    "pregunta": "Calcule la pendiente de la recta $6x - 3y + 2 = 0$ usando la fórmula $m = -A/B$.",
+    "opciones": [
+      "-2",
+      "2",
+      "1/2",
+      "-1/2"
+    ],
+    "correcta": 1,
+    "resolucion": "Reemplazando: $m = -6 / (-3)$. Menos entre menos da más, y 6 entre 3 es 2. La pendiente es 2."
+  },
+  {
+    "pregunta": "En el segundo ejemplo, la segunda recta es $2x + 4y - 10 = 0$. ¿Cuál es su pendiente?",
+    "opciones": [
+      "2",
+      "-2",
+      "1/2",
+      "-1/2"
+    ],
+    "correcta": 3,
+    "resolucion": "Usando $m = -A/B$: $m = -2 / 4$. Simplificando la fracción (mitad de 2 es 1, mitad de 4 es 2), queda $-1/2$."
+  },
+  {
+    "pregunta": "Verifique si las rectas con pendientes $m_1 = 2$ y $m_2 = -1/2$ son perpendiculares realizando el producto.",
+    "opciones": [
+      "No, el producto es 1.",
+      "Sí, el producto es -1.",
+      "No, el producto es -4.",
+      "Sí, el producto es 0."
+    ],
+    "correcta": 1,
+    "resolucion": "$2 \\cdot (-1/2) = -2/2 = -1$. Al dar -1, se confirma que son perpendiculares."
+  },
+  {
+    "pregunta": "Si nos dan la recta $y = 6x - 5$, ¿cuál es el primer paso para hallar la ecuación de una recta perpendicular?",
+    "opciones": [
+      "Identificar que su pendiente es 6.",
+      "Cambiar el -5 por otro número.",
+      "Graficar la recta.",
+      "Igualar la ecuación a cero."
+    ],
+    "correcta": 0,
+    "resolucion": "Lo primero es identificar la pendiente de la recta original. En $y = 6x - 5$, la pendiente es 6."
+  },
+  {
+    "pregunta": "¿Cuál sería la pendiente de una recta perpendicular a $y = 6x - 5$?",
+    "opciones": [
+      "6",
+      "-6",
+      "1/6",
+      "-1/6"
+    ],
+    "correcta": 3,
+    "resolucion": "El truco explicado es: cambiar el signo (de positivo a negativo) e invertir el número (de 6/1 a 1/6). Resultado: $-1/6$."
+  },
+  {
+    "pregunta": "Indique cuál de las siguientes ecuaciones corresponde a una recta perpendicular a $y = 6x - 5$.",
+    "opciones": [
+      "$y = 6x + 10$",
+      "$y = -6x - 5$",
+      "$y = -\\frac{1}{6}x + 10$",
+      "$y = \\frac{1}{6}x - 2$"
+    ],
+    "correcta": 2,
+    "resolucion": "La ecuación debe tener pendiente $-1/6$. La opción $y = -1/6x + 10$ cumple con esto. El término independiente (+10) no afecta la perpendicularidad."
+  },
+  {
+    "pregunta": "Si tenemos la recta $y = -\\frac{2}{3}x + 1$, ¿cuál es su pendiente?",
+    "opciones": [
+      "2/3",
+      "-2/3",
+      "3/2",
+      "1"
+    ],
+    "correcta": 1,
+    "resolucion": "La pendiente es el coeficiente de $x$, es decir, $-2/3$."
+  },
+  {
+    "pregunta": "Para hallar la pendiente perpendicular a $m = -2/3$, ¿qué operación rápida aplica el profesor?",
+    "opciones": [
+      "Cambia signo a positivo e invierte la fracción a 3/2.",
+      "Solo cambia el signo a 2/3.",
+      "Solo invierte la fracción a -3/2.",
+      "Le resta 1."
+    ],
+    "correcta": 0,
+    "resolucion": "Cambia el signo (de menos a más) e invierte la fracción (el 3 arriba y el 2 abajo). La nueva pendiente es $3/2$."
+  },
+  {
+    "pregunta": "¿Cuál de estas ecuaciones es perpendicular a $y = -\\frac{2}{3}x + 1$?",
+    "opciones": [
+      "$y = -\\frac{2}{3}x + 5$",
+      "$y = \\frac{2}{3}x - 5$",
+      "$y = \\frac{3}{2}x - 5$",
+      "$y = -\\frac{3}{2}x + 8$"
+    ],
+    "correcta": 2,
+    "resolucion": "Debe tener pendiente $3/2$. La ecuación $y = 3/2x - 5$ es la correcta."
+  },
+  {
+    "pregunta": "¿Influye el término independiente (el número que no tiene $x$, como $b$ o $C$) para determinar si dos rectas son perpendiculares?",
+    "opciones": [
+      "Sí, debe ser el mismo.",
+      "Sí, deben ser inversos.",
+      "No, no importa el número que coloquemos.",
+      "Solo si es cero."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor aclara varias veces (como al minuto 07:09) que \"aquí el número no importa\", lo único importante es la pendiente."
+  },
+  {
+    "pregunta": "Al simplificar la fracción $-6/-3$ en el cálculo de una pendiente, ¿qué se debe tener en cuenta con los signos?",
+    "opciones": [
+      "Menos por menos da más.",
+      "Se deja el signo del mayor.",
+      "Siempre queda negativo.",
+      "Se eliminan los números pero queda el signo."
+    ],
+    "correcta": 0,
+    "resolucion": "En la división de signos iguales (menos entre menos), el resultado es positivo."
+  },
+  {
+    "pregunta": "Si la pendiente de una recta es un número entero $k$ positivo, la pendiente de su perpendicular siempre será:",
+    "opciones": [
+      "Un entero negativo.",
+      "Una fracción negativa de la forma $-1/k$.",
+      "El mismo número $k$.",
+      "Una fracción positiva $1/k$."
+    ],
+    "correcta": 1,
+    "resolucion": "Se debe invertir (quedando $1/k$) y cambiar el signo (quedando negativo), resultando en $-1/k$."
+  },
+  {
+    "pregunta": "Para multiplicar un entero por una fracción (ej. $5 \\cdot -1/5$), ¿qué paso auxiliar muestra el video?",
+    "opciones": [
+      "Usar calculadora.",
+      "Colocarle un 1 como denominador al entero.",
+      "Convertir la fracción a decimal.",
+      "Sumar los numeradores."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor coloca un 1 debajo del entero (5/1) para multiplicar numerador con numerador y denominador con denominador."
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 2: Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 2: Bioquímica: Biomoléculas Orgánicas",
       "videos": [
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.1 Glúcidos: Monosacáridos y Disacáridos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.2 Polisacáridos de Reserva y Estructurales",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.3 Lípidos: Clasificación y Funciones",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "2.1 Teoría de Polinomios",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 3: Productos Notables",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.4 Proteínas: Aminoácidos y Enlace Peptídico",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 4: División Algebraica (Horner y Ruffini)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "4.1 Métodos de División",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.5 Estructura y Función de las Proteínas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "2.6 Ácidos Nucleicos (ADN y ARN)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 5: Teorema del Resto y Divisibilidad",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 3: Citología I (Envolturas y Membrana)",
       "videos": [
         {
-          "titulo": "5.1 Aplicaciones del Teorema del Resto",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.1 Teoría Celular y Tipos de Células",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 6: Cocientes Notables",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "6.1 Casos de Cocientes Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.2 Célula Procariota vs Eucariota",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 7: Factorización I (Factor Común e Identidades)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "7.1 Criterios de Factorización",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.3 Pared Celular y Glucocálix",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 8: Factorización II (Aspas)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "8.1 Aspa Simple y Doble",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.4 Membrana Celular: Estructura",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 9: MCD y MCM de Polinomios",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
-      "videos": [
-        {
-          "titulo": "9.1 Cálculo de MCD y MCM",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.5 Transporte Pasivo y Activo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "3.6 Bombas y Transporte en Masa",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 10: Fracciones Algebraicas",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 4: Citología II (Citoplasma y Núcleo)",
       "videos": [
         {
-          "titulo": "10.1 Operaciones con Fracciones",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "4.1 Citosol y Citoesqueleto",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         },
         {
-          "titulo": "3.1 Principales Productos Notables",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "4.2 Sistema de Endomembranas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.3 Organelas de una membrana y dos membranas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.4 Mitocondrias y Cloroplastos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.5 Núcleo Celular y Cromatina",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.6 Repaso Citología",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 11: Binomio de Newton",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 5: Metabolismo Celular",
       "videos": [
         {
-          "titulo": "11.1 Desarrollo del Binomio",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "5.1 Introducción al Metabolismo (ATP y Enzimas)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.2 Fotosíntesis: Fase Luminosa",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.3 Fotosíntesis: Fase Oscura (Ciclo de Calvin)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.4 Respiración Celular Aeróbica: Glucólisis",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.5 Ciclo de Krebs y Cadena Respiratoria",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "5.6 Fermentación Láctica y Alcohólica",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 12: Radicación y Racionalización",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 6: Ciclo Celular y Reproducción",
       "videos": [
         {
-          "titulo": "12.1 Transformación de Radicales Dobles",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "6.1 Ciclo Celular: Interfase",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.2 Mitosis: Fases e Importancia",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.3 Meiosis I (Reduccional)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.4 Meiosis II (Ecuacional)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.5 Gametogénesis (Espermatogénesis y Ovogénesis)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "6.6 Reproducción Asexual en Animales y Plantas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 13: Números Complejos",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 7: Genética Mendeliana",
       "videos": [
         {
-          "titulo": "13.1 Cantidades Imaginarias y Complejos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "7.1 Conceptos Básicos de Genética",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.2 Primera Ley de Mendel",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.3 Segunda Ley de Mendel",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.4 Codominancia y Dominancia Incompleta",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.5 Alelos Múltiples (Grupos Sanguíneos)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "7.6 Ejercicios de Genética Mendeliana",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 14: Ecuaciones de Primer Grado",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 8: Genética Post-Mendeliana y Humana",
       "videos": [
         {
-          "titulo": "14.1 Planteo de Ecuaciones Lineales",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "8.1 Determinación del Sexo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.2 Herencia Ligada al Sexo (Daltonismo y Hemofilia)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.3 Mutaciones Cromosómicas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.4 Síndromes Genéticos (Down, Turner, Klinefelter)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.5 Dogma Central de la Biología (Replicación, Transcripción)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "8.6 Traducción y Código Genético",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 15: Ecuaciones de Segundo Grado",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 9: Evolución y Origen de la Vida",
       "videos": [
         {
-          "titulo": "15.1 Fórmula General y Propiedades",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "9.1 Teorías del Origen de la Vida",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.2 Evolución: Lamarck vs Darwin",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.3 Neodarwinismo y Pruebas de la Evolución",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.4 Evolución Humana (Hominización)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.5 Taxonomía y Nomenclatura Binomial",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "9.6 Los 5 Reinos Biológicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 16: Desigualdades e Inecuaciones",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 10: Reinos Monera, Protista y Fungi",
       "videos": [
         {
-          "titulo": "16.1 Puntos Críticos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "10.1 Reino Monera: Bacterias y Cianobacterias",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.2 Importancia y Enfermedades Bacterianas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.3 Reino Protista: Protozoarios",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.4 Reino Protista: Algas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.5 Reino Fungi: Características y Clasificación",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "10.6 Virus (No son seres vivos)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 17: Valor Absoluto",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 11: Reino Plantae (Botánica)",
       "videos": [
         {
-          "titulo": "17.1 Ecuaciones con Valor Absoluto",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "11.1 Clasificación de las Plantas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.2 Histología Vegetal: Tejidos Meristemáticos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.3 Tejidos Adultos (Parenquima, Sostén, Conductor)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.4 Organografía: Raíz y Tallo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.5 Organografía: Hoja, Flor y Fruto",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "11.6 Fitohormonas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 18: Funciones (Dominio y Rango)",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 12: Reino Animalia (Zoología I)",
       "videos": [
         {
-          "titulo": "18.1 Introducción a Funciones",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "12.1 Clasificación y Criterios Zoológicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.2 Poríferos y Celentéreos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.3 Platelmintos y Nematodos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.4 Anélidos y Moluscos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.5 Artrópodos: Insectos, Arácnidos, Crustáceos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "12.6 Equinodermos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     },
     {
-      "titulo": "Tema 19: Logaritmos",
-      "pdf_resuelto": "PEGAR_LINK_DRIVE_SOLUCIONARIO",
-      "preguntas": [
-        {
-          "pregunta": "ESCRIBIR_PREGUNTA_AQUI",
-          "opciones": ["OPCION_1", "OPCION_2", "OPCION_3", "OPCION_4", "OPCION_5"],
-          "correcta": 0,
-          "resolucion": "ESCRIBIR_RESOLUCION_CON_HTML_Y_LATEX"
-        }
-      ],
+      "titulo": "Tema 13: Reino Animalia (Zoología II - Cordados)",
       "videos": [
         {
-          "titulo": "19.1 Propiedades de Logaritmos",
-          "youtube_id": "ID_YOUTUBE",
-          "pdf_link": "LINK_DRIVE",
-          "gratis": true
+          "titulo": "13.1 Características de los Cordados",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.2 Peces (Condrictios y Osteíctios)",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.3 Anfibios",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.4 Reptiles",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.5 Aves",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "13.6 Mamíferos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 14: Anatomía I (Nutrición)",
+      "videos": [
+        {
+          "titulo": "14.1 Sistema Digestivo: Tubo Digestivo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.2 Sistema Digestivo: Glándulas Anexas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.3 Sistema Circulatorio: Corazón y Ciclo Cardiaco",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.4 Vasos Sanguíneos y Sangre",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.5 Sistema Respiratorio",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "14.6 Sistema Excretor",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 15: Anatomía II (Relación y Reproducción)",
+      "videos": [
+        {
+          "titulo": "15.1 Sistema Nervioso Central",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.2 Sistema Nervioso Periférico y Autónomo",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.3 Sistema Endocrino: Glándulas Principales",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.4 Sistema Reproductor Masculino",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.5 Sistema Reproductor Femenino y Ciclo Menstrual",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "15.6 Sistema Inmunológico",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 16: Ecología y Ambiente",
+      "videos": [
+        {
+          "titulo": "16.1 Conceptos de Ecología y Niveles",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.2 Dinámica de Poblaciones y Comunidades",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.3 Cadenas y Redes Tróficas",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.4 Ciclos Biogeoquímicos",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.5 Contaminación Ambiental y Cambio Climático",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "16.6 Áreas Naturales Protegidas del Perú",
+          "youtube_id": "REEMPLAZAR_ID",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
         }
       ]
     }

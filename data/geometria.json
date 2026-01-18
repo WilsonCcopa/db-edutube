@@ -3615,566 +3615,2184 @@
       ]
     },
     {
-      "titulo": "Tema 5: Metabolismo Celular",
+      "titulo": "Tema 5: Poliedros Convexos t regulares",
       "videos": [
         {
-          "titulo": "5.1 Introducción al Metabolismo (ATP y Enzimas)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "5.1 Tronco de Prisma",
+          "youtube_id": "WFynfvVHpHA",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo define el profesor Ernesto el 'tronco de prisma' al inicio de la clase?",
+    "opciones": [
+      "Como un prisma que tiene sus bases paralelas.",
+      "Como un cuerpo geométrico que resulta de interceptar la superficie lateral de un prisma con un plano no paralelo a la base.",
+      "Como una pirámide truncada.",
+      "Como un poliedro regular de 6 caras."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor define el tronco de prisma como un cuerpo geométrico que resulta al interceptar la superficie lateral de un prisma (recto u oblicuo) con un plano no paralelo a la base, quedando comprendido entre dicho plano y una de las bases."
+  },
+  {
+    "pregunta": "¿Qué relación existe entre la sección recta del prisma original y la sección recta del tronco de prisma oblicuo?",
+    "opciones": [
+      "Son diferentes y dependen del corte.",
+      "La sección recta del tronco es la mitad de la del prisma.",
+      "Es la misma sección recta.",
+      "No tienen relación alguna."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor aclara que la sección recta del prisma oblicuo que origina al tronco es la misma sección recta del tronco de prisma oblicuo."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula general para el volumen de un tronco de prisma recto triangular con tres aristas laterales no nulas $a$, $b$ y $c$?",
+    "opciones": [
+      "$V = S_{base} \\cdot (a+b+c)$",
+      "$V = S_{base} \\cdot \\frac{a+b+c}{3}$",
+      "$V = S_{base} \\cdot \\frac{a+b+c}{2}$",
+      "$V = \\frac{S_{base} \\cdot (a+b+c)}{6}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La fórmula fundamental presentada es el área de la base multiplicada por el promedio aritmético de las tres aristas laterales: $V = S_{base} \\cdot \\frac{a+b+c}{3}$."
+  },
+  {
+    "pregunta": "En el caso de un tronco de prisma recto con solo UNA arista lateral no nula ($a$) (degenerado en pirámide), ¿cómo queda la fórmula del volumen?",
+    "opciones": [
+      "$V = S_{base} \\cdot \\frac{a}{3}$",
+      "$V = S_{base} \\cdot a$",
+      "$V = S_{base} \\cdot \\frac{a}{2}$",
+      "$V = S_{base} \\cdot a^2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser un caso especial donde dos aristas son cero, el promedio es $(a+0+0)/3$, resultando en $V = S_{base} \\cdot \\frac{a}{3}$."
+  },
+  {
+    "pregunta": "En el problema 1, se tiene un prisma oblicuo donde $AM = 2(MA')$. Si la arista total es $3a$, ¿cuánto mide la arista del tronco $AM$?",
+    "opciones": [
+      "$a$",
+      "$2a$",
+      "$1.5a$",
+      "$3a$"
+    ],
+    "correcta": 1,
+    "resolucion": "Si la arista total es $3a$ y $AM$ es el doble de $MA'$, entonces $AM = 2a$ y $MA' = a$."
+  },
+  {
+    "pregunta": "En el problema 1, tras reemplazar los valores en la fórmula del volumen del tronco oblicuo, ¿cuál fue el resultado final en función del volumen total $V$?",
+    "opciones": [
+      "$5V/9$",
+      "$V/3$",
+      "$2V/3$",
+      "$4V/9$"
+    ],
+    "correcta": 0,
+    "resolucion": "El cálculo final mostró que el volumen del tronco era $5/9$ del volumen del prisma original ($5V/9$)."
+  },
+  {
+    "pregunta": "En el problema 2, se tiene un prisma recto donde $EA' = 1$ y $EA = 3$ (proporción). Si la arista total mide $4a$, ¿cuánto mide la arista del tronco $EA$?",
+    "opciones": [
+      "$a$",
+      "$3a$",
+      "$2a$",
+      "$4a$"
+    ],
+    "correcta": 1,
+    "resolucion": "La arista se divide en proporción de 1 a 3. Si el total es $4a$, la parte mayor $EA$ (que corresponde al tronco inferior según gráfico corregido en clase) mide $3a$. (Nota: en la resolución final del video se usó $a$ para la parte superior, pero la respuesta correcta marcada fue $5V/12$)."
+  },
+  {
+    "pregunta": "En el problema 2, al calcular el volumen del tronco con aristas $a$, $2a$ y $2a$ (puntos medios), ¿cuál fue el resultado final?",
+    "opciones": [
+      "$7V/12$",
+      "$5V/12$",
+      "$V/2$",
+      "$V/4$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando el promedio de aristas $(a + 2a + 2a)/3 = 5a/3$ y relacionando con el volumen total $V = S \\cdot 4a$, se obtuvo $5V/12$."
+  },
+  {
+    "pregunta": "En el problema 3, se pide el volumen de un tronco oblicuo con base $B$, aristas $a, b, c$ e inclinación $\\alpha$. ¿Cuál es la expresión correcta?",
+    "opciones": [
+      "$B \\frac{a+b+c}{3} \\sin(\\alpha)$",
+      "$B \\frac{a+b+c}{3} \\cos(\\alpha)$",
+      "$B (a+b+c) \\sin(\\alpha)$",
+      "$B \\frac{a+b+c}{2} \\sin(\\alpha)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Se aplica la fórmula derivada en clase: Área de la base por el promedio de aristas por el seno del ángulo de inclinación: $V = B \\frac{a+b+c}{3} \\sin(\\alpha)$."
+  },
+  {
+    "pregunta": "En el problema 4, las aristas miden 4, 5 y 8. Se da el volumen de un tetraedro superior como $12\\sqrt{3}$. ¿Qué se utilizó para hallar el área de la base?",
+    "opciones": [
+      "Teorema de Pitágoras.",
+      "Descomposición del tronco en una pirámide y un tronco menor.",
+      "Fórmula de Herón.",
+      "Semejanza de triángulos."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor descompuso el tronco total en una pirámide superior (tetraedro) y un tronco inferior con dos aristas no nulas para igualar volúmenes."
+  },
+  {
+    "pregunta": "En el problema 4, ¿cuál fue el resultado final para el área de la base?",
+    "opciones": [
+      "$8\\sqrt{3}$",
+      "$9\\sqrt{3}/2$",
+      "$12\\sqrt{3}$",
+      "$6\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras operar la ecuación $8S/3 = 12\\sqrt{3}$, se despejó $S = \\frac{36\\sqrt{3}}{8} = \\frac{9\\sqrt{3}}{2}$."
+  },
+  {
+    "pregunta": "En el problema 5, se pide la distancia entre los baricentros de las bases. ¿Qué propiedad de los trapecios se utilizó para hallar $x$?",
+    "opciones": [
+      "Base media.",
+      "Segmento que une puntos medios de diagonales.",
+      "Fórmula de la paralela interior en función de la relación de distancias ($2k$ y $k$).",
+      "Teorema de Tales básico."
+    ],
+    "correcta": 2,
+    "resolucion": "Se usó la propiedad del segmento paralelo en un trapecio dividido en razón 2:1 (por ser baricentros). La fórmula aplicada fue $x = \\frac{b \\cdot m + a \\cdot n}{m+n}$, resultando en el promedio simple de las 3 aristas."
+  },
+  {
+    "pregunta": "En el problema 5, ¿cuál fue el resultado final para la distancia $x$ entre baricentros?",
+    "opciones": [
+      "$(a+b+c)/2$",
+      "$(a+b+c)/3$",
+      "$(a+b+c)/4$",
+      "$\\sqrt{a^2+b^2+c^2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "El cálculo simplificado demostró que la distancia entre los baricentros de las bases de un tronco es igual al promedio aritmético de sus tres aristas laterales: $\\frac{a+b+c}{3}$."
+  },
+  {
+    "pregunta": "En el problema 6 (modificado en clase a aristas 6, 8, 10), con base de área 100 y ángulo $30^\\circ$. ¿Cuál fue el volumen calculado?",
+    "opciones": [
+      "200",
+      "300",
+      "400",
+      "800/3"
+    ],
+    "correcta": 1,
+    "resolucion": "Promedio aristas: $(6+8+10)/3 = 8$. Volumen = $100 \\cdot 8 \\cdot \\sin(30^\\circ) = 800 \\cdot 0.5 = 400$. (Nota: En el video hubo una corrección de datos en vivo, con aristas 6 y 10 solamente salía 800/3, pero con 6, 8, 10 saldría 400. El profesor ajustó para obtener una respuesta entera, mencionando 300 con otros datos, pero la lógica es la fórmula)."
+  },
+  {
+    "pregunta": "En el problema 7, se relaciona el área lateral $L$ y el área de la base $S$ (equilátera). ¿Qué relación algebraica se halló entre el lado de la base $a$ y la suma de aristas?",
+    "opciones": [
+      "$a(m+n+p) = L$",
+      "$a(m+n+p) = 2L$",
+      "$a(m+n+p) = L/2$",
+      "No hay relación."
+    ],
+    "correcta": 0,
+    "resolucion": "Al sumar las áreas de los tres trapecios laterales, se factorizó el lado $a$ y se obtuvo que $a$ multiplicado por la suma de aristas es igual al área lateral $L$."
+  },
+  {
+    "pregunta": "En el problema 7, tras elevar al cuadrado y simplificar, ¿cuál fue la respuesta final para el volumen?",
+    "opciones": [
+      "$L \\sqrt{S} \\frac{\\sqrt[4]{3}}{6}$",
+      "$L S$",
+      "$L \\sqrt{S} / 3$",
+      "$L^2 S / 12$"
+    ],
+    "correcta": 0,
+    "resolucion": "La respuesta marcada fue la opción B (en el video), que corresponde a la expresión $L \\sqrt{S} \\frac{\\sqrt[4]{3}}{6}$."
+  },
+  {
+    "pregunta": "En el problema 8 (Admisión UNI), se tiene un triángulo equilátero de lado $4L$. Se hallaron las aristas laterales como $3L$, $2L$ y $L$. ¿Cuál fue el volumen final?",
+    "opciones": [
+      "$4L^3\\sqrt{3}$",
+      "$8L^3\\sqrt{3}$",
+      "$6L^3\\sqrt{3}$",
+      "$12L^3\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Volumen = AreaBase $\\cdot$ Promedio. Area = $4L^2\\sqrt{3}$. Promedio = $(3L+2L+L)/3 = 2L$. Volumen = $4L^2\\sqrt{3} \\cdot 2L = 8L^3\\sqrt{3}$."
+  },
+  {
+    "pregunta": "En el problema 9, con aristas 12, 8, 10 y lado de base 6. ¿Cuál es el promedio de las aristas?",
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "Promedio = $(12 + 8 + 10) / 3 = 30 / 3 = 10$."
+  },
+  {
+    "pregunta": "En el problema 9, ¿cuál fue el volumen calculado?",
+    "opciones": [
+      "$90\\sqrt{3}$",
+      "$80\\sqrt{3}$",
+      "$100\\sqrt{3}$",
+      "$60\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área base (lado 6) = $9\\sqrt{3}$. Volumen = $9\\sqrt{3} \\cdot 10 = 90\\sqrt{3}$."
+  },
+  {
+    "pregunta": "En el problema 10, se descompuso un poliedro complejo sobre un cuadrado. ¿Qué método usó el profesor para hallar el volumen total?",
+    "opciones": [
+      "Integral triple.",
+      "Principio de Arquímedes.",
+      "Suma de volúmenes parciales (Tronco + Tetraedro + Tronco).",
+      "Fórmula directa del cubo."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor descompuso la figura en tres sólidos: una pirámide (tronco degenerado), un tetraedro central y otro tronco degenerado en el fondo."
+  }
+          ]
         },
         {
-          "titulo": "5.2 Fotosíntesis: Fase Luminosa",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "5.2 Pirámide y Cono",
+          "youtube_id": "6QVAJ7wzLgc",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define una pirámide regular según el video?",
+    "opciones": [
+      "Es aquella cuya base es un polígono regular y el pie de la altura coincide con el centro de la base.",
+      "Es aquella que tiene todas sus aristas iguales.",
+      "Es aquella cuya base es un cuadrado.",
+      "Es una pirámide donde las caras laterales son triángulos equiláteros."
+    ],
+    "correcta": 0,
+    "resolucion": "El video establece dos condiciones para que una pirámide sea regular: la base debe ser un polígono regular y la altura debe caer exactamente en el centro de dicha base."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el segmento perpendicular trazado desde el vértice de una pirámide regular hacia una arista básica?",
+    "opciones": [
+      "Altura",
+      "Apotema",
+      "Generatriz",
+      "Radio"
+    ],
+    "correcta": 1,
+    "resolucion": "Se define como apotema de la pirámide al segmento que va del vértice al punto medio de una arista de la base (altura de la cara lateral)."
+  },
+  {
+    "pregunta": "En un cono de revolución, ¿qué relación pitagórica se cumple entre la generatriz ($g$), la altura ($h$) y el radio de la base ($r$)?",
+    "opciones": [
+      "$g^2 = h^2 + r^2$",
+      "$h^2 = g^2 + r^2$",
+      "$r^2 = g^2 + h^2$",
+      "$g = h + r$"
+    ],
+    "correcta": 0,
+    "resolucion": "Al formarse un triángulo rectángulo al girar la sección, se cumple por Pitágoras que el cuadrado de la generatriz es igual a la suma de los cuadrados de la altura y el radio."
+  },
+  {
+    "pregunta": "¿Qué figura geométrica se obtiene al desarrollar la superficie lateral de un cono?",
+    "opciones": [
+      "Un triángulo isósceles.",
+      "Un sector circular.",
+      "Un rectángulo.",
+      "Un círculo completo."
+    ],
+    "correcta": 1,
+    "resolucion": "El desarrollo de la superficie lateral de un cono resulta en un sector circular cuyo radio es la generatriz del cono."
+  },
+  {
+    "pregunta": "Calcule el volumen de una pirámide triangular regular si su arista básica mide 6 y su altura mide 4.",
+    "opciones": [
+      "$12\\sqrt{3}$",
+      "$36\\sqrt{3}$",
+      "$9\\sqrt{3}$",
+      "$18\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área base (equilátero lado 6) = $\\frac{6^2\\sqrt{3}}{4} = 9\\sqrt{3}$. Volumen = $\\frac{Area \\cdot Altura}{3} = \\frac{9\\sqrt{3} \\cdot 4}{3} = 12\\sqrt{3}$."
+  },
+  {
+    "pregunta": "En el problema 1 de pirámides, se da una base con lado 6 y ángulo de $30^\\circ$. ¿Cuál fue el volumen calculado?",
+    "opciones": [
+      "$6\\sqrt{3}$",
+      "$3\\sqrt{3}$",
+      "$9\\sqrt{3}$",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "El área de la base se calculó como $\\frac{3 \\cdot 3\\sqrt{3}}{2}$. La altura era 4. El volumen final tras simplificar fue $6\\sqrt{3}$."
+  },
+  {
+    "pregunta": "En el problema 2, se tiene una pirámide cortada por un plano paralelo. Si la razón de alturas es de 4 a 12, y el área de la base mayor es 288, ¿cuál es el área de la sección transversal ($S_x$)?",
+    "opciones": [
+      "32",
+      "16",
+      "64",
+      "24"
+    ],
+    "correcta": 0,
+    "resolucion": "Por semejanza de áreas: $\\frac{S_x}{288} = (\\frac{4}{12})^2 = (\\frac{1}{3})^2 = \\frac{1}{9}$. Entonces $S_x = \\frac{288}{9} = 32$."
+  },
+  {
+    "pregunta": "Si el apotema de una pirámide regular triangular es $2\\sqrt{3}$ y el lado de la base es 6, calcule la altura de la pirámide.",
+    "opciones": [
+      "3",
+      "4",
+      "2",
+      "$\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La distancia del centro a la apotema en la base (apotema de la base) es $\\frac{L\\sqrt{3}}{6} = \\sqrt{3}$. En el triángulo rectángulo con la apotema de la pirámide ($2\\sqrt{3}$): $h^2 + (\\sqrt{3})^2 = (2\\sqrt{3})^2 \\rightarrow h^2 + 3 = 12 \\rightarrow h=3$."
+  },
+  {
+    "pregunta": "En el problema 3, con la altura hallada de 3, ¿cuál fue el volumen final de la pirámide?",
+    "opciones": [
+      "$9\\sqrt{3}$",
+      "$27\\sqrt{3}$",
+      "$18\\sqrt{3}$",
+      "$6\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área base = $9\\sqrt{3}$. Volumen = $\\frac{9\\sqrt{3} \\cdot 3}{3} = 9\\sqrt{3}$."
+  },
+  {
+    "pregunta": "Si el número de lados de la base de una pirámide es $n=5$ (pentagonal), ¿cuántas aristas tiene en total?",
+    "opciones": [
+      "10",
+      "15",
+      "6",
+      "5"
+    ],
+    "correcta": 0,
+    "resolucion": "El número de aristas es $2n$. Para $n=5$, aristas = 10."
+  },
+  {
+    "pregunta": "En el problema 1 de conos, la altura es 3 y la suma $r + g = 9$. ¿Cuál resultó ser el radio de la base?",
+    "opciones": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "correcta": 0,
+    "resolucion": "Planteando $g^2 - r^2 = 3^2 = 9$ y $(g+r)(g-r)=9$. Como $g+r=9$, entonces $g-r=1$. Resolviendo el sistema: $g=5, r=4$."
+  },
+  {
+    "pregunta": "En el problema 1 de conos, con radio 4 y generatriz 5, ¿cuál es el área lateral?",
+    "opciones": [
+      "$20\\pi$",
+      "$16\\pi$",
+      "$25\\pi$",
+      "$12\\pi$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área Lateral = $\\pi \\cdot r \\cdot g = \\pi \\cdot 4 \\cdot 5 = 20\\pi$."
+  },
+  {
+    "pregunta": "En el problema 2 de conos, el radio es 4 y el área lateral es $16\\pi\\sqrt{5}$. ¿Cuánto mide la generatriz?",
+    "opciones": [
+      "$4\\sqrt{5}$",
+      "$2\\sqrt{5}$",
+      "$8\\sqrt{5}$",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "Igualando $\\pi \\cdot 4 \\cdot g = 16\\pi\\sqrt{5}$, se obtiene $g = 4\\sqrt{5}$."
+  },
+  {
+    "pregunta": "En el problema 2 de conos, con radio 4 y generatriz $4\\sqrt{5}$, ¿cuál fue la altura calculada?",
+    "opciones": [
+      "8",
+      "4",
+      "6",
+      "10"
+    ],
+    "correcta": 0,
+    "resolucion": "Por Pitágoras: $h^2 + 4^2 = (4\\sqrt{5})^2 \\rightarrow h^2 + 16 = 80 \\rightarrow h^2 = 64 \\rightarrow h=8$."
+  },
+  {
+    "pregunta": "En el problema 3 de conos, se forma un cono a partir de un sector circular de radio 3 y ángulo $120^\\circ$. ¿Cuál es el radio de la base del cono formado?",
+    "opciones": [
+      "1",
+      "1.5",
+      "2",
+      "0.5"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando la fórmula del ángulo de desarrollo: $\\theta = \\frac{r}{g}360$. $120 = \\frac{r}{3}360 \\rightarrow \\frac{1}{3} = \\frac{r}{3} \\rightarrow r=1$."
+  },
+  {
+    "pregunta": "En el problema 3 de conos, ¿cuál es la altura del cono si la generatriz es 3 y el radio 1?",
+    "opciones": [
+      "$2\\sqrt{2}$",
+      "$\\sqrt{8}$",
+      "3",
+      "2"
+    ],
+    "correcta": 0,
+    "resolucion": "$h = \\sqrt{3^2 - 1^2} = \\sqrt{8} = 2\\sqrt{2}$."
+  },
+  {
+    "pregunta": "En el problema 3 de conos, ¿cuál fue el volumen final calculado?",
+    "opciones": [
+      "$\\frac{2\\pi\\sqrt{2}}{3}$",
+      "$\\pi\\sqrt{2}$",
+      "$\\frac{4\\pi\\sqrt{2}}{3}$",
+      "$2\\pi\\sqrt{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Volumen = $\\frac{\\pi r^2 h}{3} = \\frac{\\pi (1)^2 (2\\sqrt{2})}{3} = \\frac{2\\pi\\sqrt{2}}{3}$."
+  },
+  {
+    "pregunta": "¿Qué es un cono equilátero según el video?",
+    "opciones": [
+      "Aquel cuya sección axial es un triángulo equilátero ($g = 2r$).",
+      "Aquel cuya base es un círculo.",
+      "Aquel cuya altura es igual al radio.",
+      "Aquel cuya generatriz es igual a la altura."
+    ],
+    "correcta": 0,
+    "resolucion": "Se define como aquel cono donde la generatriz es igual al diámetro de la base ($2r$), formando un triángulo equilátero al cortarlo por el eje."
+  },
+  {
+    "pregunta": "¿Cuál es la medida del ángulo de desarrollo de un cono equilátero?",
+    "opciones": [
+      "$180^\\circ$",
+      "$90^\\circ$",
+      "$120^\\circ$",
+      "$270^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando la fórmula $\\frac{r}{g}360$ con $g=2r$: $\\frac{r}{2r}360 = 180^\\circ$."
+  },
+  {
+    "pregunta": "Para dos conos semejantes, ¿a qué es igual la razón de sus volúmenes?",
+    "opciones": [
+      "Al cubo de la razón de sus alturas (u otros elementos homólogos).",
+      "Al cuadrado de la razón de sus alturas.",
+      "A la razón simple de sus alturas.",
+      "A la raíz cuadrada de la razón de sus áreas."
+    ],
+    "correcta": 0,
+    "resolucion": "La relación de volúmenes entre sólidos semejantes es igual al cubo de la razón de semejanza ($k^3$)."
+  }
+          ]
         },
         {
-          "titulo": "5.3 Fotosíntesis: Fase Oscura (Ciclo de Calvin)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "5.3 Poliedros Regulares",
+          "youtube_id": "P2gkTw_QXf0",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "5.4 Respiración Celular Aeróbica: Glucólisis",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "5.5 Ciclo de Krebs y Cadena Respiratoria",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "5.6 Fermentación Láctica y Alcohólica",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué establece el Teorema de Euler para poliedros convexos relacionando Caras (C), Vértices (V) y Aristas (A)?",
+    "opciones": [
+      "$C + V = A + 2$",
+      "$C + A = V + 2$",
+      "$V + A = C + 2$",
+      "$C \\cdot V = 2A$"
+    ],
+    "correcta": 0,
+    "resolucion": "El teorema de Euler fundamental establece que el número de caras más el número de vértices es igual al número de aristas más dos ($C + V = A + 2$)."
+  },
+  {
+    "pregunta": "¿Cuántos poliedros regulares existen matemáticamente demostrados según la introducción del video?",
+    "opciones": [
+      "Infinitos",
+      "Solo 5",
+      "10",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor menciona que matemáticamente se ha demostrado que solo existen 5 poliedros regulares: Tetraedro, Hexaedro, Octaedro, Dodecaedro e Icosaedro."
+  },
+  {
+    "pregunta": "¿En qué punto de la base cae siempre la altura de un poliedro regular (como el tetraedro)?",
+    "opciones": [
+      "En un vértice cualquiera.",
+      "En el punto medio de una arista.",
+      "En el centro de la base.",
+      "Fuera de la base."
+    ],
+    "correcta": 2,
+    "resolucion": "Una característica clave mencionada es que la altura de los poliedros regulares debe caer necesariamente en el centro de la figura que forma la base."
+  },
+  {
+    "pregunta": "¿Cuál es el valor del coseno del ángulo diedro entre dos caras de un tetraedro regular?",
+    "opciones": [
+      "$1/2$",
+      "$1/3$",
+      "$\\sqrt{3}/2$",
+      "$2/3$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el análisis del tetraedro, se demuestra que el coseno del ángulo diedro formado por dos caras es siempre $1/3$."
+  },
+  {
+    "pregunta": "En el problema 1 (molécula de carbono), se tiene un poliedro con 12 caras pentagonales y 20 hexagonales. ¿Cuántos vértices (átomos) tiene?",
+    "opciones": [
+      "50",
+      "60",
+      "32",
+      "90"
+    ],
+    "correcta": 1,
+    "resolucion": "Caras = 32. Aristas = $(12\\times5 + 20\\times6)/2 = 90$. Por Euler: $32 + V = 90 + 2 \\rightarrow V = 60$."
+  },
+  {
+    "pregunta": "En el problema 2 (Admisión UNI), se toma un punto exterior y se une a una cara de un poliedro. Si el nuevo poliedro tiene 16 aristas y $V=C$, ¿cuántas caras tenía el poliedro inicial?",
+    "opciones": [
+      "5",
+      "6",
+      "8",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "Para el nuevo poliedro: $2C = 16+2 \\rightarrow C=9$. El poliedro inicial tenía 2 aristas menos (12) y 1 vértice menos (8). Por Euler inicial: $C_1 + 8 = 12 + 2 \\rightarrow C_1 = 6$."
+  },
+  {
+    "pregunta": "Calcule la altura de un tetraedro regular en función de su arista $a$.",
+    "opciones": [
+      "$a\\sqrt{6}/3$",
+      "$a\\sqrt{3}/2$",
+      "$a\\sqrt{2}/3$",
+      "$a\\sqrt{6}/2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando Pitágoras en el triángulo formado por la altura, la arista lateral y el radio de la base, se deduce que $h = \\frac{a\\sqrt{6}}{3}$."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula del volumen de un tetraedro regular de arista $a$?",
+    "opciones": [
+      "$\\frac{a^3\\sqrt{2}}{12}$",
+      "$\\frac{a^3\\sqrt{3}}{4}$",
+      "$\\frac{a^3\\sqrt{2}}{2}$",
+      "$a^3$"
+    ],
+    "correcta": 0,
+    "resolucion": "El volumen es un tercio del área de la base por la altura: $\\frac{1}{3} (\\frac{a^2\\sqrt{3}}{4}) (\\frac{a\\sqrt{6}}{3}) = \\frac{a^3\\sqrt{2}}{12}$."
+  },
+  {
+    "pregunta": "En el problema 3 (San Marcos), la distancia entre baricentros de dos caras de un tetraedro es 4. ¿Cuánto mide la arista?",
+    "opciones": [
+      "8",
+      "12",
+      "6",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "La distancia entre baricentros es paralela a la arista y está en relación 1 a 3 con la altura de la cara, lo que implica por semejanza que es $1/3$ de la arista. Si la distancia es 4, la arista es $4 \\times 3 = 12$."
+  },
+  {
+    "pregunta": "En el problema 4 (Callao), si la arista de un tetraedro es 2, ¿cuál es la distancia entre dos aristas opuestas?",
+    "opciones": [
+      "1",
+      "$\\sqrt{2}$",
+      "2",
+      "$\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La distancia entre aristas opuestas es la altura de un triángulo isósceles formado por las alturas de cara. Fórmula: $d = a/\\sqrt{2}$. Si $a=2$, $d = 2/\\sqrt{2} = \\sqrt{2}$."
+  },
+  {
+    "pregunta": "En el problema 5, se proyecta el círculo inscrito de una cara del tetraedro sobre otra cara. Si la arista es 6, ¿cuál es el área proyectada?",
+    "opciones": [
+      "$3\\pi$",
+      "$\\pi$",
+      "$2\\pi$",
+      "$4\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área círculo inscrito (radio $\\sqrt{3}$) = $3\\pi$. Área proyectada = Área Original $\\times \\cos(\\text{diedro})$. $3\\pi \\times (1/3) = \\pi$."
+  },
+  {
+    "pregunta": "En el problema 6 (UNI), se ubica un punto $P$ en la altura que equidista de los vértices. Si la altura total es $H$, ¿a qué distancia del vértice superior está $P$?",
+    "opciones": [
+      "$H/2$",
+      "$3H/4$",
+      "$2H/3$",
+      "$H/3$"
+    ],
+    "correcta": 1,
+    "resolucion": "El punto equidistante es el centro de la esfera circunscrita, el cual divide a la altura en relación de 3 a 1 (desde el vértice). La distancia es $\\frac{3}{4}$ de la altura total."
+  },
+  {
+    "pregunta": "Si la diagonal de un cubo mide $a\\sqrt{3}$, ¿cuánto mide su arista?",
+    "opciones": [
+      "$a$",
+      "$a\\sqrt{2}$",
+      "$a/2$",
+      "$3a$"
+    ],
+    "correcta": 0,
+    "resolucion": "La diagonal del cubo se calcula como $\\text{Arista} \\cdot \\sqrt{3}$. Por lo tanto, la arista es $a$."
+  },
+  {
+    "pregunta": "En el problema 7 (Cubo), se pide el área de un triángulo formado por una diagonal del cubo y un punto medio. Si la arista es 12, ¿cuál fue el área calculada?",
+    "opciones": [
+      "$12\\sqrt{2}$",
+      "$24\\sqrt{2}$",
+      "$6\\sqrt{2}$",
+      "$36\\sqrt{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando el teorema de las tres perpendiculares y relaciones de áreas, se calculó el área como $12\\sqrt{2}$."
+  },
+  {
+    "pregunta": "En el problema 8, la distancia de un vértice a una diagonal del cubo (que no lo contiene) es $\\sqrt{2}$. ¿Cuánto mide la diagonal del cubo?",
+    "opciones": [
+      "3",
+      "$\\sqrt{3}$",
+      "2",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando relaciones métricas (producto de catetos = hipotenusa por altura) en el triángulo rectángulo interno del cubo, se halló que la arista era $\\sqrt{3}$, y la diagonal del cubo es $\\sqrt{3} \\cdot \\sqrt{3} = 3$."
+  },
+  {
+    "pregunta": "En el problema 9 (Hormiga en el cubo), el volumen es 343. ¿Cuál es la menor trayectoria para ir de un vértice al opuesto por la superficie?",
+    "opciones": [
+      "$7\\sqrt{10}$",
+      "$14\\sqrt{2}$",
+      "21",
+      "$7\\sqrt{5}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Si $V=343$, arista $a=7$. Al desplegar las caras, se forma un triángulo rectángulo de catetos $a$ y $3a$ (o $2a$ y $a$ según el camino, pero el menor es con catetos 7 y 21). Hipotenusa = $\\sqrt{7^2 + 21^2} = 7\\sqrt{10}$."
+  },
+  {
+    "pregunta": "En el problema 10 (Varillas en caja cúbica), la arista es 4m. ¿Cuántas varillas de 6.9m pueden entrar sin tocarse?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "correcta": 0,
+    "resolucion": "La diagonal del cubo es $4\\sqrt{3} \\approx 6.92$. Solo cabe 1 varilla de 6.9m en la diagonal principal."
+  },
+  {
+    "pregunta": "En el mismo problema 10, ¿cuántas varillas de 5.6m pueden entrar adicionalmente en las diagonales de las caras sin tocarse?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "La diagonal de la cara es $4\\sqrt{2} \\approx 5.65$. Pueden entrar 2 varillas en diagonales de caras opuestas o cruzadas que no corten a la principal."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el área total de un hexaedro regular de arista $a$?",
+    "opciones": [
+      "$4a^2$",
+      "$6a^2$",
+      "$a^3$",
+      "$12a$"
+    ],
+    "correcta": 1,
+    "resolucion": "El cubo tiene 6 caras cuadradas idénticas. El área de una es $a^2$, por lo tanto el total es $6a^2$."
+  },
+  {
+    "pregunta": "Si un tetraedro regular tiene arista $L$, ¿cuál es su área total?",
+    "opciones": [
+      "$L^2\\sqrt{3}$",
+      "$L^2\\sqrt{2}$",
+      "$4L^2$",
+      "$2L^2\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Son 4 triángulos equiláteros. $4 \\times (L^2\\sqrt{3}/4) = L^2\\sqrt{3}$."
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 6: Ciclo Celular y Reproducción",
+      "titulo": "Tema 6: Cilindro de Revolución",
       "videos": [
         {
-          "titulo": "6.1 Ciclo Celular: Interfase",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "6.1 Cilindro recto de revolución",
+          "youtube_id": "RYtByIrbvy8",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define un cilindro recto de revolución según la introducción del video?",
+    "opciones": [
+      "Es el sólido generado al girar un triángulo rectángulo sobre uno de sus catetos.",
+      "Es el sólido generado al girar un rectángulo 360 grados alrededor de uno de sus lados.",
+      "Es una superficie curva cerrada sin bases.",
+      "Es un prisma con infinitos lados."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica que el cilindro recto de revolución se genera al girar un rectángulo $360^\\circ$ alrededor de un eje que contiene a uno de sus lados."
+  },
+  {
+    "pregunta": "¿Qué relación existe entre la altura ($h$) y la generatriz ($g$) en un cilindro recto?",
+    "opciones": [
+      "La altura es mayor que la generatriz.",
+      "La generatriz es el doble de la altura.",
+      "La altura y la generatriz tienen la misma longitud.",
+      "No tienen relación."
+    ],
+    "correcta": 2,
+    "resolucion": "En un cilindro recto, la altura coincide con la generatriz ($h = g$). El profesor aclara que esto cambia solo si el cilindro es oblicuo."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para calcular el área de la superficie lateral de un cilindro recto?",
+    "opciones": [
+      "$2\\pi r^2$",
+      "$\\pi r^2 g$",
+      "$2\\pi r g$",
+      "$\\pi r g$"
+    ],
+    "correcta": 2,
+    "resolucion": "El área lateral se obtiene al desarrollar el cilindro (un rectángulo), siendo su base la longitud de la circunferencia ($2\\pi r$) y su altura la generatriz ($g$). Fórmula: $2\\pi r g$."
+  },
+  {
+    "pregunta": "Para calcular el volumen de un tronco de cilindro recto, ¿qué elemento fundamental se debe utilizar?",
+    "opciones": [
+      "La generatriz mayor.",
+      "La generatriz menor.",
+      "El promedio de las generatrices (Generatriz Media).",
+      "La altura del cilindro original."
+    ],
+    "correcta": 2,
+    "resolucion": "En el tronco de cilindro, se usa la generatriz media ($GM$), que es el promedio aritmético de la generatriz mayor y la menor: $GM = \\frac{G + g}{2}$."
+  },
+  {
+    "pregunta": "En el problema 1 (listones de pintura), se tiene que una lata pinta la superficie lateral de 24 listones. Si se usa la misma lata para pintar la superficie TOTAL de listones del segundo tipo (donde $g_2 = g_1 - r$), ¿cuántos listones se pintan?",
+    "opciones": [
+      "12",
+      "48",
+      "24",
+      "36"
+    ],
+    "correcta": 2,
+    "resolucion": "Al igualar las áreas totales cubiertas: $24 \\times (2\\pi rg) = x \\times 2\\pi r(g_{nuevo} + r)$. Como $g_{nuevo} = g - r$, el término entre paréntesis resulta ser $g$. Se cancelan términos y $x = 24$."
+  },
+  {
+    "pregunta": "En el problema 2 (piña procesada), se tienen dos cilindros concéntricos de altura 12. Los diámetros son 10 y 2. ¿Cuál es el volumen de la piña (parte sólida)?",
+    "opciones": [
+      "300$\\pi$",
+      "288$\\pi$",
+      "144$\\pi$",
+      "200$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Radios: $R=5, r=1$. Volumen = $\\pi(5^2)(12) - \\pi(1^2)(12) = 300\\pi - 12\\pi = 288\\pi$."
+  },
+  {
+    "pregunta": "En el problema 3 (similar al 2), si el volumen resultante fuera 420$\\pi$ con la misma altura 12, ¿cuál podría ser la diferencia de cuadrados de los radios?",
+    "opciones": [
+      "35",
+      "40",
+      "30",
+      "25"
+    ],
+    "correcta": 0,
+    "resolucion": "Volumen = $12\\pi(R^2 - r^2) = 420\\pi$. Entonces $R^2 - r^2 = 420/12 = 35$."
+  },
+  {
+    "pregunta": "En el problema 4, se tiene un cuadrilátero inscriptible formado por el diámetro y una cuerda. Si el ángulo es $30^\\circ$ y $QD=6$, ¿cuánto resultó ser la generatriz?",
+    "opciones": [
+      "3",
+      "6",
+      "12",
+      "$6\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por congruencia y triángulo equilátero formado con el radio, se dedujo que la generatriz era igual al lado del triángulo equilátero formado, resultando 6."
+  },
+  {
+    "pregunta": "En el problema 4, con generatriz 6 y radio $2\\sqrt{3}$, ¿cuál fue el volumen final?",
+    "opciones": [
+      "36$\\pi$",
+      "72$\\pi$",
+      "144$\\pi$",
+      "48$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Volumen = $\\pi (2\\sqrt{3})^2 (6) = \\pi (12)(6) = 72\\pi$."
+  },
+  {
+    "pregunta": "En el problema 5 (recipiente inclinado), el diámetro es 80 y el ángulo de inclinación es $37^\\circ$. ¿Cuál es la generatriz mayor del tronco de cilindro formado?",
+    "opciones": [
+      "60",
+      "80",
+      "53",
+      "40"
+    ],
+    "correcta": 0,
+    "resolucion": "Por triángulo notable de $37^\\circ$ y $53^\\circ$ (con cateto adyacente 80), el cateto opuesto (altura/generatriz mayor) es 60."
+  },
+  {
+    "pregunta": "En el problema 5, ¿cuál fue el volumen del agua derramada (volumen del tronco)?",
+    "opciones": [
+      "24,000$\\pi$",
+      "48,000$\\pi$",
+      "36,000$\\pi$",
+      "12,000$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Radio = 40. GM = $(60+0)/2 = 30$. Volumen = $\\pi (40^2)(30) = 1600 \\times 30 \\pi = 48,000\\pi$."
+  },
+  {
+    "pregunta": "En el problema 6, se da el dato $QH \\cdot OA = 12$. ¿Qué relación métrica se utilizó para hallar el radio?",
+    "opciones": [
+      "Teorema de Pitágoras.",
+      "Teorema de las cuerdas.",
+      "Relaciones métricas en triángulo rectángulo ($cateto \\cdot cateto = hipotenusa \\cdot altura$).",
+      "Teorema de Tales."
+    ],
+    "correcta": 2,
+    "resolucion": "Se identificó un triángulo rectángulo formado por radio y generatriz, donde la altura relativa a la hipotenusa permitía usar la propiedad: $r \\cdot g = hipotenusa \\cdot altura$. No, fue $r^2$? No, el dato era $r = OA \\cdot QH$ (no, era $r^2 = m \\cdot n$?). En la resolución: $R \\cdot G = 12 \\times 2 = 24$. Se usó que $r \\cdot g$ es el área lateral sobre $2\\pi$. El dato directo era el producto."
+  },
+  {
+    "pregunta": "En el problema 6, con el producto $R \\cdot G = 12$, ¿cuánto resultó el área lateral?",
+    "opciones": [
+      "12$\\pi$",
+      "24$\\pi$",
+      "6$\\pi$",
+      "48$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área Lateral = $2\\pi R G$. Como $R \\cdot G = 12$ (deducido del dato métrico), el área es $2\\pi(12) = 24\\pi$."
+  },
+  {
+    "pregunta": "En el problema 7, se tienen triángulos congruentes con lado 2. Se deduce un triángulo equilátero de lado 4. ¿Cuál fue el radio hallado?",
+    "opciones": [
+      "2",
+      "4",
+      "2$\\sqrt{3}$",
+      "1"
+    ],
+    "correcta": 0,
+    "resolucion": "El radio era la mitad del lado del triángulo equilátero formado (lado 4), por lo tanto radio = 2."
+  },
+  {
+    "pregunta": "En el problema 7, con radio 2 y generatriz $2\\sqrt{3}$, ¿cuál es el volumen?",
+    "opciones": [
+      "4$\\sqrt{3}\\pi$",
+      "8$\\sqrt{3}\\pi$",
+      "16$\\sqrt{3}\\pi$",
+      "2$\\sqrt{3}\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Volumen = $\\pi (2^2) (2\\sqrt{3}) = 4\\pi (2\\sqrt{3}) = 8\\sqrt{3}\\pi$."
+  },
+  {
+    "pregunta": "En el problema 8, el volumen es $64\\pi$ y la generatriz es 4. ¿Cuánto mide el radio?",
+    "opciones": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "$\\pi r^2 (4) = 64\\pi \\rightarrow 4r^2 = 64 \\rightarrow r^2 = 16 \\rightarrow r = 4$."
+  },
+  {
+    "pregunta": "En el problema 8, al tener radio 4 y generatriz 4, ¿cuánto mide el ángulo $x$ formado por la diagonal?",
+    "opciones": [
+      "30$^\\circ$",
+      "60$^\\circ$",
+      "45$^\\circ$",
+      "53$^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se forma un triángulo rectángulo con catetos iguales (4 y 4). El ángulo agudo es $45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema extra (octógono regular), ¿cuánto mide el arco subtendido por cada lado del octógono?",
+    "opciones": [
+      "30$^\\circ$",
+      "45$^\\circ$",
+      "60$^\\circ$",
+      "72$^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "$360^\\circ / 8 = 45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema del octógono, se aplicó el Teorema de Ptolomeo. ¿Cuál fue el resultado para $x$?",
+    "opciones": [
+      "$a + b$",
+      "$2b - a$",
+      "$b - a$",
+      "$a + 2b$"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras aplicar Ptolomeo en el cuadrilátero inscriptible formado y simplificar los radicales $\\sqrt{2}$, se obtuvo $x = 2b - a$."
+  },
+  {
+    "pregunta": "Si al desarrollar la superficie lateral de un cilindro obtenemos un cuadrado de lado $L$, ¿cuál es el radio de la base del cilindro?",
+    "opciones": [
+      "$L$",
+      "$L/2$",
+      "$L/(2\\pi)$",
+      "$L/\\pi$"
+    ],
+    "correcta": 2,
+    "resolucion": "La base del rectángulo desarrollo es $2\\pi r$. Si es un cuadrado, $2\\pi r = L$, por lo que $r = L/(2\\pi)$."
+  }
+          ]
         },
         {
-          "titulo": "6.2 Mitosis: Fases e Importancia",
-          "youtube_id": "REEMPLAZAR_ID",
+          "titulo": "6.2 Cono de Revolución",
+          "youtube_id": "YRsNxeMCQew",
           "pdf_link": "REEMPLAZAR_LINK_DRIVE",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué figura geométrica plana debe girar alrededor de uno de sus catetos para generar un cono de revolución?",
+    "opciones": [
+      "Un triángulo equilátero.",
+      "Un rectángulo.",
+      "Un triángulo rectángulo.",
+      "Un trapecio rectángulo."
+    ],
+    "correcta": 2,
+    "resolucion": "El video define el cono de revolución como el sólido generado al girar un triángulo rectángulo alrededor de uno de sus catetos (eje de giro)."
+  },
+  {
+    "pregunta": "Al desarrollar la superficie lateral de un cono de revolución, ¿qué figura geométrica plana se obtiene?",
+    "opciones": [
+      "Un triángulo isósceles.",
+      "Un sector circular.",
+      "Un círculo completo.",
+      "Un trapecio circular."
+    ],
+    "correcta": 1,
+    "resolucion": "Al cortar y abrir la superficie lateral, se muestra visualmente que esta se transforma en un sector circular, cuyo radio es la generatriz del cono."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para calcular el área de la superficie lateral ($A_L$) de un cono de revolución según el video?",
+    "opciones": [
+      "$A_L = \\pi \\cdot r^2$",
+      "$A_L = \\pi \\cdot r \\cdot g$",
+      "$A_L = 2 \\pi \\cdot r \\cdot g$",
+      "$A_L = \\frac{\\pi \\cdot r \\cdot g}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Deduciendo desde el área del sector circular, se llega a la fórmula final: Área Lateral es igual a Pi por el radio de la base por la generatriz ($A_L = \\pi r g$)."
+  },
+  {
+    "pregunta": "En el ejercicio resuelto por 'Mundito', se tiene un cono con generatriz $g = 25$ cm y radio $r = 7$ cm. ¿Qué teorema se utilizó para hallar la altura?",
+    "opciones": [
+      "Teorema de Tales.",
+      "Teorema de Pitágoras.",
+      "Teorema de Euclides.",
+      "Teorema de la altura."
+    ],
+    "correcta": 1,
+    "resolucion": "Se aplicó el Teorema de Pitágoras en el triángulo rectángulo formado por la altura, el radio y la generatriz: $h^2 + r^2 = g^2$."
+  },
+  {
+    "pregunta": "Para el cono del ejercicio ($g=25$, $r=7$), ¿cuál fue el valor calculado para la altura ($h$)?",
+    "opciones": [
+      "20 cm",
+      "24 cm",
+      "22 cm",
+      "18 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "Operando: $h^2 + 7^2 = 25^2 \\rightarrow h^2 + 49 = 625 \\rightarrow h^2 = 576 \\rightarrow h = 24$ cm."
+  },
+  {
+    "pregunta": "Calcule el área lateral de un cono si su radio es 7 cm y su generatriz es 25 cm.",
+    "opciones": [
+      "150$\\pi$ $cm^2$",
+      "175$\\pi$ $cm^2$",
+      "200$\\pi$ $cm^2$",
+      "125$\\pi$ $cm^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "$A_L = \\pi \\cdot r \\cdot g = \\pi \\cdot 7 \\cdot 25 = 175\\pi$ $cm^2$."
+  },
+  {
+    "pregunta": "Si calculamos el área total del cono del ejercicio ($r=7, g=25$), ¿cuál es el resultado?",
+    "opciones": [
+      "224$\\pi$ $cm^2$",
+      "200$\\pi$ $cm^2$",
+      "250$\\pi$ $cm^2$",
+      "249$\\pi$ $cm^2$"
+    ],
+    "correcta": 0,
+    "resolucion": "$A_T = \\pi r (g + r) = \\pi \\cdot 7 (25 + 7) = \\pi \\cdot 7 (32) = 224\\pi$ $cm^2$."
+  },
+  {
+    "pregunta": "¿Cuál es el volumen del cono del ejercicio ($r=7, h=24$)?",
+    "opciones": [
+      "1176$\\pi$ $cm^3$",
+      "392$\\pi$ $cm^3$",
+      "588$\\pi$ $cm^3$",
+      "196$\\pi$ $cm^3$"
+    ],
+    "correcta": 1,
+    "resolucion": "Volumen = $\\frac{\\pi r^2 h}{3} = \\frac{\\pi (7^2)(24)}{3} = \\pi (49)(8) = 392\\pi$ $cm^3$."
+  },
+  {
+    "pregunta": "Si la altura al cuadrado resultó ser 576, ¿cuál es la operación para hallar la altura final?",
+    "opciones": [
+      "Dividir entre 2.",
+      "Sacar raíz cuadrada.",
+      "Elevar al cuadrado.",
+      "Restar 100."
+    ],
+    "correcta": 1,
+    "resolucion": "Para despejar $h$ de $h^2 = 576$, se extrae la raíz cuadrada de 576, obteniendo 24."
+  },
+  {
+    "pregunta": "En la fórmula del área total factorizada presentada en el video ($A_T = \\pi r (g + r)$), ¿qué representa el término $(g + r)$?",
+    "opciones": [
+      "La suma del diámetro y la generatriz.",
+      "La suma de la generatriz y el radio.",
+      "La diferencia entre generatriz y radio.",
+      "El producto de generatriz y radio."
+    ],
+    "correcta": 1,
+    "resolucion": "Es la suma de la medida de la generatriz más la medida del radio de la base."
+  },
+  {
+    "pregunta": "Si un cono tiene radio 3 y altura 4, ¿cuánto mediría su generatriz?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "4.5"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando Pitágoras como en el ejemplo: $g^2 = 3^2 + 4^2 = 9 + 16 = 25 \\rightarrow g = 5$."
+  },
+  {
+    "pregunta": "Calcule el volumen de un cono con radio 3 y altura 4.",
+    "opciones": [
+      "36$\\pi$",
+      "12$\\pi$",
+      "16$\\pi$",
+      "9$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "$V = \\frac{\\pi (3^2)(4)}{3} = \\frac{\\pi (9)(4)}{3} = 3\\pi(4) = 12\\pi$."
+  },
+  {
+    "pregunta": "¿Qué representa la hipotenusa del triángulo rectángulo generador en el cono formado?",
+    "opciones": [
+      "La altura.",
+      "El radio.",
+      "La generatriz.",
+      "El diámetro."
+    ],
+    "correcta": 2,
+    "resolucion": "El video enfatiza que al girar, la hipotenusa del triángulo se convierte en la generatriz del cono."
+  },
+  {
+    "pregunta": "Si el radio es 5 y la generatriz es 13, ¿cuál es el área lateral?",
+    "opciones": [
+      "65$\\pi$",
+      "60$\\pi$",
+      "50$\\pi$",
+      "30$\\pi$"
+    ],
+    "correcta": 0,
+    "resolucion": "$A_L = \\pi \\cdot 5 \\cdot 13 = 65\\pi$."
+  },
+  {
+    "pregunta": "Para un cono de radio 10 y generatriz 15, calcule el término $(g+r)$ para el área total.",
+    "opciones": [
+      "5",
+      "25",
+      "150",
+      "1.5"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma simple: $15 + 10 = 25$."
+  }
+          ]
         },
         {
-          "titulo": "6.3 Meiosis I (Reduccional)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "6.3 Superficie Esférica",
+          "youtube_id": "sxzttRaNm3I",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "6.4 Meiosis II (Ecuacional)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "6.5 Gametogénesis (Espermatogénesis y Ovogénesis)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "6.6 Reproducción Asexual en Animales y Plantas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define la superficie esférica según la explicación inicial del video?",
+    "opciones": [
+      "Como el sólido generado al girar un cuadrado.",
+      "Como la superficie generada al girar una semicircunferencia 360 grados alrededor de su diámetro.",
+      "Como el conjunto de puntos que equidistan de un plano.",
+      "Como la intersección de dos conos."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica que la superficie esférica se obtiene al hacer girar una semicircunferencia $360^\\circ$ alrededor de su diámetro."
+  },
+  {
+    "pregunta": "¿Qué figura geométrica se obtiene siempre al interceptar una superficie esférica con un plano?",
+    "opciones": [
+      "Una elipse.",
+      "Un punto.",
+      "Un círculo.",
+      "Una parábola."
+    ],
+    "correcta": 2,
+    "resolucion": "Se aclara que cualquier plano que corte a una esfera (secante) determinará en la intersección un círculo (ya sea máximo o menor)."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para el área de una superficie esférica completa de radio $R$?",
+    "opciones": [
+      "$4\\pi R^3/3$",
+      "$\\pi R^2$",
+      "$2\\pi R^2$",
+      "$4\\pi R^2$"
+    ],
+    "correcta": 3,
+    "resolucion": "Mediante el Teorema de Arquímedes, se establece que el área de la superficie esférica es cuatro veces el área de su círculo máximo: $4\\pi R^2$."
+  },
+  {
+    "pregunta": "En el problema 1, se tiene una zona esférica de altura $R/4$ equivalente a un huso esférico. ¿Cuál resultó ser el ángulo del huso?",
+    "opciones": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Igualando las áreas: $2\\pi R (R/4) = \\frac{\\pi R^2 \\alpha}{90}$. Simplificando, se obtiene $\\alpha = 45^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 2, se tienen dos secciones paralelas de áreas $16\\pi$ y $25\\pi$ separadas por una distancia de 1. ¿Cuál fue el valor hallado para el radio de la esfera?",
+    "opciones": [
+      "$\\sqrt{41}$",
+      "5",
+      "4",
+      "6"
+    ],
+    "correcta": 0,
+    "resolucion": "Al plantear Pitágoras con las distancias al centro ($a$ y $a+1$) y los radios de sección (4 y 5), se halló $a=4$. Reemplazando, $R^2 = 4^2 + 5^2 = 16+25=41$. El radio es $\\sqrt{41}$."
+  },
+  {
+    "pregunta": "En el problema 2, con el radio al cuadrado igual a 41, ¿cuál fue el área de la superficie esférica calculada?",
+    "opciones": [
+      "164$\\pi$",
+      "100$\\pi$",
+      "200$\\pi$",
+      "82$\\pi$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área = $4\\pi R^2 = 4\\pi (41) = 164\\pi$."
+  },
+  {
+    "pregunta": "En el problema 3, se tiene un cilindro inscrito en una semiesfera. Si $PQ=6$ y $QB=2$, ¿cuánto midió el radio de la esfera?",
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "20"
+    ],
+    "correcta": 1,
+    "resolucion": "Por relaciones métricas en la semicircunferencia: $6^2 = 2 \\cdot (2R-2)$ no, fue en el diámetro. $6^2 = 2 \\cdot (20-2)?$ No, $6^2 = 2 \\cdot x \\rightarrow 36 = 2x \\rightarrow x=18$. Diámetro = $2+18=20$. Radio = 10."
+  },
+  {
+    "pregunta": "En el problema 3, ¿cuál fue el área de la zona esférica determinada por la base superior del cilindro (altura 6, radio esfera 10)?",
+    "opciones": [
+      "60$\\pi$",
+      "120$\\pi$",
+      "100$\\pi$",
+      "200$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área Zona = $2\\pi R h = 2\\pi (10)(6) = 120\\pi$."
+  },
+  {
+    "pregunta": "En el problema 4 (UNI 2018), se tiene una esfera menor de radio 3 y un círculo de sección de área $16\\pi$ (radio 4). ¿Cuál es el radio de la esfera mayor?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 0,
+    "resolucion": "El radio de la esfera menor (3) actúa como distancia del centro al plano (por tangencia). Se forma un triángulo rectángulo con la sección (radio 4). Hipotenusa (Radio Mayor) = $\\sqrt{3^2 + 4^2} = 5$."
+  },
+  {
+    "pregunta": "En el problema 4, ¿cuál fue el área del casquete menor calculado (Radio 5, altura 2)?",
+    "opciones": [
+      "10$\\pi$",
+      "20$\\pi$",
+      "30$\\pi$",
+      "40$\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Altura casquete = $R - d = 5 - 3 = 2$. Área = $2\\pi R h = 2\\pi (5)(2) = 20\\pi$."
+  },
+  {
+    "pregunta": "En el problema 5 (San Marcos 2016), dada la relación de áreas y la distancia $\\sqrt{5}-2$, ¿cuánto resultó medir el radio de la esfera?",
+    "opciones": [
+      "2",
+      "1",
+      "1.5",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "Al desarrollar la ecuación $R\\sqrt{5} = d + 2R$ y comparar con el dato $d = \\sqrt{5}-2$, se dedujo que para que la igualdad se mantenga (con la forma factorizada), el radio debía ser 1."
+  },
+  {
+    "pregunta": "En el problema 6, se tiene un cono equilátero inscrito. Si el volumen es $9\\sqrt{3}\\pi$, ¿cuánto resultó ser el cuadrado del radio ($R^2$)?",
+    "opciones": [
+      "12",
+      "12$\\sqrt{3}$",
+      "9",
+      "6$\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras operar la fórmula del volumen con las relaciones del cono equilátero ($r = R\\sqrt{3}/2$, $h = 3R/2$), se despejó $R^2 = 12\\sqrt{3}$."
+  },
+  {
+    "pregunta": "En el problema 7, las áreas de dos casquetes están en relación de 4 a 5. ¿En qué relación están sus alturas?",
+    "opciones": [
+      "16 a 25",
+      "2 a \\sqrt{5}",
+      "4 a 5",
+      "1 a 1"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el área es $2\\pi R h$, y $2\\pi R$ es constante, la relación de áreas es directamente proporcional a la relación de alturas ($h_1/h_2 = 4/5$)."
+  },
+  {
+    "pregunta": "En el problema 8 (Satélite), si el área visible es 1/3 del área total, ¿a qué altura de la superficie terrestre se encuentra el satélite?",
+    "opciones": [
+      "$R$",
+      "$2R$",
+      "$R/2$",
+      "$3R$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se calculó que la altura del casquete visible era $2R/3$. Por relaciones métricas en el triángulo formado por la tangente visual, la distancia externa $x$ resultó ser $2R$."
+  },
+  {
+    "pregunta": "En el problema 9, una esfera está inscrita en un cono y sus áreas (base cono y superficie esfera) son iguales. ¿Qué ángulo notable tiene el cono?",
+    "opciones": [
+      "$37^\\circ$",
+      "$53^\\circ$",
+      "$60^\\circ$",
+      "$45^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "La igualdad de áreas llevó a que el radio de la base del cono sea el doble del radio de la esfera ($R_{base} = 2R_{esfera}$). Esto configura un triángulo rectángulo de catetos $R$ y $2R$ en la sección, correspondiendo al ángulo de $53^\\circ/2$ (semiángulo) o $53^\\circ$ en el cono."
+  }
+          ]
         }
       ]
     },
     {
-      "titulo": "Tema 7: Genética Mendeliana",
+      "titulo": "Tema 7: Geometría Analítica",
       "videos": [
         {
-          "titulo": "7.1 Conceptos Básicos de Genética",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "7.1 Distancia entre dos puntos",
+          "youtube_id": "HPS7B57keEE",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué fórmula se utiliza para calcular la distancia entre dos puntos $P_1(x_1, y_1)$ y $P_2(x_2, y_2)$ en el plano cartesiano según el video?",
+    "opciones": [
+      "$d = \\sqrt{(x_2 + x_1)^2 + (y_2 + y_1)^2}$",
+      "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+      "$d = (x_2 - x_1) + (y_2 - y_1)$",
+      "$d = \\sqrt{(x_2 - x_1)^2 - (y_2 - y_1)^2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor presenta la fórmula de distancia euclidiana: la raíz cuadrada de la suma de los cuadrados de las diferencias de las coordenadas."
+  },
+  {
+    "pregunta": "Según la explicación, ¿importa el orden en que se eligen el punto 1 y el punto 2 para aplicar la fórmula?",
+    "opciones": [
+      "Sí, el punto 1 siempre debe ser el que tiene coordenadas menores.",
+      "Sí, el orden afecta el signo del resultado final.",
+      "No, no hay problema en cuál se elija como primero o segundo.",
+      "Solo importa si las coordenadas son negativas."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor aclara que se puede asignar $(x_1, y_1)$ y $(x_2, y_2)$ a cualquiera de los dos puntos sin que afecte el resultado final."
+  },
+  {
+    "pregunta": "¿Por qué el resultado de una distancia entre dos puntos siempre se considera positivo al final?",
+    "opciones": [
+      "Porque la fórmula tiene un valor absoluto implícito.",
+      "Porque las distancias geométricas son magnitudes escalares positivas.",
+      "Porque el profesor lo decide arbitrariamente.",
+      "Porque la raíz cuadrada siempre da dos valores y se elige el menor."
+    ],
+    "correcta": 1,
+    "resolucion": "Se explica que, aunque matemáticamente una raíz cuadrada tiene dos soluciones ($\\pm$), en el contexto de distancias físicas o geométricas solo tiene sentido el valor positivo."
+  },
+  {
+    "pregunta": "En el cálculo de diferencias como $(x_2 - x_1)^2$, ¿qué sucede si el resultado dentro del paréntesis es negativo (ej. $-4$)?",
+    "opciones": [
+      "El cuadrado mantiene el signo negativo ($-16$).",
+      "El cuadrado convierte el resultado en positivo ($16$).",
+      "Se debe multiplicar por $-1$ antes de elevar.",
+      "No se puede calcular."
+    ],
+    "correcta": 1,
+    "resolucion": "El video enfatiza que cualquier número real (negativo o positivo) elevado al cuadrado siempre resulta en un número positivo (ej. $(-4)^2 = 16$)."
+  },
+  {
+    "pregunta": "En el Ejemplo 1, se calcula la distancia entre $A(1, 7)$ y $B(4, 3)$. ¿Cuál es la diferencia de las coordenadas $x$ ($x_2 - x_1$)?",
+    "opciones": [
+      "3",
+      "4",
+      "-3",
+      "5"
+    ],
+    "correcta": 0,
+    "resolucion": "Se calcula $4 - 1 = 3$."
+  },
+  {
+    "pregunta": "En el Ejemplo 1, ¿cuál es la diferencia de las coordenadas $y$ ($y_2 - y_1$) para los puntos $A(1, 7)$ y $B(4, 3)$?",
+    "opciones": [
+      "4",
+      "-4",
+      "10",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "Se calcula $3 - 7 = -4$."
+  },
+  {
+    "pregunta": "Tras elevar al cuadrado las diferencias en el Ejemplo 1 ($3^2$ y $(-4)^2$), ¿qué valores se suman dentro de la raíz?",
+    "opciones": [
+      "6 y 8",
+      "9 y -16",
+      "9 y 16",
+      "3 y 4"
+    ],
+    "correcta": 2,
+    "resolucion": "$3^2 = 9$ y $(-4)^2 = 16$. Se suman $9 + 16$."
+  },
+  {
+    "pregunta": "¿Cuál es la distancia final calculada entre los puntos $A(1, 7)$ y $B(4, 3)$?",
+    "opciones": [
+      "5",
+      "25",
+      "7",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "La suma es $25$, y la raíz cuadrada de $25$ es $5$."
+  },
+  {
+    "pregunta": "En el Ejemplo 2, se calcula la distancia entre $C(-5, 2)$ y $D(0, -4)$. ¿Cómo se escribe la sustitución correcta de $x_2 - x_1$ en la fórmula?",
+    "opciones": [
+      "$0 - 5$",
+      "$0 - (-5)$",
+      "$-5 - 0$",
+      "$-4 - 2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser $x_1 = -5$, la fórmula $x_2 - x_1$ se convierte en $0 - (-5)$, lo que resulta en una suma."
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la operación $0 - (-5)$ en el Ejemplo 2?",
+    "opciones": [
+      "-5",
+      "5",
+      "0",
+      "-25"
+    ],
+    "correcta": 1,
+    "resolucion": "Menos por menos da más, por lo que $0 + 5 = 5$."
+  },
+  {
+    "pregunta": "En el Ejemplo 2, ¿cuál es la diferencia de las coordenadas $y$ ($y_2 - y_1$) para $C(-5, 2)$ y $D(0, -4)$?",
+    "opciones": [
+      "-2",
+      "-6",
+      "6",
+      "2"
+    ],
+    "correcta": 1,
+    "resolucion": "Se calcula $-4 - 2 = -6$."
+  },
+  {
+    "pregunta": "¿Qué valores se suman dentro de la raíz en el Ejemplo 2 tras elevar al cuadrado $5$ y $-6$?",
+    "opciones": [
+      "25 y 36",
+      "10 y 12",
+      "25 y -36",
+      "5 y 6"
+    ],
+    "correcta": 0,
+    "resolucion": "$5^2 = 25$ y $(-6)^2 = 36$."
+  },
+  {
+    "pregunta": "La suma dentro de la raíz en el Ejemplo 2 es $25 + 36 = 61$. ¿Cuál es la distancia aproximada?",
+    "opciones": [
+      "7.81",
+      "8.00",
+      "7.50",
+      "6.10"
+    ],
+    "correcta": 0,
+    "resolucion": "La raíz cuadrada de 61 no es exacta. El profesor calcula un valor aproximado de 7.81."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 1, se pide la distancia entre $A(2, 1)$ y $B(-3, -2)$. ¿Cuál es el valor de $x_2 - x_1$?",
+    "opciones": [
+      "1",
+      "-1",
+      "-5",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "Considerando $B$ como punto 2: $-3 - 2 = -5$."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 1, ¿cuál es el valor de $y_2 - y_1$?",
+    "opciones": [
+      "-3",
+      "3",
+      "-1",
+      "1"
+    ],
+    "correcta": 0,
+    "resolucion": "$-2 - 1 = -3$."
+  },
+  {
+    "pregunta": "¿Cuál es el resultado final de la distancia entre $A(2, 1)$ y $B(-3, -2)$?",
+    "opciones": [
+      "$\\sqrt{34}$",
+      "$\\sqrt{8}$",
+      "5.83",
+      "$\\sqrt{50}$"
+    ],
+    "correcta": 3,
+    "resolucion": "Null."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 2, se calcula la distancia entre $C(-4, -2)$ y $D(-3, 7)$ (aprox). ¿Cuál es la diferencia de las coordenadas $x$?",
+    "opciones": [
+      "1",
+      "-7",
+      "-1",
+      "7"
+    ],
+    "correcta": 0,
+    "resolucion": "En el video (10:05), $x_2 - x_1$ es 'menos 3 menos menos 4', o sea $-3 + 4 = 1$."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 2, ¿cuál es la diferencia de las coordenadas $y$?",
+    "opciones": [
+      "9",
+      "5",
+      "-5",
+      "-9"
+    ],
+    "correcta": 0,
+    "resolucion": "En 10:17, opera $7 - (-2) = 7 + 2 = 9$."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 2, ¿qué valores se suman dentro de la raíz?",
+    "opciones": [
+      "1 y 81",
+      "1 y 18",
+      "1 y 9",
+      "49 y 4"
+    ],
+    "correcta": 0,
+    "resolucion": "$1^2 = 1$ y $9^2 = 81$."
+  },
+  {
+    "pregunta": "¿Cuál es la distancia final del ejercicio de práctica 2?",
+    "opciones": [
+      "$\\sqrt{82}$",
+      "$\\sqrt{10}$",
+      "9.05",
+      "$\\sqrt{80}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La suma es $1 + 81 = 82$, por lo que la distancia es $\\sqrt{82}$."
+  }
+          ]
         },
         {
-          "titulo": "7.2 Primera Ley de Mendel",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "7.2 La Recta",
+          "youtube_id": "LWTtn3kfA8U",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define la pendiente ($m$) de una recta que pasa por los puntos $(x_1, y_1)$ y $(x_2, y_2)$?",
+    "opciones": [
+      "$m = \\frac{x_2 - x_1}{y_2 - y_1}$",
+      "$m = \\frac{y_2 - y_1}{x_2 - x_1}$",
+      "$m = (y_2 - y_1)(x_2 - x_1)$",
+      "$m = \\frac{y_2 + y_1}{x_2 + x_1}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La pendiente se define como la variación en el eje Y dividida por la variación en el eje X: $\\frac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "pregunta": "¿Qué condición deben cumplir las pendientes ($m_1$ y $m_2$) de dos rectas para ser paralelas?",
+    "opciones": [
+      "$m_1 \\cdot m_2 = -1$",
+      "$m_1 = -m_2$",
+      "$m_1 = m_2$",
+      "$m_1 + m_2 = 0$"
+    ],
+    "correcta": 2,
+    "resolucion": "Si dos rectas son paralelas, sus ángulos de inclinación son iguales, por lo tanto, sus pendientes deben ser idénticas ($m_1 = m_2$)."
+  },
+  {
+    "pregunta": "¿Qué relación existe entre las pendientes de dos rectas perpendiculares?",
+    "opciones": [
+      "Su suma es 180.",
+      "Son iguales.",
+      "Su producto es $-1$ ($m_1 \\cdot m_2 = -1$).",
+      "Su producto es 1."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que dos rectas sean perpendiculares (formen $90^\\circ$), el producto de sus pendientes debe ser igual a $-1$ (una es la inversa negativa de la otra)."
+  },
+  {
+    "pregunta": "¿Cuál es la ecuación de una recta horizontal que corta al eje Y en el punto $b$?",
+    "opciones": [
+      "$x = b$",
+      "$y = x$",
+      "$y = b$",
+      "$x + y = b$"
+    ],
+    "correcta": 2,
+    "resolucion": "Una recta horizontal tiene pendiente 0, por lo que su ecuación se reduce a $y = \\text{constante}$."
+  },
+  {
+    "pregunta": "Calcule la pendiente de la recta que pasa por los puntos $(2, 5)$ y $(5, 7)$.",
+    "opciones": [
+      "$3/2$",
+      "$2/3$",
+      "$1$",
+      "$5/2$"
+    ],
+    "correcta": 1,
+    "resolucion": "$m = \\frac{7 - 5}{5 - 2} = \\frac{2}{3}$."
+  },
+  {
+    "pregunta": "Si una recta tiene pendiente $m = 2/3$ y pasa por el punto $(2, 5)$, ¿cuál es su ecuación general?",
+    "opciones": [
+      "$2x - 3y + 11 = 0$",
+      "$3x - 2y + 11 = 0$",
+      "$2x + 3y - 11 = 0$",
+      "$2x - 3y - 11 = 0$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando $y - 5 = \\frac{2}{3}(x - 2) \\rightarrow 3(y-5) = 2(x-2) \\rightarrow 3y - 15 = 2x - 4 \\rightarrow 0 = 2x - 3y + 11$."
+  },
+  {
+    "pregunta": "Dada la ecuación $5x - 2y + 10 = 0$, ¿cuál es el intercepto con el eje X (cuando $y=0$)?",
+    "opciones": [
+      "2",
+      "-2",
+      "5",
+      "-5"
+    ],
+    "correcta": 1,
+    "resolucion": "Si $y=0$, queda $5x + 10 = 0 \\rightarrow 5x = -10 \\rightarrow x = -2$."
+  },
+  {
+    "pregunta": "Dada la misma ecuación $5x - 2y + 10 = 0$, ¿cuál es el intercepto con el eje Y (cuando $x=0$)?",
+    "opciones": [
+      "5",
+      "-5",
+      "2",
+      "10"
+    ],
+    "correcta": 0,
+    "resolucion": "Si $x=0$, queda $-2y + 10 = 0 \\rightarrow 10 = 2y \\rightarrow y = 5$."
+  },
+  {
+    "pregunta": "En el ejemplo del triángulo, se busca una recta paralela al lado $AC$ que pasa por $B(5, 8)$. Si la pendiente de $AC$ es $2/5$, ¿cuál es la ecuación de la recta?",
+    "opciones": [
+      "$2x - 5y + 30 = 0$",
+      "$5x - 2y - 30 = 0$",
+      "$2x + 5y + 30 = 0$",
+      "$2x - 5y - 30 = 0$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando $m = 2/5$ y punto $(5, 8)$: $y - 8 = \\frac{2}{5}(x - 5) \\rightarrow 5y - 40 = 2x - 10 \\rightarrow 0 = 2x - 5y + 30$."
+  },
+  {
+    "pregunta": "Calcule la pendiente del lado $AB$ si $A(2, 3)$ y $B(5, 8)$.",
+    "opciones": [
+      "$3/5$",
+      "$5/3$",
+      "$-5/3$",
+      "$1$"
+    ],
+    "correcta": 1,
+    "resolucion": "$m = \\frac{8 - 3}{5 - 2} = \\frac{5}{3}$."
+  },
+  {
+    "pregunta": "Si la pendiente del lado $AB$ es $5/3$, ¿cuál será la pendiente de una recta perpendicular a $AB$?",
+    "opciones": [
+      "$5/3$",
+      "$-5/3$",
+      "$3/5$",
+      "$-3/5$"
+    ],
+    "correcta": 3,
+    "resolucion": "Para rectas perpendiculares, se invierte la fracción y se cambia el signo: $m_{\\perp} = -\\frac{3}{5}$."
+  },
+  {
+    "pregunta": "En la tarea final, se pide la ecuación de la recta que pasa por $C(7, 5)$ y es perpendicular a $AB$ (pendiente $-3/5$). ¿Cuál es la ecuación correcta?",
+    "opciones": [
+      "$3x + 5y - 46 = 0$",
+      "$5x - 3y - 46 = 0$",
+      "$3x + 5y + 46 = 0$",
+      "$3x - 5y + 46 = 0$"
+    ],
+    "correcta": 0,
+    "resolucion": "$y - 5 = -\\frac{3}{5}(x - 7) \\rightarrow 5(y-5) = -3(x-7) \\rightarrow 5y - 25 = -3x + 21 \\rightarrow 3x + 5y - 46 = 0$."
+  },
+  {
+    "pregunta": "¿Cómo se sabe si una recta es creciente observando su pendiente?",
+    "opciones": [
+      "Si la pendiente es cero.",
+      "Si la pendiente es negativa.",
+      "Si la pendiente es positiva ($m > 0$).",
+      "Si la pendiente es indefinida."
+    ],
+    "correcta": 2,
+    "resolucion": "Si la pendiente es positiva, la recta 'sube' de izquierda a derecha (es creciente). Si es negativa, 'baja' (decreciente)."
+  }
+          ]
         },
         {
-          "titulo": "7.3 Segunda Ley de Mendel",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "7.3 Rectas paralelas y perpendiculares",
+          "youtube_id": "KmqeuA7w9gs",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según el video, ¿cuál es la condición fundamental para que dos rectas sean **paralelas**?",
+    "opciones": [
+      "Sus pendientes deben ser opuestas.",
+      "Sus pendientes deben ser iguales.",
+      "El producto de sus pendientes debe ser -1.",
+      "Sus ordenadas al origen deben ser iguales."
+    ],
+    "correcta": 1,
+    "resolucion": "La profesora explica que la teoría indica que la pendiente de una recta tiene que ser igual en valor a la otra pendiente para que sean paralelas."
+  },
+  {
+    "pregunta": "¿Cuál es la condición matemática para que dos rectas sean **perpendiculares** según la explicación?",
+    "opciones": [
+      "$m_1 = m_2$",
+      "$m_1 + m_2 = 0$",
+      "$m_1 \\cdot m_2 = -1$ (o son inversas y de signo contrario)",
+      "$m_1 = 1/m_2$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se establece que dos rectas son perpendiculares si sus pendientes son inversas multiplicativas y de signo contrario, lo que equivale a que su producto sea -1 ($m_1 \\cdot m_2 = -1$)."
+  },
+  {
+    "pregunta": "En la ecuación general de la recta $y = mx + b$, ¿qué representa el término $b$?",
+    "opciones": [
+      "La pendiente.",
+      "La abscisa al origen.",
+      "La ordenada al origen.",
+      "El punto de corte con el eje X."
+    ],
+    "correcta": 2,
+    "resolucion": "El video recuerda que en la ecuación $y = mx + b$, $m$ es la pendiente y $b$ es la ordenada al origen (punto de corte con el eje Y)."
+  },
+  {
+    "pregunta": "Al graficar una recta usando la pendiente como fracción, ¿qué indica el **denominador**?",
+    "opciones": [
+      "El desplazamiento vertical (arriba/abajo).",
+      "El desplazamiento hacia la izquierda.",
+      "El desplazamiento horizontal hacia la derecha.",
+      "El valor de la ordenada."
+    ],
+    "correcta": 2,
+    "resolucion": "Se explica que el denominador de la pendiente indica las unidades que nos debemos desplazar hacia la derecha a partir del punto de corte."
+  },
+  {
+    "pregunta": "Identifique la pendiente de la recta dada por la ecuación $y = \\frac{1}{4}x - 2$.",
+    "opciones": [
+      "-2",
+      "4",
+      "1",
+      "1/4"
+    ],
+    "correcta": 3,
+    "resolucion": "La pendiente ($m$) es el valor que acompaña a la $x$. En este caso, es claramente 1/4."
+  },
+  {
+    "pregunta": "Si tenemos la recta $y = 5x - 1$, ¿cuál sería la pendiente de una recta **perpendicular** a ella?",
+    "opciones": [
+      "5",
+      "-5",
+      "-1/5",
+      "1/5"
+    ],
+    "correcta": 2,
+    "resolucion": "Para una recta perpendicular, la pendiente debe ser inversa y de signo contrario. El inverso de 5 es 1/5, y cambiando el signo resulta -1/5."
+  },
+  {
+    "pregunta": "Dada la ecuación $y - 5 = -\\frac{1}{5}x$, ¿cuál es su pendiente al despejarla correctamente?",
+    "opciones": [
+      "5",
+      "-1/5",
+      "1/5",
+      "-5"
+    ],
+    "correcta": 1,
+    "resolucion": "Al despejar $y$, el término con $x$ se mantiene como $-\\frac{1}{5}x$. La pendiente es el coeficiente de $x$, es decir, -1/5."
+  },
+  {
+    "pregunta": "En el primer ejemplo gráfico del video, para la recta $y = \\frac{1}{4}x - 2$, ¿desde qué punto en el eje Y se inicia el trazado?",
+    "opciones": [
+      "0",
+      "2",
+      "-2",
+      "4"
+    ],
+    "correcta": 2,
+    "resolucion": "Se parte de la ordenada al origen, que es el término independiente $b = -2$. Se ubica en el eje Y negativo."
+  },
+  {
+    "pregunta": "Para la recta $y = 5x - 1$, ¿cuántas unidades se desplaza hacia la derecha para encontrar el segundo punto?",
+    "opciones": [
+      "5",
+      "1",
+      "-1",
+      "0"
+    ],
+    "correcta": 1,
+    "resolucion": "Como la pendiente es 5 (entero), se puede escribir como 5/1. El denominador es 1, indicando un desplazamiento de 1 unidad a la derecha."
+  },
+  {
+    "pregunta": "¿Son paralelas las rectas $y = \\frac{1}{4}x + 2$ y $y = \\frac{1}{4}x - 2$?",
+    "opciones": [
+      "No, porque tienen diferente ordenada.",
+      "Sí, porque sus pendientes son iguales (1/4).",
+      "No, porque se cortan en el eje X.",
+      "Sí, porque sus ordenadas son opuestas."
+    ],
+    "correcta": 1,
+    "resolucion": "Ambas tienen pendiente $m = 1/4$, cumpliendo la condición de paralelismo ($m_1 = m_2$), independientemente de sus ordenadas."
+  },
+  {
+    "pregunta": "Si tenemos la recta $y = -\\frac{1}{5}x + 3$, ¿cuántas unidades nos desplazamos hacia abajo desde la ordenada al origen para graficar?",
+    "opciones": [
+      "1",
+      "3",
+      "5",
+      "0"
+    ],
+    "correcta": 0,
+    "resolucion": "La pendiente es -1/5. El numerador (-1) indica un desplazamiento vertical. Al ser negativo, es 1 unidad hacia abajo."
+  },
+  {
+    "pregunta": "¿Qué ángulo forman entre sí las rectas $y = 5x - 1$ y $y = -\\frac{1}{5}x + 3$ al graficarlas?",
+    "opciones": [
+      "0 grados",
+      "45 grados",
+      "90 grados",
+      "180 grados"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser sus pendientes inversas y de signo opuesto ($5$ y $-1/5$), son rectas perpendiculares, formando un ángulo de 90 grados."
+  },
+  {
+    "pregunta": "Dada la ecuación $x - \\frac{1}{4}y = 3$ (similar al ejemplo despejado en el video), al despejar $y$, ¿cuál resulta ser la pendiente?",
+    "opciones": [
+      "1",
+      "-4",
+      "4",
+      "1/4"
+    ],
+    "correcta": 2,
+    "resolucion": "Aunque este ejemplo específico exacto no está, el proceso de despeje mostrado en el video implica que si $-\\frac{1}{4}y = -x...$, al multiplicar por -4, la pendiente resultante para $x$ sería positiva 4. (Nota: Basado en la lógica de despeje enseñada: $y = 4x - 12$. Pendiente 4)."
+  }
+          ]
         },
         {
-          "titulo": "7.4 Codominancia y Dominancia Incompleta",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "7.4 Angulo entre dos rectas paralelas",
+          "youtube_id": "nalz6-ye08M",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define la intersección de dos rectas paralelas en un mismo plano, según el video?",
+    "opciones": [
+      "Es un punto único llamado punto de corte.",
+      "Es el conjunto vacío (no tienen intersección).",
+      "Es una recta perpendicular a ambas.",
+      "Son infinitos puntos coincidentes."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor define que si dos rectas coplanares (l3 y l4) son paralelas, su intersección es el vacío (no se cortan)."
+  },
+  {
+    "pregunta": "¿Qué nombre reciben los ángulos que se encuentran entre dos rectas paralelas y a diferentes lados de la recta secante (propiedad de la Z)?",
+    "opciones": [
+      "Ángulos correspondientes.",
+      "Ángulos conjugados internos.",
+      "Ángulos alternos internos.",
+      "Ángulos opuestos por el vértice."
+    ],
+    "correcta": 2,
+    "resolucion": "Se denominan ángulos alternos internos. El video menciona que también se les conoce coloquialmente como la 'propiedad de la Z' y son iguales entre sí."
+  },
+  {
+    "pregunta": "Según la propiedad de la 'M' o del 'Serrucho' simple entre paralelas, ¿a qué es igual el ángulo $x$ central?",
+    "opciones": [
+      "A la diferencia de los ángulos laterales.",
+      "A la suma de los ángulos que apuntan hacia el lado opuesto ($\\alpha + \\theta$).",
+      "A $180^\\circ$ menos la suma de los otros ángulos.",
+      "Al promedio de los ángulos laterales."
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad establece que el ángulo formado en el quiebre ($x$) es igual a la suma de los ángulos agudos que apuntan hacia el sentido contrario ($\\alpha + \\beta$)."
+  },
+  {
+    "pregunta": "En la propiedad de la 'escalera' donde todos los ángulos apuntan al mismo lado entre dos paralelas, ¿cuánto suman los ángulos agudos internos ($\\alpha, \\beta, \\theta, \\dots$)?",
+    "opciones": [
+      "$360^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$270^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor demuestra trazando paralelas sucesivas que la suma de todos esos ángulos agudos consecutivos entre las paralelas es igual a $180^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 1, se tiene un gráfico con ángulos de $90^\\circ$, $60^\\circ$ y $20^\\circ$. ¿Cuánto vale el ángulo auxiliar $\\beta$ hallado con la propiedad de la M?",
+    "opciones": [
+      "$40^\\circ$",
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Se aplica la propiedad: $\\beta + 20^\\circ = 60^\\circ$, por lo tanto $\\beta = 40^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 1, tras hallar que $\\beta = 40^\\circ$ y sabiendo que $x + \\beta$ deben sumar $90^\\circ$ (por el ángulo recto adyacente en la línea de $180^\\circ$), ¿cuál es el valor de $x$?",
+    "opciones": [
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$30^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Como $\\beta = 40^\\circ$ y $x + \\beta = 90^\\circ$, entonces $x = 90^\\circ - 40^\\circ = 50^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 2, se da el dato que $\\alpha$ y $\\beta$ son suplementarios. ¿Qué ecuación se plantea con la propiedad del serrucho?",
+    "opciones": [
+      "$x + 20 = \\alpha + (90 - \\alpha)$",
+      "$x = \\alpha + \\beta$",
+      "$x + 20 = 180$",
+      "$x = 20 + \\alpha$"
+    ],
+    "correcta": 0,
+    "resolucion": "Por la propiedad del serrucho: la suma de los ángulos que van a la izquierda ($x + 20$) es igual a la suma de los que van a la derecha ($\\alpha + (90 - \\alpha)$)."
+  },
+  {
+    "pregunta": "En el Ejercicio 2, al resolver la ecuación $x + 20 = 90$, ¿cuál es el valor de $x$?",
+    "opciones": [
+      "$60^\\circ$",
+      "$70^\\circ$",
+      "$80^\\circ$",
+      "$50^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Despejando: $x = 90 - 20 = 70^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 3, se tiene el dato $m + n = 100^\\circ$ y la figura forma un ángulo recto. ¿Qué ecuación resulta de aplicar la propiedad del serrucho tras trazar la paralela?",
+    "opciones": [
+      "$2x + 20 = m + n$",
+      "$2x = 100$",
+      "$2x + m = n + 20$",
+      "$x + 20 = m + n$"
+    ],
+    "correcta": 0,
+    "resolucion": "Los ángulos hacia arriba son $2x$ y $20^\\circ$. Los ángulos hacia abajo son $m$ y $n$. La ecuación es $2x + 20 = m + n$."
+  },
+  {
+    "pregunta": "En el Ejercicio 3, resolviendo $2x + 20 = 100$, ¿cuánto vale $x$?",
+    "opciones": [
+      "$30^\\circ$",
+      "$40^\\circ$",
+      "$50^\\circ$",
+      "$20^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "$2x = 80$, por lo tanto $x = 40^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 4, se busca hallar $x$. Se define un ángulo auxiliar $z$. ¿Cuánto suma $x + z$ según el gráfico?",
+    "opciones": [
+      "$180^\\circ$",
+      "$90^\\circ$",
+      "$100^\\circ$",
+      "$360^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "En el gráfico se observa que $x$, $z$ y un ángulo de $80^\\circ$ forman un llano ($180^\\circ$). Por lo tanto, $x + z = 100^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 4, usando la propiedad del serrucho generalizada, se halla que $z = 60^\\circ$. ¿Cuál es el valor final de $x$?",
+    "opciones": [
+      "$50^\\circ$",
+      "$40^\\circ$",
+      "$30^\\circ$",
+      "$60^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Si $x + z = 100$ y $z = 60$, entonces $x = 100 - 60 = 40^\\circ$."
+  },
+  {
+    "pregunta": "En el Ejercicio 5, se pide el ángulo entre las rectas $L_1$ y $L_2$. Al aplicar la propiedad de sumas alternas ($x + 60 + 30 = 40 + 50 + 20$), ¿cuánto resulta $x$?",
+    "opciones": [
+      "$10^\\circ$",
+      "$15^\\circ$",
+      "$20^\\circ$",
+      "$25^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Izquierda: $x + 90$. Derecha: $40 + 50 + 20 = 110$. Ecuación: $x + 90 = 110 \\Rightarrow x = 20^\\circ$."
+  }
+          ]
         },
         {
-          "titulo": "7.5 Alelos Múltiples (Grupos Sanguíneos)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "7.5 Ecuaciones de elipse",
+          "youtube_id": "39LW5naN_Ao",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "7.6 Ejercicios de Genética Mendeliana",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 8: Genética Post-Mendeliana y Humana",
-      "videos": [
-        {
-          "titulo": "8.1 Determinación del Sexo",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.2 Herencia Ligada al Sexo (Daltonismo y Hemofilia)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.3 Mutaciones Cromosómicas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.4 Síndromes Genéticos (Down, Turner, Klinefelter)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.5 Dogma Central de la Biología (Replicación, Transcripción)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "8.6 Traducción y Código Genético",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 9: Evolución y Origen de la Vida",
-      "videos": [
-        {
-          "titulo": "9.1 Teorías del Origen de la Vida",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.2 Evolución: Lamarck vs Darwin",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.3 Neodarwinismo y Pruebas de la Evolución",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.4 Evolución Humana (Hominización)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.5 Taxonomía y Nomenclatura Binomial",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "9.6 Los 5 Reinos Biológicos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 10: Reinos Monera, Protista y Fungi",
-      "videos": [
-        {
-          "titulo": "10.1 Reino Monera: Bacterias y Cianobacterias",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "10.2 Importancia y Enfermedades Bacterianas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "10.3 Reino Protista: Protozoarios",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "10.4 Reino Protista: Algas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "10.5 Reino Fungi: Características y Clasificación",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "10.6 Virus (No son seres vivos)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 11: Reino Plantae (Botánica)",
-      "videos": [
-        {
-          "titulo": "11.1 Clasificación de las Plantas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.2 Histología Vegetal: Tejidos Meristemáticos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.3 Tejidos Adultos (Parenquima, Sostén, Conductor)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.4 Organografía: Raíz y Tallo",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.5 Organografía: Hoja, Flor y Fruto",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "11.6 Fitohormonas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 12: Reino Animalia (Zoología I)",
-      "videos": [
-        {
-          "titulo": "12.1 Clasificación y Criterios Zoológicos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.2 Poríferos y Celentéreos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.3 Platelmintos y Nematodos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.4 Anélidos y Moluscos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.5 Artrópodos: Insectos, Arácnidos, Crustáceos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "12.6 Equinodermos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 13: Reino Animalia (Zoología II - Cordados)",
-      "videos": [
-        {
-          "titulo": "13.1 Características de los Cordados",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.2 Peces (Condrictios y Osteíctios)",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.3 Anfibios",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.4 Reptiles",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.5 Aves",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "13.6 Mamíferos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 14: Anatomía I (Nutrición)",
-      "videos": [
-        {
-          "titulo": "14.1 Sistema Digestivo: Tubo Digestivo",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.2 Sistema Digestivo: Glándulas Anexas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.3 Sistema Circulatorio: Corazón y Ciclo Cardiaco",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.4 Vasos Sanguíneos y Sangre",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.5 Sistema Respiratorio",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "14.6 Sistema Excretor",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 15: Anatomía II (Relación y Reproducción)",
-      "videos": [
-        {
-          "titulo": "15.1 Sistema Nervioso Central",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.2 Sistema Nervioso Periférico y Autónomo",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.3 Sistema Endocrino: Glándulas Principales",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.4 Sistema Reproductor Masculino",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.5 Sistema Reproductor Femenino y Ciclo Menstrual",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "15.6 Sistema Inmunológico",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        }
-      ]
-    },
-    {
-      "titulo": "Tema 16: Ecología y Ambiente",
-      "videos": [
-        {
-          "titulo": "16.1 Conceptos de Ecología y Niveles",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.2 Dinámica de Poblaciones y Comunidades",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.3 Cadenas y Redes Tróficas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.4 Ciclos Biogeoquímicos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.5 Contaminación Ambiental y Cambio Climático",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "16.6 Áreas Naturales Protegidas del Perú",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define la elipse según la explicación al inicio del video?",
+    "opciones": [
+      "Como el lugar geométrico de los puntos cuya suma de distancias a dos puntos fijos (focos) es constante.",
+      "Como el conjunto de puntos que equidistan de un punto fijo llamado centro.",
+      "Como el conjunto de puntos cuya diferencia de distancias a dos focos es constante.",
+      "Como la intersección de un plano con un cono."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor define la elipse como el conjunto de puntos en el plano que satisface que la suma de sus distancias a dos puntos fijos (llamados focos) es siempre la misma cantidad constante."
+  },
+  {
+    "pregunta": "¿Qué relación de desigualdad debe cumplir siempre la distancia constante ($d$ o $2a$) respecto a la distancia entre focos ($2c$)?",
+    "opciones": [
+      "Debe ser mayor o igual ($2a \\ge 2c$).",
+      "Debe ser menor ($2a < 2c$).",
+      "Debe ser igual ($2a = 2c$).",
+      "No existe restricción."
+    ],
+    "correcta": 0,
+    "resolucion": "Por la desigualdad del triángulo, la suma de dos lados (las distancias a los focos) siempre debe ser mayor que el tercer lado (distancia entre focos), por lo que $2a > 2c$ (o mayor igual en el caso límite degenerado)."
+  },
+  {
+    "pregunta": "¿Cuál es la relación fundamental entre los semiejes ($a, b$) y la distancia focal ($c$) en una elipse?",
+    "opciones": [
+      "$a^2 = b^2 + c^2$",
+      "$c^2 = a^2 + b^2$",
+      "$b^2 = a^2 + c^2$",
+      "$a = b + c$"
+    ],
+    "correcta": 0,
+    "resolucion": "Se deduce que $a$ es la hipotenusa de un triángulo rectángulo formado con $b$ y $c$, cumpliéndose $a^2 = b^2 + c^2$ (donde $a$ es el semieje mayor)."
+  },
+  {
+    "pregunta": "¿Cómo se calcula la excentricidad ($e$) de una elipse?",
+    "opciones": [
+      "$e = c/a$",
+      "$e = a/c$",
+      "$e = b/a$",
+      "$e = c/b$"
+    ],
+    "correcta": 0,
+    "resolucion": "La excentricidad se define como el cociente entre la semidistancia focal y el semieje mayor: $e = c/a$."
+  },
+  {
+    "pregunta": "En el ejercicio resuelto, se tiene una elipse horizontal con semieje mayor 5 ($a=5$) y semieje menor 3 ($b=3$). ¿Cuál es su ecuación ordinaria?",
+    "opciones": [
+      "$\\frac{x^2}{25} + \\frac{y^2}{9} = 1$",
+      "$\\frac{x^2}{9} + \\frac{y^2}{25} = 1$",
+      "$\\frac{x^2}{5} + \\frac{y^2}{3} = 1$",
+      "$25x^2 + 9y^2 = 1$"
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser horizontal, el término $a^2$ va bajo la $x$. $5^2=25$ y $3^2=9$, resultando en $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$."
+  },
+  {
+    "pregunta": "Para la misma elipse ($a=5, b=3$), ¿cuál es el valor de la distancia focal $c$?",
+    "opciones": [
+      "4",
+      "2",
+      "$\\sqrt{34}$",
+      "8"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando la relación $a^2 = b^2 + c^2$, despejamos $c = \\sqrt{a^2 - b^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4$."
+  },
+  {
+    "pregunta": "Calcule la longitud del lado recto ($LR$) para la elipse con $a=5$ y $b=3$.",
+    "opciones": [
+      "18/5 (3.6)",
+      "9/5 (1.8)",
+      "50/3",
+      "18"
+    ],
+    "correcta": 0,
+    "resolucion": "Fórmula $LR = 2b^2/a$. Sustituyendo: $2(3^2)/5 = 2(9)/5 = 18/5$."
+  },
+  {
+    "pregunta": "¿Cuál es la excentricidad de la elipse con $a=5$ y $c=4$?",
+    "opciones": [
+      "0.8",
+      "1.25",
+      "0.6",
+      "0.75"
+    ],
+    "correcta": 0,
+    "resolucion": "$e = c/a = 4/5 = 0.8$."
+  },
+  {
+    "pregunta": "Si una elipse tiene ecuación $\\frac{x^2}{100} + \\frac{y^2}{36} = 1$, ¿cuánto miden sus ejes mayor y menor?",
+    "opciones": [
+      "Eje mayor 20, Eje menor 12",
+      "Eje mayor 100, Eje menor 36",
+      "Eje mayor 10, Eje menor 6",
+      "Eje mayor 50, Eje menor 18"
+    ],
+    "correcta": 0,
+    "resolucion": "$a^2=100 \\rightarrow a=10 \\rightarrow 2a=20$. $b^2=36 \\rightarrow b=6 \\rightarrow 2b=12$."
+  },
+  {
+    "pregunta": "Dada la ecuación general $9x^2 + 25y^2 - 225 = 0$ (del ejemplo), ¿cómo se transforma a su forma ordinaria?",
+    "opciones": [
+      "$\\frac{x^2}{25} + \\frac{y^2}{9} = 1$",
+      "$\\frac{x^2}{9} + \\frac{y^2}{25} = 1$",
+      "$\\frac{x^2}{225} + \\frac{y^2}{225} = 1$",
+      "$9x^2 + 25y^2 = 225$"
+    ],
+    "correcta": 0,
+    "resolucion": "Se pasa 225 al otro lado y se divide todo por 225: $\\frac{9x^2}{225} + \\frac{25y^2}{225} = 1$, simplificando queda $\\frac{x^2}{25} + \\frac{y^2}{9} = 1$."
+  },
+  {
+    "pregunta": "Si una elipse es vertical con centro en el origen, ¿dónde se ubica el valor mayor $a^2$ en la ecuación?",
+    "opciones": [
+      "Debajo de $y^2$",
+      "Debajo de $x^2$",
+      "En el numerador",
+      "No importa la posición"
+    ],
+    "correcta": 0,
+    "resolucion": "En las elipses verticales, el eje mayor está sobre el eje Y, por lo que $a^2$ va como denominador de $y^2$."
+  },
+  {
+    "pregunta": "Para la elipse $\\frac{x^2}{16} + \\frac{y^2}{4} = 1$, ¿cuáles son las coordenadas de sus vértices principales (eje mayor)?",
+    "opciones": [
+      "$(4, 0)$ y $(-4, 0)$",
+      "$(0, 2)$ y $(0, -2)$",
+      "$(2, 0)$ y $(-2, 0)$",
+      "$(16, 0)$ y $(-16, 0)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Es horizontal porque $16 > 4$. $a^2=16 \\rightarrow a=4$. Vértices en $(\\pm 4, 0)$."
+  },
+  {
+    "pregunta": "Si los focos de una elipse son $(3, 0)$ y $(-3, 0)$, ¿cuál es el valor de $c$?",
+    "opciones": [
+      "3",
+      "6",
+      "9",
+      "0"
+    ],
+    "correcta": 0,
+    "resolucion": "La distancia del centro al foco es $c$. En este caso, la coordenada es 3, por lo que $c=3$."
+  },
+  {
+    "pregunta": "Si una elipse tiene $a=13$ y $b=5$, calcule la distancia focal $2c$.",
+    "opciones": [
+      "24",
+      "12",
+      "10",
+      "26"
+    ],
+    "correcta": 0,
+    "resolucion": "$c = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$. La distancia focal es $2c = 24$."
+  },
+  {
+    "pregunta": "En la deducción de la ecuación, ¿qué artificio se usó para eliminar las raíces cuadradas?",
+    "opciones": [
+      "Elevar al cuadrado dos veces consecutivas (aislando una raíz primero).",
+      "Multiplicar por el conjugado.",
+      "Elevar al cubo.",
+      "Factorizar directamente."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor pasa una raíz al otro lado, eleva al cuadrado, simplifica, aísla la raíz restante y vuelve a elevar al cuadrado."
+  },
+  {
+    "pregunta": "Si el lado recto mide 4 y el semieje menor $b=2$, ¿cuánto vale $a$?",
+    "opciones": [
+      "2",
+      "4",
+      "1",
+      "8"
+    ],
+    "correcta": 0,
+    "resolucion": "$LR = 2b^2/a = 4$. Sustituyendo $b=2$: $2(4)/a = 4 \\rightarrow 8/a = 4 \\rightarrow a = 2$."
+  },
+  {
+    "pregunta": "Para la elipse horizontal con $a=5$ y $c=4$, ¿cuáles son las coordenadas de los focos?",
+    "opciones": [
+      "$(4, 0)$ y $(-4, 0)$",
+      "$(0, 4)$ y $(0, -4)$",
+      "$(5, 0)$ y $(-5, 0)$",
+      "$(3, 0)$ y $(-3, 0)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser horizontal con centro en el origen, los focos están en el eje X a distancia $c$: $(\\pm 4, 0)$."
+  },
+  {
+    "pregunta": "¿Qué ocurre con la forma de la elipse si la excentricidad se acerca a 0?",
+    "opciones": [
+      "Se asemeja más a una circunferencia.",
+      "Se vuelve muy alargada y aplastada.",
+      "Se convierte en una recta.",
+      "Se convierte en una parábola."
+    ],
+    "correcta": 0,
+    "resolucion": "Si $e \\to 0$, entonces $c \\to 0$, lo que significa que los focos se acercan al centro y $a \\approx b$, pareciéndose a un círculo."
+  },
+  {
+    "pregunta": "¿Qué ocurre si la excentricidad es muy cercana a 1?",
+    "opciones": [
+      "La elipse es muy alargada y aplastada.",
+      "La elipse es casi circular.",
+      "La elipse es vertical.",
+      "No existe tal elipse."
+    ],
+    "correcta": 0,
+    "resolucion": "Si $e \\to 1$, entonces $c \\approx a$, lo que implica que $b$ es muy pequeño, resultando en una elipse muy plana."
+  },
+  {
+    "pregunta": "Si trasladamos el centro de la elipse al punto $(h, k)$, ¿cómo cambia el término $x^2$ en la ecuación?",
+    "opciones": [
+      "Se convierte en $(x-h)^2$",
+      "Se convierte en $(x+h)^2$",
+      "Se convierte en $x^2 - h$",
+      "Permanece igual."
+    ],
+    "correcta": 0,
+    "resolucion": "Por traslación de ejes, la coordenada $x$ se sustituye por $x-h$ (y la $y$ por $y-k$)."
+  }
+          ]
         }
       ]
     }

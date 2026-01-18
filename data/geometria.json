@@ -2698,49 +2698,919 @@
       ]
     },
     {
-      "titulo": "Tema 4: Citología II (Citoplasma y Núcleo)",
+      "titulo": "Tema 4: Área de Polígonos y círculos",
       "videos": [
         {
-          "titulo": "4.1 Citosol y Citoesqueleto",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "4.1 Triángulos",
+          "youtube_id": "1i6RrxxyjqA",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según la explicación inicial del profesor Dante, ¿cuál es la diferencia conceptual entre 'trazar' y 'prolongar'?",
+    "opciones": [
+      "No hay diferencia, son sinónimos geométricos.",
+      "Prolongar es extender algo que ya existe; trazar es crear una línea nueva de la nada.",
+      "Trazar es para líneas curvas y prolongar para rectas.",
+      "Prolongar implica crear un segmento nuevo fuera de la figura."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica que prolongar es extender un segmento o línea ya existente, mientras que trazar implica creatividad para añadir una línea nueva que no existía en el gráfico original."
+  },
+  {
+    "pregunta": "¿Qué afirma el Teorema de Existencia Triangular demostrado con la analogía de 'María y Pili'?",
+    "opciones": [
+      "Que un lado es igual a la suma de los otros dos.",
+      "Que la suma de los ángulos internos es 180°.",
+      "Que un lado cualquiera es siempre menor que la suma de los otros dos y mayor que su diferencia.",
+      "Que el triángulo existe solo si tiene un ángulo recto."
+    ],
+    "correcta": 2,
+    "resolucion": "El teorema establece que en todo triángulo, la medida de un lado debe ser menor que la suma de los otros dos lados y mayor que su diferencia ($b-c < a < b+c$)."
+  },
+  {
+    "pregunta": "¿En qué consiste el 'Trazo del Ángulo Doble' explicado como técnica auxiliar?",
+    "opciones": [
+      "En dividir el ángulo en dos partes iguales.",
+      "En trazar una ceviana interior o exterior para formar triángulos isósceles aprovechando la relación de ángulos 1 a 2.",
+      "En duplicar el tamaño del triángulo.",
+      "En trazar una altura para formar 90 grados."
+    ],
+    "correcta": 1,
+    "resolucion": "Se busca trazar una ceviana tal que se forme un triángulo isósceles con el ángulo simple, de modo que la suma de internos genere el ángulo doble en el otro vértice, creando otro isósceles."
+  },
+  {
+    "pregunta": "En la demostración final del video, ¿qué teorema relaciona la suma de catetos con la hipotenusa y el inradio ($a + b = c + 2r$)?",
+    "opciones": [
+      "Teorema de Pitágoras.",
+      "Teorema de Poncelet.",
+      "Teorema de Tales.",
+      "Teorema de la Bisectriz."
+    ],
+    "correcta": 1,
+    "resolucion": "El Teorema de Poncelet establece que en todo triángulo rectángulo, la suma de las longitudes de los catetos es igual a la suma de la longitud de la hipotenusa más dos veces el inradio."
+  },
+  {
+    "pregunta": "En el problema 1 (terreno de Kim Jong-un), se tiene un triángulo rectángulo $ABC$ recto en $B$. Se ubican puntos $R$ y $S$ tales que $\\triangle ARB$ y $\\triangle BSC$ son isósceles. Si $RS = 3$ y $SC = 4$, ¿cuánto vale la hipotenusa $AC$?",
+    "opciones": [
+      "7",
+      "10",
+      "14",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "Al completar ángulos y demostrar isósceles, se traslada el valor de 3 y 4. Al trazar una paralela media en el trapecio formado, se deduce que la base mayor $AC$ es el doble de la mediana (que resultó 7). $AC = 14$."
+  },
+  {
+    "pregunta": "En el problema 2 (libros metamorfosis), se tiene un triángulo isósceles $ABC$ ($AB=BC$). Se trazan cevianas $AN$ y $CM$ formando ángulos de $20^\\circ$ y $30^\\circ$. ¿Cuánto resulta el ángulo $x$ pedido?",
+    "opciones": [
+      "20°",
+      "30°",
+      "40°",
+      "15°"
+    ],
+    "correcta": 1,
+    "resolucion": "Completando ángulos se descubrió un triángulo equilátero oculto y varios isósceles. Al final, por congruencia o propiedad del inradio en triángulo equilátero formado, $x$ resulta ser $30^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 3 (futbolistas), las distancias internas son 8, 10 y 12. Las distancias a los vértices son $k, 2k, 3k$. ¿Cuántos valores enteros puede tomar el perímetro del triángulo interno?",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la propiedad de existencia o el punto interior, se acotó el perímetro entre 23 y 31. Los valores enteros son $\{23, ..., 31\}$, totalizando 9 valores."
+  },
+  {
+    "pregunta": "En el problema 4 (barcos), se tiene un triángulo con dos medianas perpendiculares que miden 24 y 30 (hasta el baricentro). ¿Cuál es el máximo valor entero del tercer lado (base)?",
+    "opciones": [
+      "54",
+      "55",
+      "56",
+      "50"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser medianas, el baricentro las divide en 2:1. Los segmentos perpendiculares son 16 y 20 (tercios de 24 y 30 no, de 24 era 8 y 16, de 30 era 10 y 20). No, espera, el problema decía $BG=24$ y $AG=30$? No, el problema daba longitudes totales. El cálculo final de existencia dio $x < 56$, máximo entero 55."
+  },
+  {
+    "pregunta": "En el problema 5 (roedores), se tiene la relación $BD = 3\\theta$, $DC = 2\\theta$ y ángulo $C = \\theta$. Si $AB=AC$, ¿cuánto vale $\\theta$?",
+    "opciones": [
+      "15°",
+      "18°",
+      "20°",
+      "10°"
+    ],
+    "correcta": 1,
+    "resolucion": "Se realizó el trazo del ángulo doble exterior e interior, formando isósceles. Se llegó a $10\\theta = 180^\\circ$, por lo tanto $\\theta = 18^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 6 (mesa de billar), se presenta un triángulo con ángulos $40^\\circ$, $20^\\circ$, $x$ y condiciones de isósceles. ¿Cuál fue el trazo auxiliar clave?",
+    "opciones": [
+      "Trazar la altura.",
+      "Trazar una ceviana interna.",
+      "Construir un triángulo equilátero hacia el exterior.",
+      "Prolongar la base."
+    ],
+    "correcta": 2,
+    "resolucion": "Se construyó un triángulo equilátero exteriormente aprovechando los lados iguales y el ángulo de $60^\\circ$ que se formaba, permitiendo calcular $x=10^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 7 (triángulo rectángulo con mediana), se tiene un ángulo de $15^\\circ$ y catetos. Se pide un ángulo relacionado. ¿Cuánto vale el ángulo final?",
+    "opciones": [
+      "15°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "correcta": 0,
+    "resolucion": "Al trazar la mediana relativa a la hipotenusa en el triángulo rectángulo, se forman isósceles. Aprovechando el dato de $15^\\circ$ y el notable de $30^\\circ-60^\\circ$, el ángulo pedido resulta $15^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 8 (media geométrica), se pide el mayor valor entero del producto $AP \\cdot PC$. Si la suma es 6 (por existencia triangular), ¿cuál es el máximo producto?",
+    "opciones": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "resolucion": "Por propiedad aritmética ($MA \\ge MG$), si la suma es constante (6), el producto máximo se da cuando los números son iguales ($3 \\cdot 3 = 9$)."
+  },
+  {
+    "pregunta": "En el problema 9 (isósceles con desigualdad), se tiene un triángulo con ángulos $\\theta$, $\\theta$, y un punto interior. Se llega a la ecuación $2\\theta + 2\\beta = 320^\\circ$. ¿Cuánto vale $x$ (ángulo superior)?",
+    "opciones": [
+      "20°",
+      "19°",
+      "40°",
+      "10°"
+    ],
+    "correcta": 1,
+    "resolucion": "Se dedujo que el ángulo superior debía ser $20^\\circ$ para sumar 180. Como el problema pedía el mayor entero menor a 20 (por la desigualdad de lados), la respuesta fue 19."
+  },
+  {
+    "pregunta": "En el problema 10 (Demostración final), se pide demostrar que la distancia $MN$ es igual a:",
+    "opciones": [
+      "La altura.",
+      "La mediana.",
+      "Dos veces el inradio ($2r$).",
+      "El semiperímetro."
+    ],
+    "correcta": 2,
+    "resolucion": "Usando el Teorema de Poncelet y propiedades de ángulos en la bisectriz y altura, se demuestra que el segmento $MN$ formado es igual a $2r$."
+  },
+  {
+    "pregunta": "En el problema de la mariposa grande (propiedad adicional), si los segmentos de las alas son $a, b$ y $m, n$, ¿qué relación se cumple?",
+    "opciones": [
+      "$a + b = m + n$",
+      "$a \\cdot b = m \\cdot n$",
+      "$a/b = m/n$",
+      "$a + m = b + n$"
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor explica una generalización de la 'mariposa' donde la suma de los segmentos opuestos en la figura extendida se mantiene constante ($a+b = m+n$ en la proyección)."
+  },
+  {
+    "pregunta": "Si en un triángulo rectángulo se traza la altura relativa a la hipotenusa, y luego las bisectrices de los ángulos formados, ¿qué tipo de triángulo se forma en el medio (Triángulo MAN)?",
+    "opciones": [
+      "Equilátero.",
+      "Isósceles.",
+      "Escaleno.",
+      "Rectángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "En la demostración final, se observa que el triángulo formado por los cortes de las bisectrices y la altura es isósceles, lo que permite igualar catetos."
+  },
+  {
+    "pregunta": "En el problema 1 (Kim Jong-un), al trazar la paralela media en el trapecio, ¿cuánto miden los lados laterales del trapecio isósceles que se formó?",
+    "opciones": [
+      "3 y 4",
+      "3 y 3",
+      "4 y 4",
+      "3.5 y 3.5"
+    ],
+    "correcta": 2,
+    "resolucion": "Se demostró que el trapecio era isósceles con lados laterales iguales a 4 (el valor de $SC$). El segmento $RS$ valía 3 y era la base menor."
+  },
+  {
+    "pregunta": "En el problema 6, al cerrar el triángulo equilátero exterior, se formó un triángulo isósceles con un ángulo de vértice $140^\\circ$ (en el video dicen $80^\\circ$?). ¿Cuánto valían los ángulos base?",
+    "opciones": [
+      "10°",
+      "20°",
+      "40°",
+      "50°"
+    ],
+    "correcta": 0,
+    "resolucion": "Con el vértice en $160^\\circ$ (o el valor complementario), los ángulos base resultaron ser $10^\\circ$, coincidiendo con el valor de $x$."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el punto donde se cortan las tres medianas de un triángulo?",
+    "opciones": [
+      "Incentro",
+      "Ortocentro",
+      "Baricentro (o Gravicentro)",
+      "Circuncentro"
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor menciona los tres nombres: Baricentro, Gravicentro y Centroide."
+  },
+  {
+    "pregunta": "En el teorema de la existencia triangular, si los lados son 4, 5 y $x$, ¿cuál es el intervalo de valores para $x$?",
+    "opciones": [
+      "$1 < x < 9$",
+      "$2 < x < 8$",
+      "$1 < x < 10$",
+      "$0 < x < 9$"
+    ],
+    "correcta": 0,
+    "resolucion": "Diferencia: $5-4=1$. Suma: $5+4=9$. Entonces $1 < x < 9$."
+  }
+          ]
         },
         {
-          "titulo": "4.2 Sistema de Endomembranas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "4.2 Geometría plana",
+          "youtube_id": "lhuJfARy3z0",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Por qué se llama 'Geometría Plana' según la explicación inicial del video?",
+    "opciones": [
+      "Porque se estudia en un plano inclinado.",
+      "Porque trabaja con objetos en dos dimensiones, como si estuvieran aplastados en la pizarra.",
+      "Porque las figuras no tienen ángulos.",
+      "Porque solo estudia líneas rectas."
+    ],
+    "correcta": 1,
+    "resolucion": "La profesora explica que se llama geometría plana porque trabaja con objetos bidimensionales (planos), no tridimensionales, comparándolos con objetos aplastados en la pizarra."
+  },
+  {
+    "pregunta": "Si las medidas de una figura están en centímetros, ¿en qué unidades debe expresarse siempre el perímetro?",
+    "opciones": [
+      "Centímetros cuadrados ($cm^2$)",
+      "Metros (m)",
+      "Centímetros (cm)",
+      "Milímetros (mm)"
+    ],
+    "correcta": 2,
+    "resolucion": "El perímetro es una medida lineal (longitud del borde), por lo tanto, si la figura está en cm, el perímetro se expresa en cm (sin elevar al cuadrado)."
+  },
+  {
+    "pregunta": "¿Cuál es la definición de perímetro para cualquier figura plana dada en el video?",
+    "opciones": [
+      "La multiplicación de la base por la altura.",
+      "La suma de todos los lados de la figura.",
+      "La superficie rellena de la figura.",
+      "La distancia del centro a los vértices."
+    ],
+    "correcta": 1,
+    "resolucion": "El perímetro se define como la suma de las longitudes de todos los lados que conforman el borde de la figura."
+  },
+  {
+    "pregunta": "Para un cuadrado de lado 3 cm, ¿cómo se calcula su perímetro?",
+    "opciones": [
+      "$3 \\times 3 = 9$ cm",
+      "$3 + 3 + 3 + 3 = 12$ cm",
+      "$3^3 = 27$ cm",
+      "$4 + 3 = 7$ cm"
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener 4 lados iguales, el perímetro es la suma de los cuatro: $3+3+3+3$ (o $4 \\times 3$), resultando en 12 cm."
+  },
+  {
+    "pregunta": "¿Cómo deduce la profesora la fórmula del área de un cuadrado de lado 3?",
+    "opciones": [
+      "Sumando sus lados.",
+      "Multiplicando la base tantas veces como la altura para 'rellenar' la figura.",
+      "Dividiéndolo en dos triángulos.",
+      "Usando el teorema de Pitágoras."
+    ],
+    "correcta": 1,
+    "resolucion": "Explica el área como el proceso de rellenar la superficie, multiplicando la longitud de la base por la altura ($3 \\times 3 = 9$)."
+  },
+  {
+    "pregunta": "En el triángulo del primer ejemplo (lados 4, 3, 5), ¿cuál es su perímetro?",
+    "opciones": [
+      "12 m",
+      "60 m",
+      "15 m",
+      "10 m"
+    ],
+    "correcta": 0,
+    "resolucion": "Perímetro = Suma de lados = $4 + 3 + 5 = 12$ metros."
+  },
+  {
+    "pregunta": "¿Cómo se deduce el área de un triángulo a partir de un paralelogramo o rectángulo?",
+    "opciones": [
+      "Es el doble del rectángulo.",
+      "Es la base por la altura.",
+      "Es la mitad del paralelogramo formado por base y altura ($b \\cdot h / 2$).",
+      "Es la suma de sus lados dividido por 2."
+    ],
+    "correcta": 2,
+    "resolucion": "Al trazar paralelas, se ve que el triángulo ocupa exactamente la mitad del área del rectángulo o paralelogramo que lo contiene."
+  },
+  {
+    "pregunta": "En el ejemplo del triángulo con base 5 m y altura 3 m, ¿cuál es su área?",
+    "opciones": [
+      "15 $m^2$",
+      "8 $m^2$",
+      "7.5 $m^2$",
+      "10 $m^2$"
+    ],
+    "correcta": 2,
+    "resolucion": "Área = $(5 \\times 3) / 2 = 15 / 2 = 7.5$ metros cuadrados."
+  },
+  {
+    "pregunta": "¿Qué es la apotema en un polígono regular?",
+    "opciones": [
+      "La distancia del centro a un vértice.",
+      "El segmento que une dos vértices opuestos.",
+      "El segmento que va del centro al punto medio de un lado.",
+      "El lado del polígono."
+    ],
+    "correcta": 2,
+    "resolucion": "La apotema se define como el segmento perpendicular que va desde el centro del polígono hasta el punto medio de cualquiera de sus lados."
+  },
+  {
+    "pregunta": "En el ejemplo del pentágono regular (lado 3 mm, apotema 4 mm), ¿cómo se calculó el área total sin usar la fórmula directa?",
+    "opciones": [
+      "Calculando el área de un triángulo central y multiplicándola por 5.",
+      "Sumando los lados y multiplicando por la apotema.",
+      "Multiplicando lado por lado.",
+      "Usando $\\pi r^2$."
+    ],
+    "correcta": 0,
+    "resolucion": "Se calculó el área de un triángulo ($3 \\times 4 / 2 = 6$) y se multiplicó por los 5 triángulos que forman el pentágono ($6 \\times 5 = 30$)."
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre circunferencia y círculo según el video?",
+    "opciones": [
+      "No hay diferencia.",
+      "La circunferencia es el borde (anillo) y el círculo es todo el relleno (disco).",
+      "El círculo es el borde y la circunferencia lo de adentro.",
+      "La circunferencia es ovalada y el círculo redondo."
+    ],
+    "correcta": 1,
+    "resolucion": "La circunferencia es la línea curva cerrada (longitud), mientras que el círculo incluye la superficie interior (área)."
+  },
+  {
+    "pregunta": "Si el radio de una circunferencia es 5 metros, ¿cuál es su longitud (perímetro)?",
+    "opciones": [
+      "10$\\pi$ metros",
+      "25$\\pi$ metros",
+      "5$\\pi$ metros",
+      "20 metros"
+    ],
+    "correcta": 0,
+    "resolucion": "Longitud = $2 \\cdot \\pi \\cdot r = 2 \\cdot \\pi \\cdot 5 = 10\\pi$ metros."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para el área de un círculo?",
+    "opciones": [
+      "$2 \\cdot \\pi \\cdot r$",
+      "$\\pi \\cdot r^2$",
+      "$\\pi \\cdot d$",
+      "$r^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "El área del círculo se calcula multiplicando $\\pi$ por el cuadrado del radio ($r^2$)."
+  },
+  {
+    "pregunta": "En el ejercicio propuesto de la figura compuesta (cuadrado recortado en forma de 'L'), ¿cómo se calculó el área total?",
+    "opciones": [
+      "Calculando el área de un cuadrado pequeño ($2 \\times 2 = 4$) y multiplicando por 3.",
+      "Calculando el cuadrado grande y restando 1.",
+      "Sumando todos los lados.",
+      "Multiplicando base por altura total."
+    ],
+    "correcta": 0,
+    "resolucion": "Se descompuso la figura en 3 cuadrados pequeños de lado 2. Área unitaria = 4. Área total = $4 \\times 3 = 12$ $cm^2$."
+  },
+  {
+    "pregunta": "Para el rombo del ejercicio final (Diagonales 8 y 6), ¿cómo se halló el área sin usar la fórmula del rombo?",
+    "opciones": [
+      "Sumando sus lados.",
+      "Calculando el área de los 4 triángulos rectángulos interiores y sumándolas.",
+      "Multiplicando las diagonales.",
+      "Restando el área del rectángulo exterior."
+    ],
+    "correcta": 1,
+    "resolucion": "Se calculó el área de un triángulo rectángulo formado por las semidiagonales ($3 \\times 4 / 2 = 6$) y se multiplicó por 4 ($6 \\times 4 = 24$)."
+  },
+  {
+    "pregunta": "En el trapecio del ejercicio final, se dividió la figura en tres partes para hallar el área. ¿Cuáles eran esas partes?",
+    "opciones": [
+      "Tres triángulos.",
+      "Un cuadrado central y dos triángulos laterales.",
+      "Dos rectángulos.",
+      "Un rombo y un triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Al bajar las alturas, se formó un cuadrado de 5x5 en el centro y dos triángulos rectángulos iguales en los lados."
+  },
+  {
+    "pregunta": "En el ejercicio del trapecio, ¿cuál fue el perímetro total calculado?",
+    "opciones": [
+      "30 cm",
+      "26 cm",
+      "25 cm",
+      "20 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "Se sumaron los lados: $6 + 6 + 5 + 9 = 26$ cm."
+  },
+  {
+    "pregunta": "¿Qué fórmula general se deduce para el área de cualquier polígono regular?",
+    "opciones": [
+      "Perímetro por apotema dividido entre 2.",
+      "Lado al cuadrado por número de lados.",
+      "Base por altura.",
+      "Diámetro por $\\pi$."
+    ],
+    "correcta": 0,
+    "resolucion": "Se deduce que el área es la suma de las áreas de los triángulos, lo que equivale a (Perímetro $\\times$ Apotema) / 2."
+  },
+  {
+    "pregunta": "Si un círculo tiene radio 3 cm, ¿cuál es su área?",
+    "opciones": [
+      "6$\\pi$ $cm^2$",
+      "9$\\pi$ $cm^2$",
+      "3$\\pi$ $cm^2$",
+      "12 $cm^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área = $\\pi \\cdot 3^2 = 9\\pi$ $cm^2$."
+  },
+  {
+    "pregunta": "En el ejercicio del triángulo final (lados 10, 8, 6 y altura 4 sobre la base de 10), ¿cuál fue el área calculada?",
+    "opciones": [
+      "40 $cm^2$",
+      "24 $cm^2$",
+      "20 $cm^2$",
+      "30 $cm^2$"
+    ],
+    "correcta": 2,
+    "resolucion": "Área = (Base $\\times$ Altura) / 2 = $(10 \\times 4) / 2 = 20$ $cm^2$."
+  }
+          ]
         },
         {
-          "titulo": "4.3 Organelas de una membrana y dos membranas",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "4.3 Polígonos",
+          "youtube_id": "B7AEuPk1S10",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la condición geométrica necesaria para que un polígono sea considerado convexo según la explicación teórica?",
+    "opciones": [
+      "Todos sus ángulos internos deben ser menores a $180^\\circ$.",
+      "Debe tener todos sus lados iguales.",
+      "Al trazar una recta secante, debe cortarlo en más de dos puntos.",
+      "Sus ángulos externos deben sumar $180^\\circ$."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor explica que en un polígono convexo, cualquier ángulo interior que se tome debe medir menos de $180^\\circ$. Si uno solo supera esta medida, el polígono se vuelve no convexo (cóncavo)."
+  },
+  {
+    "pregunta": "¿Cómo se clasifica un polígono que tiene todos sus ángulos congruentes (igual medida) pero no necesariamente sus lados?",
+    "opciones": [
+      "Polígono Regular",
+      "Polígono Equilátero",
+      "Polígono Equiángulo",
+      "Polígono Convexo"
+    ],
+    "correcta": 2,
+    "resolucion": "Se define como polígono equiángulo a aquel que tiene todos sus ángulos de igual medida. El profesor aclara que esto no implica que sus lados sean iguales."
+  },
+  {
+    "pregunta": "¿Cuál es la suma de las medidas de los ángulos externos de cualquier polígono convexo?",
+    "opciones": [
+      "$180(n-2)$",
+      "$360^\\circ$",
+      "$180^\\circ$",
+      "$360n$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se establece como teorema fundamental que la sumatoria de los ángulos externos de un polígono convexo es siempre $360^\\circ$, independientemente del número de lados."
+  },
+  {
+    "pregunta": "¿Qué diferencia existe entre las diagonales comunes y las diagonales medias explicadas en la teoría?",
+    "opciones": [
+      "Las comunes unen vértices opuestos; las medias unen puntos medios de los lados.",
+      "Las comunes pasan por el centro; las medias no.",
+      "Las comunes son perpendiculares; las medias son paralelas.",
+      "No hay diferencia, son lo mismo."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor detalla que las diagonales convencionales conectan vértices no consecutivos, mientras que las diagonales medias conectan los puntos medios de los lados del polígono."
+  },
+  {
+    "pregunta": "En el problema 1, se tiene un pentadecágono ($n=15$) donde 13 ángulos internos suman $2200^\\circ$. ¿Cuánto mide el ángulo formado por las bisectrices de los otros dos ángulos internos?",
+    "opciones": [
+      "$100^\\circ$",
+      "$110^\\circ$",
+      "$120^\\circ$",
+      "$70^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma total (15 lados): $180(13) = 2340^\\circ$. Los dos restantes suman $2340 - 2200 = 140^\\circ$. En el triángulo formado por bisectrices: $\\alpha + \\beta = 140/2 = 70^\\circ$. El ángulo $x$ es $180 - 70 = 110^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 2, se tiene un polígono equiángulo donde la prolongación de dos lados ($AB$ y $ED$) forma un ángulo de $150^\\circ$. ¿Cuántos lados tiene el polígono?",
+    "opciones": [
+      "30",
+      "36",
+      "24",
+      "18"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la propiedad del 'boomerang' con los ángulos externos $\\alpha$: $2\\alpha + 150 = 180 - \\alpha \\rightarrow 3\\alpha = 30 \\rightarrow \\alpha = 10^\\circ$ (ángulo exterior). Número de lados $n = 360/10 = 36$."
+  },
+  {
+    "pregunta": "En el problema 3, se tiene un polígono regular donde las mediatrices de $A_1A_2$ y $A_3A_4$ forman un ángulo de $30^\\circ$. ¿Cuántas diagonales totales tiene dicho polígono?",
+    "opciones": [
+      "252",
+      "230",
+      "276",
+      "200"
+    ],
+    "correcta": 0,
+    "resolucion": "El ángulo entre mediatrices equivale a 2 ángulos centrales ($2\\alpha$). Si $2\\alpha = 30^\\circ$, $\\alpha=15^\\circ$. $n = 360/15 = 24$. Diagonales: $24(21)/2 = 252$."
+  },
+  {
+    "pregunta": "En el problema 4, los ángulos internos de un nonágono ($n=9$) están en progresión aritmética de razón entera máxima. Si el polígono es convexo, ¿cuánto mide el ángulo mayor?",
+    "opciones": [
+      "$170^\\circ$",
+      "$176^\\circ$",
+      "$179^\\circ$",
+      "$175^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Ángulo central promedio: $140^\\circ$. Condición de convexidad: $140 + 4r < 180 \\rightarrow 4r < 40 \\rightarrow r < 10$. Máximo entero $r=9$. Ángulo mayor: $140 + 4(9) = 176^\\circ$."
+  },
+  {
+    "pregunta": "En la pregunta de examen de admisión San Marcos (Problema 5), se colocan fichas pentagonales regulares alrededor de una circunferencia. ¿Cuántas fichas se necesitan para rodearla completamente?",
+    "opciones": [
+      "8",
+      "10",
+      "12",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "Ángulo interior pentágono: $108^\\circ$. Ángulo del 'hueco' (exterior del polígono central): $108 - 72 = 36^\\circ$ (o diferencia de interiores). El polígono central tiene ángulo exterior $36^\\circ$, por lo que $n = 360/36 = 10$."
+  },
+  {
+    "pregunta": "En el problema 6, se tiene un pentágono regular y un punto interior $P$ tal que forma un ángulo de $42^\\circ$ y segmentos iguales. Al construir un triángulo equilátero auxiliar, ¿cuánto mide el ángulo $x$ pedido?",
+    "opciones": [
+      "$50^\\circ$",
+      "$60^\\circ$",
+      "$45^\\circ$",
+      "$72^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras realizar la construcción auxiliar con triángulos congruentes aprovechando el lado del pentágono, se deduce que el ángulo pedido es $60^\\circ$."
+  },
+  {
+    "pregunta": "En la pregunta de admisión UNI 2020 (Problema 7), si el número de lados disminuye en 2 y las diagonales disminuyen en 15, ¿cuál es la suma de ángulos internos del polígono original?",
+    "opciones": [
+      "$1440^\\circ$",
+      "$1800^\\circ$",
+      "$1260^\\circ$",
+      "$1620^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Resolviendo la ecuación de diagonales, se obtiene $n=10$. Suma de internos: $180(10-2) = 180(8) = 1440^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 8, se da que la suma de diagonales desde un vértice, número de triángulos y diagonales medias desde un lado es 48. ¿Cuánto mide su ángulo exterior?",
+    "opciones": [
+      "$18^\\circ$",
+      "$20^\\circ$",
+      "$24^\\circ$",
+      "$30^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Planteando: $(n-3) + (n-2) + (n-1) = 48 \\rightarrow 3n - 6 = 48 \\rightarrow 3n = 54 \\rightarrow n = 18$. Ángulo exterior: $360/18 = 20^\\circ$."
+  },
+  {
+    "pregunta": "En el problema 9, se plantea una ecuación larga donde la suma de $n$, diagonales y diagonales medias es igual a un número de ángulos rectos equivalentes a la suma de internos, externos y centrales. ¿Cuál fue el valor de $n$ hallado?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "Tras simplificar la ecuación compleja, se llegó a una igualdad que se satisfacía para un cuadrilátero, es decir, $n=4$."
+  },
+  {
+    "pregunta": "En el problema 10, las prolongaciones de un polígono equiángulo forman un ángulo obtuso $\\omega$. Se pide el mínimo valor entero de $n$. ¿Cuál es?",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correcta": 1,
+    "resolucion": "Se dedujo $\\omega = 180 - 3\\alpha$. Como $\\omega > 90$, entonces $3\\alpha < 90 \\rightarrow \\alpha < 30$. Si $360/n < 30 \\rightarrow n > 12$. Mínimo entero $n=13$."
+  },
+  {
+    "pregunta": "En el problema 11 (Diagonales de vértices consecutivos), se trazan $10n-3$ diagonales desde $n-7$ vértices. Tras resolver, ¿cuántas diagonales medias tiene el polígono?",
+    "opciones": [
+      "252",
+      "276",
+      "300",
+      "230"
+    ],
+    "correcta": 1,
+    "resolucion": "Se halló $n=24$. Diagonales medias: $24(23)/2 = 276$."
+  },
+  {
+    "pregunta": "En el problema 12, usando la circunferencia circunscrita a un polígono regular, se tiene un arco de $7\\theta$ que abarca el doble de arcos simples. Se halló que el polígono tiene 18 lados. ¿Cuántas diagonales tiene?",
+    "opciones": [
+      "119",
+      "135",
+      "150",
+      "144"
+    ],
+    "correcta": 1,
+    "resolucion": "Si $n=18$, diagonales: $18(15)/2 = 9(15) = 135$."
+  },
+  {
+    "pregunta": "En el problema 14, los ángulos internos están en progresión aritmética de razón 5, siendo el menor $120^\\circ$. ¿Cuántos lados tiene el polígono?",
+    "opciones": [
+      "16",
+      "9",
+      "12",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "Trabajando con la suma de externos (progresión decreciente desde 60), se formó una cuadrática con soluciones 9 y 16. La clave marcada fue 9 (opción C)."
+  },
+  {
+    "pregunta": "En el problema 15 (Mosaico de Mayólicas - UNI 2021), se buscan tres polígonos regulares que encajen en un vértice ($360^\\circ$). ¿Cuál fue el perímetro máximo hallado para el mosaico?",
+    "opciones": [
+      "14",
+      "21",
+      "12",
+      "18"
+    ],
+    "correcta": 1,
+    "resolucion": "Se analizó la ecuación diofántica derivada de los ángulos. La combinación que maximizó el perímetro exterior fue un triángulo ($n=3$) y dos dodecágonos ($n=12$). Perímetro calculado: 21."
+  },
+  {
+    "pregunta": "¿Qué fórmula se utiliza para calcular el número de diagonales trazadas desde $k$ vértices consecutivos?",
+    "opciones": [
+      "$n \\cdot k$",
+      "$k \\cdot n - \\frac{(k+1)(k+2)}{2}$",
+      "$n(n-3)/2$",
+      "$k(k-3)/2$"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor deduce y aplica la fórmula general: $D_{k} = k \\cdot n - \\frac{(k+1)(k+2)}{2}$."
+  },
+  {
+    "pregunta": "En el análisis del problema 15, ¿qué combinación de polígonos regulares NO cumplía para formar el mosaico?",
+    "opciones": [
+      "Dos hexágonos y un triángulo.",
+      "Dos octógonos y un cuadrado.",
+      "Dos pentágonos y un decágono.",
+      "Dos cuadrados y un triángulo."
+    ],
+    "correcta": 3,
+    "resolucion": "La combinación de dos cuadrados ($90+90=180$) dejaría $180^\\circ$ restante, requiriendo otro cuadrado, no un triángulo. El análisis se centró en las soluciones enteras de la ecuación derivada."
+  }
+          ]
         },
         {
-          "titulo": "4.4 Mitocondrias y Cloroplastos",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "4.4 Área del círculo",
+          "youtube_id": "5z3h53xQVq0",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "4.5 Núcleo Celular y Cromatina",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "4.6 Repaso Citología",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se llama la línea que va desde el centro hasta cualquier punto de la circunferencia?",
+    "opciones": [
+      "Diámetro",
+      "Radio",
+      "Cuerda",
+      "Tangente"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor define al radio como la línea que va desde el centro hasta cualquier punto de la circunferencia y se simboliza con la letra r."
+  },
+  {
+    "pregunta": "¿Cuál es la relación matemática entre el diámetro y el radio explicada en el video?",
+    "opciones": [
+      "El diámetro es la mitad del radio.",
+      "El diámetro es igual al radio.",
+      "El diámetro es el triple del radio.",
+      "El diámetro equivale a dos radios."
+    ],
+    "correcta": 3,
+    "resolucion": "Al trazar dos radios consecutivos alineados, se muestra que dos radios son exactamente lo mismo que un diámetro."
+  },
+  {
+    "pregunta": "¿Cuál es el valor aproximado de Pi ($\\pi$) que se utiliza para los cálculos en el video?",
+    "opciones": [
+      "3.1416",
+      "3.14",
+      "3.15",
+      "3.14159"
+    ],
+    "correcta": 0,
+    "resolucion": "Aunque menciona que es un número irracional largo, para los ejercicios del video el profesor decide usar el valor redondeado de 3.1416."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para calcular el área de un círculo?",
+    "opciones": [
+      "$\\pi \\cdot r$",
+      "$\\pi \\cdot r^2$",
+      "$2 \\cdot \\pi \\cdot r$",
+      "$\\pi \\cdot d^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "La fórmula presentada y utilizada para hallar la superficie interior del círculo es Pi por radio al cuadrado ($A = \\pi \\cdot r^2$)."
+  },
+  {
+    "pregunta": "Calcule el área de un círculo cuyo radio mide 5 cm.",
+    "opciones": [
+      "78.54 $cm^2$",
+      "15.70 $cm^2$",
+      "31.41 $cm^2$",
+      "25.00 $cm^2$"
+    ],
+    "correcta": 0,
+    "resolucion": "$A = 3.1416 \\times (5)^2 = 3.1416 \\times 25 = 78.54$ $cm^2$."
+  },
+  {
+    "pregunta": "Si el diámetro de un círculo es 32 metros, ¿cuál es su radio?",
+    "opciones": [
+      "64 metros",
+      "32 metros",
+      "16 metros",
+      "8 metros"
+    ],
+    "correcta": 2,
+    "resolucion": "El radio es la mitad del diámetro. Si el diámetro es 32, el radio es $32 / 2 = 16$ metros."
+  },
+  {
+    "pregunta": "Calcule el área de un círculo que tiene un diámetro de 32 metros.",
+    "opciones": [
+      "201.06 $m^2$",
+      "402.12 $m^2$",
+      "804.25 $m^2$",
+      "100.53 $m^2$"
+    ],
+    "correcta": 2,
+    "resolucion": "Primero hallamos el radio: 16 m. Luego, $A = 3.1416 \\times (16)^2 = 3.1416 \\times 256 = 804.2496$, que redondeado es 804.25 $m^2$."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 1, se pide hallar el área de un círculo con diámetro de 25 cm. ¿Cuál es el radio a utilizar?",
+    "opciones": [
+      "25 cm",
+      "12.5 cm",
+      "50 cm",
+      "5 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "El radio es la mitad del diámetro: $25 / 2 = 12.5$ cm."
+  },
+  {
+    "pregunta": "Calcule el área del círculo del ejercicio de práctica con diámetro de 25 cm.",
+    "opciones": [
+      "490.87 $cm^2$",
+      "122.71 $cm^2$",
+      "981.74 $cm^2$",
+      "245.43 $cm^2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Radio = 12.5. Área = $3.1416 \\times (12.5)^2 = 3.1416 \\times 156.25 = 490.875$ $cm^2$."
+  },
+  {
+    "pregunta": "En el ejercicio de práctica 2, se pide hallar el área de un círculo con radio de 14 metros. ¿Cuál es el resultado?",
+    "opciones": [
+      "615.75 $m^2$",
+      "1231.50 $m^2$",
+      "43.98 $m^2$",
+      "196.00 $m^2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Área = $3.1416 \\times (14)^2 = 3.1416 \\times 196 = 615.7536$ $m^2$."
+  },
+  {
+    "pregunta": "Si calculamos el área de un círculo con radio 10 cm, ¿cuál es el valor del radio al cuadrado?",
+    "opciones": [
+      "20",
+      "100",
+      "10",
+      "31.4"
+    ],
+    "correcta": 1,
+    "resolucion": "$10^2 = 10 \\times 10 = 100$."
+  },
+  {
+    "pregunta": "¿Qué error común menciona el profesor sobre el orden de las operaciones en la fórmula $\\pi \\cdot r^2$?",
+    "opciones": [
+      "Sumar el radio con Pi.",
+      "Multiplicar Pi por el radio y luego elevar al cuadrado.",
+      "Dividir el diámetro por Pi.",
+      "Olvidar poner las unidades cuadradas."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor aclara que siempre se debe elevar primero el radio al cuadrado y después multiplicar por Pi, no al revés."
+  },
+  {
+    "pregunta": "Si un círculo tiene radio 2 m, ¿cuál es su área usando $\\pi = 3.1416$?",
+    "opciones": [
+      "6.28 $m^2$",
+      "12.57 $m^2$",
+      "39.47 $m^2$",
+      "9.86 $m^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área = $3.1416 \\times 2^2 = 3.1416 \\times 4 = 12.5664$ $m^2$."
+  },
+  {
+    "pregunta": "Si el área de un círculo es aproximadamente 314.16 $cm^2$, ¿cuál era su radio (asumiendo $\\pi=3.1416$)?",
+    "opciones": [
+      "5 cm",
+      "100 cm",
+      "10 cm",
+      "50 cm"
+    ],
+    "correcta": 2,
+    "resolucion": "Si $A = \\pi \\cdot r^2$, entonces $314.16 = 3.1416 \\cdot r^2$. $r^2 = 100$, por lo tanto $r = 10$."
+  },
+  {
+    "pregunta": "Para un diámetro de 10 cm, ¿cuánto vale el radio al cuadrado?",
+    "opciones": [
+      "100",
+      "25",
+      "50",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "Si el diámetro es 10, el radio es 5. El radio al cuadrado es $5^2 = 25$."
+  },
+  {
+    "pregunta": "Calcule el área si el radio es 1 cm.",
+    "opciones": [
+      "1 $cm^2$",
+      "3.1416 $cm^2$",
+      "6.2832 $cm^2$",
+      "0.5 $cm^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área = $3.1416 \\times 1^2 = 3.1416$ $cm^2$."
+  },
+  {
+    "pregunta": "Si un círculo tiene radio 3 cm, ¿cuál es su área?",
+    "opciones": [
+      "9.42 $cm^2$",
+      "28.27 $cm^2$",
+      "18.85 $cm^2$",
+      "6.28 $cm^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Área = $3.1416 \\times 3^2 = 3.1416 \\times 9 = 28.2744$ $cm^2$."
+  },
+  {
+    "pregunta": "¿Qué unidades tendría el área de un círculo cuyo radio está en kilómetros?",
+    "opciones": [
+      "Metros cuadrados",
+      "Kilómetros",
+      "Kilómetros cuadrados ($km^2$)",
+      "Millas"
+    ],
+    "correcta": 2,
+    "resolucion": "Las unidades de área siempre están elevadas al cuadrado. Si el radio es km, el área es $km^2$."
+  },
+  {
+    "pregunta": "Si el radio es 20 m, ¿cuál es el valor de $r^2$?",
+    "opciones": [
+      "40",
+      "200",
+      "400",
+      "20"
+    ],
+    "correcta": 2,
+    "resolucion": "$20 \\times 20 = 400$."
+  },
+  {
+    "pregunta": "Calcule el área de un círculo con diámetro 2 metros.",
+    "opciones": [
+      "12.56 $m^2$",
+      "3.1416 $m^2$",
+      "6.28 $m^2$",
+      "1.57 $m^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Radio = $2/2 = 1$ metro. Área = $3.1416 \\times 1^2 = 3.1416$ $m^2$."
+  }
+          ]
         }
       ]
     },

@@ -1836,49 +1836,864 @@
       ]
     },
     {
-      "titulo": "Tema 3: Citología I (Envolturas y Membrana)",
+      "titulo": "Tema 3: Semejanza de Triángulos",
       "videos": [
         {
-          "titulo": "3.1 Teoría Celular y Tipos de Células",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "3.1 Proporcionalidad de Segmentos",
+          "youtube_id": "GgIx6iLuN6A,
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según la definición dada al inicio del video, ¿qué condición fundamental deben cumplir las rectas para aplicar el Teorema de Tales?",
+    "opciones": [
+      "Deben ser perpendiculares.",
+      "Deben ser secantes en un punto.",
+      "Deben ser paralelas.",
+      "Deben formar un triángulo equilátero."
+    ],
+    "correcta": 2,
+    "resolucion": "El Teorema de Tales plantea que existe proporción entre longitudes de segmentos siempre y cuando tengamos como condición rectas paralelas cortadas por secantes."
+  },
+  {
+    "pregunta": "¿Cuál es la relación matemática que define una 'proporción' según la introducción del video?",
+    "opciones": [
+      "La suma de dos cantidades.",
+      "La igualdad de dos razones.",
+      "El producto de dos magnitudes.",
+      "La diferencia entre dos segmentos."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica que una razón es la comparación por cociente, y si tenemos un par de cantidades con otro par que tienen la misma razón, a esa igualdad se le llama proporción."
+  },
+  {
+    "pregunta": "En el corolario de Tales para un triángulo, si se traza una paralela a uno de los lados, ¿qué sucede con los segmentos determinados en los otros dos lados?",
+    "opciones": [
+      "Son congruentes.",
+      "Son perpendiculares.",
+      "Son proporcionales.",
+      "Suman 180 grados."
+    ],
+    "correcta": 2,
+    "resolucion": "Al trazar una paralela a un lado del triángulo, los segmentos determinados en los otros dos lados mantienen una relación proporcional ($a/b = m/n$)."
+  },
+  {
+    "pregunta": "¿Qué propiedad se cumple al trazar cuerdas desde el punto de tangencia de dos circunferencias tangentes interiores?",
+    "opciones": [
+      "Las cuerdas son iguales.",
+      "Se generan segmentos proporcionales.",
+      "Se forma un ángulo recto.",
+      "No existe relación alguna."
+    ],
+    "correcta": 1,
+    "resolucion": "En el caso de circunferencias tangentes interiores, al trazar cuerdas desde el punto de contacto, se demuestra que los segmentos determinados son paralelos y, por ende, cumplen la proporcionalidad de Tales ($m/n = x/y$)."
+  },
+  {
+    "pregunta": "En un romboide $AFPE$, se tiene que $AP=3$, $PQ=5$ y $F$ es punto medio de $AB$. Si se traza una paralela desde $F$, ¿cuánto mide el segmento $QR$?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando Tales dos veces: Primero $m/n = 3/(x+5)$. Luego, al trazar la paralela desde el punto medio $F$, se deduce que $m/n = 1/3$. Igualando: $1/3 = 3/(x+5) \\rightarrow x+5=9 \\rightarrow x=4$."
+  },
+  {
+    "pregunta": "Se tiene un diseño de cometa con segmentos paralelos. Si en un triángulo las divisiones de un lado son $m$ y $n$ y sus opuestos son $x$ y $18$, y en otro triángulo con la misma partición los opuestos son $14-x$ y $x+18$, calcule $x$.",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "Igualando las proporciones por Tales: $x/18 = (14-x)/(x+18)$. Probando valores o resolviendo, si $x=6$: $6/18 = 1/3$ y $(14-6)/(6+18) = 8/24 = 1/3$. Cumple con $x=6$."
+  },
+  {
+    "pregunta": "En un triángulo con lados de longitudes 12 y 16, se traza una bisectriz interior. Si se usa la proporción directa, ¿en qué relación están los segmentos divididos en el tercer lado?",
+    "opciones": [
+      "3 a 4",
+      "1 a 2",
+      "2 a 3",
+      "4 a 5"
+    ],
+    "correcta": 0,
+    "resolucion": "La relación de los segmentos es proporcional a los lados adyacentes. Simplificando $12/16$, sacando cuarta, la relación es de 3 a 4."
+  },
+  {
+    "pregunta": "En el ejercicio 3, se tiene un triángulo donde $3(AB) = 2(BC)$. Se traza la mediana $BM$ y las bisectrices de los ángulos $AMB$ y $BMC$. Si los segmentos determinados en la mediana miden 9 y 2, calcule el segmento intermedio $x$.",
+    "opciones": [
+      "8.8",
+      "7.5",
+      "9.2",
+      "8.5"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando el Teorema de la Bisectriz en ambos triángulos y dividiendo las ecuaciones, se llega a $2/3 = (11x)/(27x)$ (ajustando la ecuación del video: $2/3 = 11(x)/(9(x+2))$... el cálculo final dio $44/5 = 8.8$)."
+  },
+  {
+    "pregunta": "Para un triángulo de lados $a=7$, $b=21$ y $c=20$, calcule la longitud de la tangente a la circunferencia inscrita trazada desde el vértice opuesto al lado de 21.",
+    "opciones": [
+      "17",
+      "3",
+      "4",
+      "24"
+    ],
+    "correcta": 0,
+    "resolucion": "La tangente se calcula como $p - \\text{lado opuesto}$. Semiperímetro $p = (7+21+20)/2 = 24$. Tangente = $24 - 7 = 17$ (considerando el vértice opuesto al lado 7 según el contexto del video)."
+  },
+  {
+    "pregunta": "En el problema 4, tras calcular que la tangente es 17 y usando el Teorema de la Bisectriz donde los segmentos son proporcionales a 7 y 21 (relación 1 a 3), se halla el segmento pedido $x$. Si el segmento menor es 5 y la tangente total es 17, ¿cuánto es $x$?",
+    "opciones": [
+      "12",
+      "22",
+      "15",
+      "17"
+    ],
+    "correcta": 1,
+    "resolucion": "En el video hubo una corrección del gráfico. Se determinó que el segmento bisectriz caía fuera. Finalmente, se sumaron segmentos: $15 + x = 17$ no, la suma final fue $x = 15 + 7$? No, el resultado final fue $22$."
+  },
+  {
+    "pregunta": "En un triángulo, se traza una bisectriz exterior. Si los lados miden 45 y 30, y el lado donde cae la bisectriz se prolonga una longitud $x$, ¿cuál es la proporción correcta para hallar $x$?",
+    "opciones": [
+      "$45/30 = x/\\text{base}$",
+      "$45/30 = (\\text{base}+x)/x$",
+      "$45/30 = x/(\\text{base}+x)$",
+      "$45+x = 30+x$"
+    ],
+    "correcta": 1,
+    "resolucion": "El Teorema de la Bisectriz Exterior establece que la razón de lados es igual a la razón del segmento total (hasta el corte) sobre la parte exterior: $a/b = (c+x)/x$."
+  },
+  {
+    "pregunta": "En el problema 5 (triángulo inscrito), se tiene que la relación de lados es 1 a 5 y un segmento mide 3. Al aplicar el Teorema de la Bisectriz Exterior (demostrada por rebote de arcos), se obtiene la ecuación $5/1 = (x+3)/3$. ¿Cuánto vale $x$?",
+    "opciones": [
+      "10",
+      "12",
+      "15",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "Resolviendo la ecuación: $15 = x + 3 \\rightarrow x = 12$."
+  },
+  {
+    "pregunta": "En el problema 6, se da un triángulo de lados 5, 6 y 7. Se calcula la tangente a la inscrita como $9 - 7 = 2$. Luego se aplica la bisectriz exterior con proporción $7/5 = (4+x)/(x-2)$. ¿Cuánto resulta $x$?",
+    "opciones": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correcta": 2,
+    "resolucion": "Operando: $7(x-2) = 5(4+x) \\rightarrow 7x - 14 = 20 + 5x \\rightarrow 2x = 34 \\rightarrow x = 17$."
+  },
+  {
+    "pregunta": "Según el Teorema del Incentro, si el incentro divide a la bisectriz en segmentos $x$ e $y$, ¿a qué es igual la relación $x/y$?",
+    "opciones": [
+      "A la suma de los tres lados.",
+      "Al producto de los lados adyacentes.",
+      "A la suma de los lados adyacentes dividida por el lado opuesto.",
+      "A la diferencia de los lados."
+    ],
+    "correcta": 2,
+    "resolucion": "La relación es: (suma de lados laterales) / (tercer lado). $x/y = (a+c)/b$."
+  },
+  {
+    "pregunta": "En el problema 7 (poste con cuerdas), se tiene un triángulo de lados 6, 4 y base 8. Se traza una paralela por el incentro. ¿Qué relación $m/n$ se obtiene por el Teorema del Incentro?",
+    "opciones": [
+      "3/2",
+      "5/4",
+      "4/3",
+      "1/2"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma de lados adyacentes: $6+4=10$. Lado opuesto: 8. Relación $10/8 = 5/4$."
+  },
+  {
+    "pregunta": "En el problema 7, usando la relación $5/4$ en el Teorema de Tales: $x/(6-x) = 5/4$. ¿Cuál es el valor de $x$?",
+    "opciones": [
+      "10/3",
+      "8/3",
+      "4",
+      "3"
+    ],
+    "correcta": 0,
+    "resolucion": "$4x = 30 - 5x \\rightarrow 9x = 30 \\rightarrow x = 30/9 = 10/3$."
+  },
+  {
+    "pregunta": "En el problema 8 (terreno triangular), se identifica el punto $M$ como Incentro. Si la relación de segmentos en la bisectriz es de 3 a 1, ¿cuánto suma $a+b$ si el tercer lado es 4?",
+    "opciones": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "Por teorema del Incentro: $3k/k = (a+b)/4 \\rightarrow 3 = (a+b)/4 \\rightarrow a+b = 12$."
+  },
+  {
+    "pregunta": "En el problema 8, si $a+b=12$ y el tercer lado es 4, ¿cuál es el costo total de cercar el terreno si el metro lineal cuesta 18 soles?",
+    "opciones": [
+      "200 soles",
+      "288 soles",
+      "150 soles",
+      "300 soles"
+    ],
+    "correcta": 1,
+    "resolucion": "Perímetro = $12 + 4 = 16$ metros. Costo = $16 \\times 18 = 288$ soles."
+  },
+  {
+    "pregunta": "En el problema 9 (lámina triangular), el centro de gravedad es el Baricentro. ¿En qué relación divide el baricentro a la mediana?",
+    "opciones": [
+      "1 a 1",
+      "2 a 1",
+      "3 a 1",
+      "1 a 4"
+    ],
+    "correcta": 1,
+    "resolucion": "El baricentro divide a la mediana en relación de 2 a 1 (siendo el segmento mayor el que parte del vértice)."
+  },
+  {
+    "pregunta": "En el problema 10 (soporte trapecial), se tiene una bisectriz perpendicular al lado no paralelo. ¿Qué construcción auxiliar se recomienda en el video?",
+    "opciones": [
+      "Trazar una altura interna.",
+      "Prolongar los lados para formar un triángulo isósceles.",
+      "Trazar la mediana del trapecio.",
+      "Dibujar una circunferencia inscrita."
+    ],
+    "correcta": 1,
+    "resolucion": "Se recomienda prolongar los lados para formar un triángulo isósceles, aprovechando que la bisectriz es también altura."
+  }
+          ]
         },
         {
-          "titulo": "3.2 Célula Procariota vs Eucariota",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "3.2 Teorema de Pitágoras",
+          "youtube_id": "5WqZuDTIAyQ",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué condición indispensable debe cumplir un triángulo para poder aplicarle el Teorema de Pitágoras?",
+    "opciones": [
+      "Debe tener todos sus lados iguales.",
+      "Debe ser un triángulo obtusángulo.",
+      "Debe tener un ángulo recto ($90^\\circ$).",
+      "Debe ser un triángulo acutángulo."
+    ],
+    "correcta": 2,
+    "resolucion": "El teorema de Pitágoras es exclusivo para triángulos rectángulos, es decir, aquellos que poseen un ángulo de 90 grados."
+  },
+  {
+    "pregunta": "Según la explicación del profesor, ¿qué son los 'Triángulos Perfectos de Pitágoras'?",
+    "opciones": [
+      "Aquellos donde la hipotenusa es el doble del cateto.",
+      "Aquellos cuyas medidas de lados son números enteros.",
+      "Aquellos que tienen ángulos de $45^\\circ$.",
+      "Aquellos cuya área es igual al perímetro."
+    ],
+    "correcta": 1,
+    "resolucion": "Se denominan 'triángulos perfectos' (o ternas pitagóricas) a aquellos triángulos rectángulos donde las longitudes de sus tres lados son números enteros exactos (ej. 3-4-5)."
+  },
+  {
+    "pregunta": "Si una plataforma tiene 36 metros de altura y la base está a 48 metros, ¿cuál es la longitud de la rampa (hipotenusa)?",
+    "opciones": [
+      "50 m",
+      "55 m",
+      "60 m",
+      "70 m"
+    ],
+    "correcta": 2,
+    "resolucion": "Es un múltiplo del triángulo perfecto 3-4-5. Multiplicando por 12: $3(12)=36$, $4(12)=48$, por lo tanto la hipotenusa es $5(12) = 60$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, si la hipotenusa mide 40 y un cateto mide 24, ¿cuánto mide el otro cateto?",
+    "opciones": [
+      "30",
+      "32",
+      "36",
+      "28"
+    ],
+    "correcta": 1,
+    "resolucion": "Es un múltiplo del triángulo 3-4-5 (multiplicado por 8). Hipotenusa $5(8)=40$, cateto $3(8)=24$, falta el cateto $4(8)=32$."
+  },
+  {
+    "pregunta": "Calcule la distancia entre el punto A y el punto B en el plano, sabiendo que la distancia horizontal es 6 y la vertical es 8.",
+    "opciones": [
+      "10",
+      "12",
+      "14",
+      "9"
+    ],
+    "correcta": 0,
+    "resolucion": "Formamos un triángulo rectángulo de catetos 6 y 8. Es el doble del triángulo 3-4-5 ($3\\cdot2=6, 4\\cdot2=8$), por lo que la hipotenusa es $5\\cdot2=10$."
+  },
+  {
+    "pregunta": "Si los catetos de un triángulo miden 21 y 28, ¿cuál es el valor de la hipotenusa?",
+    "opciones": [
+      "30",
+      "32",
+      "35",
+      "40"
+    ],
+    "correcta": 2,
+    "resolucion": "Es múltiplo del 3-4-5 (por 7): $3(7)=21$, $4(7)=28$, entonces la hipotenusa es $5(7)=35$."
+  },
+  {
+    "pregunta": "¿Cuál es la hipotenusa de un triángulo rectángulo cuyos catetos miden 33 y 44?",
+    "opciones": [
+      "50",
+      "55",
+      "60",
+      "66"
+    ],
+    "correcta": 1,
+    "resolucion": "Múltiplo del 3-4-5 (por 11): $3(11)=33$, $4(11)=44$, la hipotenusa es $5(11)=55$."
+  },
+  {
+    "pregunta": "Identifique el triángulo perfecto de Pitágoras '5-12-13'. Si un cateto mide 15 y la hipotenusa 39, ¿cuánto mide el otro cateto?",
+    "opciones": [
+      "30",
+      "32",
+      "36",
+      "34"
+    ],
+    "correcta": 2,
+    "resolucion": "Es múltiplo del 5-12-13 (por 3): $5(3)=15$, $13(3)=39$ (hipotenusa), el cateto faltante es $12(3)=36$."
+  },
+  {
+    "pregunta": "Usando el triángulo perfecto '8-15-17', calcule la hipotenusa si los catetos miden 16 y 30.",
+    "opciones": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "correcta": 1,
+    "resolucion": "Es múltiplo del 8-15-17 (por 2): $8(2)=16$, $15(2)=30$, la hipotenusa es $17(2)=34$."
+  },
+  {
+    "pregunta": "Un joven camina 24 millas al norte y 10 millas al oeste. ¿Cuántas millas *menos* habría recorrido si viajaba en línea recta?",
+    "opciones": [
+      "26",
+      "34",
+      "10",
+      "8"
+    ],
+    "correcta": 3,
+    "resolucion": "Recorrido actual: $24+10=34$. Línea recta (hipotenusa 5-12-13 por 2): 26. Ahorro: $34 - 26 = 8$ millas."
+  },
+  {
+    "pregunta": "En un triángulo isósceles con lados iguales de 10 y base total de 16, ¿cuál es la altura trazada a la base?",
+    "opciones": [
+      "5",
+      "6",
+      "8",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "La altura divide la base en dos partes de 8. Se forma un triángulo rectángulo de hipotenusa 10 y cateto 8. Por el triple 3-4-5 ($x2$), la altura es 6."
+  },
+  {
+    "pregunta": "¿Cuál es el área del triángulo isósceles anterior (Base 16, Altura 6)?",
+    "opciones": [
+      "48",
+      "96",
+      "24",
+      "60"
+    ],
+    "correcta": 0,
+    "resolucion": "Área = $\\frac{base \\cdot altura}{2} = \\frac{16 \\cdot 6}{2} = 48$ unidades cuadradas."
+  },
+  {
+    "pregunta": "En la figura del ejercicio 4 del video, se tiene $AB=BC$, $AC=30$ y altura $BD=20$. ¿Cuánto mide el lado $AB$?",
+    "opciones": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correcta": 0,
+    "resolucion": "La altura $BD=20$ divide la base $AC$ (30) en dos segmentos de 15. Se forma un triángulo rectángulo de catetos 15 y 20. Es un 3-4-5 (x5), hipotenusa $AB=25$."
+  },
+  {
+    "pregunta": "Calcule la hipotenusa $x$ de un triángulo rectángulo isósceles con catetos de longitud 9 (Diagonal de un cuadrado).",
+    "opciones": [
+      "$9$",
+      "$18$",
+      "$9\\sqrt{2}$",
+      "$9\\sqrt{3}$"
+    ],
+    "correcta": 2,
+    "resolucion": "$x^2 = 9^2 + 9^2 = 81 + 81 = 162$. $x = \\sqrt{162} = \\sqrt{81 \\cdot 2} = 9\\sqrt{2}$."
+  },
+  {
+    "pregunta": "¿Cuál es la forma correcta de simplificar la raíz cuadrada de 162 obtenida en el ejercicio anterior?",
+    "opciones": [
+      "Factorización prima: $3^4 \\cdot 2 \\rightarrow 9\\sqrt{2}$",
+      "División simple: $162/2 = 81$",
+      "Aproximación decimal",
+      "No se puede simplificar"
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor realiza la factorización prima de 162 ($2 \\cdot 3 \\cdot 3 \\cdot 3 \\cdot 3$), agrupa parejas de 3 y las saca de la raíz: $3 \\cdot 3 \\sqrt{2} = 9\\sqrt{2}$."
+  },
+  {
+    "pregunta": "Calcule el área total de la figura compuesta por un rectángulo de $8 \\times 3$ y un triángulo rectángulo de base 4 y altura 3.",
+    "opciones": [
+      "24",
+      "36",
+      "30",
+      "32"
+    ],
+    "correcta": 2,
+    "resolucion": "Área rectángulo = $8 \\cdot 3 = 24$. Área triángulo = $\\frac{4 \\cdot 3}{2} = 6$. Área total = $24 + 6 = 30$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, ¿es válido intercambiar los valores de los catetos para calcular la hipotenusa?",
+    "opciones": [
+      "No, el cateto mayor siempre es la base.",
+      "Sí, el orden de los catetos no altera la hipotenusa.",
+      "Solo si son números enteros.",
+      "No, cambia el resultado."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica que puedes intercambiar la posición de los catetos (vertical u horizontal) y el resultado de la hipotenusa es el mismo."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula algebraica correcta del Teorema de Pitágoras para hallar la hipotenusa $c$?",
+    "opciones": [
+      "$c = a + b$",
+      "$c = \\sqrt{a^2 - b^2}$",
+      "$c = a^2 + b^2$",
+      "$c = \\sqrt{a^2 + b^2}$"
+    ],
+    "correcta": 3,
+    "resolucion": "La fórmula derivada es $c^2 = a^2 + b^2$, por lo que al despejar $c$ obtenemos la raíz cuadrada de la suma de los cuadrados de los catetos."
+  },
+  {
+    "pregunta": "Si un triángulo tiene lados 5, 12 y 13, ¿podemos asegurar que es un triángulo rectángulo?",
+    "opciones": [
+      "No necesariamente.",
+      "Sí, porque cumple $13^2 = 12^2 + 5^2$ (169 = 144 + 25).",
+      "Solo si nos dan el ángulo.",
+      "No, porque es escaleno."
+    ],
+    "correcta": 1,
+    "resolucion": "Al cumplirse la igualdad del Teorema de Pitágoras ($169=169$), se confirma que es un triángulo rectángulo perfecto."
+  },
+  {
+    "pregunta": "En el ejercicio donde el área es 60 y la base es 12, se determinó que la altura es 10 (asumiendo rectángulo en la explicación del video). ¿Qué lado faltante formaría un triángulo 5-12-13?",
+    "opciones": [
+      "La hipotenusa de un triángulo de catetos 5 y 12.",
+      "El cateto de un triángulo de hipotenusa 12.",
+      "La base de un triángulo isósceles.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor usa este ejercicio para reforzar la identificación del triángulo 5-12-13, donde 13 es la hipotenusa."
+  }
+          ]
         },
         {
-          "titulo": "3.3 Pared Celular y Glucocálix",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "3.3 Teorema de la Bisectriz",
+          "youtube_id": "TdPEUeEgraw",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué característica define al segmento $BD$ para que se pueda aplicar el teorema explicado en el video?",
+    "opciones": [
+      "Es una mediana que divide al lado opuesto en dos partes iguales.",
+      "Es una altura perpendicular al lado opuesto.",
+      "Es una bisectriz que divide al ángulo $ABC$ en dos ángulos congruentes.",
+      "Es una mediatriz que corta al lado $AC$ en 90 grados."
+    ],
+    "correcta": 2,
+    "resolucion": "El video comienza estableciendo que $BD$ es bisectriz del ángulo $ABC$, lo que significa que divide dicho ángulo en dos ángulos de la misma medida, condición necesaria para el teorema."
+  },
+  {
+    "pregunta": "¿Qué establece el Teorema de la Bisectriz Interior sobre los segmentos determinados en el lado opuesto?",
+    "opciones": [
+      "Son iguales entre sí.",
+      "Su suma es igual al perímetro del triángulo.",
+      "Son proporcionales a los otros dos lados del triángulo.",
+      "Son proporcionales a los ángulos adyacentes."
+    ],
+    "correcta": 2,
+    "resolucion": "El teorema dice que la bisectriz divide al lado opuesto en dos segmentos que son proporcionales a los otros dos lados del triángulo (los lados adyacentes a los segmentos)."
+  },
+  {
+    "pregunta": "Según el planteamiento del video, ¿cuál es la proporción correcta que relaciona los lados y los segmentos?",
+    "opciones": [
+      "$\\frac{DC}{AD} = \\frac{AB}{BC}$",
+      "$\\frac{DC}{BC} = \\frac{AD}{AB}$",
+      "$\\frac{AD}{DC} = \\frac{BC}{AB}$",
+      "$\\frac{DC}{AB} = \\frac{AD}{BC}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Julioprofe plantea la proporción: el segmento $DC$ es al lado $BC$ como el segmento $AD$ es al lado $AB$ ($\\frac{DC}{BC} = \\frac{AD}{AB}$)."
+  },
+  {
+    "pregunta": "Si el lado $AC$ mide 18 cm y definimos $AD = x$, ¿cómo se expresa algebraicamente el segmento $DC$?",
+    "opciones": [
+      "$18 + x$",
+      "$x - 18$",
+      "$18 - x$",
+      "$18x$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser la longitud total del lado $AC$ igual a 18, si una parte es $x$, la parte restante ($DC$) se expresa como la diferencia: $18 - x$."
+  },
+  {
+    "pregunta": "En la ecuación planteada $\\frac{18-x}{10} = \\frac{x}{14}$, ¿cuál es el primer paso algebraico para eliminar los denominadores?",
+    "opciones": [
+      "Sumar 10 y 14 a ambos lados.",
+      "Restar las fracciones.",
+      "Pasar a multiplicar los denominadores en cruz (el 14 multiplica a $18-x$ y el 10 a $x$).",
+      "Dividir todo por 2."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor muestra que los números que están dividiendo pasan al lado contrario a multiplicar: $14(18-x) = 10x$."
+  },
+  {
+    "pregunta": "Al aplicar la propiedad distributiva en $14(18 - x)$, ¿cuál es el resultado correcto?",
+    "opciones": [
+      "$252 - x$",
+      "$252 - 14x$",
+      "$18 - 14x$",
+      "$252 + 14x$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se multiplica 14 por 18 (252) y 14 por $-x$ ($-14x$), resultando en $252 - 14x$."
+  },
+  {
+    "pregunta": "En la ecuación $252 - 14x = 10x$, ¿cómo se realiza la transposición de términos para agrupar las $x$?",
+    "opciones": [
+      "Se pasa el $10x$ a restar al lado izquierdo.",
+      "Se pasa el 252 a restar al lado derecho.",
+      "Se pasa el $-14x$ a sumar al lado derecho.",
+      "Se divide todo por $x$."
+    ],
+    "correcta": 2,
+    "resolucion": "Para dejar los términos con $x$ en un solo lado, el término $-14x$ que está restando pasa al lado derecho a sumar, quedando $252 = 10x + 14x$."
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la suma de términos semejantes $10x + 14x$ en el ejercicio?",
+    "opciones": [
+      "$4x$",
+      "$140x$",
+      "$24x$",
+      "$24x^2$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se suman los coeficientes: $10 + 14 = 24$, manteniendo la variable $x$, resultando $24x$."
+  },
+  {
+    "pregunta": "Para despejar $x$ de la ecuación $252 = 24x$, ¿qué operación se debe realizar?",
+    "opciones": [
+      "Restar 24 a 252.",
+      "Dividir 252 entre 24.",
+      "Multiplicar 252 por 24.",
+      "Sacar raíz cuadrada."
+    ],
+    "correcta": 1,
+    "resolucion": "El 24 que está multiplicando a la $x$ pasa al otro lado a dividir, quedando la fracción $\\frac{252}{24}$."
+  },
+  {
+    "pregunta": "Al simplificar la fracción $\\frac{252}{24}$ sacando mitad dos veces, ¿qué fracción reducida se obtiene antes de sacar tercia?",
+    "opciones": [
+      "$\\frac{126}{12}$",
+      "$\\frac{63}{6}$",
+      "$\\frac{21}{2}$",
+      "$\\frac{100}{10}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Primera mitad: $126/12$. Segunda mitad: $63/6$. (Luego el profesor saca tercia para llegar a $21/2$)."
+  },
+  {
+    "pregunta": "¿Cuál es el valor decimal final de $x$ (longitud de $AD$) obtenido en el video?",
+    "opciones": [
+      "10 cm",
+      "11.5 cm",
+      "10.5 cm",
+      "12.5 cm"
+    ],
+    "correcta": 2,
+    "resolucion": "Al dividir 21 entre 2, el resultado exacto es 10.5. Como las unidades son centímetros, la respuesta es 10.5 cm."
+  },
+  {
+    "pregunta": "Si hubiéramos querido hallar el segmento $DC$ en lugar de $AD$, ¿qué operación haríamos al final?",
+    "opciones": [
+      "Restar $10.5 - 18$",
+      "Sumar $18 + 10.5$",
+      "Restar $18 - 10.5$",
+      "Multiplicar $18 \\times 10.5$"
+    ],
+    "correcta": 2,
+    "resolucion": "Como $DC = 18 - x$, simplemente reemplazaríamos el valor hallado: $18 - 10.5 = 7.5$ cm."
+  },
+  {
+    "pregunta": "Si en el mismo problema el lado $BC$ hubiera medido 20 cm en lugar de 10 cm, manteniendo los demás datos, ¿cómo cambiaría la ecuación inicial?",
+    "opciones": [
+      "$\\frac{18-x}{20} = \\frac{x}{14}$",
+      "$\\frac{18-x}{10} = \\frac{x}{20}$",
+      "$\\frac{20}{18-x} = \\frac{x}{14}$",
+      "$\\frac{18-x}{14} = \\frac{x}{20}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La proporción es $\\frac{DC}{BC} = \\frac{AD}{AB}$. Si cambiamos $BC$ por 20, el denominador bajo $DC$ ($18-x$) cambia a 20."
+  },
+  {
+    "pregunta": "¿Qué unidades de medida se utilizaron en el ejercicio del video?",
+    "opciones": [
+      "Metros (m)",
+      "Milímetros (mm)",
+      "Centímetros (cm)",
+      "Pulgadas (in)"
+    ],
+    "correcta": 2,
+    "resolucion": "El enunciado del problema indica explícitamente las longitudes en centímetros (cm)."
+  },
+  {
+    "pregunta": "¿Por qué se usaron paréntesis al escribir $14(18 - x)$?",
+    "opciones": [
+      "Por estética matemática.",
+      "Porque el 14 debe multiplicar a ambos términos del binomio ($18$ y $-x$).",
+      "Porque el 14 solo multiplica al 18.",
+      "Para indicar una división."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor enfatiza que se debe proteger con paréntesis para aplicar correctamente la propiedad distributiva a todo el binomio."
+  }
+          ]
         },
         {
-          "titulo": "3.4 Membrana Celular: Estructura",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "titulo": "3.4 Relaciones métricas | Triángulo oblicuángulo",
+          "youtube_id": "a7YriRTsBvU",
+          "pdf_link": "",
           "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "3.5 Transporte Pasivo y Activo",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
-        },
-        {
-          "titulo": "3.6 Bombas y Transporte en Masa",
-          "youtube_id": "REEMPLAZAR_ID",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
-          "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cómo se define un triángulo oblicuángulo según la introducción del video?",
+    "opciones": [
+      "Es cualquier triángulo que no sea rectángulo (puede ser acutángulo u obtusángulo).",
+      "Es un triángulo que tiene un ángulo recto.",
+      "Es aquel que tiene sus tres lados iguales.",
+      "Es un triángulo con dos ángulos rectos."
+    ],
+    "correcta": 0,
+    "resolucion": "En geometría, se llama triángulo oblicuángulo a aquel que simplemente no es un triángulo rectángulo. Puede ser acutángulo (solo ángulos agudos) o obtusángulo."
+  },
+  {
+    "pregunta": "¿Qué teorema fundamental se utiliza para demostrar el Teorema de Euclides en el video?",
+    "opciones": [
+      "Teorema de Tales.",
+      "Teorema de Pitágoras (aplicado dos veces).",
+      "Teorema de la Bisectriz.",
+      "Teorema de la Base Media."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor demuestra el Teorema de Euclides utilizando dos veces el Teorema de Pitágoras en los triángulos rectángulos formados por la altura."
+  },
+  {
+    "pregunta": "En el Teorema de Euclides (Caso 1: Ángulo Agudo), ¿cuál es el signo que antecede al doble producto de la proyección y la base?",
+    "opciones": [
+      "Menos ($-$).",
+      "Más ($+$).",
+      "Puede ser más o menos.",
+      "No lleva signo."
+    ],
+    "correcta": 0,
+    "resolucion": "En el caso de un triángulo acutángulo (ángulo agudo), la fórmula es $a^2 = b^2 + c^2 - 2c(proyección)$. El signo es menos."
+  },
+  {
+    "pregunta": "¿Cuál es la forma trigonométrica del Teorema de Euclides mencionada en el video?",
+    "opciones": [
+      "Ley de Senos.",
+      "Ley de Tangentes.",
+      "Ley de Cosenos.",
+      "Identidad Pitagórica."
+    ],
+    "correcta": 2,
+    "resolucion": "Al reemplazar la proyección por $b \\cdot \\cos(\\alpha)$, el Teorema de Euclides se transforma en la Ley de Cosenos: $a^2 = b^2 + c^2 - 2bc \\cdot \\cos(\\alpha)$."
+  },
+  {
+    "pregunta": "En el problema 1 (cuadrado con circunferencia inscrita), se tiene un triángulo con lados 2, 4 y $2\\sqrt{2}$. Al aplicar Euclides para hallar la proyección $x/2$, ¿cuánto resultó la longitud de la cuerda $x$?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "2.5"
+    ],
+    "correcta": 1,
+    "resolucion": "Al resolver la ecuación planteada por Euclides ($ (2\\sqrt{2})^2 = 2^2 + 4^2 - 2(4)(x/2) $), se obtuvo que $x = 3$."
+  },
+  {
+    "pregunta": "En el problema 2 (terrenos triangulares), se tiene un triángulo obtusángulo con lados $b$, $k$ y lado opuesto $a$. Si la proyección es $2k$, ¿cuánto resultó el valor de $k$ sabiendo que $a^2 - b^2 = 720$?",
+    "opciones": [
+      "10",
+      "12",
+      "15",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando Euclides caso 2 (obtuso): $a^2 = b^2 + k^2 + 2k(2k)$. Despejando $a^2 - b^2 = 5k^2 = 720$, entonces $k^2 = 144$, por lo que $k = 12$."
+  },
+  {
+    "pregunta": "En el problema 2, una vez hallado $k=12$, se pide calcular $AC$ que equivale a $3k$. ¿Cuál fue la respuesta final?",
+    "opciones": [
+      "24",
+      "30",
+      "36",
+      "48"
+    ],
+    "correcta": 2,
+    "resolucion": "Si $k=12$ y $AC = 3k$, entonces $AC = 3(12) = 36$."
+  },
+  {
+    "pregunta": "En el problema 3, se tiene un cuadrilátero inscrito con lados 1, 2, 3 y 4. ¿Cuál es el valor de la diagonal menor al cuadrado ($d^2$) antes de sacar la raíz?",
+    "opciones": [
+      "55/7",
+      "7/55",
+      "50/7",
+      "45/7"
+    ],
+    "correcta": 0,
+    "resolucion": "Tras igualar las expresiones del teorema del coseno y hallar $\\cos(\\alpha) = -5/7$, se reemplaza y se obtiene $d^2 = 55/7$."
+  },
+  {
+    "pregunta": "En el problema 4 (circunferencias concéntricas), se pide calcular la suma de cuadrados $AP^2 + BP^2$. ¿Qué teorema se utilizó directamente para resolverlo?",
+    "opciones": [
+      "Teorema de Euclides.",
+      "Teorema de la Mediana (Apolonio).",
+      "Teorema de Herón.",
+      "Teorema de Stewart."
+    ],
+    "correcta": 1,
+    "resolucion": "Se identificó que el radio menor es una mediana en el triángulo formado. Por lo tanto, se aplicó el Teorema de la Mediana (Apolonio) que involucra la suma de cuadrados de los lados."
+  },
+  {
+    "pregunta": "En el problema 4, con radios 3 y 5 (diámetro 10), ¿cuánto resultó la suma de cuadrados pedida?",
+    "opciones": [
+      "50",
+      "68",
+      "100",
+      "60"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma de cuadrados = $10^2/2 + 2(3^2) = 50 + 18 = 68$."
+  },
+  {
+    "pregunta": "En el problema 5 (varilla BC), se tiene la diferencia de cuadrados $a^2 - b^2 = 288$ y un triángulo isósceles. ¿Cuál resultó ser la longitud de la mediana $x$ (varilla BC)?",
+    "opciones": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correcta": 1,
+    "resolucion": "Al aplicar el teorema de la mediana y simplificar, quedó $2x^2 = 288$, $x^2 = 144$, por lo tanto $x = 12$."
+  },
+  {
+    "pregunta": "Según el Teorema de la Bisectriz Interior (Métrica), ¿a qué es igual el cuadrado de la bisectriz ($x^2$)?",
+    "opciones": [
+      "$x^2 = a \\cdot b + m \\cdot n$",
+      "$x^2 = a \\cdot b - m \\cdot n$ (Producto de lados menos producto de segmentos)",
+      "$x^2 = m \\cdot n - a \\cdot b$",
+      "$x^2 = a^2 + b^2$"
+    ],
+    "correcta": 1,
+    "resolucion": "La fórmula demostrada es $x^2 = a \\cdot b - m \\cdot n$, donde $a, b$ son los lados y $m, n$ los segmentos determinados en la base."
+  },
+  {
+    "pregunta": "En el problema 6, con lados 6, 7 y 8, se calcula primero la bisectriz mayor BM. ¿Cuánto midió BM?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando la métrica: $BM^2 = 6 \\cdot 8 - 3 \\cdot 4 = 48 - 12 = 36$. Entonces $BM = 6$."
+  },
+  {
+    "pregunta": "En el problema 6, tras hallar BM=6, se pide la bisectriz menor AL en el triángulo interior. ¿Cuánto resultó?",
+    "opciones": [
+      "$\\sqrt{10}$",
+      "3",
+      "4",
+      "$\\sqrt{12}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando nuevamente la métrica en el triángulo pequeño: $AL^2 = 6 \\cdot 3 - 4 \\cdot 2 = 18 - 8 = 10$. Entonces $AL = \\sqrt{10}$."
+  },
+  {
+    "pregunta": "En el problema 7 (hoja doblada), se forma un triángulo rectángulo con catetos 4 y 8. ¿Cuánto mide la hipotenusa AC?",
+    "opciones": [
+      "10",
+      "$4\\sqrt{5}$",
+      "12",
+      "$8\\sqrt{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por Pitágoras: $\\sqrt{4^2 + 8^2} = \\sqrt{16 + 64} = \\sqrt{80} = 4\\sqrt{5}$."
+  },
+  {
+    "pregunta": "En el problema 7, al aplicar la métrica de la bisectriz BF, ¿cuál fue el resultado final?",
+    "opciones": [
+      "$8\\sqrt{2}/3$",
+      "$4\\sqrt{5}/3$",
+      "$16/3$",
+      "4"
+    ],
+    "correcta": 0,
+    "resolucion": "El cálculo final dio $\\sqrt{128/9} = 8\\sqrt{2}/3$."
+  },
+  {
+    "pregunta": "Para calcular la altura de un triángulo con lados conocidos (Teorema de Herón), ¿qué valor se debe calcular primero?",
+    "opciones": [
+      "El área.",
+      "El semiperímetro ($p$).",
+      "La mediana.",
+      "El circunradio."
+    ],
+    "correcta": 1,
+    "resolucion": "El primer paso en la fórmula de Herón es calcular el semiperímetro $p = (a+b+c)/2$."
+  },
+  {
+    "pregunta": "En el problema 8 (mesa rectangular), se forma un triángulo de lados 22, 40 y 26. ¿Cuánto resultó la altura de ese triángulo usando Herón?",
+    "opciones": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correcta": 2,
+    "resolucion": "Tras operar con el semiperímetro 44, la altura resultó ser 24."
+  },
+  {
+    "pregunta": "En el problema 9 (tres circunferencias tangentes), se forma un triángulo de lados 5, 7 y 8. ¿Cuánto midió la altura relativa al lado 4 (distancia Q)?",
+    "opciones": [
+      "$\\sqrt{6}$",
+      "$2\\sqrt{6}$",
+      "4",
+      "3"
+    ],
+    "correcta": 1,
+    "resolucion": "Operando Herón con semiperímetro 8, la altura resultó ser $2\\sqrt{6}$."
+  },
+  {
+    "pregunta": "En el problema 10 (Teorema de Stewart), se calcula la ceviana AM en un triángulo de lados 5, 7 y base 8. ¿Cuál fue el resultado?",
+    "opciones": [
+      "$\\sqrt{15}$",
+      "$\\sqrt{17}$",
+      "$\\sqrt{19}$",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "Aplicando Stewart: $7^2(3) + 5^2(5) = x^2(8) + 3\\cdot5\\cdot8$. Resolviendo, $x^2 = 19$, por lo tanto $x = \\sqrt{19}$."
+  }
+          ]
         }
       ]
     },

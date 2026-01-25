@@ -9427,204 +9427,204 @@
           "gratis": true,
           "preguntas": [
 {
-    "pregunta": "¿Quién es el autor del cuento 'Paco Yunque'?",
+    "pregunta": "¿Con qué nombre oficial se le conoce al Mar Peruano?",
     "opciones": [
-      "José María Arguedas",
-      "Ciro Alegría",
-      "César Vallejo",
-      "Abraham Valdelomar"
+      "Mar del Pacífico",
+      "Mar de Humboldt",
+      "Mar de Grau",
+      "Mar del Sur"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Por qué la madre de Paco Yunque lo lleva al colegio?",
+    "pregunta": "¿Cuál es la extensión del dominio marítimo del Perú establecida en 1947?",
     "opciones": [
-      "Para que aprenda a jugar",
-      "Para que acompañe a Humberto Grieve",
-      "Para que sea profesor",
-      "Para que juegue con Paco Fariña"
+      "12 millas",
+      "200 millas",
+      "100 millas",
+      "50 millas"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Cómo se siente Paco Yunque cuando llega por primera vez a la escuela?",
+    "pregunta": "¿Qué presidente del Perú promulgó el decreto de las 200 millas marinas?",
     "opciones": [
-      "Feliz y emocionado",
-      "Atolondrado y miedoso",
-      "Valiente y desafiante",
-      "Indiferente"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Quién es Humberto Grieve en la historia?",
-    "opciones": [
-      "El mejor amigo de Paco Yunque",
-      "El hijo de los patrones de la madre de Paco Yunque",
-      "El director de la escuela",
-      "Un niño pobre del salón"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué actitud tiene el profesor frente al comportamiento abusivo de Humberto Grieve?",
-    "opciones": [
-      "Lo castiga severamente",
-      "Lo expulsa del salón",
-      "Es permisivo y no lo castiga",
-      "Llama a sus padres"
+      "Manuel A. Odría",
+      "Juan Velasco Alvarado",
+      "José Luis Bustamante y Rivero",
+      "Fernando Belaúnde Terry"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Quién es el compañero de carpeta que defiende y protege a Paco Yunque?",
+    "pregunta": "¿Cuál es la causa principal de la frialdad de las aguas del mar peruano?",
     "opciones": [
-      "Humberto Grieve",
-      "Antonio Gesdres",
-      "Paco Fariña",
-      "El director"
+      "La profundidad de las fosas",
+      "El fenómeno de afloramiento",
+      "La cercanía a la Antártida",
+      "La baja radiación solar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el fenómeno de afloramiento?",
+    "opciones": [
+      "El ascenso de aguas profundas, frías y ricas en nutrientes a la superficie",
+      "El calentamiento superficial del agua por el Sol",
+      "El movimiento de las olas hacia la costa",
+      "La mezcla de agua dulce de los ríos con el mar"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tonalidad predomina en el mar peruano debido a la abundancia de fitoplancton?",
+    "opciones": [
+      "Azul",
+      "Verdoso",
+      "Marrón",
+      "Rojizo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fenómeno produce el cambio de color del mar a rojizo y la muerte de peces por falta de oxígeno?",
+    "opciones": [
+      "El Aguaje",
+      "El Niño",
+      "La Inversión Térmica",
+      "El Afloramiento"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la temperatura promedio del mar peruano en el sector centro-sur?",
+    "opciones": [
+      "24°C a 26°C",
+      "17°C a 19°C",
+      "13°C a 14°C",
+      "21°C a 23°C"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué corriente marina de aguas frías recorre la costa peruana de sur a norte?",
+    "opciones": [
+      "Corriente del Niño",
+      "Corriente de Cromwell",
+      "Corriente Peruana (Humboldt)",
+      "Corriente de Australia"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué hace Humberto Grieve con la tarea de Paco Yunque?",
+    "pregunta": "¿Qué corriente marina de aguas cálidas influye en la costa norte (Tumbes y Piura)?",
     "opciones": [
-      "La rompe",
-      "La corrige",
-      "Se la roba y la presenta como suya",
-      "La ayuda a mejorar"
+      "Corriente Peruana",
+      "Corriente de Humboldt",
+      "Corriente del Niño",
+      "Corriente del Golfo"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Por qué el profesor castiga a Paco Yunque dejándolo 'recluso'?",
+    "pregunta": "¿Qué relieve submarino comprende desde la orilla hasta los 200 metros de profundidad?",
     "opciones": [
-      "Por golpear a Humberto",
-      "Por no presentar la tarea (que le habían robado)",
-      "Por llegar tarde",
-      "Por insultar al director"
+      "Talud continental",
+      "Fosa marina",
+      "Dorsal de Nazca",
+      "Zócalo o plataforma continental"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Por qué es importante el zócalo continental para la economía peruana?",
+    "opciones": [
+      "Porque allí se concentra la mayor riqueza ictiológica (pesca) y petróleo",
+      "Porque es la zona más profunda",
+      "Porque allí se originan los tsunamis",
+      "Porque impide la navegación"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué relieve submarino es una pendiente brusca que va desde los 200 hasta los 4000 metros de profundidad?",
+    "opciones": [
+      "Zócalo continental",
+      "Talud continental",
+      "Fosa marina",
+      "Dorsal oceánica"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué representa Humberto Grieve en la obra?",
+    "pregunta": "¿Cuál es la fosa marina más profunda del Perú?",
     "opciones": [
-      "La justicia y la bondad",
-      "El abuso de poder y la clase social dominante",
-      "La educación pública",
-      "La inocencia infantil"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué premio recibe Humberto Grieve al final de la historia?",
-    "opciones": [
-      "Es expulsado",
-      "Es inscrito en el Cuadro de Honor por la tarea robada",
-      "Recibe una medalla de deporte",
-      "No recibe ningún premio"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuál es la reacción de Paco Yunque al final del cuento?",
-    "opciones": [
-      "Se ríe a carcajadas",
-      "Golpea a Humberto",
-      "Llora agachado en su carpeta",
-      "Se escapa del colegio"
+      "Fosa de las Marianas",
+      "Fosa del Callao (Central)",
+      "Fosa de Tacna-Arica (Meridional)",
+      "Fosa de Chimbote"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué intenta hacer Paco Fariña al final del cuento?",
+    "pregunta": "¿Qué cordillera submarina atraviesa el mar peruano frente a las costas de Ica?",
     "opciones": [
-      "Burlarse de Paco Yunque",
-      "Consolar a Paco Yunque ofreciéndole jugar y su tablero",
-      "Ayudar a Humberto",
-      "Ignorar la situación"
+      "Dorsal de Nazca",
+      "Cordillera de los Andes",
+      "Dorsal del Pacífico",
+      "Cordillera Blanca"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
-    "pregunta": "¿Cómo describe el autor la diferencia de clases sociales en el cuento?",
+    "pregunta": "¿Qué pez es la base de la industria pesquera peruana (harina y aceite)?",
     "opciones": [
-      "No hay diferencias, todos son iguales",
-      "A través de la ropa y el trato diferenciado del profesor",
-      "Solo por las notas",
-      "Por el tamaño de los niños"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué mentira dice Humberto Grieve sobre los peces?",
-    "opciones": [
-      "Que vuelan",
-      "Que tiene peces que viven en su salón y no mueren fuera del agua",
-      "Que los peces hablan",
-      "Que no le gustan los peces"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué niño es castigado injustamente por llegar tarde, a diferencia de Humberto que también llegó tarde?",
-    "opciones": [
-      "Paco Fariña",
-      "Antonio Gesdres",
-      "Paco Yunque",
-      "El director"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Dónde vive la familia de Paco Yunque?",
-    "opciones": [
-      "En la ciudad, en una casa propia",
-      "En el campo, al servicio de la familia Grieve",
-      "En la escuela",
-      "En el extranjero"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué género literario es 'Paco Yunque'?",
-    "opciones": [
-      "Novela",
-      "Poesía",
-      "Cuento",
-      "Teatro"
+      "El bonito",
+      "El jurel",
+      "La anchoveta",
+      "El perico"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Qué valor o derecho es vulnerado principalmente en la obra?",
+    "pregunta": "¿Cuál es el límite norte del dominio marítimo peruano?",
     "opciones": [
-      "La libertad de expresión",
-      "La justicia y la igualdad",
-      "El derecho a jugar",
-      "El derecho a la alimentación"
+      "Punta Aguja",
+      "Paralelo de Boca de Capones",
+      "Hito N° 1",
+      "Cabo Blanco"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Cómo se comporta Humberto Grieve con Paco Yunque durante el recreo?",
+    "pregunta": "¿Qué institución internacional definió el límite marítimo sur entre Perú y Chile en 2014?",
     "opciones": [
-      "Juega amablemente con él",
-      "Lo ignora",
-      "Lo obliga a jugar de forma humillante ('salta', 'ven')",
-      "Le invita su comida"
+      "La OEA",
+      "La ONU",
+      "La Corte Internacional de Justicia de La Haya",
+      "El Tribunal de Derechos Humanos"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "¿Cuál es el mensaje central de 'Paco Yunque'?",
+    "pregunta": "¿Qué factor NO contribuye a la riqueza del mar peruano?",
     "opciones": [
-      "Que la escuela es divertida",
-      "La denuncia del abuso de los ricos sobre los pobres y la injusticia social",
-      "Que se debe llegar temprano a clases",
-      "Que robar tareas es bueno"
+      "La frialdad de las aguas",
+      "La abundancia de plancton",
+      "La amplitud del zócalo continental",
+      "La profundidad extrema de las fosas"
     ],
-    "correcta": 1
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la salinidad promedio del mar peruano?",
+    "opciones": [
+      "34 a 35 gramos por litro",
+      "10 a 15 gramos por litro",
+      "50 gramos por litro",
+      "20 gramos por litro"
+    ],
+    "correcta": 0
   }
 ]
         }

@@ -833,10 +833,12 @@
       "Cambia el año inmediatamente"
     ],
     "correcta": 1
-  }
+ }
 ]
-        },
-        {
+        }
+      ]
+    },
+    {
       "titulo": "Tema 2: Factores de la transformación del relieve",
       "videos": [
 	{
@@ -1046,10 +1048,7 @@
     "correcta": 0
   }
 ]
-        }
-      ]
-    },
-    
+        },
         {
           "titulo": "2.2 GEODINÁMICA INTERNA",
           "youtube_id": "mYXjuVfrt4A",

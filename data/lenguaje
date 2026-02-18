@@ -1,0 +1,5235 @@
+{
+  "curso": "Lenguaje",
+  "temas": [
+    {
+      "titulo": "Tema 1: Comunicación, lenguaje y lengua",
+      "videos": [
+        {
+          "titulo": "1.1 LENGUAJE La comunicación",
+          "youtube_id": "l9C5SxRqwfY",
+          "pdf_link": "https://drive.google.com/file/d/1JUC9lafqLOecNzY9Lg6S7t2wQdNO6Htm/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un joven sordomudo utiliza señas con sus manos para expresar sus sentimientos a una chica, quien le responde con el mismo sistema de señas. Según la teoría de la comunicación explicada en el video, ¿qué tipo de código están utilizando y bajo qué categoría de comunicación humana se clasifica?",
+    "opciones": [
+      "Código lingüístico oral y comunicación verbal.",
+      "Código no lingüístico y comunicación no verbal.",
+      "Código lingüístico escrito y comunicación indirecta.",
+      "Código de señales y comunicación no humana."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Durante una clase virtual transmitida por YouTube, un profesor explica los elementos de la comunicación a miles de espectadores en diferentes países. Si consideramos que el profesor no sabe exactamente cuántas personas están viendo la clase en ese momento, ¿qué tipo de comunicación se está realizando según el receptor?",
+    "opciones": [
+      "Comunicación privada.",
+      "Comunicación pública.",
+      "Comunicación unidireccional.",
+      "Comunicación directa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Luis lee en la biblioteca la obra 'Paco Yunque' de César Vallejo para realizar un análisis literario. En este acto comunicativo, ¿quién cumple la función de emisor y qué elemento representa el soporte físico de la obra?",
+    "opciones": [
+      "El emisor es Luis y el canal es la biblioteca.",
+      "El emisor es César Vallejo y el canal es el libro (las hojas).",
+      "El emisor es Paco Yunque y el código es el castellano.",
+      "El emisor es la biblioteca y el mensaje es la obra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una conferencia de prensa, el entrenador de la selección peruana responde las preguntas de los periodistas sobre el próximo partido. Dado que existe un intercambio constante de roles entre quien habla y quien escucha, ¿qué tipo de comunicación se está manifestando por el intercambio de roles?",
+    "opciones": [
+      "Comunicación unidireccional.",
+      "Comunicación bidireccional.",
+      "Comunicación indirecta.",
+      "Comunicación no lingüística."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un conductor se detiene ante la luz roja de un semáforo. Aunque el semáforo no emite palabras orales ni escritas, logra transmitir un mensaje claro de 'detenerse'. Este es un ejemplo de comunicación:",
+    "opciones": [
+      "Humana lingüística escrita.",
+      "Humana no lingüística o no verbal.",
+      "No humana animal.",
+      "Lingüística oral."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al analizar la oración 'Hubo revoluciones sangrientas para consolidar la independencia', el receptor deduce que 'revoluciones' se refiere a conflictos bélicos gracias a los términos 'sangrientas' e 'independencia'. ¿Qué tipo de contexto permite esta interpretación según lo explicado por el profesor?",
+    "opciones": [
+      "Contexto extralingüístico.",
+      "Contexto situacional.",
+      "Contexto lingüístico (determinado por rastros de palabras).",
+      "Contexto físico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Una persona reparte volantes en la calle publicitando el examen de admisión de una universidad. Si el objetivo del volante es informar sobre el proceso de ingreso, ¿quién es el emisor real del mensaje según la intención comunicativa?",
+    "opciones": [
+      "La persona que entrega el volante.",
+      "El volante físico.",
+      "La universidad.",
+      "Los peatones que reciben el papel."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un emisor utiliza el código para elaborar y enviar un mensaje, se dice que está realizando la acción de 'codificar'. ¿Cómo se denomina técnicamente a la acción inversa que realiza el receptor al descifrar dicho mensaje?",
+    "opciones": [
+      "Encodificar.",
+      "Retroalimentar.",
+      "Decodificar.",
+      "Canalizar."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Dos amigos conversan por teléfono sobre sus planes para el fin de semana. Aunque interactúan en tiempo real, no se encuentran en el mismo lugar físico. ¿Cómo se clasifica esta comunicación según el espacio?",
+    "opciones": [
+      "Comunicación directa.",
+      "Comunicación indirecta.",
+      "Comunicación pública.",
+      "Comunicación no verbal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El profesor menciona que el canal es el elemento que más ha evolucionado en los últimos tiempos. Si una persona envía un mensaje de texto por WhatsApp, ¿cuál es el canal en este proceso?",
+    "opciones": [
+      "El idioma castellano.",
+      "El receptor del mensaje.",
+      "El sistema de internet o red virtual.",
+      "La intención de comunicar."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿De qué lengua proviene etimológicamente la palabra 'comunicación'?",
+    "opciones": [
+      "Griego.",
+      "Latín.",
+      "Inglés.",
+      "Francés."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa etimológicamente el término latino 'Comunicare'?",
+    "opciones": [
+      "Hablar fuerte.",
+      "Hacer partícipe a alguien de algo.",
+      "Escribir una carta.",
+      "Escuchar con atención."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define el 'mensaje' en el proceso comunicativo?",
+    "opciones": [
+      "El medio físico por donde viaja la información.",
+      "El sistema de signos común.",
+      "El contenido informativo total que se quiere transmitir.",
+      "El lugar donde ocurre la comunicación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué elemento de la comunicación se refiere al tema o asunto central del mensaje?",
+    "opciones": [
+      "Referente o realidad.",
+      "Código.",
+      "Canal.",
+      "Contexto."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de comunicación es exclusiva del ser humano según el video?",
+    "opciones": [
+      "Comunicación por gestos.",
+      "Comunicación por sonidos de alerta.",
+      "Comunicación lingüística (oral y escrita).",
+      "Comunicación por colores."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el otro nombre que recibe el 'emisor' debido a la función que cumple con el código?",
+    "opciones": [
+      "Decodificador.",
+      "Codificador o encodificador.",
+      "Destinatario.",
+      "Canalizador."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere el 'contexto extralingüístico' o situación?",
+    "opciones": [
+      "A los rastros que dejan las palabras.",
+      "Al sistema de reglas gramaticales.",
+      "Al lugar, tiempo y circunstancias donde ocurre la comunicación.",
+      "A las ondas sonoras."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el sistema de signos común y convencional que usan el emisor y receptor?",
+    "opciones": [
+      "Mensaje.",
+      "Canal.",
+      "Código.",
+      "Referente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de comunicación se produce en una misa donde el sacerdote habla y los fieles solo escuchan?",
+    "opciones": [
+      "Bidireccional.",
+      "Unidireccional.",
+      "No lingüística.",
+      "Privada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se denomina a la comunicación que ocurre entre animales?",
+    "opciones": [
+      "Comunicación humana no verbal.",
+      "Comunicación no humana.",
+      "Comunicación lingüística oral.",
+      "Comunicación por código escrito."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.2 LENGUA, HABLA, IDIOMA, VARIACIONES DE LA LENGUA",
+          "youtube_id": "WXYh0K90_xo",
+          "pdf_link": "https://drive.google.com/file/d/1JUC9lafqLOecNzY9Lg6S7t2wQdNO6Htm/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un lingüista analiza la forma en que se comunican los habitantes de Iquitos frente a los de Lima. Nota que, aunque ambos usan el castellano, existen diferencias en la entonación y el uso de ciertos términos como 'pishpira' o 'bushear'. Según el video, ¿qué tipo de variación de la lengua se está manifestando en este caso?",
+    "opciones": [
+      "Sociolecto (variación diastrática).",
+      "Dialecto (variación diatópica).",
+      "Idiolecto (variación diafásica).",
+      "Idioma oficial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un debate sobre lenguaje inclusivo, un profesor explica que la lengua es una 'construcción social' y que son los hablantes quienes le dan vida y la modifican con el tiempo. Si un grupo de personas comienza a usar un término nuevo y este se generaliza, ¿qué característica de la lengua según el video respalda esta posibilidad de cambio?",
+    "opciones": [
+      "La lengua es fija y eterna.",
+      "La lengua es una construcción social que depende de los hablantes.",
+      "La lengua es individual y efímera.",
+      "La lengua solo la modifica la RAE."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al estudiar los planos del lenguaje, se menciona que mientras uno es abstracto y reside en la mente de una comunidad, el otro es la materialización física de esos signos a través de la voz. ¿Cómo se denominan estos dos planos respectivamente?",
+    "opciones": [
+      "Lenguaje y Dialecto.",
+      "Lengua y Habla.",
+      "Idioma y Norma.",
+      "Escritura y Sonido."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un ciudadano paraguayo habla fluidamente castellano en su trabajo, pero al llegar a casa se comunica con su familia en guaraní con la misma naturalidad. Según la definición del video, ¿qué fenómeno lingüístico representa este hablante?",
+    "opciones": [
+      "Monolingüismo.",
+      "Bilingüismo (coexistencia de dos lenguas en el hablante).",
+      "Diglosia literaria.",
+      "Sociolecto elevado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el Perú, la Constitución establece que el castellano, el quechua, el aymara y las demás lenguas aborígenes son oficiales en las zonas donde predominen. Bajo esta premisa legal, todos estos sistemas de signos se consideran:",
+    "opciones": [
+      "Simples dialectos.",
+      "Jerigonzas regionales.",
+      "Idiomas (lenguas oficiales de un Estado).",
+      "Variaciones diastráticas."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Cuando una persona de una clase social alta usa términos y estructuras gramaticales distintas a las de una persona de una clase social baja, a pesar de hablar la misma lengua, estamos ante una variación denominada:",
+    "opciones": [
+      "Dialecto.",
+      "Sociolecto.",
+      "Idiolecto.",
+      "Bilingüismo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un joven dice 'causa', 'yunta' o 'barrunto' para referirse a un amigo en Lima, está utilizando términos que son propios de la identidad lingüística del país. Según el video, estas palabras se conocen como:",
+    "opciones": [
+      "Arcaísmos.",
+      "Anglicismos.",
+      "Peruanismos.",
+      "Neologismos extranjeros."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un profesor afirma que el habla es 'psicofísica'. Esto se debe a que, para producir una palabra, primero ocurre un proceso mental (psíquico) y luego se activa el aparato fonador para emitir el sonido (físico). ¿Con qué característica de la lengua se contrapone el habla en este aspecto?",
+    "opciones": [
+      "La lengua es social.",
+      "La lengua es teórica/psíquica (abstracta).",
+      "La lengua es efímera.",
+      "La lengua es heterogénea."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al comparar el habla de dos hermanos, se nota que uno habla más rápido y con una entonación más aguda que el otro. Esta forma personal y única de usar la lengua se define como:",
+    "opciones": [
+      "Sociolecto.",
+      "Dialecto.",
+      "Idiolecto (variación individual).",
+      "Idioma nacional."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La Real Academia Española (RAE) a menudo es vista como una entidad que 'manda' cómo hablar. Sin embargo, el video aclara que su función real respecto a lo que dicen los hablantes es:",
+    "opciones": [
+      "Inventar nuevas lenguas cada año.",
+      "Prohibir el uso de dialectos regionales.",
+      "Registrar cómo hablan realmente los hablantes.",
+      "Obligar a todos a hablar como en el año 1000."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la lengua según la definición dada en el video?",
+    "opciones": [
+      "La capacidad física de emitir sonidos.",
+      "Un conjunto de signos propios de un pueblo o nación.",
+      "El uso individual que cada persona hace del lenguaje.",
+      "Un diccionario físico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica de la lengua que indica que existe para una comunidad y no para un solo individuo?",
+    "opciones": [
+      "Individual.",
+      "Teórica.",
+      "Social.",
+      "Efímera."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué se dice que el habla es efímera?",
+    "opciones": [
+      "Porque dura miles de años.",
+      "Porque es igual para todos.",
+      "Porque termina en el momento en que el hablante deja de emitir sonidos.",
+      "Porque está grabada en la mente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un idioma?",
+    "opciones": [
+      "Cualquier sistema de comunicación animal.",
+      "Una lengua oficial de un Estado o país.",
+      "Una forma de hablar mal el castellano.",
+      "Un conjunto de gestos y mímicas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué variación de la lengua se refiere específicamente a las diferencias geográficas?",
+    "opciones": [
+      "Sociolecto.",
+      "Idiolecto.",
+      "Dialecto.",
+      "Jerga."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define el habla en el video?",
+    "opciones": [
+      "Un conjunto de reglas gramaticales fijas.",
+      "El uso particular o individual de una lengua.",
+      "La lengua oficial de un imperio.",
+      "La capacidad hereditaria de los seres vivos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre ser un país multilingüista y poseer bilingüismo?",
+    "opciones": [
+      "No hay diferencia.",
+      "Multilingüista es tener muchas lenguas en el territorio; bilingüismo es cuando el hablante maneja dos lenguas.",
+      "Bilingüismo es solo para el inglés.",
+      "Multilingüista es hablar tres lenguas a la vez."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué plano del lenguaje es considerado homogéneo (igual para todos sus hablantes)?",
+    "opciones": [
+      "El Habla.",
+      "La Lengua.",
+      "El Idiolecto.",
+      "La Mímica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere el término 'variación diastrática'?",
+    "opciones": [
+      "A la variación según el tiempo histórico.",
+      "A la variación según el lugar geográfico.",
+      "A la variación según los estratos o clases sociales (Sociolecto).",
+      "A la variación según el género de la persona."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de peruanismo mencionado en el video?",
+    "opciones": [
+      "Computadora.",
+      "Ceviche.",
+      "Hotel.",
+      "Restaurante."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.3 Lenguaje - Fonética y fonología",
+          "youtube_id": "DS06f0nn3o8",
+          "pdf_link": "https://drive.google.com/file/d/1JUC9lafqLOecNzY9Lg6S7t2wQdNO6Htm/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un lingüista analiza la pronunciación de la palabra 'carne' en un hablante de Centroamérica y en otro de los Andes. Nota que, aunque ambos entienden el mismo significado y la estructura mental de la palabra es la misma, la realización sonora varía ligeramente. ¿Qué unidades de estudio de la fonética y la fonología permiten explicar esta diferencia en la pronunciación pero igualdad en el sistema mental?",
+    "opciones": [
+      "El fono (variable) y el fonema (invariable).",
+      "El alófono (invariable) y el fonema (variable).",
+      "El grafema y la letra.",
+      "El tono y el acento."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un estudiante de idiomas desea aprender la correcta posición de la lengua y los labios para pronunciar la 'r' vibrante múltiple del español, ¿a qué disciplina lingüística debería recurrir para obtener una descripción física y articulatoria de este sonido?",
+    "opciones": [
+      "Fonología.",
+      "Fonética.",
+      "Semántica.",
+      "Sintaxis."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un sistema de escritura ideal, cada sonido mental debería tener una única representación gráfica. Sin embargo, en el castellano, el fonema /b/ se puede representar en la escritura con las letras 'b' o 'v'. Esto demuestra que la relación entre fonema y letra es:",
+    "opciones": [
+      "Biunívoca y perfecta.",
+      "Arbitraria y no siempre uno a uno.",
+      "Ilimitada.",
+      "Inexistente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al pronunciar la palabra 'pato', un hablante obstruye totalmente la salida del aire con los labios antes de soltarlo explosivamente para la 'p'. Según el modo de articulación, ¿cómo se clasifica este sonido consonántico?",
+    "opciones": [
+      "Fricativo.",
+      "Oclusivo.",
+      "Lateral.",
+      "Vibrante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un fonoaudiólogo evalúa a un paciente que tiene dificultades para pronunciar sonidos como la /s/ o la /f/, donde el aire debe salir rozando los órganos articulatorios sin detenerse por completo. ¿Qué tipo de sonidos por modo de articulación están afectados?",
+    "opciones": [
+      "Oclusivos.",
+      "Africados.",
+      "Fricativos.",
+      "Nasales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Durante una clase de canto, el instructor pide a los alumnos que vibren sus cuerdas vocales al emitir ciertos sonidos para darles sonoridad. Si un estudiante emite el sonido /s/ sin vibrar las cuerdas y luego el sonido /m/ vibrándolas, ¿cómo se clasifican estos sonidos respectivamente por la acción de las cuerdas vocales?",
+    "opciones": [
+      "Sordo y Sonoro.",
+      "Sonoro y Sordo.",
+      "Oclusivo y Fricativo.",
+      "Velar y Palatal."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si cambiamos la posición del acento en la palabra 'público' (esdrújula) a 'publicó' (aguda), el significado cambia totalmente. Esto demuestra que el acento es un fonema de tipo:",
+    "opciones": [
+      "Segmental.",
+      "Suprasegmental.",
+      "Fricativo.",
+      "Alófono."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una pregunta como '¿Vienes mañana?', la entonación final tiende a subir, esperando una respuesta de sí o no. ¿Qué tipo de tono suprasegmental se está utilizando?",
+    "opciones": [
+      "Descendente.",
+      "Horizontal.",
+      "Ascendente.",
+      "Mixto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un hablante pronuncia la vocal /u/. Según el triángulo vocálico o cuadro de Hellwag explicado, ¿qué características articulatorias definen a esta vocal por la posición de la lengua?",
+    "opciones": [
+      "Anterior y alta.",
+      "Central y baja.",
+      "Posterior y alta.",
+      "Posterior y media."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un fonema como /n/ se realiza de formas ligeramente distintas dependiendo de si está al inicio o al final de una sílaba, pero sigue siendo reconocido como la misma unidad mental, estas variantes físicas se denominan:",
+    "opciones": [
+      "Fonemas.",
+      "Alófonos.",
+      "Grafemas.",
+      "Digrafos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la unidad mínima de estudio de la fonología?",
+    "opciones": [
+      "El fono.",
+      "El fonema.",
+      "El alófono.",
+      "La sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos fonemas segmentales tiene el español según el video?",
+    "opciones": [
+      "27",
+      "22",
+      "24",
+      "19"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué disciplina estudia los sonidos articulatorios o físicos del habla?",
+    "opciones": [
+      "Fonología.",
+      "Semántica.",
+      "Fonética.",
+      "Sintaxis."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se representan gráficamente los fonos?",
+    "opciones": [
+      "Entre barras inclinadas //.",
+      "Entre corchetes [ ].",
+      "Entre comillas \" \".",
+      "Entre paréntesis ( )."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las tres cavidades principales para la producción del sonido articulado mencionadas en el video?",
+    "opciones": [
+      "Nasal, Bucal, Faríngea.",
+      "Supraglótica, Glótica, Infraglótica.",
+      "Alta, Media, Baja.",
+      "Interna, Externa, Media."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órganos se encuentran en la cavidad glótica?",
+    "opciones": [
+      "Los labios y dientes.",
+      "Los pulmones y bronquios.",
+      "La laringe y las cuerdas vocales.",
+      "El paladar y el velo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la única vocal central y baja del español?",
+    "opciones": [
+      "a",
+      "e",
+      "i",
+      "o"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué par de consonantes son clasificadas como laterales?",
+    "opciones": [
+      "m, n",
+      "l, ll",
+      "r, rr",
+      "p, b"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mnemotecnia utiliza el profesor para recordar los sonidos oclusivos?",
+    "opciones": [
+      "Soy fox.",
+      "Mañana.",
+      "Bodega pituca.",
+      "Solano."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son los fonemas suprasegmentales mencionados en el video?",
+    "opciones": [
+      "Las vocales y consonantes.",
+      "El acento y el tono.",
+      "Los puntos y comas.",
+      "Los alófonos y grafemas."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.4 Realidad lingüística Del Perú, Lenguas andinas",
+          "youtube_id": "5ajz8ce_nwE",
+          "pdf_link": "https://drive.google.com/file/d/1JUC9lafqLOecNzY9Lg6S7t2wQdNO6Htm/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un lingüista analiza la distribución de lenguas en un mapa oficial del Perú y observa una gran concentración de colores variados en una región específica, lo que indica alta diversidad lingüística y lenguas en contacto. Según lo explicado en el video, ¿a qué región geográfica corresponde esta observación?",
+    "opciones": [
+      "A la Costa Norte.",
+      "A la Sierra Sur.",
+      "A la Amazonía o Selva.",
+      "A la Sierra Central."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el contexto de la explotación del caucho entre 1882 y 1912, muchos pueblos indígenas fueron esclavizados y desplazados. Si un historiador encuentra que la lengua 'Bora' hablada en Perú tiene su origen en migraciones forzadas desde otro país debido a este evento, ¿de qué país provendría originalmente este grupo según el video?",
+    "opciones": [
+      "De Brasil.",
+      "De Colombia.",
+      "De Bolivia.",
+      "De Chile."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un grupo de médicos viaja a una comunidad nativa sin conocer sus costumbres culturales y comete una imprudencia que genera un conflicto grave con la población. Este caso, mencionado en el video para ilustrar que una lengua implica una cosmovisión distinta, ocurrió con la comunidad:",
+    "opciones": [
+      "Awajún (Aguaruna).",
+      "Asháninka.",
+      "Shipibo-Konibo.",
+      "Aimara."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Se observa que los hablantes de la lengua 'Cocama' han perdido gran parte de sus rasgos culturales visibles y su idioma, pasando desapercibidos como mestizos en la sociedad mayoritaria. ¿Qué denominación reciben estos grupos según el video?",
+    "opciones": [
+      "Nativos invisibles.",
+      "Nativos asimilados.",
+      "Mestizos amazónicos.",
+      "Pueblos aislados."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un investigador clasifica las lenguas andinas y encuentra que el 'Quechua' no es una sola lengua uniforme, sino una familia que agrupa varias lenguas. Si identifica una variedad hablada en Cusco, Ayacucho, Puno y parte de Bolivia, ¿a qué tipo de Quechua se refiere?",
+    "opciones": [
+      "Quechua Norteño.",
+      "Quechua Central.",
+      "Quechua Amazónico.",
+      "Quechua Sureño."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Al analizar la familia lingüística Aru, se identifica una lengua que está en peligro de extinción y que actualmente solo es hablada por adultos mayores en la zona de Yauyos, al sur de Lima. ¿De qué lengua se trata?",
+    "opciones": [
+      "Aimara.",
+      "Kauki (o Jakaru).",
+      "Puquina.",
+      "Mochica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Los 'Jíbaros' tenían una práctica cultural de guerra que consistía en cortar y reducir las cabezas de sus enemigos para evitar que su espíritu tomara venganza. Estas cabezas reducidas, mencionadas en el video, se conocen como:",
+    "opciones": [
+      "Máscaras ceremoniales.",
+      "Cabezas trofeo (Tsantsa).",
+      "Tótems de guerra.",
+      "Amuletos de piedra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un estudiante afirma que el Quechua es la única lengua importante del Perú porque fue la lengua del Imperio Inca, ¿qué argumento del video refutaría esta visión, basándose en la valoración lingüística?",
+    "opciones": [
+      "Que el Quechua ya no se habla.",
+      "Que ninguna lengua es mejor o peor que otra, todas tienen gramática y valor cultural.",
+      "Que el Aimara tiene más hablantes que el Quechua.",
+      "Que el Español es la única lengua oficial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una comunidad amazónica, los padres deciden no enseñar su lengua nativa a sus hijos y prefieren que aprendan solo castellano para tener 'mejores oportunidades'. Según el video, ¿cuál es una consecuencia negativa de esta decisión además de la pérdida del idioma?",
+    "opciones": [
+      "La pérdida de conocimientos ancestrales sobre plantas y medio ambiente.",
+      "El aumento de impuestos para la comunidad.",
+      "La mejora automática de la economía familiar.",
+      "La prohibición de vivir en la comunidad."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al estudiar las lenguas amazónicas, se encuentra que la lengua con mayor cantidad de hablantes en la amazonía peruana pertenece a la familia Arawak. ¿Cuál es esta lengua?",
+    "opciones": [
+      "Awajún.",
+      "Asháninka.",
+      "Shipibo.",
+      "Cocama."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas familias lingüísticas agrupan a las lenguas amazónicas en el Perú según el video?",
+    "opciones": [
+      "2 familias.",
+      "47 familias.",
+      "17 familias.",
+      "20 familias."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el Quechua hablado en la zona de Yauyos, Lima, que pertenece a la familia Aru según una aclaración del video (aunque usualmente se asocia el Kauki con esta zona, el video menciona otro nombre sinónimo)?",
+    "opciones": [
+      "Quechua Huanca.",
+      "Jakaru.",
+      "Aimara Central.",
+      "Culle."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué empresario cauchero es mencionado como responsable de la explotación y esclavitud de indígenas en la zona del Putumayo?",
+    "opciones": [
+      "Julio César Arana.",
+      "Francisco Pizarro.",
+      "Fitzcarraldo.",
+      "Simón Bolívar."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué familias lingüísticas componen el grupo de las lenguas andinas en el Perú?",
+    "opciones": [
+      "Quechua y Aru.",
+      "Quechua y Pano.",
+      "Aru y Jíbaro.",
+      "Arawak y Quechua."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la lengua amerindia con mayor distribución geográfica en Sudamérica (hablada en varios países)?",
+    "opciones": [
+      "Aimara.",
+      "Guaraní.",
+      "Quechua.",
+      "Mapudungun."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué término utilizan los estudiosos para referirse a la lengua Kauki?",
+    "opciones": [
+      "Aru sureño.",
+      "Jakaru.",
+      "Puquina.",
+      "Uro."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica define a los hablantes 'monolingües' en lenguas nativas según el video?",
+    "opciones": [
+      "Suelen ser ágrafos (no saben leer ni escribir).",
+      "Son bilingües con inglés.",
+      "Viven solo en la costa.",
+      "Son nativos invisibles."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué lengua amazónica se menciona como la segunda más numerosa después del Asháninka?",
+    "opciones": [
+      "Shipibo.",
+      "Awajún (Aguaruna).",
+      "Bora.",
+      "Ticuna."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué región del Perú se habla la lengua Aimara principalmente?",
+    "opciones": [
+      "Sierra Norte (Cajamarca).",
+      "Selva Central.",
+      "Sierra Sur (Puno, Moquegua, Tacna).",
+      "Costa Sur."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué fenómeno ocurre cuando lenguas distintas entran en contacto según el video?",
+    "opciones": [
+      "Ambas lenguas se mantienen puras e inalterables.",
+      "Sufren alteraciones e influencias mutuas.",
+      "Se crea automáticamente una tercera lengua nueva.",
+      "Los hablantes dejan de hablar inmediatamente."
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Fonología de la lengua española",
+      "videos": [
+        {
+          "titulo": "2.1  LENGUAJE Fonología",
+          "youtube_id": "RGBlm3NQRdw",
+          "pdf_link": "https://drive.google.com/file/d/1vRJJvWSM94sFRbnzEAXTdRZVgW1Lwgsr/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de lingüística analiza la palabra 'nación'. Al pronunciarla, nota que la primera 'n' se articula tocando los alvéolos, mientras que la segunda 'n' (al final) resuena más en la cavidad nasal debido a la posición final. Sin embargo, en su mente, ambas son la misma unidad distintiva. ¿Cómo se denominan estas variaciones físicas de un mismo sonido mental?",
+    "opciones": [
+      "Fonemas",
+      "Alófonos",
+      "Grafemas",
+      "Dígrafos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un concurso de ortografía, se pide deletrear la palabra 'queso'. El participante sabe que el sonido inicial es oclusivo velar sordo. ¿Qué dígrafo debe utilizar obligatoriamente para representar este sonido ante la vocal 'e' según las reglas del español explicadas en el video?",
+    "opciones": [
+      "La letra 'k'",
+      "El dígrafo 'gu'",
+      "El dígrafo 'qu'",
+      "La letra 'c'"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un hablante extranjero tiene dificultades para diferenciar entre 'pero' y 'perro'. En español, esta distinción cambia el significado de la palabra. Esto demuestra que la vibración simple o múltiple en este contexto funciona como:",
+    "opciones": [
+      "Un alófono",
+      "Un fonema distintivo",
+      "Un rasgo suprasegmental",
+      "Una variación dialectal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Durante una clase, el profesor explica que el acento puede cambiar el significado de una palabra, como en 'público' (esdrújula) y 'publicó' (aguda). Debido a esta capacidad de diferenciar significados, el acento es considerado:",
+    "opciones": [
+      "Un fonema segmental",
+      "Un fonema suprasegmental",
+      "Un tono",
+      "Un grafema polifónico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al analizar la entonación de la pregunta '¿Viniste ayer?', se observa que la curva melódica sube al final, esperando una respuesta de sí o no. ¿Qué tipo de tono final caracteriza a esta oración interrogativa directa total?",
+    "opciones": [
+      "Tono descendente",
+      "Tono horizontal",
+      "Tono ascendente",
+      "Tono mixto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un poeta escribe versos donde la letra 'x' en la palabra 'éxito' representa dos sonidos /ks/, pero en la palabra 'México' (grafía arcaica) representa un sonido fricativo /j/. Esto es un ejemplo de que la 'x' es un grafema:",
+    "opciones": [
+      "Poligráfico",
+      "Polifónico",
+      "Dígrafo",
+      "Mudo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'calabaza', un estudiante cuenta los sonidos ideales o mentales que la componen. Si segmenta correctamente la palabra en sus unidades mínimas distintivas, ¿cuántos fonemas segmentales identificará?",
+    "opciones": [
+      "6 fonemas",
+      "7 fonemas",
+      "8 fonemas",
+      "9 fonemas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un hablante pronuncia 'zapato' como 'sapato' (seseo), está utilizando el fonema /s/ en lugar del interdental /θ/. A pesar de la diferencia articulatoria con el español peninsular, se entienden. Esto ocurre porque el fonema es una unidad:",
+    "opciones": [
+      "Concreta y física",
+      "Abstracta y mental",
+      "Ilimitada",
+      "Universal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al pronunciar la vocal 'u', se observa que la lengua se retrae hacia la parte posterior de la boca y se eleva hacia el velo del paladar. Según la clasificación de Hellwag mencionada, ¿cómo se describe articulatoriamente esta vocal?",
+    "opciones": [
+      "Anterior alta",
+      "Central baja",
+      "Posterior alta",
+      "Posterior media"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En una región donde se habla quechua y español, se nota que el sistema vocálico del quechua tiene solo 3 vocales, mientras que el español tiene 5. Esto confirma que el número de fonemas en una lengua es:",
+    "opciones": [
+      "Ilimitado en todas las lenguas",
+      "Limitado y específico para cada lengua",
+      "Igual en todos los idiomas",
+      "Dependiente del número de hablantes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué disciplina estudia los sonidos ideales o mentales de la lengua (fonemas)?",
+    "opciones": [
+      "Fonética",
+      "Fonología",
+      "Morfología",
+      "Sintaxis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se representan gráficamente los fonemas?",
+    "opciones": [
+      "Entre corchetes [ ]",
+      "Entre barras inclinadas / /",
+      "Entre comillas \" \"",
+      "Entre paréntesis ( )"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la unidad mínima de estudio de la fonética?",
+    "opciones": [
+      "El fonema",
+      "El fono",
+      "El grafema",
+      "La sílaba"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos fonemas segmentales tiene el español?",
+    "opciones": [
+      "27",
+      "22",
+      "24",
+      "29"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué grafema del español no representa ningún fonema (es mudo)?",
+    "opciones": [
+      "La H",
+      "La U en 'que'",
+      "La X",
+      "La W"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuáles son las tres cavidades que participan en la producción del sonido articulado?",
+    "opciones": [
+      "Nasal, Bucal, Faríngea",
+      "Supraglótica, Glótica, Infraglótica",
+      "Alta, Media, Baja",
+      "Interna, Externa, Media"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano se considera activo en la articulación de los sonidos?",
+    "opciones": [
+      "Los dientes",
+      "El paladar",
+      "La lengua",
+      "Los alvéolos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué cualidad distingue a las consonantes de las vocales en cuanto a la salida del aire?",
+    "opciones": [
+      "Las consonantes tienen salida libre del aire.",
+      "Las consonantes presentan obstrucción o resistencia a la salida del aire.",
+      "Las consonantes siempre son sordas.",
+      "Las consonantes pueden formar núcleo silábico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de fonemas son el acento y el tono?",
+    "opciones": [
+      "Fonemas segmentales",
+      "Fonemas suprasegmentales",
+      "Fonemas vocálicos",
+      "Fonemas consonánticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el par de palabras que se diferencian por un solo fonema (ej. masa/mesa)?",
+    "opciones": [
+      "Par mínimo",
+      "Sinónimos",
+      "Homófonos",
+      "Diptongos"
+    ],
+    "correcta": 0
+  }
+]
+        },
+        {
+          "titulo": "2.2 La sílaba",
+          "youtube_id": "TBBCF2rWlP4",
+          "pdf_link": "https://drive.google.com/file/d/1vRJJvWSM94sFRbnzEAXTdRZVgW1Lwgsr/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En la palabra 'transporte', si analizamos la primera sílaba 'trans', notamos que posee múltiples consonantes antes y después del núcleo vocálico. Según la estructura de la sílaba explicada, ¿cómo se clasificarían sus márgenes silábicos?",
+    "opciones": [
+      "Margen anterior simple y margen posterior simple.",
+      "Margen anterior compuesto y margen posterior simple.",
+      "Margen anterior compuesto y margen posterior compuesto.",
+      "Margen anterior simple y margen posterior compuesto."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un estudiante de lingüística analiza la palabra 'aéreo'. Al separar las sílabas, observa que la primera sílaba es 'a'. ¿Qué elementos estructurales de la sílaba están ausentes en este caso específico?",
+    "opciones": [
+      "El núcleo y el margen posterior.",
+      "El margen anterior y el margen posterior.",
+      "El margen anterior y el núcleo.",
+      "Solo el margen posterior."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos la sílaba 'sol' con la sílaba 'la' (en la palabra 'lápiz'), ¿cuál es la diferencia fundamental en su clasificación por terminación?",
+    "opciones": [
+      "'Sol' es abierta y 'la' es cerrada.",
+      "'Sol' es trabada (cerrada) y 'la' es libre (abierta).",
+      "Ambas son sílabas abiertas.",
+      "'Sol' es átona y 'la' es tónica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'cáustico', la primera sílaba 'cáus' presenta dos vocales juntas que se pronuncian en un solo golpe de voz. ¿Qué tipo de núcleo silábico presenta esta sílaba?",
+    "opciones": [
+      "Núcleo simple.",
+      "Núcleo compuesto.",
+      "Núcleo inexistente.",
+      "Núcleo marginal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un poeta necesita una palabra que termine en sílaba abierta para una rima asonante. De las siguientes opciones, ¿cuál cumple con el requisito de tener su última sílaba abierta?",
+    "opciones": [
+      "Canción",
+      "Árbol",
+      "Casa",
+      "Reloj"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si analizamos la palabra 'constitución', la sílaba 'tros' (en 'nosotros', por ejemplo) o 'trans' tienen algo en común respecto a su cantidad de letras. Si una sílaba tiene 5 letras como 'trans', ¿cómo se denomina según su clasificación por número de letras?",
+    "opciones": [
+      "Tetralíttera",
+      "Pentalíttera",
+      "Trilíttera",
+      "Hexalíttera"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'reloj', la última sílaba 'loj' recibe la mayor fuerza de voz. ¿Cómo se clasifica esta sílaba según la ubicación del acento?",
+    "opciones": [
+      "Sílaba átona.",
+      "Sílaba tónica.",
+      "Sílaba libre.",
+      "Sílaba compuesta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un profesor explica que en español no puede existir una sílaba sin vocal. Si un alumno presenta la palabra 'psst' (usada como onomatopeya) como contraejemplo, ¿cuál sería la respuesta técnica basada en la estructura silábica del español?",
+    "opciones": [
+      "Es una sílaba válida porque tiene núcleo consonántico.",
+      "No es una sílaba real del español porque carece de núcleo vocálico.",
+      "Es una sílaba trabada sin núcleo.",
+      "Es una excepción a la regla de los márgenes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'instrucción', la sílaba 'truc' posee un margen anterior 'tr' y un margen posterior 'c'. Si quisiéramos convertirla en una sílaba abierta modificando la palabra (hipotéticamente), ¿qué cambio debería ocurrir?",
+    "opciones": [
+      "Eliminar el margen anterior.",
+      "Eliminar el margen posterior (la coda).",
+      "Duplicar el núcleo.",
+      "Agregar otra consonante al final."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al dividir silábicamente la palabra 'cooperar', tenemos 'co-o-pe-rar'. La segunda sílaba es 'o'. ¿Qué podemos afirmar sobre la estructura de esta sílaba específica?",
+    "opciones": [
+      "Tiene cabeza y coda.",
+      "Carece de márgenes (anterior y posterior) y solo tiene núcleo.",
+      "Es una sílaba trabada.",
+      "Tiene un núcleo compuesto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la definición de sílaba presentada en el video?",
+    "opciones": [
+      "La unidad mínima de significado.",
+      "La mínima unidad de pronunciación del habla real emitida en un solo impulso de voz.",
+      "Un conjunto de letras escritas sin separación.",
+      "La unidad que distingue significados."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las tres partes fundamentales de la estructura de la sílaba según el video?",
+    "opciones": [
+      "Inicio, Medio y Fin.",
+      "Margen anterior, Núcleo y Margen posterior.",
+      "Vocal, Consonante y Acento.",
+      "Prefijo, Raíz y Sufijo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la única parte de la sílaba que nunca puede faltar en español?",
+    "opciones": [
+      "El margen anterior (cabeza).",
+      "El margen posterior (coda).",
+      "El núcleo.",
+      "El acento."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre tradicional recibe el margen silábico anterior?",
+    "opciones": [
+      "Coda.",
+      "Cima.",
+      "Cabeza o ataque.",
+      "Cierre."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre tradicional recibe el núcleo silábico?",
+    "opciones": [
+      "Cima.",
+      "Ataque.",
+      "Coda.",
+      "Margen."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se llama la sílaba que termina en vocal?",
+    "opciones": [
+      "Sílaba trabada o cerrada.",
+      "Sílaba abierta o libre.",
+      "Sílaba compuesta.",
+      "Sílaba tónica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la sílaba que termina en consonante?",
+    "opciones": [
+      "Sílaba abierta.",
+      "Sílaba directa.",
+      "Sílaba cerrada o trabada.",
+      "Sílaba átona."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una sílaba tónica?",
+    "opciones": [
+      "La que tiene más letras.",
+      "La que carece de acento.",
+      "La que recibe la mayor fuerza de voz o acento.",
+      "La que siempre lleva tilde gráfica."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se clasifica una sílaba que tiene una sola letra?",
+    "opciones": [
+      "Bilíttera.",
+      "Monolíttera.",
+      "Trilíttera.",
+      "Unilateral."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Puede una sílaba tener un núcleo compuesto?",
+    "opciones": [
+      "No, nunca.",
+      "Sí, cuando se presenta más de un sonido vocálico (diptongo/triptongo) en la misma sílaba.",
+      "Solo en palabras extranjeras.",
+      "Sí, si tiene dos consonantes juntas."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.3 LA SÍLABA - LENGUAJE",
+          "youtube_id": "dan7BlsblGc",
+          "pdf_link": "https://drive.google.com/file/d/1vRJJvWSM94sFRbnzEAXTdRZVgW1Lwgsr/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En la palabra 'cohibido', aunque la 'h' está presente entre las vocales 'o' e 'i', se considera que existe un diptongo. ¿Cuál es el argumento fonológico que explica esta clasificación según el video?",
+    "opciones": [
+      "La 'h' es una consonante muda que impide la unión de vocales.",
+      "La 'h' no tiene representación fonológica, por lo que las vocales 'o' e 'i' se encuentran y forman sílaba.",
+      "La 'h' siempre forma hiato cuando está entre vocales.",
+      "La 'h' transforma la vocal 'i' en consonante."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante debe separar silábicamente la palabra 'deshabitado'. Si aplica correctamente la regla de la frontera silábica explicada, ¿cuál sería la segmentación adecuada?",
+    "opciones": [
+      "des-ha-bi-ta-do",
+      "de-sha-bi-ta-do",
+      "de-sa-bi-ta-do",
+      "des-a-bi-ta-do"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si analizamos la palabra 'construir', observamos que la sílaba final 'truir' contiene las vocales 'u' e 'i'. Dado que ambas son cerradas y diferentes, ¿qué tipo de fenómeno vocálico se presenta y por qué lleva tilde?",
+    "opciones": [
+      "Hiato simple, se tilda por ser aguda.",
+      "Diptongo homogéneo, se tilda por ser palabra aguda terminada en 'r' (aunque la regla general de agudas es 'n', 's' o vocal, aquí hay una excepción de la tilde en hiatos, pero el video aclara que es diptongo homogéneo y la tilde es por reglas generales, o sea, aquí la 'i' es tónica).",
+      "Diptongo creciente, sin tilde.",
+      "Hiato acentual, por la fuerza de voz en la 'i'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'buey', encontramos la secuencia 'u-e-y'. Sabiendo que la 'y' al final de sílaba tiene valor vocálico de 'i', ¿qué tipo de grupo vocálico se forma?",
+    "opciones": [
+      "Un hiato simple.",
+      "Un diptongo decreciente.",
+      "Un triptongo.",
+      "Un hiato acentual."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar la palabra 'lingüística', se observa la secuencia 'güi'. A pesar de que la 'u' y la 'i' son cerradas, se considera diptongo. ¿Qué función cumple la diéresis o crema en este caso específico?",
+    "opciones": [
+      "Hace que la 'u' sea muda.",
+      "Le da sonido a la 'u', permitiendo que forme diptongo con la 'i'.",
+      "Separa la 'u' de la 'i' en sílabas distintas.",
+      "Transforma la 'g' en 'j'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si tenemos la palabra 'leía', encontramos la secuencia 'e-í-a'. ¿Qué fenómeno vocálico se produce entre la 'e' y la 'í' tónica, y luego entre la 'í' tónica y la 'a'?",
+    "opciones": [
+      "Un triptongo.",
+      "Dos diptongos seguidos.",
+      "Dos hiatos acentuales sucesivos.",
+      "Un hiato simple y un diptongo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la palabra 'guion', la RAE indica que no debe tildarse, aunque muchos hablantes perciban un hiato. ¿Cuál es la razón fonológica explicada para considerarla un monosílabo y no tildarla?",
+    "opciones": [
+      "Porque la 'u' tiene sonido propio.",
+      "Porque la 'u' no suena (es parte del dígrafo 'gu') y 'io' forma diptongo, haciendo una sola sílaba.",
+      "Porque es una palabra aguda terminada en 'n'.",
+      "Porque es un hiato simple."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al separar en sílabas la palabra 'transporte', se obtiene 'trans-por-te'. ¿Qué principio justifica que las consonantes 'ns' se mantengan en la misma sílaba que 'tra'?",
+    "opciones": [
+      "Las consonantes finales de sílaba siempre se agrupan con la vocal anterior si no hay vocal posterior que las atraiga (coda compuesta).",
+      "Siempre se separan las consonantes 'ns'.",
+      "La 's' siempre inicia sílaba.",
+      "Es una excepción a la regla."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la palabra 'ahorcado', la 'h' se encuentra entre 'a' y 'o'. Dado que ambas son vocales abiertas, ¿qué fenómeno ocurre y cómo afecta la 'h'?",
+    "opciones": [
+      "Diptongo, la 'h' une las vocales.",
+      "Hiato simple, la 'h' no impide la separación de vocales abiertas.",
+      "Triptongo con la 'h'.",
+      "Hiato acentual por la 'h'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos 'ciudad' y 'cuidado', en ambos casos tenemos dos vocales cerradas diferentes ('i-u', 'u-i'). ¿Qué tipo de diptongo se forma en estos casos según la clasificación tradicional?",
+    "opciones": [
+      "Diptongo Creciente.",
+      "Diptongo Decreciente.",
+      "Diptongo Homogéneo.",
+      "Hiato Simple."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la sílaba según la definición dada en el video?",
+    "opciones": [
+      "La unidad mínima de significado.",
+      "El sonido o grupo de sonidos producidos en un solo impulso de voz.",
+      "La letra que se escribe más rápido.",
+      "Un conjunto de vocales fuertes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las tres partes de la estructura de la sílaba mencionadas?",
+    "opciones": [
+      "Inicio, nudo y desenlace.",
+      "Cabeza, Cima (núcleo) y Coda.",
+      "Prefijo, raíz y sufijo.",
+      "Vocal, consonante y acento."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte de la sílaba es obligatoria y nunca puede faltar?",
+    "opciones": [
+      "La Cabeza.",
+      "La Coda.",
+      "La Cima o Núcleo (vocal).",
+      "El margen prenuclear."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama la concurrencia vocálica donde dos vocales se unen en una misma sílaba?",
+    "opciones": [
+      "Hiato.",
+      "Diptongo.",
+      "Acento.",
+      "Tonalidad."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué vocales se consideran 'abiertas'?",
+    "opciones": [
+      "i, u",
+      "a, e, o",
+      "a, i, u",
+      "e, o, u"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de hiato se produce al encontrar dos vocales abiertas juntas (ej. 'aereo')?",
+    "opciones": [
+      "Hiato Acentual.",
+      "Hiato Simple.",
+      "Diptongo Creciente.",
+      "Triptongo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para formar un triptongo?",
+    "opciones": [
+      "Vocal Abierta + Vocal Cerrada + Vocal Abierta.",
+      "Vocal Cerrada + Vocal Abierta + Vocal Cerrada.",
+      "Vocal Cerrada + Vocal Cerrada + Vocal Abierta.",
+      "Tres vocales abiertas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre en un hiato acentual?",
+    "opciones": [
+      "Dos vocales abiertas se separan.",
+      "Una vocal cerrada tónica se separa de una vocal abierta átona.",
+      "Dos vocales cerradas iguales se juntan.",
+      "Se forma una sola sílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que un grupo vocálico sea 'heterosilábico'?",
+    "opciones": [
+      "Que las vocales permanecen en la misma sílaba.",
+      "Que las vocales se separan en sílabas diferentes.",
+      "Que hay tres vocales juntas.",
+      "Que no hay vocales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el otro nombre con el que se conoce a la 'diéresis'?",
+    "opciones": [
+      "Virgulilla.",
+      "Crema.",
+      "Tilde diacrítica.",
+      "Apostrofe."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.4 LENGUAJE Concurrencia vocálica",
+          "youtube_id": "qKvrFhIMqjo",
+          "pdf_link": "https://drive.google.com/file/d/1vRJJvWSM94sFRbnzEAXTdRZVgW1Lwgsr/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante analiza la palabra 'ahijado'. Al separar las sílabas, duda sobre qué hacer con la 'h' intercalada. Según la norma explicada en el video sobre la 'h' intervocálica y la concurrencia vocálica, ¿cuál es el análisis correcto?",
+    "opciones": [
+      "La 'h' impide la formación del diptongo, por lo que se separan 'a' e 'i'.",
+      "La 'h' es muda y no impide el diptongo, por lo que 'ahi' forma una sola sílaba.",
+      "La 'h' se une a la vocal siguiente formando una sílaba aparte.",
+      "La palabra no presenta concurrencia vocálica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'guerra', encontramos las vocales 'u' y 'e' juntas. Sin embargo, el profesor explica que aquí no hay concurrencia vocálica. ¿Cuál es la razón fonológica para esta afirmación?",
+    "opciones": [
+      "Porque son vocales de diferente apertura.",
+      "Porque la 'u' no se pronuncia (es muda en el dígrafo 'gu').",
+      "Porque la 'e' es más fuerte que la 'u'.",
+      "Porque forman un hiato simple."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si tenemos la palabra 'limpiéis', observamos la secuencia 'i-e-i'. ¿Cómo se clasifica fonológicamente a la primera y última vocal 'i' dentro de esta sílaba según su posición respecto al núcleo?",
+    "opciones": [
+      "Ambas son núcleos silábicos.",
+      "La primera es semiconsonante y la última es semivocal.",
+      "La primera es semivocal y la última es semiconsonante.",
+      "Ambas son márgenes postnucleares."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un alumno debe silabear la palabra 'deshojado'. Inicialmente piensa separar el prefijo 'des-', pero recuerda la regla de la consonante entre vocales explicada en el video. ¿Cuál es el silabeo correcto?",
+    "opciones": [
+      "des-ho-ja-do",
+      "de-sho-ja-do",
+      "de-so-ja-do (considerando que la h no suena y la s se une a la o).",
+      "des-o-ja-do"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la palabra 'buey', la 'y' final suena como 'i'. Debido a esto, ¿qué tipo de concurrencia vocálica se forma en esta palabra monosílaba?",
+    "opciones": [
+      "Diptongo creciente.",
+      "Hiato acentual.",
+      "Triptongo.",
+      "Diptongo decreciente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar la palabra 'fluido', encontramos dos vocales cerradas diferentes ('u', 'i'). Según la norma de las vocales cerradas diferentes explicada, ¿cómo se silabea esta palabra?",
+    "opciones": [
+      "flu-i-do (hiato)",
+      "flui-do (diptongo)",
+      "fluí-do (hiato acentual)",
+      "flu-id-o"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'chiita', encontramos dos vocales cerradas iguales. ¿Qué fenómeno se produce obligatoriamente en este caso?",
+    "opciones": [
+      "Diptongo homogéneo.",
+      "Triptongo.",
+      "Hiato simple.",
+      "Hiato acentual."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si la palabra 'caída' lleva tilde en la 'i', es porque la vocal cerrada tónica está junto a una vocal abierta. ¿Cómo se denomina a la tilde que marca esta separación?",
+    "opciones": [
+      "Tilde diacrítica.",
+      "Tilde enfática.",
+      "Tilde disolvente (o robúrica).",
+      "Tilde general."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la palabra 'anual', al pronunciarla, notamos que la fuerza de voz recae en la vocal abierta 'a' y la cerrada 'u' también suena. ¿Qué tipo de grupo vocálico se forma?",
+    "opciones": [
+      "Hiato simple.",
+      "Diptongo creciente.",
+      "Diptongo decreciente.",
+      "Triptongo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'cohete' presenta una 'h' entre dos vocales abiertas ('o', 'e'). ¿Qué fenómeno ocurre aquí y cómo se silabea?",
+    "opciones": [
+      "Diptongo: cohe-te",
+      "Hiato simple: co-he-te",
+      "Hiato acentual: co-hé-te",
+      "Triptongo: co-he-te"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las vocales denominadas 'abiertas' según el video?",
+    "opciones": [
+      "i, u",
+      "a, e, o",
+      "a, i, u",
+      "e, o, u"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la concurrencia vocálica?",
+    "opciones": [
+      "La unión de consonantes en una sílaba.",
+      "La aparición de vocales juntas dentro de una palabra.",
+      "La repetición de vocales en un verso.",
+      "El sonido fuerte de una vocal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué parte de la estructura de la sílaba es obligatoria y nunca puede faltar?",
+    "opciones": [
+      "La cabeza.",
+      "La coda.",
+      "El núcleo (cima).",
+      "El margen prenuclear."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el grupo silábico donde las vocales se pronuncian en la misma sílaba?",
+    "opciones": [
+      "Heterosilábico.",
+      "Homosilábico.",
+      "Monosilábico.",
+      "Polisilábico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de diptongo se forma con la unión de una vocal abierta + una vocal cerrada?",
+    "opciones": [
+      "Creciente.",
+      "Decreciente.",
+      "Homogéneo.",
+      "Neutro."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de hiato se produce cuando se encuentran dos vocales abiertas iguales o diferentes?",
+    "opciones": [
+      "Hiato acentual.",
+      "Hiato simple.",
+      "Diptongo creciente.",
+      "Adiptongo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la estructura de un triptongo?",
+    "opciones": [
+      "Vocal Abierta + Vocal Cerrada + Vocal Abierta.",
+      "Vocal Cerrada + Vocal Abierta + Vocal Cerrada.",
+      "Tres vocales abiertas.",
+      "Vocal Cerrada + Vocal Cerrada + Vocal Cerrada."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se le llama a la consonante que va después del núcleo en la sílaba?",
+    "opciones": [
+      "Cabeza.",
+      "Cima.",
+      "Coda.",
+      "Ataque."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sucede con la 'x' intervocálica al silabear (ej. 'examen')?",
+    "opciones": [
+      "Se queda con la primera vocal.",
+      "Se va con la segunda vocal.",
+      "Forma una sílaba independiente.",
+      "Se elimina."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se produce un hiato acentual?",
+    "opciones": [
+      "Cuando se juntan dos vocales abiertas.",
+      "Cuando una vocal cerrada tónica está junto a una vocal abierta átona.",
+      "Cuando hay tres vocales seguidas.",
+      "Cuando la 'h' impide el diptongo."
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Acentuación general (Grupo Ciencias)",
+      "videos": [
+        {
+          "titulo": "3.1 LENGUAJE Acentuación general",
+          "youtube_id": "H_O1TOAVNVI",
+          "pdf_link": "https://drive.google.com/file/d/14Tc7ptgx6aQp_fSUACSiMrZnYPRDJvbL/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante escribe la palabra 'robots' en un examen y decide tildarla argumentando que es una palabra aguda que termina en 's'. Sin embargo, el profesor le corrige indicando que no debe llevar tilde. Según las reglas de acentuación general explicadas en el video, ¿cuál es la razón técnica de esta corrección?",
+    "opciones": [
+      "Porque es una palabra de origen extranjero y nunca se tildan.",
+      "Porque es una palabra aguda que termina en 's' pero está antecedida por otra consonante.",
+      "Porque 'robots' es una palabra grave, no aguda.",
+      "Porque los plurales de palabras agudas nunca llevan tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un poeta desea escribir versos utilizando la palabra 'guion', pero duda si debe tildarla o no para ajustar la métrica visual, ¿qué criterio lingüístico actual debe seguir y por qué?",
+    "opciones": [
+      "Debe tildarla si siente que hay un hiato en la pronunciación.",
+      "No debe tildarla porque 'guion' se considera un monosílabo ortográfico a efectos de tildación.",
+      "Puede tildarla opcionalmente si es para poesía.",
+      "Debe tildarla porque termina en 'n' y es aguda."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un concurso de ortografía, se pide tildar correctamente la palabra 'forceps'. Un participante duda porque termina en 's'. ¿Cuál es el análisis correcto para tildar esta palabra según las reglas de las graves?",
+    "opciones": [
+      "No se tilda porque las graves que terminan en 's' nunca se tildan.",
+      "Se tilda porque es una palabra grave que termina en 's' antecedida de otra consonante.",
+      "No se tilda porque es una palabra de origen latino.",
+      "Se tilda porque es una excepción a la regla de las esdrújulas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un redactor escribe: 'El virrey llegó ayer'. Al revisar su texto, se pregunta por qué 'virrey' no lleva tilde si es una palabra aguda que termina en sonido de vocal 'i'. ¿Qué regla ortográfica justifica la ausencia de tilde?",
+    "opciones": [
+      "Las agudas que terminan en 'y' (consonante) no se tildan, aunque suene como vocal.",
+      "Es una palabra monosílaba.",
+      "Las palabras que denotan cargos públicos no llevan tilde.",
+      "Debería llevar tilde, es un error ortográfico."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al analizar la palabra 'jockey' (o yóquey), notamos que es una palabra grave que termina en 'y'. Según la normativa explicada, ¿debe llevar tilde?",
+    "opciones": [
+      "No, porque termina en sonido vocálico.",
+      "No, porque es un extranjerismo.",
+      "Sí, porque es una palabra grave que termina en 'y' (consonante distinta de n o s).",
+      "Sí, porque todas las palabras graves se tildan."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si comparamos las palabras 'truhan' y 'guion', ambas tienen una secuencia de vocales que podría interpretarse como hiato o diptongo. ¿Por qué la RAE determina que ninguna de las dos lleva tilde?",
+    "opciones": [
+      "Porque ambas son palabras agudas terminadas en consonante distinta de n o s.",
+      "Porque se consideran monosílabos ortográficos, y los monosílabos no se tildan por regla general.",
+      "Porque la 'h' en 'truhan' impide la tildación.",
+      "Porque son palabras llanas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante afirma que la palabra 'entregaselo' es sobreesdrújula. Para verificar si su afirmación y su estructura son correctas, ¿qué componentes gramaticales debe identificar en la formación de esta palabra?",
+    "opciones": [
+      "Un sustantivo + dos adjetivos.",
+      "Un verbo + dos pronombres enclíticos.",
+      "Un adverbio + un verbo.",
+      "Un prefijo + una raíz + un sufijo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al escribir un informe médico, se utiliza el término 'monocromo' para describir una imagen. Un colega sugiere corregirlo a 'monócromo'. Basado en la explicación del video sobre palabras que generan confusión, ¿quién tiene la razón?",
+    "opciones": [
+      "El colega, porque es una palabra esdrújula.",
+      "Quien escribió 'monocromo', porque la forma 'monócromo' no existe o es incorrecta.",
+      "Ambos, porque es una palabra optativa.",
+      "Ninguno, la palabra correcta es 'monocromático'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Dime si me amas como yo a ti', se pide identificar si hay alguna palabra aguda prosódica (sin tilde). ¿Cuál es el análisis correcto de las palabras en esta oración?",
+    "opciones": [
+      "La palabra 'Dime' es aguda prosódica.",
+      "La palabra 'amas' es aguda prosódica.",
+      "No hay ninguna palabra aguda prosódica, ya que las polisílabas son graves y el resto monosílabos.",
+      "La palabra 'ti' es aguda prosódica."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un alumno sostiene que la palabra 'libido' lleva tilde en la primera 'i' (líbido) porque así la pronuncia mucha gente. Según la normativa y lo explicado sobre palabras confusas, ¿es correcta esta afirmación?",
+    "opciones": [
+      "Sí, es una palabra esdrújula.",
+      "Sí, es una palabra optativa.",
+      "No, la palabra correcta es grave 'libido' y no lleva tilde.",
+      "No, la palabra correcta es aguda 'libidó'."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la definición de 'acento' según el video?",
+    "opciones": [
+      "La rayita oblicua que se pone sobre las vocales.",
+      "La mayor fuerza de voz, intensidad o pronunciación que recae en una sílaba.",
+      "El sonido de las consonantes fuertes.",
+      "La entonación de una oración completa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el acento que solo se pronuncia pero no se escribe?",
+    "opciones": [
+      "Acento ortográfico.",
+      "Acento diacrítico.",
+      "Acento prosódico.",
+      "Acento enfático."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuándo se tildan las palabras agudas?",
+    "opciones": [
+      "Cuando terminan en cualquier consonante.",
+      "Cuando terminan en n, s o vocal.",
+      "Cuando terminan en vocal solamente.",
+      "Siempre se tildan."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se tildan las palabras graves o llanas?",
+    "opciones": [
+      "Cuando terminan en n, s o vocal.",
+      "Cuando terminan en cualquier consonante, excepto n o s (y vocal).",
+      "Nunca se tildan.",
+      "Cuando son monosílabos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué regla de tildación aplica para las palabras esdrújulas y sobreesdrújulas?",
+    "opciones": [
+      "Se tildan solo si terminan en vocal.",
+      "Se tildan cuando no terminan en n o s.",
+      "Se tildan siempre, sin importar su terminación.",
+      "Solo se tildan en casos excepcionales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo denomina la RAE a la posición de la sílaba tónica en las palabras sobreesdrújulas?",
+    "opciones": [
+      "Trasantepenúltima.",
+      "Anterior a la antepenúltima.",
+      "Pre-antepenúltima.",
+      "Superproparoxítona."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son las palabras optativas o de doble acentuación?",
+    "opciones": [
+      "Palabras que pueden escribirse con o sin tilde y ambas formas son válidas (ej. periodo/período).",
+      "Palabras que cambian de significado según la tilde.",
+      "Palabras que siempre deben llevar diéresis.",
+      "Palabras que solo existen en el lenguaje oral."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la palabra correcta: 'besanía' o 'besania'?",
+    "opciones": [
+      "Besanía (con tilde).",
+      "Besania (sin tilde).",
+      "Ambas son correctas.",
+      "Ninguna existe."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la palabra correcta: 'estadio' o 'estadío'?",
+    "opciones": [
+      "Estadio (sin tilde).",
+      "Estadío (con tilde).",
+      "Ambas son correctas.",
+      "Depende del contexto (deporte vs medicina)."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función cumplen los pronombres enclíticos en la formación de palabras?",
+    "opciones": [
+      "Se colocan antes del verbo.",
+      "Se unen al final de un verbo para formar una sola palabra (ej. dígamelo).",
+      "Reemplazan al sujeto de la oración.",
+      "Indican el tiempo verbal."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.2 Acentuación general ",
+          "youtube_id": "_gW7rQhlKZE",
+          "pdf_link": "https://drive.google.com/file/d/14Tc7ptgx6aQp_fSUACSiMrZnYPRDJvbL/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En un texto, un estudiante escribe la palabra 'microchips' con tilde en la 'i', argumentando que es una palabra aguda terminada en 's'. Sin embargo, el profesor le corrige indicando que no debe llevar tilde. Según las reglas de acentuación explicadas en el video, ¿cuál es la razón técnica para no tildar esta palabra?",
+    "opciones": [
+      "Porque es una palabra grave.",
+      "Porque es un extranjerismo no adaptado.",
+      "Porque termina en un grupo consonántico (ps).",
+      "Porque es un monosílabo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un redactor tiene dudas sobre si tildar la palabra 'cortinajes'. Al analizarla, se da cuenta de que es una palabra grave que termina en 's' precedida de otra consonante. ¿Cuál es la regla de tildación que aplica para las palabras graves en este caso específico?",
+    "opciones": [
+      "Se tildan siempre que terminen en consonante.",
+      "No se tildan si terminan en vocal, n o s.",
+      "Se tildan cuando terminan en 's' agrupada con otra consonante.",
+      "Nunca se tildan si terminan en 's'."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al escribir el plural de la palabra 'robot', obtenemos 'robots'. Esta palabra es aguda y termina en 's'. ¿Por qué la normativa indica que no debe llevar tilde gráfica?",
+    "opciones": [
+      "Porque termina en un grupo consonántico (ts).",
+      "Porque es una palabra monosílaba.",
+      "Porque la 't' final es muda.",
+      "Porque proviene del inglés."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si tenemos la palabra compuesta 'decimoséptimo', formada por 'décimo' y 'séptimo', ambas con tilde original. Según la regla de palabras compuestas explicada en el video, ¿cómo debe escribirse correctamente?",
+    "opciones": [
+      "Décimoséptimo (conserva ambas tildes).",
+      "Decimoséptimo (el primer elemento pierde la tilde).",
+      "Decimoseptimo (pierde ambas tildes).",
+      "Décimoseptimo (el segundo elemento pierde la tilde)."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una oración interrogativa indirecta como 'No sé cómo lo hizo', la palabra 'cómo' lleva tilde. ¿Qué tipo de acento se está aplicando en este caso según la clasificación mostrada?",
+    "opciones": [
+      "Acento general.",
+      "Acento diacrítico enfático.",
+      "Acento prosódico.",
+      "Acento ortográfico agudo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante escribe 'guion' con tilde en la 'o', pero su profesor le indica que ya no se debe tildar. ¿Cuál es la justificación actual de la RAE para considerar 'guion' como una palabra que no lleva tilde?",
+    "opciones": [
+      "Es una palabra aguda terminada en 'n'.",
+      "Es considerada un monosílabo ortográfico.",
+      "Es un hiato acentual.",
+      "Es una palabra grave."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'bonsái' es aguda y termina en vocal. Sin embargo, la palabra 'virrey' también es aguda y termina en sonido vocálico 'i' (representado por 'y'). ¿Por qué 'bonsái' se tilda y 'virrey' no?",
+    "opciones": [
+      "Porque 'virrey' termina en consonante 'y' para efectos de acentuación.",
+      "Porque 'bonsái' es extranjera.",
+      "Porque 'virrey' es grave.",
+      "Porque 'bonsái' tiene un hiato."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al analizar la palabra 'tictacs', notamos que es una palabra aguda terminada en 's'. ¿Por qué no se tilda?",
+    "opciones": [
+      "Porque es una onomatopeya.",
+      "Porque termina en grupo consonántico (cs).",
+      "Porque es grave.",
+      "Porque es monosílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Se lo dije', la palabra 'Se' no lleva tilde. En cambio, en 'Sé bueno', la palabra 'Sé' sí lleva tilde. ¿Qué función gramatical cumple 'Sé' con tilde en el segundo ejemplo?",
+    "opciones": [
+      "Pronombre personal.",
+      "Verbo (ser o saber).",
+      "Sustantivo.",
+      "Adverbio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'hámster' es grave y termina en 'r'. ¿Por qué lleva tilde según las reglas generales?",
+    "opciones": [
+      "Porque es una palabra esdrújula.",
+      "Porque las graves se tildan cuando terminan en cualquier consonante menos 'n' o 's'.",
+      "Porque es un préstamo lingüístico.",
+      "Porque tiene un hiato."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se tildan las palabras agudas según la regla general?",
+    "opciones": [
+      "Cuando terminan en cualquier consonante.",
+      "Cuando terminan en n, s o vocal.",
+      "Siempre se tildan.",
+      "Cuando terminan en grupo consonántico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el acento que solo se pronuncia pero no se escribe?",
+    "opciones": [
+      "Acento ortográfico.",
+      "Acento diacrítico.",
+      "Acento prosódico.",
+      "Acento enfático."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué regla se aplica a las palabras esdrújulas y sobreesdrújulas?",
+    "opciones": [
+      "Se tildan si terminan en vocal.",
+      "Se tildan solo si terminan en consonante.",
+      "Se tildan siempre, sin excepción.",
+      "Nunca se tildan."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ocurre con las palabras latinas como 'currículum' o 'réquiem' cuando se incorporan al español?",
+    "opciones": [
+      "Mantienen su acentuación latina original.",
+      "Se someten a las reglas generales de acentuación del español.",
+      "Nunca llevan tilde.",
+      "Se escriben siempre en cursiva sin tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un hiato acentual?",
+    "opciones": [
+      "La unión de dos vocales abiertas.",
+      "La separación de una vocal cerrada tónica y una abierta átona, que siempre lleva tilde.",
+      "La unión de dos vocales cerradas.",
+      "Un diptongo con tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo lleva tilde la palabra 'aún'?",
+    "opciones": [
+      "Cuando equivale a 'hasta' o 'incluso'.",
+      "Cuando equivale a 'todavía'.",
+      "Siempre lleva tilde.",
+      "Nunca lleva tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso se tilda el monosílabo 'mi'?",
+    "opciones": [
+      "Cuando es adjetivo posesivo.",
+      "Cuando es sustantivo (nota musical).",
+      "Cuando es pronombre personal.",
+      "Cuando es artículo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se deben escribir los nombres científicos de animales y plantas según la norma actual explicada?",
+    "opciones": [
+      "Con tilde y en redonda.",
+      "Sin tilde y en cursiva.",
+      "Con tilde y en mayúsculas.",
+      "Entre comillas y con tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de palabra es 'bíceps' según su acentuación?",
+    "opciones": [
+      "Aguda.",
+      "Grave.",
+      "Esdrújula.",
+      "Sobresdrújula."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo lleva tilde la palabra 'mas'?",
+    "opciones": [
+      "Cuando es conjunción adversativa (equivale a 'pero').",
+      "Cuando es adverbio de cantidad.",
+      "Cuando es sustantivo.",
+      "Nunca lleva tilde."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.3 LENGUAJE 📚 Acentuación especial",
+          "youtube_id": "76mM0Mx3c7c",
+          "pdf_link": "https://drive.google.com/file/d/14Tc7ptgx6aQp_fSUACSiMrZnYPRDJvbL/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de lingüística analiza la palabra 'tío' y 'pío'. Al compararlas con 'tía' y 'pía', nota que en las dos primeras la vocal cerrada no lleva tilde a pesar de ser tónica. Sin embargo, en la palabra 'oído', la 'i' sí se tilda. Según la regla del hiato acentual explicada en el video, ¿cuál es la razón fundamental por la que 'oído' lleva tilde y 'pio' no?",
+    "opciones": [
+      "Porque 'pio' es un monosílabo y 'oído' es polisílabo.",
+      "Porque en 'oído' la vocal cerrada tónica está junto a una abierta, formando hiato, mientras que en 'pio' hay diptongo.",
+      "Porque 'oído' es una palabra esdrújula.",
+      "Porque la 'h' intermedia en 'ahínco' exige la tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un texto jurídico se lee la expresión 'habeas corpus' escrita sin tilde y en cursiva. Un corrector de estilo sugiere ponerle tilde a 'hábeas'. Basándose en la normativa sobre latinismos explicada en el video, ¿quién tiene la razón y por qué?",
+    "opciones": [
+      "El corrector, porque 'hábeas' es una palabra esdrújula.",
+      "Quien escribió el texto, porque las locuciones latinas (frases) no llevan tilde.",
+      "El corrector, porque todos los latinismos se adaptan a las reglas generales.",
+      "Quien escribió el texto, porque 'corpus' es aguda."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un hablante desea escribir correctamente la palabra que designa al carné universitario, debe optar por la forma 'carné' con tilde. ¿Qué proceso lingüístico justifica esta escritura según el video?",
+    "opciones": [
+      "Es un latinismo adaptado.",
+      "Es una palabra castellanizada que proviene del francés (galicismo) y se adapta a las reglas generales.",
+      "Es una palabra compuesta con guion.",
+      "Es un caso de hiato acentual."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al analizar la palabra 'físico-químico', observamos que ambos elementos conservan su tilde. En cambio, en la palabra 'balompié' (sin guion), 'balón' pierde su tilde original. ¿Qué regla de acentuación explica esta diferencia?",
+    "opciones": [
+      "Las palabras compuestas sin guion se analizan como una sola unidad; las con guion mantienen la acentuación de cada componente.",
+      "'Físico-químico' es una excepción a la regla general.",
+      "En 'balompié', la palabra 'pie' nunca se tilda por ser monosílabo.",
+      "Las palabras con guion siempre son esdrújulas."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un profesor explica que la palabra 'amablemente' no lleva tilde. Un alumno pregunta por qué, si al pronunciarla parece tener fuerza de voz. ¿Cuál es la explicación técnica basada en la formación de palabras con el sufijo '-mente'?",
+    "opciones": [
+      "Porque es una palabra sobreesdrújula y estas siempre se tildan.",
+      "Porque se conserva el acento del adjetivo base ('amable'), el cual es grave y termina en vocal, por lo que no lleva tilde.",
+      "Porque los adverbios terminados en '-mente' nunca llevan tilde.",
+      "Porque tiene dos sílabas tónicas y se anulan entre sí."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Sé que él vendrá', la palabra 'Sé' lleva tilde diacrítica. Si cambiamos el contexto a 'Se lo dije ayer', ya no lleva tilde. ¿Qué categoría gramatical cumple 'Sé' (con tilde) para justificar su acentuación?",
+    "opciones": [
+      "Pronombre personal.",
+      "Adverbio de afirmación.",
+      "Verbo (ser o saber).",
+      "Sustantivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al escribir '2 + 2 = 4', el signo '+' se lee 'más'. En este contexto matemático, si escribiéramos la palabra, ¿debería llevar tilde? ¿Por qué?",
+    "opciones": [
+      "No, porque funciona como conjunción 'y'.",
+      "Sí, porque es un adverbio de cantidad.",
+      "Sí, porque funciona como sustantivo (el signo más) o conjunción matemática que equivale a suma.",
+      "No, porque es un monosílabo átono."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La palabra 'guion' solía tildarse en 'guión'. Sin embargo, la normativa actual indica que no debe llevar tilde. ¿Cuál es el argumento fonológico para considerarla un monosílabo y no tildarla?",
+    "opciones": [
+      "Porque es una palabra aguda terminada en 'n'.",
+      "Porque la vocal cerrada 'i' y la abierta 'o' forman diptongo, haciendo que sea una sola sílaba.",
+      "Porque es un hiato acentual.",
+      "Porque es una palabra grave."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos 'tía' con 'ti', notamos que 'tía' lleva tilde por hiato acentual, pero 'ti' nunca se tilda. ¿Cuál es la razón para que el pronombre 'ti' no lleve tilde diacrítica?",
+    "opciones": [
+      "Porque es una palabra aguda.",
+      "Porque no tiene un par homónimo con otra función gramatical que requiera diferenciación.",
+      "Porque termina en vocal.",
+      "Porque es un error común tildarlo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Aún no llega', la palabra 'Aún' lleva tilde. Si cambiamos la frase a 'Aún los niños saben eso' (refiriéndose a 'incluso'), ¿debe llevar tilde? ¿Por qué?",
+    "opciones": [
+      "Sí, porque siempre es adverbio de tiempo.",
+      "No, porque en ese contexto equivale a 'hasta' o 'incluso' y es átona.",
+      "Sí, para diferenciarla de la preposición 'aun'.",
+      "No, porque es un monosílabo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la acentuación especial según la definición del video?",
+    "opciones": [
+      "La que se aplica solo a las palabras agudas.",
+      "Aquella que en cierta medida es distinta o diferente a la regla general.",
+      "La que se usa solo en poesía.",
+      "La que estudia los sonidos de las vocales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se produce un hiato acentual?",
+    "opciones": [
+      "Cuando se juntan dos vocales abiertas.",
+      "Cuando la vocal cerrada tónica suena más que la vocal abierta átona.",
+      "Cuando la vocal abierta suena más que la cerrada.",
+      "Cuando hay dos vocales cerradas iguales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llaman las palabras que terminan en el sufijo '-mente' y tienen dos sílabas tónicas?",
+    "opciones": [
+      "Sobresdrújulas.",
+      "Ditónicas o diatónicas.",
+      "Compuestas con guion.",
+      "Polisílabas agudas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con la tilde en las palabras compuestas unidas por guion (ej. 'técnico-pedagógico')?",
+    "opciones": [
+      "Solo lleva tilde la última palabra.",
+      "Ninguna lleva tilde.",
+      "Cada palabra conserva su tilde original si la tenía.",
+      "Se tildan siempre ambas palabras."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué sucede con la tilde de la primera palabra en un compuesto sin guion (ej. 'balón' + 'mano' = 'balonmano')?",
+    "opciones": [
+      "Se conserva la tilde.",
+      "La primera palabra pierde su tilde.",
+      "La tilde se mueve a la última sílaba.",
+      "Se convierte en diéresis."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se tilda el monosílabo 'tú'?",
+    "opciones": [
+      "Cuando es adjetivo posesivo.",
+      "Cuando es pronombre personal.",
+      "Cuando es sustantivo.",
+      "Nunca se tilda."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se tilda el monosílabo 'dé'?",
+    "opciones": [
+      "Cuando es preposición.",
+      "Cuando es forma del verbo dar.",
+      "Cuando es pronombre.",
+      "Cuando es artículo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son las palabras castellanizadas?",
+    "opciones": [
+      "Palabras que provienen del latín y no cambian.",
+      "Palabras extranjeras que se han adaptado a la pronunciación y ortografía del español.",
+      "Palabras inventadas por la RAE.",
+      "Palabras que solo se usan en España."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con los latinismos de una sola palabra (ej. 'currículum') respecto a la tilde?",
+    "opciones": [
+      "Nunca llevan tilde.",
+      "Se someten a las reglas generales de acentuación del español.",
+      "Siempre llevan tilde en la última sílaba.",
+      "Se escriben en mayúsculas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica el acento diacrítico en los interrogativos y exclamativos (ej. 'qué', 'dónde')?",
+    "opciones": [
+      "Que son sustantivos.",
+      "Su valor enfático, ya sea en preguntas o exclamaciones directas o indirectas.",
+      "Que son palabras agudas terminadas en vocal.",
+      "Que son monosílabos átonos."
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Morfosintaxis de la lengua española",
+      "videos": [
+        {
+          "titulo": "4.1 LENGUAJE Morfología y formación de palabras",
+          "youtube_id": "84J1kBBEniw",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de lingüística analiza la palabra 'gatas'. Al separar los morfemas, identifica 'gat-' como la raíz que aporta el significado principal. Sin embargo, tiene dudas sobre la función de la '-a' y la '-s'. Basado en la explicación del video, ¿qué tipo de información aportan estos dos últimos morfemas?",
+    "opciones": [
+      "Aportan significado derivativo de tamaño y cantidad.",
+      "No aportan significado, son solo sonidos para completar la palabra.",
+      "Aportan significado gramatical de género (femenino) y número (plural).",
+      "La '-a' es derivativa y la '-s' es flexiva."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la palabra 'ensanchado', un alumno sostiene que el prefijo es 'en-' y el sufijo es '-ado', y que la palabra se formó por derivación. Otro alumno argumenta que se formó por parasíntesis. Según el criterio de los circunfijos explicado en el video, ¿quién tiene la razón y por qué?",
+    "opciones": [
+      "El segundo alumno, porque al quitar el sufijo '-ado' la palabra 'ensanch' no existe, y al quitar el prefijo, 'anchado' tampoco existe como palabra independiente.",
+      "El primer alumno, porque 'ensanchado' viene de 'ensanchar' y solo se le agrega un sufijo.",
+      "Ambos están equivocados, es una palabra compuesta.",
+      "El primer alumno, porque los circunfijos no existen en español."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si comparamos las palabras 'ilegal', 'inmaduro' y 'desnivel', notamos que los prefijos 'i-', 'in-' y 'des-' son diferentes en forma, pero todos aportan la idea de negación. ¿Cómo se denomina técnicamente a estas variaciones formales de un mismo morfema?",
+    "opciones": [
+      "Morfemas libres.",
+      "Lexemas.",
+      "Alomorfos.",
+      "Infijos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el verbo 'leí', el morfema '-í' indica simultáneamente primera persona, tiempo pasado, número singular y modo indicativo. ¿Qué tipo de morfema flexivo es este, que fusiona varios significados gramaticales en una sola unidad?",
+    "opciones": [
+      "Flexivo simple.",
+      "Morfema derivado.",
+      "Flexivo amalgama.",
+      "Morfema libre."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un profesor pide identificar la palabra formada por acortamiento en la siguiente lista: 'automóvil', 'moto', 'motocicleta', 'bicicleta'. ¿Cuál es la respuesta correcta basada en los ejemplos del video?",
+    "opciones": [
+      "Automóvil.",
+      "Moto (de motocicleta).",
+      "Motocicleta.",
+      "Bicicleta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al analizar la palabra 'luquitas', se observa que entre la raíz 'Luc-' (de Lucas) y el sufijo diminutivo '-as' (o la terminación) aparece el elemento '-it-'. Este elemento rompe la raíz original. ¿Qué tipo de afijo es '-it-' en este caso específico?",
+    "opciones": [
+      "Un prefijo.",
+      "Un sufijo.",
+      "Un infijo.",
+      "Un interfijo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La palabra 'rojiblanco' se forma por la unión de dos lexemas: 'rojo' y 'blanco'. Sin embargo, notamos que 'rojo' cambia ligeramente a 'roji'. ¿Qué tipo de composición es esta según la clasificación presentada?",
+    "opciones": [
+      "Composición por yuxtaposición.",
+      "Composición propiamente dicha.",
+      "Parasíntesis.",
+      "Derivación."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si tenemos la palabra 'ONU', donde cada letra representa la inicial de una palabra (Organización de las Naciones Unidas) y se deletrea al leerla (o-n-u, aunque en el video se menciona que se lee como palabra), pero considerando su formación letra por letra de un nombre propio institucional. ¿Qué proceso de formación de palabras es?",
+    "opciones": [
+      "Acronimia.",
+      "Siglación.",
+      "Derivación.",
+      "Composición."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la palabra 'desinformado', se puede identificar la existencia de la palabra 'informado'. Esto implica que el prefijo 'des-' se une a una base ya existente. Por lo tanto, ¿cuál es el proceso de formación de 'desinformado'?",
+    "opciones": [
+      "Parasíntesis, porque tiene prefijo y sufijo.",
+      "Composición, porque une dos palabras.",
+      "Derivación, porque la base 'informado' existe previamente.",
+      "Flexión simple."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La palabra 'minedu' se forma tomando la primera sílaba de 'Ministerio' y la primera de 'Educación'. Al usar sílabas o partes de palabras en lugar de solo letras iniciales, ¿cómo se clasifica este proceso?",
+    "opciones": [
+      "Siglación.",
+      "Acronimia.",
+      "Acortamiento.",
+      "Parasíntesis."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estudia la morfología según su definición etimológica y gramatical?",
+    "opciones": [
+      "El sonido de las palabras.",
+      "La estructura interna y forma de las palabras.",
+      "El significado de las oraciones.",
+      "El origen histórico de las lenguas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la unidad mínima portadora de significado gramatical?",
+    "opciones": [
+      "El fonema.",
+      "La sílaba.",
+      "El morfema.",
+      "La letra."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de morfema aporta el significado básico o fundamental de la palabra?",
+    "opciones": [
+      "Morfema flexivo.",
+      "Morfema derivado.",
+      "Morfema lexical (o lexema).",
+      "Infijo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué información aportan los morfemas flexivos simples?",
+    "opciones": [
+      "Género y número.",
+      "Diminutivo y aumentativo.",
+      "Tiempo y modo.",
+      "Negación y lugar."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se llama el afijo que se ubica antes del lexema?",
+    "opciones": [
+      "Sufijo.",
+      "Infijo.",
+      "Prefijo.",
+      "Interfijo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué proceso de formación de palabras combina composición y derivación simultáneamente (o prefijación y sufijación simultánea)?",
+    "opciones": [
+      "Flexión.",
+      "Acronimia.",
+      "Parasíntesis.",
+      "Siglación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un interfijo según la explicación del video?",
+    "opciones": [
+      "Un morfema que aporta significado de género.",
+      "Un elemento que se inserta entre el prefijo y el lexema (o lexema y sufijo) para facilitar la pronunciación, sin aportar significado gramatical.",
+      "Un prefijo que niega la raíz.",
+      "La parte final de una palabra compuesta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de palabras son 'gato', 'gata', 'gatos' en relación a su raíz común?",
+    "opciones": [
+      "Palabras compuestas.",
+      "Una familia de palabras.",
+      "Palabras parasintéticas.",
+      "Acrónimos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el morfema flexivo exclusivo de los verbos que indica tiempo, modo, aspecto, número y persona?",
+    "opciones": [
+      "Flexivo simple.",
+      "Amalgama.",
+      "Derivativo verbal.",
+      "Infinitivo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué proceso formativo se da en palabras como 'matamoscas' o 'cubrecama' donde se unen dos lexemas sin alteración?",
+    "opciones": [
+      "Composición por yuxtaposición.",
+      "Composición propiamente dicha.",
+      "Derivación.",
+      "Acortamiento."
+    ],
+    "correcta": 0
+  }
+]
+        },
+        {
+          "titulo": "4.2 Frase Nominal - El Nombre",
+          "youtube_id": "LHKSHgqMpsE",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En la oración 'La ingeniosa abogada defendió el caso con firmeza', se observa la concordancia entre el artículo 'La', el adjetivo 'ingeniosa' y el sustantivo 'abogada'. Según la clasificación por accidentes gramaticales explicada en el video, ¿por qué ocurre esta concordancia?",
+    "opciones": [
+      "Porque son palabras de inventario cerrado.",
+      "Porque son palabras invariables que no cambian.",
+      "Porque son palabras variables que presentan accidentes gramaticales.",
+      "Porque funcionan como nexos subordinantes."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un estudiante debe identificar la categoría gramatical de la palabra 'y' en la frase 'Pan y mantequilla'. Sabiendo que esta palabra une dos elementos, ¿en qué categoría la clasificaría según su autonomía sintáctica?",
+    "opciones": [
+      "Núcleo.",
+      "Modificador.",
+      "Nexo.",
+      "Palabra independiente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un diccionario agrega nuevos términos como 'chatear' o 'googlear', ¿qué característica del verbo como categoría gramatical se está demostrando según el video?",
+    "opciones": [
+      "Que es una palabra de inventario cerrado.",
+      "Que es una palabra de inventario abierto.",
+      "Que es una palabra invariable.",
+      "Que es un modificador directo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Ella trabaja mucho', la palabra 'Ella' sustituye al nombre de una persona. Según la clasificación por grado de autonomía sintáctica mencionada en el video, ¿a qué grupo pertenece este pronombre?",
+    "opciones": [
+      "A los nexos.",
+      "A los modificadores.",
+      "A los núcleos o palabras independientes.",
+      "A las palabras invariables."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar la oración '¡Ay! Me golpeé el dedo', la palabra '¡Ay!' transmite una emoción inmediata por sí sola. ¿Qué categoría gramatical especial es esta y cómo se clasifica según su variabilidad?",
+    "opciones": [
+      "Es un verbo y es variable.",
+      "Es una interjección y es invariable.",
+      "Es un adverbio y es variable.",
+      "Es una preposición y es invariable."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un alumno sostiene que las preposiciones pueden aumentar infinitamente en el idioma. Basado en la clasificación por inventario explicada en el video, ¿es correcta esta afirmación?",
+    "opciones": [
+      "Sí, porque son de inventario abierto.",
+      "No, porque las preposiciones son de inventario cerrado.",
+      "Sí, porque funcionan como núcleos.",
+      "Depende del contexto de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'El corredor veloz ganó', la palabra 'veloz' califica a 'corredor'. Según el criterio de autonomía sintáctica, ¿qué función cumple el adjetivo 'veloz'?",
+    "opciones": [
+      "Núcleo.",
+      "Modificador (término dependiente).",
+      "Nexo.",
+      "Interjección."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si comparamos 'gato' (singular) con 'gatos' (plural), vemos un cambio en la forma de la palabra. ¿Qué tipo de palabra es el sustantivo según el criterio de accidentes gramaticales?",
+    "opciones": [
+      "Palabra invariable.",
+      "Palabra variable.",
+      "Nexo coordinante.",
+      "Palabra de inventario cerrado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'mañana' en 'Llegaré mañana' modifica al verbo 'llegaré'. ¿A qué grupo pertenece el adverbio según si presenta o no accidentes gramaticales?",
+    "opciones": [
+      "Palabras variables.",
+      "Palabras invariables.",
+      "Palabras de inventario cerrado.",
+      "Núcleos de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'casa de madera', la palabra 'de' establece una relación de dependencia. Según el video, ¿qué tipo de nexo es específicamente la preposición?",
+    "opciones": [
+      "Nexo coordinante.",
+      "Nexo subordinante.",
+      "Modificador directo.",
+      "Núcleo del predicado."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la palabra que funciona como presentador del nombre o sustantivo?",
+    "opciones": [
+      "Adjetivo.",
+      "Artículo.",
+      "Verbo.",
+      "Pronombre."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué palabra es el núcleo del predicado según el video?",
+    "opciones": [
+      "El nombre.",
+      "El verbo.",
+      "El adverbio.",
+      "La conjunción."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las palabras variables mencionadas en el video?",
+    "opciones": [
+      "Nombre, artículo, adjetivo, pronombre, verbo.",
+      "Adverbio, preposición, conjunción, interjección.",
+      "Solo el nombre y el verbo.",
+      "Nombre, verbo y adverbio."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de palabras son las que no presentan accidentes gramaticales?",
+    "opciones": [
+      "Palabras variables.",
+      "Palabras invariables.",
+      "Palabras nucleares.",
+      "Palabras independientes."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las palabras consideradas 'nexos'?",
+    "opciones": [
+      "Verbo y adverbio.",
+      "Nombre y pronombre.",
+      "Conjunción y preposición.",
+      "Artículo y adjetivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que una palabra sea de 'inventario cerrado'?",
+    "opciones": [
+      "Que tiene muchas definiciones.",
+      "Que en teoría ya no se crearán más palabras de ese tipo.",
+      "Que siempre va al final de la oración.",
+      "Que puede funcionar como núcleo y modificador."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué palabra tiene un significado ocasional o contextual?",
+    "opciones": [
+      "El sustantivo.",
+      "El pronombre.",
+      "El adjetivo.",
+      "La preposición."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función principal cumple el adverbio según el video?",
+    "opciones": [
+      "Reemplazar al nombre.",
+      "Modificar al verbo.",
+      "Presentar al sustantivo.",
+      "Unir oraciones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las palabras que funcionan como 'modificadores' o términos dependientes?",
+    "opciones": [
+      "Nombre y verbo.",
+      "Adjetivo y artículo.",
+      "Pronombre e interjección.",
+      "Conjunción y preposición."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué palabra se define como aquella que denota características o califica al nombre?",
+    "opciones": [
+      "El verbo.",
+      "El artículo.",
+      "El adjetivo.",
+      "El pronombre."
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "4.3 LENGUAJE El sustantivo y sus accidentes",
+          "youtube_id": "uaTM6Z6vfbE",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de lingüística debe identificar el sustantivo que corresponde a la descripción: 'palabra que nombra de manera específica a un ser único y se escribe con mayúscula inicial'. Según el criterio de extensión explicado, ¿qué tipo de sustantivo es este?",
+    "opciones": [
+      "Sustantivo común.",
+      "Sustantivo concreto.",
+      "Sustantivo propio.",
+      "Sustantivo colectivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'El equipo rojo ganó el partido', la palabra 'rojo' está modificando a 'equipo'. Según lo explicado en el video sobre cómo diferenciar sustantivos de adjetivos, ¿qué función gramatical cumple 'rojo' en este contexto?",
+    "opciones": [
+      "Funciona como sustantivo porque nombra un color.",
+      "Funciona como verbo porque indica acción.",
+      "Funciona como adjetivo porque describe al sustantivo 'equipo'.",
+      "Funciona como determinante artículo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un alumno tiene que pluralizar correctamente el sustantivo compuesto 'niño prodigio', donde el segundo elemento modifica al primero, ¿cuál es la forma correcta según las reglas mencionadas?",
+    "opciones": [
+      "Niños prodigios.",
+      "Niño prodigios.",
+      "Niños prodigio.",
+      "Los niño prodigio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar la palabra 'tijeras', un estudiante nota que siempre se usa en plural para referirse al objeto singular. ¿Cómo se clasifica este tipo de sustantivo que carece de singular o cuyo singular no se usa comúnmente en ese contexto?",
+    "opciones": [
+      "Sustantivo de forma fija (o *pluralia tantum*).",
+      "Sustantivo ambiguo.",
+      "Sustantivo común de dos.",
+      "Sustantivo epiceno."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un redactor escribe 'la mar' en un poema y 'el mar' en un reporte técnico. Ambas formas son aceptadas y significan lo mismo. ¿Qué tipo de género gramatical presenta el sustantivo 'mar'?",
+    "opciones": [
+      "Género epiceno.",
+      "Género común de dos.",
+      "Género ambiguo.",
+      "Género heterónimo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la formación de palabras, si comparamos 'pan' con 'panadero', vemos que 'pan' es la base léxica original. Según su origen, ¿cómo se clasifican respectivamente 'pan' y 'panadero'?",
+    "opciones": [
+      "Primitivo y Derivado.",
+      "Derivado y Primitivo.",
+      "Simple y Compuesto.",
+      "Compuesto y Simple."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si se pide identificar un sustantivo colectivo para 'sacerdote' en un examen de admisión, ¿cuál es el término correcto mencionado en la clase?",
+    "opciones": [
+      "Iglesia.",
+      "Clero.",
+      "Parroquia.",
+      "Sacerdocio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para referirse al femenino de 'caballo', se utiliza la palabra 'yegua', que tiene una raíz totalmente diferente. ¿Cómo se denomina a los sustantivos que marcan el género cambiando toda la palabra?",
+    "opciones": [
+      "Sustantivos de doble forma.",
+      "Sustantivos heterónimos.",
+      "Sustantivos epicenos.",
+      "Sustantivos homónimos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante debe pluralizar la palabra 'menú', que termina en vocal tónica 'ú'. Según la regla general explicada para extranjerismos adaptados o palabras agudas terminadas en 'u' tónica (aunque la RAE acepta ambas, el video menciona una preferencia culta tradicional pero también la forma con 's'), ¿cuál es la forma de plural más común y aceptada hoy en día para 'menú'?",
+    "opciones": [
+      "Menúes.",
+      "Menuses.",
+      "Menús.",
+      "Los menú."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al clasificar el sustantivo 'hiena', notamos que se dice 'hiena macho' y 'hiena hembra' para distinguir el sexo. ¿Qué tipo de género gramatical es este?",
+    "opciones": [
+      "Epiceno.",
+      "Común de dos.",
+      "Ambiguo.",
+      "Heterónimo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué categoría gramatical funciona como núcleo de la frase nominal?",
+    "opciones": [
+      "El verbo.",
+      "El adjetivo.",
+      "El sustantivo.",
+      "El adverbio."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son los accidentes gramaticales del sustantivo?",
+    "opciones": [
+      "Persona y número.",
+      "Tiempo y modo.",
+      "Género y número.",
+      "Aspecto y voz."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué criterio de estudio define al sustantivo como una palabra de inventario abierto?",
+    "opciones": [
+      "Criterio morfológico.",
+      "Criterio sintáctico.",
+      "Criterio lexicológico.",
+      "Criterio semántico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un sustantivo abstracto?",
+    "opciones": [
+      "Aquel que nombra seres perceptibles por los sentidos.",
+      "Aquel que nombra ideas, sentimientos o cualidades sin existencia material independiente.",
+      "Aquel que se escribe siempre con mayúscula.",
+      "Aquel que designa grupos de elementos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el colectivo de 'cerdo' (aunque en el video se mencionan varios, este es un clásico)?",
+    "opciones": [
+      "Piara.",
+      "Jauría.",
+      "Rebaño.",
+      "Manada."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se pluralizan los sustantivos terminados en 'y' como 'virrey'?",
+    "opciones": [
+      "Virreys.",
+      "Virreyes.",
+      "Los virrey.",
+      "Virreyis."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de sustantivo es 'sacacorchos' según su estructura?",
+    "opciones": [
+      "Simple.",
+      "Derivado.",
+      "Compuesto.",
+      "Primitivo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el colectivo de 'huevo' mencionado en el video?",
+    "opciones": [
+      "Ovario.",
+      "Nidada.",
+      "Docena.",
+      "Huevera."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el sustantivo que designa nombres de lugares geográficos?",
+    "opciones": [
+      "Antropónimo.",
+      "Topónimo.",
+      "Hipocorístico.",
+      "Patronímico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un hipocorístico?",
+    "opciones": [
+      "Un nombre de lugar.",
+      "Un nombre de río.",
+      "Una forma abreviada, diminutiva o afectiva de un nombre propio (ej. Lucho de Luis).",
+      "Un apellido derivado del nombre del padre."
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "4.4  El adjetivo y su determinante",
+          "youtube_id": "aVGzEEBvDFQ",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En un texto, un estudiante escribe la palabra 'microchips' con tilde en la 'i', argumentando que es una palabra aguda terminada en 's'. Sin embargo, el profesor le corrige indicando que no debe llevar tilde. Según las reglas de acentuación explicadas en el video, ¿cuál es la razón técnica para no tildar esta palabra?",
+    "opciones": [
+      "Porque es una palabra grave.",
+      "Porque es un extranjerismo no adaptado.",
+      "Porque termina en un grupo consonántico (ps).",
+      "Porque es un monosílabo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un redactor tiene dudas sobre si tildar la palabra 'cortinajes'. Al analizarla, se da cuenta de que es una palabra grave que termina en 's' precedida de otra consonante. ¿Cuál es la regla de tildación que aplica para las palabras graves en este caso específico?",
+    "opciones": [
+      "Se tildan siempre que terminen en consonante.",
+      "No se tildan si terminan en vocal, n o s.",
+      "Se tildan cuando terminan en 's' agrupada con otra consonante.",
+      "Nunca se tildan si terminan en 's'."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al escribir el plural de la palabra 'robot', obtenemos 'robots'. Esta palabra es aguda y termina en 's'. ¿Por qué la normativa indica que no debe llevar tilde gráfica?",
+    "opciones": [
+      "Porque termina en un grupo consonántico (ts).",
+      "Porque es una palabra monosílaba.",
+      "Porque la 't' final es muda.",
+      "Porque proviene del inglés."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si tenemos la palabra compuesta 'decimoséptimo', formada por 'décimo' y 'séptimo', ambas con tilde original. Según la regla de palabras compuestas explicada en el video, ¿cómo debe escribirse correctamente?",
+    "opciones": [
+      "Décimoséptimo (conserva ambas tildes).",
+      "Decimoséptimo (el primer elemento pierde la tilde).",
+      "Decimoseptimo (pierde ambas tildes).",
+      "Décimoseptimo (el segundo elemento pierde la tilde)."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una oración interrogativa indirecta como 'No sé cómo lo hizo', la palabra 'cómo' lleva tilde. ¿Qué tipo de acento se está aplicando en este caso según la clasificación mostrada?",
+    "opciones": [
+      "Acento general.",
+      "Acento diacrítico enfático.",
+      "Acento prosódico.",
+      "Acento ortográfico agudo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante escribe 'guion' con tilde en la 'o', pero su profesor le indica que ya no se debe tildar. ¿Cuál es la justificación actual de la RAE para considerar 'guion' como una palabra que no lleva tilde?",
+    "opciones": [
+      "Es una palabra aguda terminada en 'n'.",
+      "Es considerada un monosílabo ortográfico.",
+      "Es un hiato acentual.",
+      "Es una palabra grave."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'bonsái' es aguda y termina en vocal. Sin embargo, la palabra 'virrey' también es aguda y termina en sonido vocálico 'i' (representado por 'y'). ¿Por qué 'bonsái' se tilda y 'virrey' no?",
+    "opciones": [
+      "Porque 'virrey' termina en consonante 'y' para efectos de acentuación.",
+      "Porque 'bonsái' es extranjera.",
+      "Porque 'virrey' es grave.",
+      "Porque 'bonsái' tiene un hiato."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Al analizar la palabra 'tictacs', notamos que es una palabra aguda terminada en 's'. ¿Por qué no se tilda?",
+    "opciones": [
+      "Porque es una onomatopeya.",
+      "Porque termina en grupo consonántico (cs).",
+      "Porque es grave.",
+      "Porque es monosílaba."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Se lo dije', la palabra 'Se' no lleva tilde. En cambio, en 'Sé bueno', la palabra 'Sé' sí lleva tilde. ¿Qué función gramatical cumple 'Sé' con tilde en el segundo ejemplo?",
+    "opciones": [
+      "Pronombre personal.",
+      "Verbo (ser o saber).",
+      "Sustantivo.",
+      "Adverbio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'hámster' es grave y termina en 'r'. ¿Por qué lleva tilde según las reglas generales?",
+    "opciones": [
+      "Porque es una palabra esdrújula.",
+      "Porque las graves se tildan cuando terminan en cualquier consonante menos 'n' o 's'.",
+      "Porque es un préstamo lingüístico.",
+      "Porque tiene un hiato."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se tildan las palabras agudas según la regla general?",
+    "opciones": [
+      "Cuando terminan en cualquier consonante.",
+      "Cuando terminan en n, s o vocal.",
+      "Siempre se tildan.",
+      "Cuando terminan en grupo consonántico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el acento que solo se pronuncia pero no se escribe?",
+    "opciones": [
+      "Acento ortográfico.",
+      "Acento diacrítico.",
+      "Acento prosódico.",
+      "Acento enfático."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué regla se aplica a las palabras esdrújulas y sobreesdrújulas?",
+    "opciones": [
+      "Se tildan si terminan en vocal.",
+      "Se tildan solo si terminan en consonante.",
+      "Se tildan siempre, sin excepción.",
+      "Nunca se tildan."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ocurre con las palabras latinas como 'currículum' o 'réquiem' cuando se incorporan al español?",
+    "opciones": [
+      "Mantienen su acentuación latina original.",
+      "Se someten a las reglas generales de acentuación del español.",
+      "Nunca llevan tilde.",
+      "Se escriben siempre en cursiva sin tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un hiato acentual?",
+    "opciones": [
+      "La unión de dos vocales abiertas.",
+      "La separación de una vocal cerrada tónica y una abierta átona, que siempre lleva tilde.",
+      "La unión de dos vocales cerradas.",
+      "Un diptongo con tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo lleva tilde la palabra 'aún'?",
+    "opciones": [
+      "Cuando equivale a 'hasta' o 'incluso'.",
+      "Cuando equivale a 'todavía'.",
+      "Siempre lleva tilde.",
+      "Nunca lleva tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso se tilda el monosílabo 'mi'?",
+    "opciones": [
+      "Cuando es adjetivo posesivo.",
+      "Cuando es sustantivo (nota musical).",
+      "Cuando es pronombre personal.",
+      "Cuando es artículo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se deben escribir los nombres científicos de animales y plantas según la norma actual explicada?",
+    "opciones": [
+      "Con tilde y en redonda.",
+      "Sin tilde y en cursiva.",
+      "Con tilde y en mayúsculas.",
+      "Entre comillas y con tilde."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de palabra es 'bíceps' según su acentuación?",
+    "opciones": [
+      "Aguda.",
+      "Grave.",
+      "Esdrújula.",
+      "Sobresdrújula."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo lleva tilde la palabra 'mas'?",
+    "opciones": [
+      "Cuando es conjunción adversativa (equivale a 'pero').",
+      "Cuando es adverbio de cantidad.",
+      "Cuando es sustantivo.",
+      "Nunca lleva tilde."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "4.5 LENGUAJE Verbo",
+          "youtube_id": "KrKTestUhI0",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de lingüística analiza la palabra 'cantábamos'. Al separar sus componentes morfológicos, identifica la raíz 'cant-', la vocal temática '-a-', y la desinencia '-ba-'. Sin embargo, duda sobre la función del morfema '-mos'. Según la explicación del video sobre la estructura verbal, ¿qué información gramatical aporta específicamente este último morfema?",
+    "opciones": [
+      "Tiempo y modo.",
+      "Número y persona.",
+      "Aspecto y tiempo.",
+      "Vocal temática."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La puerta fue abierta por el profesor', el sujeto 'La puerta' no realiza la acción, sino que la recibe. Si transformamos la oración a voz activa ('El profesor abrió la puerta'), el elemento 'la puerta' pasa a ser el Objeto Directo. ¿Qué tipo de verbo es 'abrió' basándose en esta capacidad de tener Objeto Directo?",
+    "opciones": [
+      "Verbo intransitivo.",
+      "Verbo copulativo.",
+      "Verbo transitivo.",
+      "Verbo impersonal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un hablante dice 'Ojalá vengas temprano', el verbo 'vengas' expresa un deseo o una posibilidad subjetiva. ¿En qué modo verbal se encuentra conjugado este verbo según la actitud del hablante?",
+    "opciones": [
+      "Modo indicativo.",
+      "Modo imperativo.",
+      "Modo subjuntivo.",
+      "Modo potencial."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar la oración 'Elsa parece tímida', notamos que el verbo 'parece' no tiene sentido completo por sí solo y requiere del adjetivo 'tímida' para completar su significado y describir al sujeto. ¿Qué función sintáctica cumple la palabra 'tímida' en esta estructura?",
+    "opciones": [
+      "Objeto directo.",
+      "Circunstancial de modo.",
+      "Atributo.",
+      "Agente."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Habrá clases presenciales', el verbo 'habrá' no admite un sujeto personal (ni yo, ni tú, ni él). Por esta razón, se clasifica como un verbo impersonal. Según la normativa explicada, ¿en qué número debe conjugarse obligatoriamente este tipo de verbo?",
+    "opciones": [
+      "En plural.",
+      "En singular.",
+      "En primera persona.",
+      "En segunda persona."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un alumno sostiene que la palabra 'amar' es un verbo porque indica una acción. Sin embargo, el profesor le corrige indicando que 'amar' carece de morfemas flexivos de persona y tiempo, por lo que técnicamente es un:",
+    "opciones": [
+      "Verbo copulativo.",
+      "Verboide (infinitivo).",
+      "Adverbio.",
+      "Sustantivo abstracto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si analizamos la frase verbal 'voy a leer', esta equivale semánticamente a un solo verbo conjugado ('leeré'). En esta estructura, el verbo 'voy' pierde su significado original de movimiento para aportar información gramatical de tiempo y modo. ¿Qué nombre recibe el verbo 'voy' en esta función?",
+    "opciones": [
+      "Verbo principal.",
+      "Verboide.",
+      "Verbo auxiliar.",
+      "Verbo copulativo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la oración 'Crucé la avenida', el verbo 'crucé' indica que la acción ya ha concluido en el pasado. Considerando el desarrollo interno de la acción, ¿qué aspecto verbal presenta?",
+    "opciones": [
+      "Aspecto imperfecto.",
+      "Aspecto perfecto.",
+      "Aspecto subjuntivo.",
+      "Aspecto continuo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La palabra 'comido' es un participio. Si decimos 'He comido', forma parte de un tiempo compuesto. Pero si decimos 'hombre comido por las deudas' (usado como adjetivo), sigue siendo un participio. ¿Cuál es la terminación característica de los participios regulares?",
+    "opciones": [
+      "-ar, -er, -ir.",
+      "-ando, -iendo.",
+      "-ado, -ido.",
+      "-cho, -to, -so."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al comparar las oraciones 'Cocina arroz con pollo' y 'Cocina rico', notamos que el mismo verbo 'cocina' actúa de forma diferente. En el primer caso, la acción recae sobre 'arroz con pollo' (OD), siendo transitivo. En el segundo caso, 'rico' no es OD, sino un circunstancial. Por lo tanto, en la segunda oración, el verbo 'cocina' funciona como:",
+    "opciones": [
+      "Verbo copulativo.",
+      "Verbo transitivo.",
+      "Verbo intransitivo.",
+      "Verbo impersonal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué categoría gramatical se caracteriza por ser la más variable y poseer morfema flexivo amalgama?",
+    "opciones": [
+      "El sustantivo.",
+      "El adjetivo.",
+      "El verbo.",
+      "El pronombre."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son los accidentes gramaticales privativos del verbo (que no tienen otras categorías)?",
+    "opciones": [
+      "Género y número.",
+      "Modo, tiempo y aspecto.",
+      "Persona y número.",
+      "Caso y voz."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función sintáctica cumple el verbo dentro de la oración?",
+    "opciones": [
+      "Núcleo del sujeto.",
+      "Modificador directo.",
+      "Núcleo del predicado (o frase verbal).",
+      "Nexo subordinante."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué terminaciones caracterizan a los verboides infinitivos?",
+    "opciones": [
+      "-ado, -ido.",
+      "-ando, -iendo.",
+      "-ar, -er, -ir.",
+      "-to, -so, -cho."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se llama el morfema flexivo que contiene varios significados gramaticales (tiempo, modo, persona, número) en una sola unidad?",
+    "opciones": [
+      "Morfema derivativo.",
+      "Morfema lexical.",
+      "Desinencia o amalgama.",
+      "Vocal temática."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué clase de verbos son 'ser', 'estar' y 'parecer' cuando unen al sujeto con un atributo?",
+    "opciones": [
+      "Verbos predicativos.",
+      "Verbos transitivos.",
+      "Verbos copulativos.",
+      "Verbos impersonales."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué criterio lexicológico se aplica al verbo por admitir la creación de nuevos términos?",
+    "opciones": [
+      "Inventario cerrado.",
+      "Inventario abierto.",
+      "Palabra invariable.",
+      "Palabra monomorfemática."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el accidente verbal que indica la actitud del hablante frente a la acción?",
+    "opciones": [
+      "Tiempo.",
+      "Aspecto.",
+      "Modo.",
+      "Persona."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de verboide funciona como adverbio modificando al verbo (ej. 'salió corriendo')?",
+    "opciones": [
+      "Infinitivo.",
+      "Participio.",
+      "Gerundio.",
+      "Supino."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué accidente gramatical NO posee el verbo?",
+    "opciones": [
+      "Tiempo.",
+      "Modo.",
+      "Género.",
+      "Aspecto."
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "4.6 Lenguaje - Adverbio - preposición - conjunción",
+          "youtube_id": "ZMD-k6LDbeo",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de periodismo escribe: 'El delincuente se paró delante mío'. El editor le corrige indicando que la construcción es agramatical. Según el video, ¿cuál es la forma correcta de expresar esta idea y por qué?",
+    "opciones": [
+      "Delante de mí, porque 'delante' es un adverbio y no admite posesivos.",
+      "Delante mío, porque es un uso coloquial aceptado.",
+      "En mi delante, porque indica posición.",
+      "Delante de yo, porque es pronombre sujeto."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En una narración deportiva se escucha: 'Perú jugó con Colombia y ganó el partido'. Sin embargo, en un contexto de enfrentamiento o rivalidad, el video sugiere que el uso de la preposición 'con' puede ser ambiguo o incorrecto. ¿Qué preposición debería usarse para denotar oposición clara?",
+    "opciones": [
+      "Ante.",
+      "Contra.",
+      "Hacia.",
+      "Para."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al analizar la oración 'Lo convencieron de que postule', un gramático determina que la preposición 'de' es necesaria y no constituye dequeísmo. ¿Qué método práctico se sugiere en el video para verificar esto?",
+    "opciones": [
+      "Reemplazar la subordinada por 'eso' o 'esto' (Lo convencieron de eso).",
+      "Eliminar la preposición y ver si suena bien.",
+      "Cambiar el verbo por uno sinónimo.",
+      "Preguntar '¿qué?' al verbo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un hablante dice 'Te veré en la noche', el video señala que el uso de 'en' es incorrecto en este contexto temporal específico. ¿Cuál es la preposición adecuada para corregir la frase?",
+    "opciones": [
+      "A la noche.",
+      "Por la noche o durante la noche.",
+      "Sobre la noche.",
+      "Ante la noche."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Amiga es una chica de cristal', la preposición 'de' no indica pertenencia ni materia física real. Según el contexto explicado, ¿qué significado adquiere la frase preposicional 'de cristal'?",
+    "opciones": [
+      "Procedencia.",
+      "Posesión.",
+      "Característica (fragilidad/sensibilidad).",
+      "Lugar."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un alumno confunde el 'sí' condicional con el 'sí' afirmativo. En la oración 'Gano la beca si acierto', ¿qué función cumple el nexo 'si' según el análisis del video?",
+    "opciones": [
+      "Conjunción subordinante completiva.",
+      "Adverbio de afirmación.",
+      "Conjunción subordinante condicional.",
+      "Pronombre personal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la expresión 'Responde si me aceptas', el nexo 'si' no indica una condición para responder, sino que introduce el objeto directo del verbo 'responde' (Responde eso). ¿Qué tipo de conjunción es en este caso?",
+    "opciones": [
+      "Conjunción subordinante condicional.",
+      "Conjunción subordinante completiva.",
+      "Conjunción coordinante copulativa.",
+      "Adverbio de duda."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al comparar 'El auto de Charly' con 'Los hijos de Charly', la preposición 'de' tiene matices distintos. En el primer caso indica pertenencia (propiedad). ¿Qué indica 'de' en el segundo caso según la explicación del video?",
+    "opciones": [
+      "Materia.",
+      "Procedencia.",
+      "Posesión (relación familiar, no propiedad de objetos).",
+      "Origen."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Trabajó a conciencia', la locución adverbial 'a conciencia' equivale semánticamente a un solo adverbio terminado en '-mente'. ¿Cuál sería ese adverbio?",
+    "opciones": [
+      "Rápidamente.",
+      "Conscientemente.",
+      "Malamente.",
+      "Tardíamente."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si analizamos la frase 'Bajo el punto de vista', el video la califica como incorrecta. ¿Cuál es la forma normativa correcta?",
+    "opciones": [
+      "Ante el punto de vista.",
+      "Sobre el punto de vista.",
+      "Desde el punto de vista.",
+      "En el punto de vista."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué categoría gramatical es el adverbio según su morfología?",
+    "opciones": [
+      "Palabra variable.",
+      "Palabra invariable.",
+      "Palabra que se conjuga.",
+      "Palabra con género y número."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué categorías gramaticales puede modificar el adverbio?",
+    "opciones": [
+      "Sustantivo, adjetivo y verbo.",
+      "Verbo, adjetivo y otro adverbio.",
+      "Solo al verbo.",
+      "Pronombre, verbo y artículo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué clase de palabra es 'medio' en la oración 'Estaban medio locas'?",
+    "opciones": [
+      "Adjetivo.",
+      "Sustantivo.",
+      "Adverbio (de cantidad/modo).",
+      "Determinante."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es una locución prepositiva?",
+    "opciones": [
+      "Una sola preposición simple.",
+      "Un verbo conjugado.",
+      "Varias palabras que funcionan en conjunto como una preposición.",
+      "Un adverbio de lugar."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función sintáctica principal de la preposición en la oración?",
+    "opciones": [
+      "Núcleo del sujeto.",
+      "Nexo subordinante.",
+      "Nexo coordinante.",
+      "Modificador directo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de conjunción es 'y' en 'Juan y María'?",
+    "opciones": [
+      "Disyuntiva.",
+      "Adversativa.",
+      "Copulativa.",
+      "Condicional."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de conjunción es 'pero'?",
+    "opciones": [
+      "Copulativa.",
+      "Adversativa.",
+      "Causal.",
+      "Final."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del adverbio 'hoy' en la oración?",
+    "opciones": [
+      "Circunstancial de lugar.",
+      "Circunstancial de tiempo.",
+      "Circunstancial de modo.",
+      "Objeto directo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué palabra es incorrecta decir 'hoy día' según el video por ser redundante?",
+    "opciones": [
+      "Hoy.",
+      "Día.",
+      "Mañana.",
+      "Ayer."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de palabras son las preposiciones 'a', 'de', 'con', 'para'?",
+    "opciones": [
+      "Variables.",
+      "Invariables.",
+      "Conjugables.",
+      "Flexivas."
+    ],
+    "correcta": 1
+  }
+]
+        },
+	{
+          "titulo": "4.7 LENGUAJE Oración compuesta",
+          "youtube_id": "FDcD-3HoBwc",
+          "pdf_link": "https://drive.google.com/file/d/1WhfsBEiUtrxieHdkgWvyT3kGWNVzcK4n/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Identifica cuál de las siguientes oraciones es compuesta coordinada yuxtapuesta:",
+    "opciones": [
+      "No estudió, pero aprobó el examen.",
+      "Llegué, vi, vencí.",
+      "Quiero que vengas a mi fiesta.",
+      "Estudia y trabaja todos los días."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Juan estudia ingeniería y María trabaja en un banco', ¿qué tipo de oración compuesta coordinada se presenta?",
+    "opciones": [
+      "Yuxtapuesta",
+      "Conjuntiva copulativa",
+      "Conjuntiva adversativa",
+      "Conjuntiva disyuntiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función sintáctica de la proposición subordinada en la oración: 'Es necesario que estudies más'?",
+    "opciones": [
+      "Objeto Directo",
+      "Sujeto",
+      "Atributo",
+      "Circunstancial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analiza la oración: 'El profesor dijo que el examen será difícil'. ¿Qué función cumple la proposición subordinada 'que el examen será difícil'?",
+    "opciones": [
+      "Sujeto",
+      "Objeto Directo",
+      "Complemento Agente",
+      "Atributo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Estudia mucho; ingresarás a la universidad', el punto y coma funciona como un conector de tipo:",
+    "opciones": [
+      "Copulativo (y)",
+      "Adversativo (pero)",
+      "Ilativo (por lo tanto)",
+      "Disyuntivo (o)"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Identifica la oración que NO es compuesta:",
+    "opciones": [
+      "Voy a ingresar a la universidad.",
+      "Mientras leía, tomaba apuntes.",
+      "El libro está viejo, pero me gusta.",
+      "Llegaron tarde y no entraron."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de proposición subordinada sustantiva se encuentra en: 'Tengo la certeza de que triunfarás'?",
+    "opciones": [
+      "Complemento de Nombre",
+      "Complemento de Adjetivo",
+      "Complemento de Verbo",
+      "Objeto Directo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En 'El alumno fue felicitado por quien dirige el colegio', la proposición subordinada 'quien dirige el colegio' funciona como:",
+    "opciones": [
+      "Sujeto",
+      "Objeto Directo",
+      "Complemento Agente",
+      "Atributo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Determina el tipo de oración compuesta: 'O estudias o trabajas'.",
+    "opciones": [
+      "Coordinada Conjuntiva Copulativa",
+      "Coordinada Conjuntiva Disyuntiva",
+      "Coordinada Conjuntiva Adversativa",
+      "Coordinada Yuxtapuesta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Ella está segura de que aprobará', la proposición subordinada funciona como complemento de:",
+    "opciones": [
+      "Nombre (sustantivo)",
+      "Adjetivo",
+      "Verbo",
+      "Adverbio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el requisito mínimo para que una oración sea considerada compuesta?",
+    "opciones": [
+      "Tener dos sujetos",
+      "Tener dos o más proposiciones (verbos)",
+      "Tener un nexo subordinante",
+      "Tener signos de puntuación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signos de puntuación se utilizan como nexos en las oraciones compuestas coordinadas yuxtapuestas?",
+    "opciones": [
+      "Coma, punto y coma, dos puntos",
+      "Punto seguido, coma, guion",
+      "Paréntesis, comillas, dos puntos",
+      "Solo la coma"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué tipo de nexo utiliza una oración compuesta coordinada conjuntiva adversativa?",
+    "opciones": [
+      "y, e, ni",
+      "o, u",
+      "pero, mas, sino, sin embargo",
+      "luego, pues, entonces"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función de los nexos 'es decir', 'o sea', 'esto es'?",
+    "opciones": [
+      "Copulativa",
+      "Disyuntiva",
+      "Explicativa",
+      "Ilativa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué pronombre se suele usar para reemplazar una proposición subordinada sustantiva y así identificarla?",
+    "opciones": [
+      "El",
+      "Eso",
+      "Cual",
+      "Donde"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de palabras son 'que', 'quien', 'cual' cuando introducen una oración subordinada sustantiva?",
+    "opciones": [
+      "Preposiciones",
+      "Adverbios",
+      "Conjunciones o pronombres relativos (nexos subordinantes)",
+      "Verbos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el 'Teorema Garavitus' mencionado en el video, si una oración tiene 3 verbos, ¿cuántos nexos debe tener?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué función cumple la proposición subordinada en: 'El problema es que no estudiaste'?",
+    "opciones": [
+      "Sujeto",
+      "Objeto Directo",
+      "Atributo",
+      "Complemento de Régimen"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tipo de nexos son 'y', 'e', 'ni'?",
+    "opciones": [
+      "Coordinantes Copulativos",
+      "Coordinantes Disyuntivos",
+      "Subordinantes Sustantivos",
+      "Coordinantes Adversativos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se llama la oración compuesta donde las proposiciones tienen el mismo nivel sintáctico?",
+    "opciones": [
+      "Subordinada",
+      "Coordinada",
+      "Simple",
+      "Unimembre"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Discurso escrito",
+      "videos": [
+        {
+          "titulo": "5.1 Puntuación: la coma, el punto y coma",
+          "youtube_id": "a0Rjlt6yWk8",
+          "pdf_link": "https://drive.google.com/file/d/1pP5hBor-RVo47XNSLPFJlYZ68hRjx5_a/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En el enunciado 'Felipe resuelve el ejercicio', si se desea cambiar el sentido para ordenarle a Felipe que realice la acción, ¿qué signo de puntuación se debe emplear y cómo se clasifica?",
+    "opciones": [
+      "Un punto y coma después de Felipe; coma elíptica.",
+      "Una coma después de Felipe; coma vocativa.",
+      "Dos puntos después de Felipe; dos puntos de cita.",
+      "Una coma después de resuelve; coma hiperbática."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante escribe: 'Los alumnos más destacados del ciclo verano, ingresaron a la universidad'. Según lo explicado en el video, ¿qué error de puntuación se ha cometido?",
+    "opciones": [
+      "Uso incorrecto de la coma elíptica.",
+      "Falta de punto y coma antes del verbo.",
+      "Uso de la 'coma criminal' o 'asesina' entre sujeto y predicado.",
+      "Omitir los dos puntos antes de la acción."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Analice la siguiente oración: 'Compré leche, arroz, fideos y preparé la cena'. ¿Por qué sería correcto colocar una coma antes de la conjunción 'y' en este caso específico?",
+    "opciones": [
+      "Porque 'preparé la cena' no es un elemento análogo a la lista de compras, rompiendo la enumeración simple.",
+      "Porque siempre debe ir coma antes de la 'y' en cualquier oración.",
+      "Porque se trata de una coma vocativa que separa al sujeto.",
+      "Porque es una enumeración compleja que requiere punto y coma, no coma."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si tenemos la oración: 'El profesor de lenguaje, quien llegó tarde, explicó la coma'. ¿Por qué en este caso sí es válido colocar una coma después del sujeto 'El profesor de lenguaje'?",
+    "opciones": [
+      "Porque es una coma criminal aceptada por la RAE.",
+      "Porque la coma introduce un inciso explicativo ('quien llegó tarde'), lo cual es una excepción a la regla de no separar sujeto y predicado.",
+      "Porque falta un verbo principal en la oración.",
+      "Porque se está enumerando las acciones del profesor."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase: 'Para los alumnos de la academia, el examen fue sencillo', se ha utilizado una coma. ¿Qué función cumple esta coma según la estructura de la oración?",
+    "opciones": [
+      "Coma vocativa, pues se habla a los alumnos.",
+      "Coma enumerativa, pues lista una característica.",
+      "Coma hiperbática o del circunstancial movido, pues el complemento circunstancial se ha desplazado al inicio.",
+      "Coma elíptica, pues reemplaza al verbo 'ser'."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Se presenta el enunciado: 'Juan estudia Medicina; María, Derecho'. ¿Qué justifica el uso del punto y coma y la coma en la segunda proposición?",
+    "opciones": [
+      "El punto y coma separa proposiciones yuxtapuestas y la coma reemplaza al verbo 'estudia' (elíptica).",
+      "El punto y coma introduce una cita textual y la coma es vocativa.",
+      "El punto y coma es un error, debería ser solo coma.",
+      "La coma indica un movimiento del circunstancial y el punto y coma cierra la idea."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un redactor escribe: 'Mis cursos favoritos son: Historia, Literatura y Filosofía'. Según el video, ¿por qué el uso de los dos puntos es incorrecto en este contexto?",
+    "opciones": [
+      "Porque no se pueden usar dos puntos con mayúsculas después.",
+      "Porque falta un elemento anticipador que anuncie la enumeración (ej. 'tres cursos').",
+      "Porque después de 'son' siempre debe ir punto y coma.",
+      "Porque la enumeración es muy corta."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si transformamos la cita 'Descartes dijo: Pienso, luego existo' a una forma indirecta como 'Descartes dijo que pensaba y luego existía', ¿qué signos de puntuación se deben omitir?",
+    "opciones": [
+      "Se deben mantener los dos puntos y las comillas.",
+      "Se omiten los dos puntos y las comillas, ya que es una paráfrasis.",
+      "Se cambian los dos puntos por punto y coma.",
+      "Se deben usar paréntesis en lugar de comillas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración: 'Se han quedado sin empleo: la recesión ha comenzado', ¿qué relación lógica justifica el uso de los dos puntos?",
+    "opciones": [
+      "Relación de Causa - Efecto.",
+      "Relación de Oposición.",
+      "Relación de Enumeración simple.",
+      "Relación de Vocativo."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Observe la lista: 'Perú, Chile, Argentina, etc., participaron en el torneo'. ¿Por qué es correcto el uso de la coma después de 'etc.' antes del verbo 'participaron'?",
+    "opciones": [
+      "Porque es una coma criminal obligatoria.",
+      "Porque la palabra 'etcétera' (o su abreviatura) al cerrar una enumeración dentro del sujeto permite la coma para separarla del predicado.",
+      "Porque 'etc.' es un verbo en latín.",
+      "Porque falta un punto y coma."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la 'coma elíptica'?",
+    "opciones": [
+      "La que separa elementos de una enumeración.",
+      "La que encierra un comentario explicativo.",
+      "La que reemplaza a un verbo o conector omitido por estar sobrentendido.",
+      "La que altera el orden lógico de la oración."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la función principal de la 'coma vocativa'?",
+    "opciones": [
+      "Separar el sujeto del predicado.",
+      "Aislar al elemento al que nos dirigimos o llamamos (interlocutor) del resto de la oración.",
+      "Reemplazar una conjunción.",
+      "Introducir una cita textual."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se denomina técnicamente a la coma que se usa cuando se desplaza un complemento circunstancial al inicio de la oración?",
+    "opciones": [
+      "Coma apositiva.",
+      "Coma hiperbática o del circunstancial movido.",
+      "Coma conjuntiva.",
+      "Coma enumerativa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signo de puntuación se utiliza para separar elementos de una enumeración compleja que ya incluye comas internas?",
+    "opciones": [
+      "El punto.",
+      "Los dos puntos.",
+      "El punto y coma.",
+      "Los paréntesis."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el video, ¿cuál es una regla importante sobre el uso de los dos puntos con preposiciones?",
+    "opciones": [
+      "Siempre deben usarse después de una preposición.",
+      "No deben usarse dos puntos inmediatamente después de una preposición.",
+      "Solo se usan con la preposición 'de'.",
+      "Son obligatorios después de 'para'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la 'coma criminal' o 'asesina'?",
+    "opciones": [
+      "Una coma que se usa para matar el sentido de la frase.",
+      "El error de colocar una coma entre el sujeto y el predicado (sin que haya incisos).",
+      "La coma que se pone al final de un párrafo.",
+      "La coma que separa dos verbos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso los dos puntos pueden ir al final de una enumeración?",
+    "opciones": [
+      "Nunca pueden ir al final.",
+      "Cuando la enumeración está incompleta.",
+      "Cuando se presenta un elemento que sintetiza o resume lo enumerado anteriormente.",
+      "Cuando sigue un verbo copulativo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre cita textual y paráfrasis respecto a la puntuación?",
+    "opciones": [
+      "La cita textual usa comillas y/o dos puntos; la paráfrasis no usa comillas.",
+      "La paráfrasis usa comillas; la cita textual no.",
+      "Ambas usan siempre dos puntos.",
+      "La paráfrasis debe ir entre paréntesis."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué signo de puntuación puede ser equivalente al punto y seguido en ciertos casos de conectividad semántica?",
+    "opciones": [
+      "La coma.",
+      "Los dos puntos.",
+      "El punto y coma.",
+      "El guion largo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuándo se utiliza la coma de nexo?",
+    "opciones": [
+      "Antes de conectores o conjunciones, especialmente si el enunciado tiene cierta extensión.",
+      "Después de cada verbo en la oración.",
+      "Solo al inicio de la oración.",
+      "Para separar el sujeto del verbo."
+    ],
+    "correcta": 0
+  }
+]
+        },
+        {
+          "titulo": "5.2 Signos de puntuación",
+          "youtube_id": "jhUCw_C5abc",
+          "pdf_link": "https://drive.google.com/file/d/1pP5hBor-RVo47XNSLPFJlYZ68hRjx5_a/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En el enunciado: 'Jóvenes, es necesario que repasen los temas estudiados hoy', ¿qué función cumple la coma utilizada después de la palabra 'Jóvenes'?",
+    "opciones": [
+      "Separar un elemento enumerativo.",
+      "Aislar el vocativo del resto de la oración.",
+      "Indicar la elipsis de un verbo.",
+      "Señalar un desorden sintáctico (hipérbaton)."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante escribe: 'El equipo de fútbol de la universidad, ganó el campeonato nacional'. Según las reglas explicadas en el video, ¿qué error de puntuación se ha cometido?",
+    "opciones": [
+      "Falta un punto y coma antes del verbo.",
+      "Se ha colocado una coma entre el sujeto y el predicado, lo cual es incorrecto.",
+      "La coma debería ir después de 'campeonato'.",
+      "No hay ningún error, la coma es explicativa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analice la siguiente oración: 'Para entender mejor la historia, es fundamental leer libros antiguos'. ¿Qué tipo de coma se ha empleado y por qué?",
+    "opciones": [
+      "Coma elíptica, porque falta el sujeto.",
+      "Coma incidental, porque aclara una idea.",
+      "Coma hiperbática, porque el complemento circunstancial se ha movido al inicio de la oración.",
+      "Coma enumerativa, porque lista acciones."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la lista: 'Mi hermano viajó a Piura; mi prima, a Tumbes; y mi tío, a Loreto', se utiliza el punto y coma. ¿Cuál es la justificación para el uso de este signo en este contexto específico?",
+    "opciones": [
+      "Separar oraciones que no tienen relación semántica.",
+      "Separar elementos de una enumeración compleja que ya incluye comas internas.",
+      "Reemplazar a la conjunción 'y' en todos los casos.",
+      "Indicar el final de un párrafo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Observe el siguiente enunciado: 'Juan estudia Derecho; Ana, Medicina'. La coma después de 'Ana' recibe el nombre de coma elíptica. ¿Qué función está cumpliendo?",
+    "opciones": [
+      "Reemplaza al verbo 'estudia' para evitar la repetición.",
+      "Separa un vocativo.",
+      "Indica una pausa larga.",
+      "Introduce una explicación adicional."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si en un texto se lee: 'La situación económica era crítica; sin embargo, decidieron invertir en el proyecto', ¿por qué se utiliza punto y coma antes del conector 'sin embargo'?",
+    "opciones": [
+      "Porque es una enumeración simple.",
+      "Porque el conector encabeza una oración de cierta extensión y vincula dos ideas contrapuestas.",
+      "Porque 'sin embargo' siempre va entre paréntesis.",
+      "Porque es obligatorio usar punto y coma antes de cualquier conjunción."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Todos los estudiantes, excepto los del turno noche, están invitados', se usan comas antes y después de la frase 'excepto los del turno noche'. ¿Qué tipo de coma es esta según la clasificación presentada?",
+    "opciones": [
+      "Coma conjuntiva (delante de nexos exceptivos).",
+      "Coma vocativa.",
+      "Coma elíptica.",
+      "Coma hiperbática."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Un redactor está escribiendo un artículo sobre música clásica. Termina un párrafo hablando de Beethoven y quiere comenzar el siguiente hablando de Mozart y su influencia en otra época. ¿Qué signo de puntuación debe utilizar para separar estos dos bloques de texto?",
+    "opciones": [
+      "Punto seguido.",
+      "Punto y coma.",
+      "Punto aparte.",
+      "Coma."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'Miguel Grau, el Caballero de los Mares, es un héroe nacional', la frase 'el Caballero de los Mares' está encerrada entre comas. ¿Qué tipo de coma es?",
+    "opciones": [
+      "Coma enumerativa.",
+      "Coma incidental o explicativa.",
+      "Coma hiperbática.",
+      "Coma elíptica."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al escribir la fecha en una carta: 'Lima, 28 de julio de 2023', se utiliza una coma después de 'Lima'. ¿Qué función cumple esta coma?",
+    "opciones": [
+      "Separar el vocativo del mensaje.",
+      "Separar el referente geográfico de la fecha.",
+      "Indicar un desorden en la oración.",
+      "Reemplazar al verbo 'es'."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué indica la coma en la redacción según el principio de economía del lenguaje?",
+    "opciones": [
+      "Una pausa fonética respiratoria.",
+      "Una pausa sintáctica o funcional menor.",
+      "El final de un texto completo.",
+      "Una entonación interrogativa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el vocativo?",
+    "opciones": [
+      "El sujeto de la oración.",
+      "Un elemento extraoracional usado para llamar la atención del receptor.",
+      "El verbo principal de la frase.",
+      "Un tipo de adverbio de lugar."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se usa la coma elíptica?",
+    "opciones": [
+      "Para separar elementos de una lista.",
+      "Para indicar la supresión de un verbo o palabra sobreentendida.",
+      "Para aislar el nombre de la persona a quien se habla.",
+      "Para alterar el orden lógico de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signo de puntuación representa una pausa intermedia, mayor que la coma pero menor que el punto?",
+    "opciones": [
+      "Los dos puntos.",
+      "El punto y coma.",
+      "El guion.",
+      "Las comillas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué caso es obligatorio escribir con minúscula después de un punto y coma?",
+    "opciones": [
+      "Siempre, salvo que sea un nombre propio.",
+      "Nunca, siempre va mayúscula.",
+      "Solo cuando sigue un verbo.",
+      "Cuando la oración es interrogativa."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la función del punto seguido?",
+    "opciones": [
+      "Separar párrafos con ideas diferentes.",
+      "Separar unidades textuales semánticamente relacionadas dentro de un mismo párrafo.",
+      "Finalizar el texto completo.",
+      "Introducir una cita textual."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la alteración del orden lógico (Sujeto + Verbo + Complementos) que justifica el uso de la coma hiperbática?",
+    "opciones": [
+      "Elipsis.",
+      "Hipérbaton.",
+      "Pleonasmo.",
+      "Anáfora."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué signo se usa para cerrar abreviaturas?",
+    "opciones": [
+      "La coma.",
+      "El punto.",
+      "El punto y coma.",
+      "Los dos puntos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿se debe colocar punto final en los títulos o subtítulos de libros y artículos?",
+    "opciones": [
+      "Sí, siempre.",
+      "No, no se debe usar punto final en esos casos.",
+      "Solo si el título es largo.",
+      "Es opcional."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una enumeración completa donde se mencionan todos los elementos, ¿qué signo precede al último elemento en lugar de la coma?",
+    "opciones": [
+      "Un punto y coma.",
+      "La conjunción 'y'.",
+      "Dos puntos.",
+      "Un punto seguido."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "5.3 Uso de las letras mayúsculas y minúsculas",
+          "youtube_id": "69wMgt-SFS0",
+          "pdf_link": "https://drive.google.com/file/d/1pP5hBor-RVo47XNSLPFJlYZ68hRjx5_a/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de arquitectura debe redactar un informe sobre la historia del arte. En su texto incluye la siguiente oración: 'El Renacimiento fue una época de gran esplendor cultural, a diferencia del naturalismo que surgió después'. El profesor le indica que hay un error en el uso de mayúsculas. Basándose en la normativa explicada en el video sobre movimientos artísticos, ¿cuál es la corrección adecuada?",
+    "opciones": [
+      "Ambos, Renacimiento y Naturalismo, deben ir con mayúscula.",
+      "Ambos deben ir con minúscula por ser movimientos culturales.",
+      "Renacimiento debe ir con mayúscula (es uno de los cuatro grandes movimientos) y naturalismo con minúscula.",
+      "Renacimiento debe ir con minúscula y Naturalismo con mayúscula."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En una noticia internacional se lee: 'El conflicto en oriente medio ha escalado'. Según las reglas de uso de mayúsculas para puntos cardinales explicadas en el video, ¿cómo debería escribirse correctamente la referencia geográfica?",
+    "opciones": [
+      "Oriente medio (solo la primera con mayúscula).",
+      "Oriente Medio (ambas con mayúscula por ser nombre propio de región geopolítica).",
+      "oriente medio (todo en minúscula por ser puntos cardinales).",
+      "ORIENTE MEDIO (todo en mayúsculas)."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un alumno escribe en su examen: 'Mi signo zodiacal es tauro, pero mi hermana es virgo'. El profesor le corrige indicando que hay un error de concepto en el uso de mayúsculas. ¿Cuál es la explicación correcta según el video?",
+    "opciones": [
+      "Debería escribirse Tauro y Virgo con mayúscula porque son nombres propios.",
+      "Es correcto usar minúsculas porque se refiere a las personas nacidas bajo esos signos, no al nombre del signo en sí.",
+      "Tauro va con mayúscula y virgo con minúscula.",
+      "Los signos zodiacales siempre van con mayúscula sin excepción."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analice la siguiente oración: 'El Papa Francisco visitó la iglesia de San Pedro'. Según lo explicado sobre cargos y títulos, ¿es correcto el uso de la mayúscula en 'Papa'?",
+    "opciones": [
+      "Sí, porque es la máxima autoridad de la iglesia.",
+      "No, los cargos como papa, rey o presidente se escriben con minúscula.",
+      "Sí, porque acompaña al nombre propio Francisco.",
+      "Depende del contexto religioso."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un biólogo redacta: 'El animal estudiado es el Canis lupus familiaris'. ¿Qué error de formato presenta este nombre científico según las reglas mencionadas?",
+    "opciones": [
+      "Debe ir todo en mayúsculas.",
+      "Falta la cursiva y solo la primera letra del género (Canis) debe ir en mayúscula.",
+      "Todas las palabras deben iniciar con mayúscula: Canis Lupus Familiaris.",
+      "No hay error."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un cartel turístico se lee: 'Visite la Ciudad de los Reyes'. El video explica que 'Ciudad de los Reyes' es una denominación para Lima. ¿Por qué 'Ciudad' y 'Reyes' van con mayúscula?",
+    "opciones": [
+      "Porque es un nombre propio compuesto alternativo (antonomasia) de la ciudad.",
+      "Porque son sustantivos importantes.",
+      "Es un error, debería ser 'ciudad de los reyes'.",
+      "Solo 'Reyes' debería llevar mayúscula."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Si un paciente recibe un diagnóstico que dice: 'Usted padece de Parkinson', ¿es correcto el uso de la mayúscula en 'Parkinson' en este contexto específico?",
+    "opciones": [
+      "Sí, porque es un apellido.",
+      "No, cuando se refiere a la enfermedad en sí y no a la persona que la descubrió, se debe usar minúscula (padece de párkinson).",
+      "Sí, las enfermedades siempre van con mayúscula.",
+      "Solo si va al inicio de la oración."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un estudiante escribe sobre historia del Perú: 'La Guerra del Pacífico fue un conflicto importante'. ¿Es correcto el uso de mayúsculas en 'Guerra del Pacífico'?",
+    "opciones": [
+      "No, guerra es un sustantivo común y debe ir en minúscula; solo Pacífico va en mayúscula.",
+      "Sí, los acontecimientos históricos importantes se escriben con mayúscula en los sustantivos y adjetivos que los componen (aunque el video menciona 'guerra' con minúscula en otros contextos, para eventos específicos suele ser nombre propio, pero el video enfatiza 'guerra' minúscula y 'Pacífico' mayúscula en el ejemplo 'guerra del Pacífico').",
+      "Todo debe ir en minúscula.",
+      "Solo 'Guerra' debe ir con mayúscula."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la frase 'El señor De la Torre llegó tarde', ¿por qué la preposición 'De' se escribe con mayúscula?",
+    "opciones": [
+      "Porque inicia la oración.",
+      "Porque es un apellido que comienza con preposición y no está antecedido por el nombre de pila.",
+      "Es un error, debe ser 'de la Torre'.",
+      "Por respeto al señor."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al citar el título de un libro en un ensayo, un estudiante escribe: 'Cien Años De Soledad'. Según la normativa para títulos de obras en español explicada en el video, ¿cuál es el error?",
+    "opciones": [
+      "Falta ponerlo en negrita.",
+      "En español, solo la primera palabra del título se escribe con mayúscula (salvo nombres propios internos). Debería ser 'Cien años de soledad'.",
+      "Todas las palabras deben ir con mayúscula.",
+      "No se deben usar mayúsculas en títulos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué regla se aplica a los días de la semana, meses y estaciones del año en español?",
+    "opciones": [
+      "Se escriben siempre con mayúscula.",
+      "Se escriben con minúscula, salvo que sean inicio de oración o formen parte de un nombre propio (festividad).",
+      "Solo los meses van con mayúscula.",
+      "Solo las estaciones van con mayúscula."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se escriben los cargos públicos como 'presidente', 'ministro' o 'alcalde'?",
+    "opciones": [
+      "Con mayúscula inicial siempre.",
+      "Con mayúscula solo si no se menciona el nombre de la persona.",
+      "Con minúscula, por ser sustantivos comunes.",
+      "Con mayúscula si se refieren al actual mandatario."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuándo se escribe 'Sol' y 'Tierra' con mayúscula inicial?",
+    "opciones": [
+      "Siempre.",
+      "Nunca.",
+      "Solo en contextos estrictamente astronómicos.",
+      "Cuando se usan en poesía."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué ocurre con la mayúscula después de los dos puntos en una carta (ej. 'Estimado señor:')?",
+    "opciones": [
+      "Se debe continuar con minúscula.",
+      "Se debe continuar con mayúscula.",
+      "Es opcional.",
+      "Depende de la longitud del texto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se deben escribir los nombres de las religiones (ej. 'catolicismo', 'islam')?",
+    "opciones": [
+      "Con mayúscula inicial.",
+      "Con minúscula.",
+      "En cursiva.",
+      "Entre comillas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué regla aplica para los nombres de idiomas (ej. 'inglés', 'quechua')?",
+    "opciones": [
+      "Se escriben con mayúscula.",
+      "Se escriben con minúscula.",
+      "Depende del país.",
+      "Solo el idioma oficial va con mayúscula."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿cuáles son los cuatro grandes movimientos culturales que se escriben con mayúscula?",
+    "opciones": [
+      "Realismo, Naturalismo, Vanguardismo, Modernismo.",
+      "Renacimiento, Barroco, Neoclasicismo, Romanticismo.",
+      "Edad Media, Edad Moderna, Edad Contemporánea, Antigüedad.",
+      "Cubismo, Dadaísmo, Surrealismo, Futurismo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se escribe el nombre de un equipo deportivo como 'Alianza Lima' o 'Universitario'?",
+    "opciones": [
+      "Con mayúscula inicial en cada palabra significativa.",
+      "Todo en minúscula.",
+      "Solo la primera palabra en mayúscula.",
+      "En cursiva."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué uso tiene la mayúscula en las siglas (ej. OEA, ONU)?",
+    "opciones": [
+      "Solo la primera letra es mayúscula.",
+      "Todas las letras se escriben en mayúscula.",
+      "Se escriben en minúscula.",
+      "Depende de la longitud de la sigla."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se escribe correctamente la abreviatura de 'usted'?",
+    "opciones": [
+      "ud. (minúscula)",
+      "Ud. (mayúscula inicial)",
+      "UD (todo mayúscula)",
+      "u.d."
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Semántica de la lengua española",
+      "videos": [
+        {
+          "titulo": "6.1 Semántica: Signo lingüístico y Semiótica",
+          "youtube_id": "dgh40_wCuZw",
+          "pdf_link": "https://drive.google.com/file/d/1gp7CptKM6brcW4b7Cvy11Z5yroSbbXpB/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de arquitectura muestra una maqueta de un complejo habitacional que aún no se construye. Según la clasificación de signos de Charles Sanders Peirce explicada en el video, ¿qué tipo de signo es esta maqueta y por qué?",
+    "opciones": [
+      "Es un símbolo porque representa una idea abstracta.",
+      "Es un índice porque indica una continuidad física con el edificio.",
+      "Es un icono porque evoca una realidad (que existirá) por semejanza.",
+      "Es un signo lingüístico porque comunica información."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En una conversación, alguien dice: 'Juan es la cabeza del equipo'. Si analizamos semánticamente la palabra 'cabeza' en este contexto, ¿qué tipo de significado se está empleando?",
+    "opciones": [
+      "Denotado, porque se refiere a la parte superior del cuerpo.",
+      "Connotado, porque tiene un sentido figurado de líder o guía.",
+      "Literal, porque es el jefe.",
+      "Arbitrario, porque el nombre no tiene relación con el objeto."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si observamos humo a lo lejos en un bosque, inferimos que hay un incendio. Este humo funciona como un signo que tiene una relación de continuidad o causa-efecto con el fuego. ¿Cómo se clasifica este tipo de signo?",
+    "opciones": [
+      "Símbolo.",
+      "Icono.",
+      "Índice o indicio.",
+      "Señal."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "La palabra 'mujer' en español se traduce como 'mulher' en portugués, 'woman' en inglés y 'warmi' en quechua. Esta variación del significante para un mismo concepto demuestra una característica fundamental del signo lingüístico. ¿Cuál es?",
+    "opciones": [
+      "La linealidad.",
+      "La inmutabilidad.",
+      "La arbitrariedad.",
+      "La doble articulación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un lingüista analiza la evolución de la palabra latina 'flama' hasta convertirse en la palabra española 'llama'. Al observar este cambio a través del tiempo, ¿qué característica del signo lingüístico está comprobando?",
+    "opciones": [
+      "Su inmutabilidad sincrónica.",
+      "Su mutabilidad diacrónica.",
+      "Su linealidad en la pronunciación.",
+      "Su carácter biplánico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'Carlos carga la batería', la palabra 'batería' resulta ambigua si no sabemos si se refiere a un auto, un celular o un instrumento musical. Según el video, para precisar este significado se requiere de:",
+    "opciones": [
+      "El contexto (otras palabras de la oración).",
+      "La situación (el entorno o circunstancias externas).",
+      "El significado connotativo.",
+      "La etimología de la palabra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al pronunciar la palabra 'gato', emitimos los sonidos /g/, /a/, /t/, /o/ uno después del otro, sin poder superponerlos. Esta imposibilidad de pronunciar dos elementos al mismo tiempo demuestra la característica de:",
+    "opciones": [
+      "Arbitrariedad.",
+      "Linealidad.",
+      "Biplanicidad.",
+      "Mutabilidad."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Una paloma blanca es interpretada como 'paz' en nuestra cultura, pero podría significar 'comida' en otra cultura distinta. Esto se debe a que el símbolo es un signo de carácter:",
+    "opciones": [
+      "Natural.",
+      "Icónico.",
+      "Convencional o cultural.",
+      "Motivado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un hablante dice 'Me duele la mano' refiriéndose a la parte de su cuerpo, está utilizando el lenguaje con un significado:",
+    "opciones": [
+      "Connotativo.",
+      "Subjetivo.",
+      "Denotativo.",
+      "Metafórico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El signo lingüístico se compone de morfemas (primera articulación) y fonemas (segunda articulación). Esta característica permite formar infinitos mensajes con un número limitado de unidades. ¿Cómo se denomina esta propiedad?",
+    "opciones": [
+      "Doble articulación.",
+      "Arbitrariedad.",
+      "Interdependencia.",
+      "Inmutabilidad."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la semántica según la definición dada en el video?",
+    "opciones": [
+      "La estructura de las oraciones.",
+      "El sonido de las palabras.",
+      "El significado lingüístico de las palabras.",
+      "El origen de las palabras."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre de la lingüística moderna y teorizador del signo lingüístico?",
+    "opciones": [
+      "Noam Chomsky.",
+      "Ferdinand de Saussure.",
+      "Charles Sanders Peirce.",
+      "André Martinet."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los dos planos del signo lingüístico?",
+    "opciones": [
+      "Lengua y Habla.",
+      "Significado y Significante.",
+      "Emisor y Receptor.",
+      "Fondo y Forma."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el significante en el signo lingüístico?",
+    "opciones": [
+      "La idea o concepto mental.",
+      "El objeto real al que se refiere.",
+      "La imagen acústica o nombre mental.",
+      "El sonido físico pronunciado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es el significado en el signo lingüístico?",
+    "opciones": [
+      "La secuencia de sonidos.",
+      "La imagen acústica.",
+      "El concepto o idea mental formada por semas.",
+      "La escritura de la palabra."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué disciplina estudia los signos en el seno de la vida social de manera general (no solo lingüísticos)?",
+    "opciones": [
+      "Semántica.",
+      "Gramática.",
+      "Semiótica (o Semiología).",
+      "Fonología."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica del signo lingüístico se relaciona con la sincronía (estudio en un momento dado sin cambios)?",
+    "opciones": [
+      "Mutabilidad.",
+      "Inmutabilidad.",
+      "Linealidad.",
+      "Arbitrariedad."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué plano del lenguaje corresponde el significado?",
+    "opciones": [
+      "Plano de la expresión.",
+      "Plano del contenido.",
+      "Plano fónico.",
+      "Plano gráfico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son los 'semas' según la explicación de semántica?",
+    "opciones": [
+      "Los sonidos del lenguaje.",
+      "Las reglas gramaticales.",
+      "Los rasgos conceptuales mínimos que forman el significado.",
+      "Los tipos de signos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué clase de signo es una fotografía de una persona?",
+    "opciones": [
+      "Símbolo.",
+      "Índice.",
+      "Icono.",
+      "Señal."
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "6.2 Lenguaje - Semántica",
+          "youtube_id": "CsLgcUCQUco",
+          "pdf_link": "https://drive.google.com/file/d/1gp7CptKM6brcW4b7Cvy11Z5yroSbbXpB/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "En un texto, se utiliza la palabra 'ratón' para referirse tanto al animal roedor como al dispositivo informático periférico. Un estudiante analiza este caso y concluye que existe una relación semántica específica porque ambos comparten un rasgo común en su forma o estructura. ¿De qué fenómeno semántico se trata?",
+    "opciones": [
+      "Homonimia absoluta.",
+      "Monosemia.",
+      "Polisemia.",
+      "Antonimia léxica."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un hablante utiliza el término 'embarcar' para decir que dejará plantada a una persona en una cita, aunque originalmente significaba subir una carga a un barco. Este cambio de significado a lo largo de la historia se debe a un factor específico explicado en el video. ¿Cuál es este factor?",
+    "opciones": [
+      "El espacio geográfico.",
+      "El tiempo.",
+      "El contexto oracional.",
+      "La homonimia paradigmática."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un turista pide una 'piña' en Argentina y recibe un golpe en lugar de una fruta, se evidencia que el significado de la palabra ha cambiado debido a un factor determinado. ¿Qué factor influye en este cambio de significado?",
+    "opciones": [
+      "El tiempo.",
+      "El espacio geográfico.",
+      "El contexto literario.",
+      "La morfología de la palabra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La llama bajó del cerro', la palabra 'llama' se refiere al animal. En 'La llama del fuego se apagó', se refiere al fuego. ¿Qué factor determina el significado específico de 'llama' en cada caso?",
+    "opciones": [
+      "El tiempo histórico.",
+      "El espacio geográfico.",
+      "El contexto oracional.",
+      "La etimología."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un estudiante clasifica la relación entre las palabras 'flaco' y 'gordo'. Nota que son términos con significados opuestos y que cambian totalmente la estructura de la palabra (lexema diferente). ¿Qué tipo de relación semántica es esta?",
+    "opciones": [
+      "Antonimia gramatical.",
+      "Sinonimia relativa.",
+      "Antonimia léxica.",
+      "Homonimia parcial."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Al analizar las palabras 'legal' e 'ilegal', se observa que tienen la misma raíz y que la oposición se forma mediante un prefijo. ¿Cómo se denomina técnicamente a este tipo de antónimos?",
+    "opciones": [
+      "Antónimos léxicos.",
+      "Antónimos gramaticales.",
+      "Sinónimos absolutos.",
+      "Parónimos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si se dice que 'la uña es parte del dedo' y 'el motor es parte del automóvil', ¿qué relación semántica de inclusión se está estableciendo desde la parte hacia el todo?",
+    "opciones": [
+      "Holonimia.",
+      "Hiperonimia.",
+      "Meronimia.",
+      "Hiponimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un profesor explica que la relación entre 'mueble' y 'silla' es de inclusión. Si partimos del término más general 'mueble' hacia el término específico 'silla', ¿cómo se llama esta relación?",
+    "opciones": [
+      "Hiponimia.",
+      "Hiperonimia.",
+      "Cohiponimia.",
+      "Sinonimia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Vino de Ica y trajo vino', la palabra 'Vino' (verbo venir) y 'vino' (bebida) tienen la misma escritura y pronunciación pero diferente categoría gramatical. ¿Qué tipo de homonimia presentan?",
+    "opciones": [
+      "Homonimia total o absoluta.",
+      "Homonimia parcial o relativa.",
+      "Homonimia paradigmática.",
+      "Polisemia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Dos verbos en una conjugación como 'cantamos' (hoy) y 'cantamos' (ayer) pueden escribirse y pronunciarse igual, pero refieren a tiempos distintos (presente vs pasado). Según el video, ¿qué tipo de homonimia específica se da entre verbos con diferente información gramatical?",
+    "opciones": [
+      "Homonimia absoluta.",
+      "Homonimia relativa.",
+      "Homonimia paradigmática.",
+      "Paronimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la semántica según la definición del video?",
+    "opciones": [
+      "La ciencia que estudia los sonidos del habla.",
+      "La ciencia que estudia la estructura de las oraciones.",
+      "La ciencia que estudia el significado de las palabras y sus cambios.",
+      "La ciencia que estudia la ortografía."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son los 'semas' en semántica?",
+    "opciones": [
+      "Los sonidos de una palabra.",
+      "Los significados o rasgos mínimos de significado.",
+      "Las letras de una palabra.",
+      "Los tipos de oraciones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza a una palabra monosémica?",
+    "opciones": [
+      "Tiene varios significados.",
+      "Tiene un solo significado.",
+      "Tiene escritura parecida a otra.",
+      "Su significado es opuesto a otra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los dos planos del signo lingüístico (palabra)?",
+    "opciones": [
+      "Emisor y receptor.",
+      "Significado (imagen mental) y Significante (imagen acústica).",
+      "Habla y lengua.",
+      "Escritura y sonido."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que la palabra sea 'arbitraria'?",
+    "opciones": [
+      "Que el nombre guarda relación lógica con el objeto.",
+      "Que el nombre es impuesto y no hay relación natural con el objeto.",
+      "Que la palabra cambia según el hablante.",
+      "Que la palabra ocupa un lugar en el espacio."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el significado denotativo?",
+    "opciones": [
+      "El significado subjetivo o figurado.",
+      "El significado real, objetivo y de diccionario.",
+      "El significado que depende del tono de voz.",
+      "El significado oculto de una palabra."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el significado connotativo?",
+    "opciones": [
+      "El significado objetivo y estricto.",
+      "El significado contextual, figurado o subjetivo.",
+      "El significado etimológico.",
+      "El significado científico."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué relación semántica existe entre 'lunes' y 'martes' al ser ambos tipos de 'días'?",
+    "opciones": [
+      "Sinonimia.",
+      "Hiperonimia.",
+      "Cohiponimia.",
+      "Holonimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son los parónimos?",
+    "opciones": [
+      "Palabras con igual escritura y pronunciación.",
+      "Palabras con significados opuestos.",
+      "Palabras con parecida escritura y pronunciación, pero diferente significado.",
+      "Palabras con el mismo significado."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué diferencia a los homófonos de los homógrafos?",
+    "opciones": [
+      "Los homófonos tienen igual escritura y los homógrafos igual sonido.",
+      "Los homófonos tienen igual sonido (pero parecida escritura) y los homógrafos igual escritura (y sonido).",
+      "Los homófonos son antónimos y los homógrafos son sinónimos.",
+      "No hay diferencia, son lo mismo."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "6.3 LENGUAJE Relaciones Semánticas",
+          "youtube_id": "ADEPsWG0Wpk",
+          "pdf_link": "https://drive.google.com/file/d/1gp7CptKM6brcW4b7Cvy11Z5yroSbbXpB/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de medicina analiza los términos 'infección' y 'fiebre'. Observa que la fiebre suele ser una consecuencia natural de una infección. Según la clasificación de signos explicada en el video, ¿qué tipo de signo es la 'fiebre' respecto a la 'infección'?",
+    "opciones": [
+      "Un icono.",
+      "Un símbolo.",
+      "Un indicio o índice.",
+      "Un signo lingüístico."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si un hablante utiliza la expresión 'Le costó un ojo de la cara' para referirse a un precio muy alto, y no a la pérdida real de un órgano, ¿qué fenómeno semántico se está manifestando en el uso de la palabra 'ojo'?",
+    "opciones": [
+      "Homonimia.",
+      "Polisemia.",
+      "Sinonimia absoluta.",
+      "Antonimia gramatical."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la oración 'La llama del amor se apagó', la palabra 'llama' se refiere al fuego en sentido figurado. En 'La llama escupió al turista', se refiere al animal. Dado que ambas palabras tienen orígenes distintos y no comparten rasgos significativos en común, ¿qué relación semántica existe entre ellas?",
+    "opciones": [
+      "Polisemia.",
+      "Homonimia.",
+      "Sinonimia.",
+      "Hiperonimia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Analice la relación entre las palabras 'legal' e 'ilegal'. Dado que la oposición se forma mediante la adición de un prefijo de negación, ¿qué tipo de antonimia presentan?",
+    "opciones": [
+      "Antonimia lexical propia.",
+      "Antonimia lexical recíproca.",
+      "Antonimia gramatical.",
+      "Antonimia lexical complementaria."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si decimos que 'Roberto es la cabeza del equipo', no nos referimos a su anatomía, sino a su rol de líder. Este uso figurado o metafórico que extiende el significado de una misma palabra base es característico de:",
+    "opciones": [
+      "La homonimia parcial.",
+      "La polisemia.",
+      "La sinonimia relativa.",
+      "La paronimia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la frase 'Ella fue mi gran amor, pero se fue con otro', la palabra 'fue' aparece dos veces. La primera deriva del verbo 'ser' y la segunda del verbo 'ir'. A pesar de escribirse igual, provienen de verbos distintos. ¿Qué tipo de homonimia es?",
+    "opciones": [
+      "Homonimia paradigmática.",
+      "Homonimia absoluta.",
+      "Polisemia.",
+      "Homonimia parcial."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un profesor explica que entre 'niño' y 'anciano' existen términos intermedios como 'adolescente' o 'maduro'. Por lo tanto, la relación de oposición entre 'niño' y 'anciano' se clasifica como:",
+    "opciones": [
+      "Antonimia gramatical.",
+      "Antonimia lexical complementaria.",
+      "Antonimia lexical recíproca.",
+      "Antonimia lexical propia o gradual."
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Si 'ave' es el término que engloba a 'paloma', 'cóndor' y 'águila', ¿qué relación semántica existe específicamente entre 'paloma' y 'cóndor' al ser ambos tipos de aves?",
+    "opciones": [
+      "Hiperonimia.",
+      "Hiponimia.",
+      "Cohiponimia.",
+      "Holonimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En el enunciado 'El director de la banda (música) le puso la banda (cinta) a la reina', ambas palabras 'banda' son sustantivos y se escriben igual, pero tienen significados totalmente distintos sin relación. ¿Qué relación semántica presentan?",
+    "opciones": [
+      "Polisemia.",
+      "Homonimia absoluta.",
+      "Homonimia parcial.",
+      "Homonimia paradigmática."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un usuario dice 'Yo lucía un traje' y luego 'Ella lucía un vestido'. El verbo 'lucía' es el mismo, pero cambia la persona gramatical (primera vs. tercera). ¿Cómo se denomina a esta coincidencia en la forma verbal?",
+    "opciones": [
+      "Homonimia absoluta.",
+      "Homonimia parcial.",
+      "Homonimia paradigmática.",
+      "Polisemia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la semántica según la definición del video?",
+    "opciones": [
+      "La ciencia que estudia los sonidos del habla.",
+      "El componente de la gramática que estudia el significado lingüístico de las palabras.",
+      "El estudio de la estructura interna de las palabras.",
+      "La disciplina que analiza la sintaxis de las oraciones."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica del signo lingüístico se relaciona con la existencia de múltiples lenguas (multilingüismo)?",
+    "opciones": [
+      "La linealidad.",
+      "La inmutabilidad.",
+      "La arbitrariedad.",
+      "La doble articulación."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son los dos planos del signo lingüístico?",
+    "opciones": [
+      "Lengua y Habla.",
+      "Significado (plano del contenido) y Significante (plano de la expresión).",
+      "Emisor y Receptor.",
+      "Sema y Fonema."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de signo evoca una realidad existente, que existió o existirá, como una fotografía o un mapa?",
+    "opciones": [
+      "Icono.",
+      "Indicio.",
+      "Símbolo.",
+      "Señal."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué caracteriza a los símbolos según el video?",
+    "opciones": [
+      "Tienen una relación natural con lo que representan.",
+      "Se basan en la semejanza física.",
+      "Son convencionales y dependen de la cultura (ej. paloma de la paz).",
+      "Son siempre universales e inmutables."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la linealidad del signo lingüístico?",
+    "opciones": [
+      "Que el significado es igual al significante.",
+      "Que los signos se presentan uno tras otro en el tiempo o espacio, sin superponerse.",
+      "Que el lenguaje no evoluciona.",
+      "Que el signo tiene dos planos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste la sinonimia absoluta?",
+    "opciones": [
+      "Cuando los significados son parecidos pero no idénticos.",
+      "Cuando las palabras tienen significados opuestos.",
+      "Cuando los significados son iguales y permutables en todos los contextos.",
+      "Cuando una palabra tiene múltiples significados."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es la antonimia lexical complementaria?",
+    "opciones": [
+      "Cuando la afirmación de uno implica la negación del otro (ej. vivo/muerto).",
+      "Cuando hay grados intermedios.",
+      "Cuando la existencia de uno implica la del otro (ej. padre/hijo).",
+      "Cuando se usa un prefijo de negación."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué estudia la semiótica?",
+    "opciones": [
+      "Solo el signo lingüístico.",
+      "El signo en general en el seno de la vida social.",
+      "La estructura de las oraciones.",
+      "La evolución de las palabras."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define el 'sema'?",
+    "opciones": [
+      "Es el sonido de la palabra.",
+      "Es la imagen acústica.",
+      "Es el rasgo conceptual mínimo que compone el significado.",
+      "Es el objeto real."
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "6.4 SINONIMIA, ANTONIMIA, PARONIMIA Y HOMONIMIA",
+          "youtube_id": "iyfAcQuvaoU",
+          "pdf_link": "https://drive.google.com/file/d/1gp7CptKM6brcW4b7Cvy11Z5yroSbbXpB/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Un estudiante de arquitectura muestra una maqueta de un edificio a sus compañeros. Si bien la maqueta representa visualmente la realidad del edificio, en términos semánticos, ¿cómo clasificaríamos la relación entre la palabra 'maqueta' y el objeto físico en sí mismo?",
+    "opciones": [
+      "Como una relación de homonimia.",
+      "Como una relación de signo lingüístico entre significante y significado.",
+      "Como una relación de antonimia.",
+      "Como una relación de paronimia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un chef pide a su asistente que le pase el 'pico' para decorar el pastel y el asistente le trae una herramienta de construcción, ¿qué fenómeno semántico ha causado esta confusión?",
+    "opciones": [
+      "Sinonimia.",
+      "Antonimia.",
+      "Polisemia.",
+      "Monosemia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En una clase de biología, el profesor menciona que el 'abdomen' es una parte del cuerpo. Un alumno pregunta si esa palabra puede significar otra cosa en un contexto diferente. Basado en el video, ¿cuál sería la respuesta correcta?",
+    "opciones": [
+      "Sí, porque es una palabra polisémica.",
+      "No, porque es una palabra monosémica.",
+      "Sí, porque es un homónimo.",
+      "No, porque es un antónimo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Juan escribe en su dictado: 'El ciervo corrió por el bosque' y 'El siervo sirvió la cena'. Aunque suenan igual, se escriben diferente y tienen significados distintos. ¿Qué tipo de relación semántica ejemplifican estas palabras?",
+    "opciones": [
+      "Homografía.",
+      "Paronimia.",
+      "Homofonía.",
+      "Sinonimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "María le dice a su amiga: 'Tu esposo es muy amable', y luego comenta a otra persona: 'Su marido es muy atento'. Si 'esposo' y 'marido' se refieren a la misma persona con el mismo rol, ¿qué relación semántica existe entre estos términos?",
+    "opciones": [
+      "Antonimia.",
+      "Polisemia.",
+      "Sinonimia.",
+      "Homonimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En un debate, un orador usa la palabra 'aptitud' para referirse a la capacidad de alguien, pero otro participante entiende 'actitud' (comportamiento). Esta confusión se debe a que ambas palabras tienen una escritura y pronunciación parecida pero significados distintos. ¿Qué son estas palabras entre sí?",
+    "opciones": [
+      "Homónimos.",
+      "Sinónimos.",
+      "Parónimos.",
+      "Antónimos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Si clasificamos las palabras 'fútbol', 'vóley' y 'básquet' dentro de la categoría 'deportes', ¿qué término representa la categoría mayor que engloba a los demás?",
+    "opciones": [
+      "Hipónimo.",
+      "Hiperónimo.",
+      "Sinónimo.",
+      "Homógrafo."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un niño aprende que 'lunes', 'martes' y 'miércoles' son días de la semana. Si 'días de la semana' es el conjunto mayor, ¿qué son 'lunes', 'martes' y 'miércoles' respecto a ese conjunto?",
+    "opciones": [
+      "Hiperónimos.",
+      "Hipónimos.",
+      "Antónimos.",
+      "Parónimos."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Al leer la frase 'El vino de la fiesta se terminó' y luego 'Él vino temprano a la fiesta', notamos que la palabra 'vino' se escribe y pronuncia igual pero tiene significados diferentes. ¿Qué tipo específico de homonimia es este?",
+    "opciones": [
+      "Homofonía.",
+      "Homografía.",
+      "Paronimia.",
+      "Monosemia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Si un texto describe el clima como 'gélido' y otro texto describe el mismo clima como 'tórrido', expresando ideas opuestas extremas, ¿qué relación semántica se establece entre estos adjetivos?",
+    "opciones": [
+      "Sinonimia.",
+      "Polisemia.",
+      "Antonimia.",
+      "Hiperonimia."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué estudia la semántica según la definición dada en el video?",
+    "opciones": [
+      "La estructura de las oraciones.",
+      "Los sonidos del lenguaje.",
+      "Los significados de las expresiones lingüísticas.",
+      "La historia de las palabras."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué es un campo semántico?",
+    "opciones": [
+      "Un lugar físico donde se estudia el lenguaje.",
+      "Un conjunto de palabras que comparten características de significado en común.",
+      "Una lista de palabras con la misma escritura.",
+      "Un grupo de palabras que riman entre sí."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste la relación de sinonimia?",
+    "opciones": [
+      "Palabras con significados opuestos.",
+      "Palabras con significados parecidos o iguales.",
+      "Palabras que se pronuncian igual.",
+      "Palabras con varios significados."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la polisemia?",
+    "opciones": [
+      "Cuando una palabra tiene un solo significado.",
+      "Cuando dos palabras suenan igual.",
+      "Cuando una palabra tiene varios significados.",
+      "Cuando dos palabras tienen significados opuestos."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué prefijo se utiliza en la palabra 'monosemia' para indicar 'uno'?",
+    "opciones": [
+      "Poli-",
+      "Mono-",
+      "Homo-",
+      "Hipo-"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza a las palabras homógrafas?",
+    "opciones": [
+      "Tienen igual escritura y pronunciación, pero distinto significado.",
+      "Tienen igual sonido pero distinta escritura.",
+      "Tienen escritura parecida y significados opuestos.",
+      "Tienen un solo significado."
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa el término griego 'homo' en homonimia?",
+    "opciones": [
+      "Diferente.",
+      "Uno.",
+      "Igual.",
+      "Varios."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué relación semántica se da entre palabras con escritura y pronunciación parecida pero significados distintos?",
+    "opciones": [
+      "Homonimia.",
+      "Paronimia.",
+      "Sinonimia.",
+      "Antonimia."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama al término que engloba a un conjunto de palabras (ej. 'mueble' respecto a 'silla', 'mesa')?",
+    "opciones": [
+      "Hipónimo.",
+      "Parónimo.",
+      "Hiperónimo.",
+      "Antónimo."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué son los hipónimos?",
+    "opciones": [
+      "Términos que abarcan conjuntos mayores.",
+      "Términos que están englobados o incluidos en un término mayor.",
+      "Palabras con igual significado.",
+      "Palabras con escritura idéntica."
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    }
+  ]
+}

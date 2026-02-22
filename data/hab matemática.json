@@ -1,0 +1,207 @@
+{
+  "curso": "Habilidad Matemática",
+  "temas": [
+    {
+      "titulo": "Tema 1: Problemas de Cantidad",
+      "videos": [
+        {
+          "titulo": "1.1 Máximos y Mínimos",
+          "youtube_id": "Oq0e8wKpSOc",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "1.2 Problemas de cantidad",
+          "youtube_id": "ufGEVLHvFSs",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "1.3 Arreglos numéricos",
+          "youtube_id": "u2AXG2pEBJs",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "1.4 Seccionamientos y Cortes",
+          "youtube_id": "EN4EtOtjX9k",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "1.5 Traslados y Calendarios",
+          "youtube_id": "b2K-LLjsan0",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Problemas de regularidad, equivalencia y cambio",
+      "videos": [
+        {
+          "titulo": "2.1 Frecuencia de sucesos y diagramas de flujo",
+          "youtube_id": "ZOY6oteTHHM",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.2 Inductivo y Numérico verbal",
+          "youtube_id": "EGrmRPdcYL4",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.3 Cronometría",
+          "youtube_id": "gN1EZ1wvUWA",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.4 Interpretación de la Información - Simbolización y Ecuaciones",
+          "youtube_id": "AMuV6sq-wKc",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "2.5 Interpretación II",
+          "youtube_id": "ohhZz_4ZxHA",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Problemas de forma, movimiento y localización",
+      "videos": [
+        {
+          "titulo": "3.1 rotación, y Traslación de figuras",
+          "youtube_id": "Ye_lxaBeMC0",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.2 Rutas y Trayectorias",
+          "youtube_id": "h2pJygGLg14",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.3 Trazo de figuras",
+          "youtube_id": "5cL9LZEakSU",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.4 Simetría y Reflexiones",
+          "youtube_id": "0aPR28_NmHg",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.5 Visualización de figuras en el espacio",
+          "youtube_id": "5hGxhSWUcZU",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.6 Rueda, Engranaje y Polea",
+          "youtube_id": "eVQQ5POxBfU",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "3.7 Semejanza de Triángulos",
+          "youtube_id": "LDqe-03NbB4",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Problemas de Gestión de datos e Incertidumbre",
+      "videos": [
+        {
+          "titulo": "4.1 Interpretación de gráficos estadísticos",
+          "youtube_id": "elhI80OnDP8",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.2 Situaciones Deportivas",
+          "youtube_id": "5qmhl17uvmw",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.3 Suficiencia de datos",
+          "youtube_id": "NhMofogPS1g",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.4 Certezas",
+          "youtube_id": "Qh6_BQJlVdI",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.5 Deducción Simple y Compuesta",
+          "youtube_id": "DZuvzwH8r8I",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.6 Ordenamiento de Información",
+          "youtube_id": "kOkIUuQ8gm0",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.7 Verdades, mentiras y certezas",
+          "youtube_id": "7NA8DGQg2tg",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.8 Lazos familiares | Parámetros",
+          "youtube_id": "bUjlJjAnpZU",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        },
+        {
+          "titulo": "4.9 Diagrama de flujo",
+          "youtube_id": "17a32_oKL3E",
+          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "gratis": true,
+          "preguntas": []
+        }
+      ]
+    }
+  ]
+}

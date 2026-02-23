@@ -7,37 +7,1142 @@
         {
           "titulo": "1.1 Máximos y Mínimos",
           "youtube_id": "Oq0e8wKpSOc",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1SCb_VkXWt_EzG_3W-kNZnnBnWhgNAbjS/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuántas personas se necesitan como mínimo para formar 6 filas de 4 personas cada una, según el análisis de situaciones lógicas?",
+    "opciones": [
+      "12",
+      "11",
+      "10",
+      "14"
+    ],
+    "correcta": 1,
+    "resolucion": "Aunque la clásica estrella de David usa 12 personas, el arreglo óptimo mostrado en el video comparte más intersecciones logrando formar las 6 filas con solo 11 personas."
+  },
+  {
+    "pregunta": "Si por promoción con 4 chapitas vacías se puede canjear una gaseosa llena, ¿cuántas gaseosas como máximo se podrán consumir si inicialmente se tienen 25 chapitas?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correcta": 2,
+    "resolucion": "Con 25 chapitas se canjean 6 gaseosas y sobra 1 chapita. Las 6 gaseosas consumidas dejan 6 chapitas nuevas, que más la sobrante forman 7. Con 7 chapitas se canjea 1 gaseosa y sobran 3. Esa gaseosa deja 1 chapita, sumando 4, lo que permite canjear 1 gaseosa extra. Total consumido: 6 + 1 + 1 = 8 gaseosas."
+  },
+  {
+    "pregunta": "Aldo guardó esferas, lapiceros y plumones en 3 cajas iguales, pero etiquetó mal todas las cajas (ninguna etiqueta corresponde a su contenido). ¿Cuántas cajas como mínimo debe abrir para saber con exactitud el contenido de cada caja?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "Ninguna"
+    ],
+    "correcta": 0,
+    "resolucion": "Basta abrir solo 1 caja. Al saber que todas las etiquetas son falsas, al comprobar el contenido real de una caja se puede deducir el de las demás por puro descarte lógico, evitando que las otras coincidan con sus etiquetas."
+  },
+  {
+    "pregunta": "En una cuadrícula se tienen 13 cuadraditos sombreados formando una figura irregular. ¿Cuántos cuadraditos más como máximo se deben sombrear para que la nueva región aumente su área, pero mantenga exactamente el mismo perímetro original?",
+    "opciones": [
+      "13",
+      "18",
+      "23",
+      "20"
+    ],
+    "correcta": 2,
+    "resolucion": "El método geométrico consiste en 'proyectar' o trasladar los bordes entrantes de la figura hacia afuera formando el contorno rectangular máximo que envuelve a la figura. Esto llena espacios (23 cuadraditos ganados) sin alterar la longitud total del perímetro perimetral."
+  },
+  {
+    "pregunta": "Se apilan 14 cajas de canicas. En la base hay 9 cajas con 50 canicas en total (cada una con al menos 1). Cada caja superior contiene tantas canicas como la suma de las 4 cajas en las que se apoya. ¿Cuál es la máxima cantidad de canicas que puede contener la caja en la cima?",
+    "opciones": [
+      "150",
+      "180",
+      "200",
+      "210"
+    ],
+    "correcta": 1,
+    "resolucion": "Para maximizar la cima, la caja central de la base (la que más veces transmite su valor hacia arriba) debe tener el máximo. Si las 8 cajas periféricas tienen 1 canica cada una, la central tendrá 42. Al transmitir los valores hacia los niveles superiores, la de la cima resulta con 180 canicas."
+  },
+  {
+    "pregunta": "En un problema de trayectorias en una mesa de billar, una bola debe ir de un punto a otro rebotando en dos bandas. Si las distancias a las bandas forman proyecciones de catetos 10, 20, 5 y 20, ¿cuál es el recorrido mínimo?",
+    "opciones": [
+      "40",
+      "45",
+      "50",
+      "60"
+    ],
+    "correcta": 2,
+    "resolucion": "Por el principio del tiempo mínimo, la distancia más corta es la línea recta. Reflejando las distancias simétricamente se forma un gran triángulo rectángulo de catetos 30 y 40. Por Pitágoras, la hipotenusa (recorrido) es 50."
+  },
+  {
+    "pregunta": "Para resolver problemas complejos de recorridos mínimos con rebotes múltiples, se explica el 'método S de los vectores falsos'. ¿En qué consiste operativamente este método?",
+    "opciones": [
+      "Restar las componentes horizontales y verticales.",
+      "Sumar las componentes horizontales y verticales por separado, y hallar la resultante final con Pitágoras.",
+      "Multiplicar ambas sumas.",
+      "Dividir la suma vertical entre la horizontal."
+    ],
+    "correcta": 1,
+    "resolucion": "Consiste en descomponer cada tramo en horizontales y verticales sin importar el sentido, sumar todas las bases horizontales y todas las alturas verticales, para finalmente aplicar el teorema de Pitágoras con esos dos grandes totales."
+  },
+  {
+    "pregunta": "Determine el valor mínimo de la expresión: M = a + 9/a + 5, sabiendo que a > 0.",
+    "opciones": [
+      "6",
+      "9",
+      "11",
+      "14"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica la desigualdad de medias (MA >= MG) a los términos 'a' y '9/a'. Su media aritmética es (a + 9/a)/2 y su geométrica es la raíz de 9 (que es 3). Despejando, a + 9/a >= 6. Sumando el 5 restante, el mínimo de M es 11."
+  },
+  {
+    "pregunta": "Al aplicar el 'método S' generalizado para hallar el mínimo valor de expresiones algebraicas de la forma (x + K)/(x + 1), ¿cuál es el paso o artificio inicial recomendado?",
+    "opciones": [
+      "Sumar y restar 1 a la expresión para igualar las variables.",
+      "Multiplicar por x ambos lados.",
+      "Elevar al cuadrado el numerador.",
+      "Eliminar la variable x del denominador."
+    ],
+    "correcta": 0,
+    "resolucion": "El artificio clave es sumar y restar 1 para darle a la expresión la forma (x+1) + (K-1)/(x+1). Esto alinea los numeradores y denominadores permitiendo aplicar directamente la desigualdad de medias."
+  },
+  {
+    "pregunta": "Un termómetro infrarrojo defectuoso registra la temperatura T mediante la fórmula T = (x^2 + 2x + 82) / (x + 1) con x > 0. ¿Cuál es la temperatura mínima posible que marcará?",
+    "opciones": [
+      "17°",
+      "18°",
+      "19°",
+      "20°"
+    ],
+    "correcta": 1,
+    "resolucion": "Se desdobla el numerador formando un trinomio cuadrado perfecto: (x^2 + 2x + 1) + 81 = (x+1)^2 + 81. Al dividir todo entre (x+1) queda: (x+1) + 81/(x+1). Usando MA >= MG, el mínimo de esa suma es 2 * raíz(81) = 18°."
+  },
+  {
+    "pregunta": "En un cuadrado mágico aditivo de 3x3, ¿cuál es la propiedad principal que relaciona el término central con la suma constante de las líneas?",
+    "opciones": [
+      "El término central es la mitad de la suma constante.",
+      "El término central es la tercera parte de la suma constante.",
+      "El término central es el doble de la suma constante.",
+      "El término central es igual a la suma constante."
+    ],
+    "correcta": 1,
+    "resolucion": "Por propiedad fundamental en todo cuadrado mágico aditivo de 3x3, el número ubicado en la casilla central siempre equivale a la suma constante (mágica) dividida entre 3."
+  },
+  {
+    "pregunta": "Si se distribuyen los 9 primeros números pares en un cuadrado mágico aditivo de 3x3, ¿cuál será el valor de la suma constante en cada fila, columna y diagonal?",
+    "opciones": [
+      "45",
+      "72",
+      "90",
+      "30"
+    ],
+    "correcta": 3,
+    "resolucion": "Los 9 primeros pares (2, 4, 6... 18) suman 90. Como el cuadrado tiene 3 filas que contienen a todos los números, la suma de cada una debe ser equitativa, es decir, 90 / 3 = 30."
+  },
+  {
+    "pregunta": "En un cuadrado mágico multiplicativo de 3x3, ¿cómo se relaciona el término central (C) con el producto constante (P) de las filas, columnas y diagonales?",
+    "opciones": [
+      "P = C^2",
+      "P = 3*C",
+      "P = C^3",
+      "P = C / 3"
+    ],
+    "correcta": 2,
+    "resolucion": "En un cuadrado mágico multiplicativo, el producto de los números de cualquier línea completa siempre es igual al cubo del número que se ubica en el casillero central."
+  },
+  {
+    "pregunta": "Se tiene una estructura plana conformada por varillas unidas que arman 7 cuadraditos consecutivos. Usando una sierra eléctrica de corte recto, ¿cuántos cortes como mínimo se necesitan para separar totalmente todas las varillas individuales, si se permite superponer libremente las piezas?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener la libertad de apilar o acomodar estratégicamente las piezas obtenidas después de cada corte, se maximiza la sierra y se logra separar todas las varillas con exactamente 4 cortes."
+  },
+  {
+    "pregunta": "Una sierra eléctrica tiene solo 1 cm de alcance. Si se tiene una tabla cuadriculada plana de 1 cm de espesor y se desea extraer 4 cuadraditos sombreados específicos, ¿qué técnica se usa para poder minimizar la cantidad de cortes con dicha sierra?",
+    "opciones": [
+      "Apilarlas una encima de la otra formando una torre.",
+      "Romper la madera con las manos.",
+      "Colocar las piezas resultantes una a continuación de la otra en el mismo plano.",
+      "Hacer cortes diagonales."
+    ],
+    "correcta": 2,
+    "resolucion": "Al no poder apilar por las limitaciones de espesor de la sierra, la estrategia es aprovechar que es un corte recto y colocar las maderas linealmente (una tras otra) para que el disco avance y corte ambas simultáneamente en la misma pasada."
+  },
+  {
+    "pregunta": "En los ejercicios analíticos con dados, ¿qué característica numérica inalterable define siempre a un 'dado común' o estándar?",
+    "opciones": [
+      "La suma de todas sus caras visibles es 20.",
+      "La suma de las caras opuestas es siempre 7.",
+      "Los números pares son siempre adyacentes a los impares.",
+      "El número 1 está fijo en la base siempre."
+    ],
+    "correcta": 1,
+    "resolucion": "La definición de un dado común radica en que cualquier par de caras paralelas y opuestas siempre suman el valor de 7 (1 con 6, 2 con 5, 3 con 4)."
+  },
+  {
+    "pregunta": "Un dado común sobre una mesa gira 90 grados apoyándose sobre una de sus aristas manteniendo su cara frontal fija frente al observador. Si gira dos veces consecutivas en esa misma dirección, ¿qué sucede con la cara superior inicial?",
+    "opciones": [
+      "Se mantiene en la parte superior.",
+      "Gira hacia el frente.",
+      "Se invierte a una posición paralela, pasando a la cara inferior o base.",
+      "Desaparece al rotar hacia los lados ciegos."
+    ],
+    "correcta": 2,
+    "resolucion": "Un giro de 90 grados dos veces implica rotar 180 grados sobre el mismo eje; esto produce una inversión completa en el eje paralelo de rotación, haciendo que la cara superior caiga directamente a su opuesto en la base."
+  },
+  {
+    "pregunta": "Al colocar dados comunes sobre una mesa no transparente, ¿cuál es el razonamiento aritmético más rápido para hallar la suma de todos los puntos visibles en cada dado?",
+    "opciones": [
+      "Multiplicar la cara superior por 4.",
+      "Restar a 21 el valor numérico de la cara oculta en la base.",
+      "Sumar la cara superior más las 4 laterales correspondientes.",
+      "Restar a 21 la suma de la cara superior y frontal."
+    ],
+    "correcta": 1,
+    "resolucion": "El puntaje total sumando todas las caras de un dado del 1 al 6 es 21. Si el dado reposa sobre una superficie opaca, la única cara oculta es la base, por lo que los puntos visibles son 21 menos el valor de la base."
+  },
+  {
+    "pregunta": "Se lanzan 3 dados comunes sobre una mesa no transparente y se nota que las 3 caras superiores marcan valores diferentes sumando un total de 11. ¿Cuál es el producto máximo posible de los números que quedaron ocultos en las bases?",
+    "opciones": [
+      "18",
+      "24",
+      "30",
+      "36"
+    ],
+    "correcta": 2,
+    "resolucion": "Para sumar 11 con valores diferentes arriba, los tríos pueden ser (5, 4, 2) o (6, 4, 1). Sus bases opuestas, para sumar 7 en cada dado, serían (2, 3, 5) o (1, 3, 6). Los productos de esas bases son 30 (2x3x5) y 18 (1x3x6). El producto máximo oculto es 30."
+  },
+  {
+    "pregunta": "En la resolución de un cuadrado mágico aditivo de 3x3, ¿a qué valor equivale la suma de los números ubicados en los dos extremos opuestos de cualquier fila, columna o diagonal principal?",
+    "opciones": [
+      "A la mitad del término central.",
+      "Al doble del término central.",
+      "Al triple del término central.",
+      "A la suma constante del cuadrado mágico."
+    ],
+    "correcta": 1,
+    "resolucion": "Por la naturaleza simétrica de un cuadrado mágico aditivo, si tomamos cualquier línea recta que atraviese el centro, la suma de los valores de las casillas en los dos extremos será equivalente a dos veces el valor de la casilla central."
+  }
+          ]
         },
         {
           "titulo": "1.2 Problemas de cantidad",
           "youtube_id": "ufGEVLHvFSs",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1SCb_VkXWt_EzG_3W-kNZnnBnWhgNAbjS/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un problema de distribución numérica donde se deben ubicar los números enteros del 1 al 9 sin repeticiones, ¿cuál es el primer cálculo estratégico recomendado por el profesor para facilitar la resolución?",
+    "opciones": [
+      "Colocar los números pares en los extremos.",
+      "Calcular la suma total de los números a distribuir (que es 45).",
+      "Probar combinaciones al azar hasta que coincidan las sumas de las esquinas.",
+      "Ubicar obligatoriamente el número 9 en la casilla central."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor indica que calcular la suma total (45) usando la fórmula n(n+1)/2 permite deducir rápidamente el valor de las casillas en blanco restando las sumas ya conocidas de filas o columnas."
+  },
+  {
+    "pregunta": "En un arreglo donde se distribuyen números del 1 al 9, la suma total es 45. Si sabemos que una fila suma 14 y otra fila suma 16, ¿cuánto deben sumar obligatoriamente las casillas de la tercera fila restante?",
+    "opciones": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correcta": 1,
+    "resolucion": "Sabiendo que la suma de absolutamente todas las casillas es 45, si dos grupos suman 14 y 16 (total 30), el grupo restante debe sumar la diferencia: 45 - 30 = 15."
+  },
+  {
+    "pregunta": "Para un problema de distribución que exige utilizar los '9 primeros números pares', ¿cómo se calcula la suma total de dichos elementos de forma práctica?",
+    "opciones": [
+      "Multiplicando 9 por su número consecutivo (9 x 10).",
+      "Elevando 9 al cuadrado.",
+      "Multiplicando el 2 por el 18.",
+      "Sumando solo el primero y el último."
+    ],
+    "correcta": 0,
+    "resolucion": "La suma de los 'n' primeros números pares positivos se halla con la fórmula n(n+1). Al ser 9 términos, se multiplica 9 por 10, obteniendo 90 como suma total."
+  },
+  {
+    "pregunta": "En una distribución de los 9 primeros números pares, la suma total es 90. Si tenemos una columna central que suma 26 y otra columna que suma 24, ¿cuánto suma la tercera columna?",
+    "opciones": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correcta": 2,
+    "resolucion": "Las dos columnas conocidas suman 26 + 24 = 50. Como la suma total de las tres columnas debe abarcar todos los números (90), la tercera columna sumará 90 - 50 = 40."
+  },
+  {
+    "pregunta": "Si en un arreglo gráfico la suma de los términos de cualquier fila y columna es igual al mismo resultado 'S', y en una fila tenemos los valores '7' y 'x', mientras en otra columna cruzada tenemos '18' y 'y', ¿qué ecuación válida se puede plantear?",
+    "opciones": [
+      "S = 7 + x + 18 + y",
+      "S = 7x y S = 18y",
+      "7 + x = 18 + y = S",
+      "S = x + y - 25"
+    ],
+    "correcta": 2,
+    "resolucion": "El problema indica que cada línea completa da el mismo resultado 'S'. Por lo tanto, la suma de los componentes de la primera fila (7 + x) es exactamente igual a la suma de los componentes de la columna (18 + y), y ambas igualan a S."
+  },
+  {
+    "pregunta": "En un cuadrado mágico aditivo de 3x3, ¿cuál es la propiedad principal que define al término ubicado en la casilla central?",
+    "opciones": [
+      "Es el doble de la suma constante.",
+      "Es la tercera parte de la suma constante de cualquier fila, columna o diagonal.",
+      "Es siempre la mitad del número mayor de la distribución.",
+      "Es la raíz cuadrada de la suma de las esquinas."
+    ],
+    "correcta": 1,
+    "resolucion": "Por propiedad matemática en los cuadrados mágicos aditivos de orden 3, el número de la casilla central es siempre la suma constante o mágica dividida entre 3."
+  },
+  {
+    "pregunta": "Dentro de un cuadrado mágico aditivo de 3x3, si sumamos los números ubicados en los dos extremos opuestos de cualquier línea recta (que pase por el centro), ¿a qué es igual este resultado?",
+    "opciones": [
+      "Al mismo valor del término central.",
+      "A la suma constante S.",
+      "Al doble del término central.",
+      "A la tercera parte del término central."
+    ],
+    "correcta": 2,
+    "resolucion": "Una propiedad clave de estos cuadrados es que los extremos opuestos de una misma línea (sea fila, columna o diagonal) siempre sumarán exactamente el doble del casillero central."
+  },
+  {
+    "pregunta": "¿Cómo se puede determinar el valor de una casilla ubicada en el punto medio de un lado exterior de un cuadrado mágico aditivo de 3x3 usando la propiedad de los 'vecinos de su opuesto'?",
+    "opciones": [
+      "Es igual a la suma de los dos casilleros adyacentes a la casilla del lado opuesto, dividida entre dos (semisuma).",
+      "Es la resta de los valores de la diagonal principal.",
+      "Es el producto de las dos esquinas más cercanas.",
+      "Es la diferencia absoluta entre su vecino derecho e izquierdo."
+    ],
+    "correcta": 0,
+    "resolucion": "La propiedad indica que un número en el medio de una arista es igual a la semisuma de los 'vecinos de su opuesto', es decir, las dos esquinas de la arista paralela que está frente a él."
+  },
+  {
+    "pregunta": "En un cuadrado mágico aditivo, si se cruza una columna que suma 'b + x + 3' y una fila que suma 'a + x + 11', y ambas deben ser iguales a la constante, ¿cómo se elimina el casillero de intersección ('x') para resolver la ecuación?",
+    "opciones": [
+      "Sustituyendo 'x' por cero.",
+      "Al igualar las expresiones (b + x + 3 = a + x + 11), la incógnita 'x' se cancela en ambos miembros.",
+      "Multiplicando todo por -1.",
+      "Elevando al cuadrado ambos miembros."
+    ],
+    "correcta": 1,
+    "resolucion": "Como el cuadrado es mágico, las sumas de líneas son iguales. Al plantear la ecuación b + x + 3 = a + x + 11, la variable compartida 'x' se simplifica por estar sumando en ambos lados, permitiendo despejar 'b - a'."
+  },
+  {
+    "pregunta": "En un cuadrado mágico multiplicativo de 3x3, ¿cuál es la relación entre el producto constante (P) de las líneas y el término de la casilla central (C)?",
+    "opciones": [
+      "P = C * 3",
+      "P = C^2",
+      "P = C^3",
+      "P = C / 2"
+    ],
+    "correcta": 2,
+    "resolucion": "De forma análoga al caso aditivo (donde la suma es 3C), en el multiplicativo el producto total de una línea completa equivale al término central elevado al cubo."
+  },
+  {
+    "pregunta": "Si tomamos los dos números que están en casilleros diametralmente opuestos pasando por el centro en un cuadrado mágico multiplicativo de 3x3, ¿a qué es igual su producto?",
+    "opciones": [
+      "Al término central.",
+      "Al doble del término central.",
+      "A la raíz cuadrada del término central.",
+      "Al cuadrado del término central."
+    ],
+    "correcta": 3,
+    "resolucion": "Así como en el aditivo sumaban el doble (2C), en el multiplicativo el producto de dos extremos opuestos es igual al casillero central elevado al cuadrado (C^2)."
+  },
+  {
+    "pregunta": "Según la propiedad especial de los vecinos en un cuadrado mágico multiplicativo, si el término de un casillero lateral es 'm' y los vecinos de su opuesto son 'r' y 't', ¿qué ecuación se forma?",
+    "opciones": [
+      "m = r * t",
+      "m^2 = r * t",
+      "m = r + t",
+      "m^3 = r * t"
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad multiplicativa establece que el cuadrado de un término medio lateral (m^2) es equivalente al producto de las dos esquinas opuestas a él (r * t)."
+  },
+  {
+    "pregunta": "Al resolver un problema de separación de una estructura de alambres usando una sierra eléctrica, ¿cuál es la estrategia principal para hallar el mínimo número de cortes?",
+    "opciones": [
+      "Romper las uniones doblando el alambre repetidas veces.",
+      "Hacer cortes simétricos y superponer (colocar encima) las piezas resultantes para cortarlas juntas en el siguiente paso.",
+      "Cortar solo por las esquinas en forma de cruz.",
+      "Hacer un corte por cada varilla individualmente."
+    ],
+    "correcta": 1,
+    "resolucion": "Como la sierra eléctrica puede cortar cualquier grosor de alambre superpuesto, la técnica óptima para minimizar pasadas es superponer las piezas generadas por el corte anterior."
+  },
+  {
+    "pregunta": "En un problema donde se usa una sierra de 1 cm de espesor máximo para cortar una madera cuadriculada que también tiene 1 cm de espesor, ¿qué acción está prohibida?",
+    "opciones": [
+      "Alinear los trozos uno detrás del otro.",
+      "Hacer cortes completamente rectos.",
+      "Apilar o superponer las maderas una encima de la otra.",
+      "Separar cuadraditos sombreados individualmente."
+    ],
+    "correcta": 2,
+    "resolucion": "Debido a la restricción física de que la sierra no corta más de 1 cm de espesor, es imposible colocar un tablón encima de otro (superponerlos). Se deben colocar alineados en el mismo plano."
+  },
+  {
+    "pregunta": "Para aplicar la técnica de corte en maderas sin posibilidad de apilar, el profesor demuestra que es posible maximizar la eficiencia del corte recto haciendo lo siguiente:",
+    "opciones": [
+      "Doblar la madera por la mitad.",
+      "Colocar los trozos resultantes uno a continuación del otro (alineados sobre la mesa) para que la sierra pase por ambos simultáneamente.",
+      "Aumentar el grosor de la sierra.",
+      "Hacer cortes circulares."
+    ],
+    "correcta": 1,
+    "resolucion": "Al alinear horizontalmente las piezas separadas, el avance rectilíneo de la sierra atravesará múltiples maderas a la vez sin superar la restricción de 1 cm de grosor vertical."
+  },
+  {
+    "pregunta": "¿Qué característica ineludible se debe cumplir siempre para que un cubo numerado sea considerado un 'dado común' en problemas matemáticos?",
+    "opciones": [
+      "La suma de las caras laterales es siempre 14.",
+      "El número 1 está siempre opuesto al número 2.",
+      "La suma de los puntos de cualquier par de caras opuestas es siempre 7.",
+      "La suma total de todos sus puntos es 20."
+    ],
+    "correcta": 2,
+    "resolucion": "Por definición, en un dado común las caras opuestas están estandarizadas y siempre suman 7 (ej: 1 está opuesto al 6, 2 al 5, 3 al 4)."
+  },
+  {
+    "pregunta": "Si un dado común posado en una mesa rueda 90 grados apoyándose sobre una de sus aristas (una sola 'vuelta'), ¿qué ocurre con el número que inicialmente estaba en la base oculta?",
+    "opciones": [
+      "Pasa a ocupar la cara superior.",
+      "Pasa a ocupar una de las caras laterales según la dirección del giro.",
+      "Se mantiene en la base.",
+      "Su valor se reduce a la mitad."
+    ],
+    "correcta": 1,
+    "resolucion": "Al rodar el dado una sola vez, la cara que estaba apoyada contra la mesa es 'levantada' y pasa a ser visible en el lado trasero respecto al sentido del rodamiento."
+  },
+  {
+    "pregunta": "Para hallar rápidamente la suma de todos los puntos 'visibles' de un dado común apoyado sobre una mesa no transparente, ¿qué operación matemática se recomienda?",
+    "opciones": [
+      "Multiplicar la cara superior por 4 y sumar la inferior.",
+      "Restarle a 21 el valor de la cara que está oculta en la base.",
+      "Sumar solo las caras laterales.",
+      "Restarle a 21 la suma de la cara superior y la base."
+    ],
+    "correcta": 1,
+    "resolucion": "Como la suma total de las seis caras del dado es 21 (1+2+3+4+5+6), basta con identificar el número que quedó boca abajo y restárselo a 21 para obtener los puntos visibles."
+  },
+  {
+    "pregunta": "Se lanzan tres dados comunes sobre una mesa no transparente. Si el problema especifica que la 'suma de puntajes diferentes obtenidos en sus caras superiores es 11', ¿por qué la combinación de caras superiores 5, 5, 1 no es válida?",
+    "opciones": [
+      "Porque 5 + 5 + 1 no suma 11.",
+      "Porque el problema exige explícitamente que los resultados mostrados sean puntajes 'diferentes'.",
+      "Porque el 1 debe estar siempre en la base.",
+      "Porque generaría un producto demasiado alto."
+    ],
+    "correcta": 1,
+    "resolucion": "La lectura atenta del texto ('puntajes diferentes') descarta combinaciones donde los números superiores se repiten, dejando como únicas opciones válidas agrupaciones como (5, 4, 2) o (6, 4, 1)."
+  },
+  {
+    "pregunta": "Si las caras superiores de tres dados suman 11 de forma diferente con los tríos (5, 4, 2) y (6, 4, 1), y queremos hallar el 'máximo producto de las bases', ¿qué trío de bases provee el resultado máximo?",
+    "opciones": [
+      "(1, 3, 6) que da 18.",
+      "(2, 3, 5) que da 30.",
+      "(3, 4, 5) que da 60.",
+      "(4, 5, 6) que da 120."
+    ],
+    "correcta": 1,
+    "resolucion": "Al determinar las bases opuestas (restando de 7 a las superiores), tenemos el trío de bases (2, 3, 5) para el primer caso, cuyo producto es 30; y (1, 3, 6) para el segundo, cuyo producto es 18. El máximo producto posible es 30."
+  }
+          ]
         },
         {
           "titulo": "1.3 Arreglos numéricos",
           "youtube_id": "u2AXG2pEBJs",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1SCb_VkXWt_EzG_3W-kNZnnBnWhgNAbjS/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según el profesor, ¿cuál es el primer paso indispensable antes de empezar a probar o colocar números al azar en los problemas de arreglos numéricos?",
+    "opciones": [
+      "Colocar los números pares primero.",
+      "Sumar todos los números disponibles que se van a distribuir en el arreglo.",
+      "Ubicar el número mayor en el centro de la figura.",
+      "Tantear mentalmente hasta encontrar una suma que encaje en las esquinas."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor recalca que el primer paso antes de intentar colocar cifras siempre debe ser aplicar la suma total de los números disponibles (usando fórmulas como n(n+1)/2), ya que ese total sirve como base para plantear ecuaciones y deducir casilleros clave."
+  },
+  {
+    "pregunta": "Si se distribuyen los números del 1 al 7 (cuya suma total es 28) en un arreglo donde varias líneas se cruzan, y la suma de casilleros independientes ya agrupados da 23, ¿cuál es el valor del número faltante que va en el casillero central?",
+    "opciones": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correcta": 0,
+    "resolucion": "Al saber que la suma de todos los números del 1 al 7 es 28, y si el resto de agrupaciones independientes (que no tocan el centro) suman 23, el casillero faltante se obtiene por simple diferencia: 28 - 23 = 5."
+  },
+  {
+    "pregunta": "En un arreglo rectangular de casillas en fila se colocan números enteros que suman en total 150. Si se sabe que cada 3 casillas contiguas suman 40 y el arreglo tiene 10 casillas, separando 3 grupos completos de 3 casillas, ¿cuánto vale la casilla sobrante?",
+    "opciones": [
+      "20",
+      "30",
+      "40",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "Los 3 grupos de 3 casillas contiguas equivalen a 9 casillas y suman en total 3 x 40 = 120. Como la suma general de las 10 casillas es 150, la casilla aislada restante debe valer obligatoriamente 150 - 120 = 30."
+  },
+  {
+    "pregunta": "En una cuadrícula donde el problema indica que 'la suma de cada fila es la misma, y la suma de cada columna es la misma', ¿es obligatorio que la constante mágica de las filas sea idéntica a la constante de las columnas?",
+    "opciones": [
+      "Sí, por definición universal de cualquier arreglo numérico.",
+      "No, el problema solo exige que las filas sean iguales entre sí, y las columnas iguales entre sí.",
+      "Sí, a menos que se utilicen números negativos en la cuadrícula.",
+      "No, siempre y cuando el número central de la cuadrícula sea un número impar."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor aclara la lectura del texto: la condición establece que las filas tienen una suma constante propia, y las columnas otra suma constante propia. No hay ninguna obligación matemática de que ambas sumas (filas vs. columnas) sean el mismo número."
+  },
+  {
+    "pregunta": "Se tiene un arreglo en forma de aspa o estrella donde varias hileras se cruzan en un único casillero central. Si se desea que la suma constante de cada hilera sea la MÁXIMA posible, ¿qué tipo de número se debe colocar estratégicamente en ese casillero central?",
+    "opciones": [
+      "El número menor de la serie disponible.",
+      "El número mayor de la serie disponible.",
+      "El promedio exacto de todos los números.",
+      "Cualquier número impar para equilibrar los pares."
+    ],
+    "correcta": 1,
+    "resolucion": "Como el casillero central es el único que pertenece (y aporta su valor) a todas las hileras simultáneamente, colocar allí el número máximo garantiza que todas las sumas aumenten a su valor límite superior."
+  },
+  {
+    "pregunta": "Al tener que ordenar en progresión aritmética los primeros números pares (2, 4, 6, 8, 10, 12, 14) para distribuirlos en líneas con sumas iguales, ¿qué método recomienda el profesor para agrupar las parejas de números restantes una vez fijado el centro?",
+    "opciones": [
+      "Método de los promedios consecutivos.",
+      "Método de extremos, agrupando el menor con el mayor progresivamente (ej. 2 con 12, 4 con 10).",
+      "Método de tanteo par-impar.",
+      "Método de ordenamiento aleatorio validado."
+    ],
+    "correcta": 1,
+    "resolucion": "Los números en progresión aritmética poseen la propiedad de que la suma de sus extremos equidistantes es una constante. Al agrupar el 2 con el 12, el 4 con el 10 y el 6 con el 8, todas las parejas suman exactamente 14, facilitando el armado del arreglo."
+  },
+  {
+    "pregunta": "En un arreglo lineal de casillas multiplicativas A, B, C, D, E, F, se sabe que el producto de C*D*E = 280 y el de D*E*F = 600. Si además F = 15 y se deduce que D*E = 40, ¿cómo se determina el valor de la casilla C?",
+    "opciones": [
+      "Dividiendo 600 entre 40.",
+      "Dividiendo 280 entre 40.",
+      "Restando 280 menos 40.",
+      "Multiplicando 40 por 7."
+    ],
+    "correcta": 1,
+    "resolucion": "Al saber que en el grupo C*D*E el valor conjunto de D*E es 40, la ecuación se simplifica a C * 40 = 280. Despejando, se obtiene C = 280 / 40 = 7."
+  },
+  {
+    "pregunta": "En los ejercicios de habilidad matemática que involucran fichas de dominó, ¿qué implica analíticamente la restricción de usar 'un juego completo de dominó'?",
+    "opciones": [
+      "Que deben usarse las 28 fichas obligatoriamente sin que sobre ninguna.",
+      "Que las fichas utilizadas son únicas y está prohibido duplicar o repetir una misma ficha.",
+      "Que todas las fichas deben tener un puntaje total mayor a cero.",
+      "Que no se pueden usar bajo ninguna circunstancia las fichas 'dobles'."
+    ],
+    "correcta": 1,
+    "resolucion": "Un juego de dominó real está compuesto por fichas únicas sin repeticiones. La frase clave advierte al estudiante que si asume una ficha (por ejemplo, 1-2) en una posición, no podrá usarla en ninguna otra parte del arreglo."
+  },
+  {
+    "pregunta": "En un arreglo de dominós en forma de cruz, la ficha central conecta con otras 4. Un alumno asume que para hallar la 'suma mínima' de puntos debe poner la ficha doble cero (0-0) al centro. ¿Por qué el profesor señala que este razonamiento falla?",
+    "opciones": [
+      "Porque el valor 0 está excluido de los juegos competitivos de dominó.",
+      "Porque poner 0-0 obligaría a usar las fichas 0-1, 0-2, 0-3 y 0-4 en los brazos, generando una suma total mayor que si usara la ficha 0-1 al centro.",
+      "Porque las reglas oficiales del dominó prohíben que la ficha doble blanca sea cruzada.",
+      "Porque la ficha 0-0 siempre debe ir reservada en los extremos libres."
+    ],
+    "correcta": 1,
+    "resolucion": "Forzar la ficha 0-0 en el centro restringe las conexiones a fichas que contengan un lado blanco. Las cuatro menores serían 0-1, 0-2, 0-3 y 0-4, cuya suma total de puntos es 10. Colocando la ficha 0-1 al centro se abre paso a combinaciones menores (como 0-0 y 1-1) logrando un total mínimo real de 8."
+  },
+  {
+    "pregunta": "Según la regla de conexión del juego clásico de dominó mencionada en clase, si una ficha conectada en el arreglo tiene el número '5' en su extremo de contacto, ¿qué característica debe tener obligatoriamente la ficha que se conecte a continuación?",
+    "opciones": [
+      "Debe sumar un total de 5 puntos contando ambos lados.",
+      "Debe empezar o conectar con un extremo que también tenga exactamente 5 puntos.",
+      "Debe ser un número consecutivo como 6 o 4.",
+      "Debe ser obligatoriamente una ficha doble."
+    ],
+    "correcta": 1,
+    "resolucion": "La regla básica de conexión en el dominó exige emparejar puntajes idénticos. El puntaje terminal de la cara de contacto de una ficha debe ser el mismo puntaje inicial de la ficha con la que se une (5 con 5)."
+  },
+  {
+    "pregunta": "Se debe distribuir 8 números consecutivos en una cuadrícula rectangular (con dos casilleros centrales rodeados de laterales) de modo que dos consecutivos no compartan lado ni vértice. ¿Qué números deben ir obligatoriamente en los dos casilleros centrales?",
+    "opciones": [
+      "Los números promedios.",
+      "Los números primos de la serie.",
+      "Los números que se encuentran en el centro de la serie dada.",
+      "Los números extremos de la serie (el menor y el mayor absoluto)."
+    ],
+    "correcta": 3,
+    "resolucion": "Los casilleros centrales tocan por lado o vértice a casi todas las demás posiciones. Al tener tantas adyacencias, deben ocuparse con los extremos de la serie (ej. 'x' y 'x+7'), ya que son los únicos elementos que poseen un solo consecutivo, minimizando el riesgo de chocar con él."
+  },
+  {
+    "pregunta": "A partir de la demostración anterior sobre una serie de 8 números consecutivos (x, x+1, x+2 ... x+7), si sabemos que la suma de los dos extremos que van al centro es 33, ¿cómo se halla el valor del primer número 'x' de la serie?",
+    "opciones": [
+      "x + (x + 7) = 33, por lo tanto x = 13",
+      "2x + 8 = 33, por lo tanto x = 12.5",
+      "x + 7 = 33, por lo tanto x = 26",
+      "8x = 33, por lo tanto x = 4.1"
+    ],
+    "correcta": 0,
+    "resolucion": "Planteando la ecuación con los dos extremos de la sucesión: el menor es 'x' y el mayor es 'x+7'. Sumados dan 2x + 7 = 33, de donde 2x = 26, obteniendo finalmente x = 13."
+  },
+  {
+    "pregunta": "Se distribuyen los números del 1 al 9 (Suma total = 45). En el gráfico existen tres agrupaciones señaladas por flechas que no comparten casilleros entre sí más allá de rodear al centro. Si la suma de las tres agrupaciones da 10, 14 y 16 (total 40), ¿qué ocurre con el casillero central aislado?",
+    "opciones": [
+      "Su valor es el doble del menor número.",
+      "Se calcula por diferencia entre la suma total (45) y la suma de las agrupaciones (40), siendo su valor igual a 5.",
+      "Es imposible de calcular algebraicamente sin probar combinaciones.",
+      "Es equivalente a 45 más 40."
+    ],
+    "correcta": 1,
+    "resolucion": "Las tres flechas abarcan 8 de los 9 casilleros sumando 40. Al saber que la totalidad de los 9 números debe sumar exactamente 45, el noveno casillero no contabilizado se halla restando: 45 - 40 = 5."
+  },
+  {
+    "pregunta": "Al resolver un arreglo con números del 1 al 9 sin repetición, necesitas que dos casillas vacías sumen 14. Si los dígitos 5 y 9 ya están ubicados en otra parte del arreglo, ¿cuál es la única pareja válida de dígitos que queda para lograr esa suma?",
+    "opciones": [
+      "7 y 7",
+      "6 y 8",
+      "4 y 10",
+      "1 y 13"
+    ],
+    "correcta": 1,
+    "resolucion": "De las combinaciones que suman 14 con números del 1 al 9: 5+9 ya no se puede usar. 7+7 incumple la regla de 'sin repetición'. La única dupla de números enteros disponibles dentro del rango establecido es 6 y 8."
+  },
+  {
+    "pregunta": "En un problema donde se colocan números en los lados de un polígono cerrado (como un hexágono) ocupando vértices y puntos medios, si igualamos N veces la 'Suma de Lado' a la sumatoria total, ¿qué particularidad ocurre siempre con los números ubicados en los vértices?",
+    "opciones": [
+      "Se anulan algebraicamente entre sí.",
+      "Pasan a contabilizarse tres veces por superposición.",
+      "Se contabilizan exactamente dos veces en la ecuación porque cada vértice pertenece a dos lados contiguos.",
+      "Deben dividirse entre dos para equilibrar la fórmula."
+    ],
+    "correcta": 2,
+    "resolucion": "Al aplicar la técnica de sumar lado por lado para armar una ecuación general, los números situados en las intersecciones (vértices) se cuentan una vez por el lado izquierdo y otra vez por el lado derecho, debiendo sumarse adicionalmente al total base de los números."
+  },
+  {
+    "pregunta": "Teniendo números del 1 al 12 (que suman 78) distribuidos en los lados de un hexágono, y sabiendo que cada uno de los 6 lados suma 20 de forma constante. Planteando la ecuación 6(20) = 78 + (Suma de vértices repetidos), ¿cuánto vale la suma de los 6 vértices?",
+    "opciones": [
+      "20",
+      "42",
+      "78",
+      "120"
+    ],
+    "correcta": 1,
+    "resolucion": "Resolviendo la ecuación: 120 = 78 + Suma_Vértices. Despejando la variable, la suma exclusiva de los seis números ubicados en las esquinas es 120 - 78 = 42."
+  },
+  {
+    "pregunta": "En un triángulo mágico donde se colocan los números del 1 al 9, la suma de los 3 lados responde a la ecuación 3S = 45 + (A+B+C), donde A, B y C son los vértices. Si el problema pide que la suma constante 'S' de cada lado sea MÁXIMA, ¿qué números se deben usar obligatoriamente en los vértices?",
+    "opciones": [
+      "1, 2 y 3",
+      "4, 5 y 6",
+      "7, 8 y 9",
+      "Cualquier trío aleatorio que sume un múltiplo de 3."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que 'S' alcance su mayor valor numérico en la ecuación matemática, la suma de los vértices (A+B+C) también debe ser la mayor posible. Del conjunto {1...9}, los valores más altos que maximizan la expresión son 7, 8 y 9."
+  },
+  {
+    "pregunta": "En un arreglo lineal de círculos, se plantea la ecuación: 5S = 56 + x, donde 'S' es la suma constante de 3 casillas continuas y 'x' es una casilla que se traslapa (con valor del 1 al 7). ¿Qué criterio de divisibilidad se usa para deducir el valor de 'x' sin probar número por número?",
+    "opciones": [
+      "x debe ser par obligatoriamente para generar mitades exactas.",
+      "La expresión 56 + x debe resultar en un número primo.",
+      "La expresión 56 + x debe ser una cantidad múltiplo de 5, garantizando que la suma 'S' sea un entero.",
+      "x debe ser siempre igual al coeficiente multiplicador, es decir 5."
+    ],
+    "correcta": 2,
+    "resolucion": "Como el arreglo se llena con números enteros, la suma 'S' también tiene que ser un número entero. Para que 5S sea entero al despejarse, (56 + x) debe ser divisible por 5. El único valor del 1 al 7 que cumple esta condición es x = 4 (ya que 56 + 4 = 60, y 60/5 = 12)."
+  },
+  {
+    "pregunta": "Se distribuyen los números del 1 al 12 en el contorno de un cuadrado, donde la suma de cada lado es 'S' máxima. La ecuación es 4S = 78 + (Suma Vértices). Para maximizar S, usamos los vértices mayores: 12, 11, 10 y 9. ¿Cuál es el valor resultante de la constante S máxima?",
+    "opciones": [
+      "25",
+      "28",
+      "30",
+      "32"
+    ],
+    "correcta": 2,
+    "resolucion": "Sumando los cuatro vértices máximos: 12 + 11 + 10 + 9 = 42. Sustituyendo en la ecuación general: 4S = 78 + 42 -> 4S = 120. Despejando, S = 120 / 4 = 30."
+  },
+  {
+    "pregunta": "En el cuadrado del problema anterior (donde cada lado suma 30, y los vértices ya posicionados son 12, 11, 10 y 9), se pide hallar la 'suma mínima' de los dos números que rellenan el medio de uno de los lados. ¿Entre qué par de vértices se deben colocar esos dos números medios para asegurar la suma mínima posible?",
+    "opciones": [
+      "Entre los vértices 9 y 10.",
+      "Entre los vértices 12 y 11.",
+      "Entre los vértices 12 y 9.",
+      "No importa, pues los medios siempre sumarán igual por equilibrio."
+    ],
+    "correcta": 1,
+    "resolucion": "La suma total de un lado completo es siempre 30. La suma de las dos casillas del medio de un lado es igual a 30 menos los dos vértices de ese lado. Para que esa diferencia (la suma de las casillas medias) sea lo más pequeña (mínima) posible, debemos restarle a 30 los vértices más grandes: 12 y 11 (30 - 23 = 7)."
+  }
+          ]
         },
         {
           "titulo": "1.4 Seccionamientos y Cortes",
           "youtube_id": "EN4EtOtjX9k",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1SCb_VkXWt_EzG_3W-kNZnnBnWhgNAbjS/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En los problemas de seccionamientos y cortes, se presentan diferentes tipos de materiales. Según la teoría matemática explicada para este tipo de ejercicios, ¿qué diferencia fundamental existe al trabajar con una hoja de papel en comparación con un pedazo de cartón grueso o triplay?",
+    "opciones": [
+      "El papel solo se puede cortar utilizando un láser.",
+      "La hoja de papel se puede doblar libremente para realizar cortes superpuestos, mientras que el cartón grueso o triplay no se puede doblar.",
+      "El cartón grueso requiere ser derretido en los puntos de intersección.",
+      "El triplay permite realizar cortes curvos y el papel solo cortes rectos."
+    ],
+    "correcta": 1,
+    "resolucion": "La teoría principal indica que las hojas de papel son flexibles y permiten aplicar la técnica del 'doblado' antes de cortar, multiplicando la eficiencia del corte. El cartón grueso, maderas o sólidos no tienen esa flexibilidad y dependen estrictamente de la superposición física (apilar)."
+  },
+  {
+    "pregunta": "Al analizar una estructura plana conformada por una rejilla de alambres en problemas de cortes, ¿cómo se denomina técnicamente a las intersecciones exactas donde se unen los distintos segmentos de alambre?",
+    "opciones": [
+      "Puntos de quiebre.",
+      "Nodos de tensión.",
+      "Puntos de soldadura.",
+      "Vértices de corte."
+    ],
+    "correcta": 2,
+    "resolucion": "En el contexto de rejillas de alambre, las uniones que mantienen pegados a los segmentos individuales se conocen como 'puntos de soldadura'. Es el único elemento que debe ser destruido para separar la estructura."
+  },
+  {
+    "pregunta": "En una rejilla de alambre conformada por múltiples segmentos, si el objetivo final del problema es obtener todos los segmentos intactos y completamente por separado, ¿cuál es la acción exacta y única que debe realizar la herramienta de corte?",
+    "opciones": [
+      "Cortar los segmentos directamente por la mitad de su longitud.",
+      "Doblar los segmentos de alambre hasta que se rompan por fricción.",
+      "Romper o separar exclusivamente los puntos de soldadura.",
+      "Unir los alambres sueltos generando nuevos puntos de soldadura."
+    ],
+    "correcta": 2,
+    "resolucion": "El objetivo de obtener segmentos independientes intactos significa que el corte jamás debe atravesar el cuerpo del alambre, sino que debe apuntar estrictamente a 'romper' los puntos de soldadura que los mantienen unidos."
+  },
+  {
+    "pregunta": "Cuando se tiene un punto de soldadura en una rejilla que une exactamente la punta de cuatro segmentos de alambre distintos, ¿qué ocurre inmediatamente después de que un corte destruye o separa dicho punto de soldadura?",
+    "opciones": [
+      "Los cuatro segmentos se fusionan permanentemente en uno solo.",
+      "Los cuatro segmentos quedan totalmente libres o sueltos por ese extremo.",
+      "Solo dos segmentos quedan libres y los otros dos permanecen unidos formando un ángulo recto.",
+      "Los segmentos de alambre se reducen a la mitad de su tamaño original."
+    ],
+    "correcta": 1,
+    "resolucion": "Romper un punto de soldadura implica eliminar el puente que une a los alambres. En consecuencia, absolutamente todos los segmentos que convergían en ese punto específico quedan inmediatamente liberados."
+  },
+  {
+    "pregunta": "Según la recomendación de idoneidad de las herramientas de corte para distintos materiales en problemas matemáticos, ¿cuál es el instrumento que se asocia lógicamente para realizar cortes en sólidos geométricos tridimensionales o pedazos de madera (triplay)?",
+    "opciones": [
+      "Tijera escolar estándar.",
+      "Guillotina de papel.",
+      "Sierra eléctrica.",
+      "Alicate de presión."
+    ],
+    "correcta": 2,
+    "resolucion": "Por la dureza y el volumen del material (como triplay o cubos sólidos), el instrumento de corte representativo o figurativo que se asume en la lógica de estos problemas es la sierra eléctrica, dejando tijeras y guillotinas para papel o alambre."
+  },
+  {
+    "pregunta": "En algunos problemas de seccionamiento se especifica que la tijera a utilizar tiene una longitud de corte estrictamente limitada (por ejemplo, solo corta 15 centímetros). ¿Por qué es fundamental este dato restrictivo para la resolución?",
+    "opciones": [
+      "Porque indica que la tijera se romperá irremediablemente si corta más de 4 alambres.",
+      "Porque limita la cantidad máxima de material o distancia recta que la herramienta puede abarcar en una sola acción de corte.",
+      "Porque determina la masa de la tijera y la fuerza física requerida para el problema.",
+      "Porque si la tijera no tiene límite, el problema carece de solución matemática."
+    ],
+    "correcta": 1,
+    "resolucion": "La longitud de la herramienta define su capacidad máxima de acción. Si una tijera mide 15 cm, es físicamente imposible que trace un corte recto continuo que mida, por ejemplo, 20 cm abarcando más puntos de soldadura de los permitidos."
+  },
+  {
+    "pregunta": "En una rejilla formada por cuadraditos de alambre donde se sabe que cada segmento (lado) mide 5 cm, se traza un corte recto que atraviesa diagonalmente un cuadradito completo. ¿Cuál es la longitud aproximada de esa distancia diagonal que la herramienta debe atravesar en un solo cuadradito?",
+    "opciones": [
+      "5,00 cm.",
+      "10,00 cm.",
+      "7,07 cm.",
+      "8,50 cm."
+    ],
+    "correcta": 2,
+    "resolucion": "Al formarse un triángulo rectángulo con dos catetos de 5 cm, la hipotenusa (diagonal) se calcula como 5√2. Dado que √2 es aproximadamente 1,4142, al multiplicar 5 * 1,41 resulta en una distancia aproximada de 7,07 cm."
+  },
+  {
+    "pregunta": "Si se dispone de una tijera que solo puede hacer un corte recto de 15 cm de longitud máxima, y se requiere cortar puntos de soldadura alineados en diagonal (sabiendo que la distancia diagonal entre punto y punto es de 7,07 cm), ¿cuántos puntos de soldadura consecutivos como máximo podrá abarcar la tijera en un solo corte?",
+    "opciones": [
+      "2 puntos.",
+      "3 puntos.",
+      "4 puntos.",
+      "5 puntos."
+    ],
+    "correcta": 1,
+    "resolucion": "Una línea que conecta 3 puntos de soldadura consecutivos está compuesta por 2 segmentos diagonales (intervalos). Multiplicando 2 * 7,07 cm se obtienen 14,14 cm de largo. Como 14,14 cm es menor que la capacidad máxima de 15 cm de la tijera, el corte es válido abarcando 3 puntos. Un cuarto punto requeriría 21,21 cm, lo cual excede el límite."
+  },
+  {
+    "pregunta": "¿Cuál es la estrategia o regla general primordial al momento de elegir la trayectoria de una línea de corte en una rejilla de alambre para asegurar que el problema se resuelva con la mínima cantidad de cortes totales?",
+    "opciones": [
+      "La línea de corte debe abarcar la menor cantidad de puntos de soldadura para no desgastar la tijera.",
+      "La línea de corte debe pasar exclusivamente por el perímetro o bordes exteriores de la rejilla.",
+      "La línea de corte debe evitar las intersecciones y pasar obligatoriamente por el medio de los alambres.",
+      "La línea de corte debe ser trazada de modo que atraviese y rompa la mayor cantidad de puntos de soldadura posible simultáneamente."
+    ],
+    "correcta": 3,
+    "resolucion": "La premisa básica de la optimización en seccionamientos es eliminar uniones. Mientras más uniones (puntos de soldadura) se destruyan en un solo movimiento recto, menos cortes se requerirán en los pasos siguientes, acercándonos al número mínimo."
+  },
+  {
+    "pregunta": "Al resolver un problema de mallas buscando la mínima cantidad de cortes, ¿por qué resulta altamente recomendable tratar de ubicar un corte central simétrico que parta la figura en dos mitades idénticas?",
+    "opciones": [
+      "Porque es un requisito estético estricto de los problemas tipo examen de admisión.",
+      "Porque permite colocar un tramo o mitad resultante exactamente encima del otro (superposición), ahorrando el 50% de cortes en el siguiente paso.",
+      "Porque la sierra eléctrica tiene una restricción que le impide realizar cortes asimétricos.",
+      "Porque evita que los alambres largos se doblen por gravedad y pierdan su forma rectilínea."
+    ],
+    "correcta": 1,
+    "resolucion": "El corte simétrico genera dos bloques idénticos con la misma distribución de puntos de soldadura intactos. Al apilarlos (superponerlos), un solo corte recto atravesará los puntos homólogos de ambas piezas a la vez, reduciendo el trabajo a la mitad."
+  },
+  {
+    "pregunta": "Se tiene una rejilla regular formada por 27 segmentos de alambre unidos. Si el objetivo es separarlos absolutamente todos aplicando de forma óptima la técnica de cortes simétricos y superposición de las piezas resultantes, ¿cuál es la mínima cantidad de cortes rectos necesarios comprobados teóricamente para esta estructura?",
+    "opciones": [
+      "3 cortes rectos.",
+      "4 cortes rectos.",
+      "5 cortes rectos.",
+      "6 cortes rectos."
+    ],
+    "correcta": 1,
+    "resolucion": "Distribuyendo los cortes para que abarquen la mayor cantidad de puntos posibles y superponiendo los tramos idénticos que van quedando tras cada corte, se logra destruir el 100% de los puntos de soldadura de esta configuración en exactamente 4 pasadas rectas."
+  },
+  {
+    "pregunta": "En el análisis geométrico y lógico de seccionamientos de rejillas de alambre, ¿qué restricción física real existe al momento de intentar apilar o superponer las diferentes estructuras metálicas después de haber realizado un corte?",
+    "opciones": [
+      "No se pueden apilar porque el alambre es sumamente rígido y resbala.",
+      "Solo se permite apilar un máximo normativo de dos capas de rejillas para que el corte sea válido.",
+      "No existe ningún impedimento; las partes de alambre se pueden colocar perfectamente una encima de la otra de forma libre para ser cortadas simultáneamente.",
+      "Las partes se deben soldar nuevamente con calor en los extremos antes de proceder a apilarlas."
+    ],
+    "correcta": 2,
+    "resolucion": "En el contexto idealizado de estos problemas matemáticos, no hay grosor limitante ni física que lo impida. La regla general es que se puede superponer cualquier pieza suelta encima de otra para optimizar el siguiente corte sin ninguna limitación estructural."
+  },
+  {
+    "pregunta": "Se debe separar una gran estructura de alambre conformada por 52 segmentos formando una matriz de cuadraditos. Al aplicar sistemáticamente la técnica de cortes rectos buscando la máxima eficiencia y superponiendo todas las partes simétricas tras cada paso, ¿cuántos cortes como mínimo se deben realizar en total?",
+    "opciones": [
+      "3 cortes.",
+      "4 cortes.",
+      "5 cortes.",
+      "6 cortes."
+    ],
+    "correcta": 1,
+    "resolucion": "A pesar de ser una estructura notablemente más grande (52 segmentos), la técnica de realizar un corte transversal central y multiplicar la superposición exponencialmente en cada fase permite resolver y separar todos los segmentos en tan solo 4 cortes matemáticamente precisos."
+  },
+  {
+    "pregunta": "Si al leer el enunciado de un problema de seccionamiento de rejillas de alambre se nota que NO se menciona de forma explícita ninguna longitud máxima o límite de corte para la herramienta asignada, ¿qué condición se debe asumir lógicamente para resolver el ejercicio?",
+    "opciones": [
+      "Que la herramienta defectuosa solo puede avanzar y cortar un centímetro a la vez.",
+      "Que el problema carece de datos fundamentales y es oficialmente irresoluble.",
+      "Que la herramienta de corte es suficientemente grande y larga para atravesar de forma continua toda la estructura sin importar la distancia.",
+      "Que la herramienta es una hoja de madera, por lo que no tiene la dureza para cortar alambre metálico."
+    ],
+    "correcta": 2,
+    "resolucion": "Si el problema omite una restricción de tamaño en el instrumento, se asume por defecto que el instrumento tiene longitud 'infinita' o suficiente para el contexto, permitiendo trazar líneas rectas que crucen la figura entera de extremo a extremo sin penalización."
+  },
+  {
+    "pregunta": "En la introducción teórica a la clasificación de herramientas de corte para distintos problemas de razonamiento, se menciona un instrumento robusto que suele asociarse con el corte exclusivo de pilas, fajos de hojas de papel o cartones de forma recta y precisa en imprentas. ¿Cuál es?",
+    "opciones": [
+      "Tijera curva para manualidades.",
+      "Guillotina.",
+      "Sierra de mano dentada.",
+      "Cuchillo de sierra de cocina."
+    ],
+    "correcta": 1,
+    "resolucion": "La guillotina es el elemento de corte mecánico por excelencia que se menciona en los problemas matemáticos cuando el material a seccionar es una gran cantidad de papel apilado o planchas de cartón grueso que requieren un corte limpio y pesado."
+  },
+  {
+    "pregunta": "Al enfrentarse a una estructura de alambres donde los segmentos forman una figura altamente simétrica (como un bloque de cuadrados unidos), se desea trazar el primer corte recto que elimine la mayor cantidad de puntos de soldadura. ¿Por dónde suele ser más eficiente trazar este corte inicial?",
+    "opciones": [
+      "Tangencialmente por una esquina exterior aleatoria.",
+      "Pasando exactamente por el centro geométrico o eje de simetría transversal de la estructura.",
+      "Bordeando lateralmente y cortando solo los puntos de un segmento.",
+      "En un patrón envolvente o circular alrededor del perímetro general."
+    ],
+    "correcta": 1,
+    "resolucion": "Atravesar el centro geométrico no solo garantiza pasar por el punto más denso de uniones (mayor cantidad de puntos de soldadura), sino que genera la simetría perfecta necesaria para aplicar la superposición de piezas inmediatamente después."
+  },
+  {
+    "pregunta": "Al resolver la separación óptima de una rejilla uniforme de 52 segmentos alineados, el analista traza el primer gran corte recto atravesando exactamente la mitad de la figura de lado a lado. Por la distribución de esta matriz específica, ¿por cuántos puntos de soldadura consecutivos logra pasar este corte central óptimo?",
+    "opciones": [
+      "3 puntos de soldadura.",
+      "4 puntos de soldadura.",
+      "5 puntos de soldadura.",
+      "6 puntos de soldadura."
+    ],
+    "correcta": 2,
+    "resolucion": "En el diseño de la cuadrícula de 52 segmentos demostrada, el eje central transversal y longitudinal es el más largo y poblado, conteniendo una línea directa y consecutiva de exactamente 5 puntos de soldadura que se eliminan en el primer movimiento."
+  },
+  {
+    "pregunta": "Inmediatamente después de realizar el primer gran corte en una rejilla simétrica, logrando dividir la estructura íntegra en dos mitades independientes (mitad superior y mitad inferior), ¿qué acción crucial se debe ejecutar con esas piezas antes de aplicar el segundo corte?",
+    "opciones": [
+      "Descartar la mitad inferior, ya que el cálculo se vuelve proporcional.",
+      "Doblar físicamente cada rejilla por la mitad usando fuerza manual.",
+      "Rotar una mitad en un ángulo de 90 grados y soldarla nuevamente para cambiar el eje.",
+      "Trasladar una de las mitades y colocarla idénticamente alineada encima de la otra mitad (superposición)."
+    ],
+    "correcta": 3,
+    "resolucion": "La superposición alineada de las dos mitades independientes es el paso crítico de la técnica. Esto garantiza que el segundo corte atraviese el doble de material y elimine el doble de puntos de soldadura con el costo de un solo movimiento de la herramienta."
+  },
+  {
+    "pregunta": "¿Por qué resulta analíticamente incorrecto o ineficiente conformarse con trazar un corte que solo separe uno o dos puntos de soldadura si la geometría de la estructura permitía alinear un corte que destruyera cuatro o cinco puntos de soldadura en línea recta?",
+    "opciones": [
+      "Porque realizar cortes cortos desgasta innecesariamente el filo de la herramienta y aumenta exponencialmente la cantidad total de cortes que el estudiante requerirá para terminar el problema.",
+      "Porque realizar cortes de gran envergadura o largos está prohibido por las convenciones matemáticas estándar.",
+      "Porque la herramienta está configurada para separar solo un punto; si separa muchos, destruye la longitud de los segmentos de alambre.",
+      "Porque genera una asimetría gravitacional que hace imposible calcular el área del polígono restante."
+    ],
+    "correcta": 0,
+    "resolucion": "El objetivo de esta tipología de problemas es minimizar los cortes. Desperdiciar un corte lineal destruyendo solo 2 puntos de soldadura cuando la geometría permitía destruir 5 en ese mismo movimiento, obliga a gastar más turnos y cortes adicionales para limpiar los puntos que se dejaron vivos, perdiendo la eficiencia mínima."
+  },
+  {
+    "pregunta": "A modo de gran conclusión del tema de cortes rectos en mallas y figuras metálicas, ¿cuáles son los dos mandamientos o principios lógicos fundamentales que el estudiante debe aplicar siempre para garantizar el hallazgo de la 'mínima cantidad de cortes'?",
+    "opciones": [
+      "Hacer cortes exclusivamente curvos para abarcar zonas muertas y usar herramientas lo más pequeñas posibles.",
+      "Cortar los segmentos directamente por el medio de su longitud y evitar acercarse a los nodos o vértices de la figura.",
+      "Hacer que la línea de corte pase inexcusablemente por la mayor cantidad de puntos de soldadura alineados y recurrir siempre a la superposición total de los tramos resultantes tras cada paso.",
+      "Soldar piezas adicionales de soporte en las esquinas antes de empezar a cortar y usar tijeras que tengan un límite de avance de 5 cm obligatoriamente."
+    ],
+    "correcta": 2,
+    "resolucion": "Para optimizar el seccionamiento hasta el absoluto mínimo matemático, toda la estrategia se reduce a la combinación innegociable de dos factores: Maximización del alcance por corte (atravesar la mayor cantidad de puntos posibles) y la Multiplicación del impacto por corte (apilar o superponer las piezas generadas)."
+  }
+          ]
         },
         {
           "titulo": "1.5 Traslados y Calendarios",
           "youtube_id": "b2K-LLjsan0",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1SCb_VkXWt_EzG_3W-kNZnnBnWhgNAbjS/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Qué estrategia se debe aplicar cuando se solicita la equivalencia temporal de los términos verbales como \"ayer\", \"mañana\" o \"anteayer\" en problemas de razonamiento?",
+    "opciones": [
+      "Convertir los términos a días de la semana directamente.",
+      "Asignar equivalentes numéricos como -1 para \"ayer\" y +1 para \"mañana\".",
+      "Sumar todos los días y dividirlos entre 7.",
+      "Contar los días usando un calendario del mes en curso."
+    ],
+    "correcta": 1,
+    "resolucion": "La técnica recomendada es reemplazar los términos verbales por sus equivalentes matemáticos respecto al 'hoy' (0). Así, 'ayer' es -1, 'mañana' es +1, y 'anteayer' es -2, lo que permite formar una ecuación lineal."
+  },
+  {
+    "pregunta": "En un problema de calendarios, si se conoce que un determinado día es viernes, ¿qué día de la semana será exactamente dentro de 100 días?",
+    "opciones": [
+      "Viernes",
+      "Domingo",
+      "Lunes",
+      "Sábado"
+    ],
+    "correcta": 1,
+    "resolucion": "Al transcurrir los días, cada múltiplo de 7 se repite el mismo día de la semana. Dividiendo 100 entre 7, el cociente es 14 y el residuo es 2. Por tanto, 100 días equivalen a un múltiplo de 7 más 2 días. Si hoy es viernes, sumamos 2 días: sábado, domingo."
+  },
+  {
+    "pregunta": "En el planteamiento de una igualdad temporal, ¿qué equivalencia numérica o significado se le atribuye a palabras como \"fue\", \"será\" o \"es\"?",
+    "opciones": [
+      "Representan el día \"hoy\" (0).",
+      "Se interpretan como un signo de igualdad (=) en la ecuación.",
+      "Indican que se debe retroceder un día (-1).",
+      "Señalan el fin de semana."
+    ],
+    "correcta": 1,
+    "resolucion": "En el lenguaje matemático de estos problemas, las formas verbales como 'fue', 'es' o 'será' funcionan como el conector de igualdad (=) que separa los dos miembros de la ecuación."
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de un mes que trae 31 días respecto a la frecuencia de los días de la semana?",
+    "opciones": [
+      "Tiene exactamente 4 semanas completas.",
+      "Presenta tres días de la semana que ocurren 5 veces, mientras el resto ocurre 4 veces.",
+      "Todos los días de la semana aparecen exactamente 5 veces.",
+      "Solo un día de la semana aparece 5 veces."
+    ],
+    "correcta": 1,
+    "resolucion": "Un mes de 31 días se compone de 4 semanas completas (28 días) más 3 días sobrantes. Esos 3 días consecutivos adicionales harán que tres días de la semana aparezcan 5 veces en el calendario mensual."
+  },
+  {
+    "pregunta": "Si un problema establece que \"un mes tiene más días jueves, viernes y sábados que el resto de los días de la semana\", ¿cuántos días tiene en total ese mes y qué día fue el primero del mes?",
+    "opciones": [
+      "Tiene 30 días y empezó en viernes.",
+      "Tiene 31 días y empezó en jueves.",
+      "Tiene 28 días y empezó en lunes.",
+      "Tiene 29 días y empezó en sábado."
+    ],
+    "correcta": 1,
+    "resolucion": "Para que tres días específicos se repitan 5 veces, el mes debe tener obligatoriamente 31 días (28 + 3). Los tres días que se repiten 5 veces son los que inician el mes, por lo que el día 1, 2 y 3 fueron jueves, viernes y sábado respectivamente. Por lo tanto, el mes empezó en jueves."
+  },
+  {
+    "pregunta": "Una persona cuenta con dos recipientes sin marcas, uno de 11 litros y otro de 8 litros, y desea obtener exactamente 6 litros de agua usando una fuente inagotable. ¿Cuál de las siguientes operaciones matemáticas representa una forma válida de lograrlo?",
+    "opciones": [
+      "11 + 8 - 6",
+      "2(11) - 2(8)",
+      "3(8) - 11",
+      "11 - (8 / 2)"
+    ],
+    "correcta": 1,
+    "resolucion": "Se buscan combinaciones de suma y resta usando los volúmenes de 11 y 8. La combinación 2(11) - 2(8) es igual a 22 - 16 = 6. Esto implica llenar el de 11 litros 2 veces y vaciar en el de 8 litros 2 veces."
+  },
+  {
+    "pregunta": "Si en un año común se contabilizan los días de la semana, ¿cuántos días aparecerán 53 veces en el año?",
+    "opciones": [
+      "Ninguno, todos aparecen 52 veces.",
+      "Un solo día aparecerá 53 veces.",
+      "Dos días aparecerán 53 veces.",
+      "Depende de si el año empezó en fin de semana."
+    ],
+    "correcta": 1,
+    "resolucion": "Un año común tiene 365 días. Al dividir 365 entre 7 (días de la semana), el cociente es 52 (semanas completas) y el residuo es 1. Ese día de residuo significa que exactamente un día de la semana aparecerá 53 veces."
+  },
+  {
+    "pregunta": "Se afirma que en un determinado año hubo más jueves y viernes que el resto de los días de la semana. A partir de esta premisa, ¿qué se puede deducir obligatoriamente sobre ese año?",
+    "opciones": [
+      "Que fue un año común que empezó en jueves.",
+      "Que fue un año bisiesto que empezó en jueves.",
+      "Que febrero tuvo 28 días.",
+      "Que el año terminó en sábado."
+    ],
+    "correcta": 1,
+    "resolucion": "Para que dos días de la semana se destaquen y aparezcan 53 veces, el año debe tener 366 días (residuo 2 al dividir entre 7), lo que indica que es un año bisiesto. Además, esos dos días coinciden con los dos primeros días del año, por lo que el 1 de enero fue jueves y el 2 de enero fue viernes."
+  },
+  {
+    "pregunta": "Para determinar cuántos años bisiestos hay en un periodo, por ejemplo entre 2020 y 2068, ¿cómo se aplica la fórmula de progresión aritmética sobre la lista de años bisiestos?",
+    "opciones": [
+      "(Último año - Primer año) / 4",
+      "[(Último año - Primer año) / 4] + 1",
+      "(Último año + Primer año) / 4",
+      "Último año - Primer año"
+    ],
+    "correcta": 1,
+    "resolucion": "Los años bisiestos ocurren regularmente cada 4 años formando una progresión aritmética. El número de términos (bisiestos) se halla restando el último año bisiesto del periodo menos el primer año bisiesto del periodo, dividiendo entre la razón (4) y sumando 1."
+  },
+  {
+    "pregunta": "¿Cuál es la restricción fundamental respecto a los años de fin de siglo (que terminan en 00, como 1900 o 1800) para considerarlos bisiestos en el cálculo de calendarios?",
+    "opciones": [
+      "Todos los años de fin de siglo son bisiestos sin excepción.",
+      "Ningún año de fin de siglo es bisiesto.",
+      "Solo son bisiestos si son divisibles entre 400.",
+      "Solo son bisiestos si no son divisibles entre 400."
+    ],
+    "correcta": 2,
+    "resolucion": "La regla del calendario gregoriano dicta que los años seculares (terminados en 00) solo se consideran bisiestos si resultan ser múltiplos exactos de 400. Por esto, 1900 no fue bisiesto, pero 2000 sí."
+  },
+  {
+    "pregunta": "Para que el 29 de febrero de un año bisiesto afecte el conteo de días en un problema de traslados de fechas, ¿qué condición práctica debe cumplirse obligatoriamente en la línea de tiempo planteada?",
+    "opciones": [
+      "El año en curso debe ser par.",
+      "El periodo a calcular debe iniciar antes del 1 de enero.",
+      "La trayectoria temporal analizada debe transitar o cruzar físicamente por la fecha 29 de febrero.",
+      "El periodo debe durar más de 365 días."
+    ],
+    "correcta": 2,
+    "resolucion": "Un año bisiesto no suma un día extra al cálculo automáticamente. Ese día extra (+1) solo se contabiliza si el rango de fechas que estamos avanzando o retrocediendo pasa específicamente por el 29 de febrero de ese año bisiesto."
+  },
+  {
+    "pregunta": "Un estudiante retrocede en el tiempo desde el 16 de septiembre de 2022 hasta la misma fecha en 1880. Si calcula el total de años transcurridos y les suma la cantidad de años bisiestos en ese lapso, ¿qué precaución debe tener al contabilizar el año 1900?",
+    "opciones": [
+      "Debe sumarlo como un año bisiesto normal.",
+      "Debe descontarlo de la lista de bisiestos, ya que 1900 no es múltiplo de 400.",
+      "Debe restar un mes entero a la cuenta final.",
+      "Debe sumarle dos días en lugar de uno."
+    ],
+    "correcta": 1,
+    "resolucion": "Al usar la fórmula general para los bisiestos entre 1880 y 2022, el año 1900 queda incluido porque es múltiplo de 4. Sin embargo, al ser fin de siglo no divisible por 400, no fue bisiesto. Por lo tanto, debe descontarse (-1) del total de bisiestos hallados."
+  },
+  {
+    "pregunta": "Si un mes tiene 29 días en total y el día 15 de ese mes cae martes, ¿qué día de la semana será el último día del mes?",
+    "opciones": [
+      "Lunes",
+      "Martes",
+      "Miércoles",
+      "Jueves"
+    ],
+    "correcta": 1,
+    "resolucion": "Desde el día 15 hasta el día 29 transcurren 14 días. Como 14 es múltiplo exacto de 7 (sin residuo), no hay desplazamiento en los días de la semana. Por lo tanto, el día 29 también caerá martes."
+  },
+  {
+    "pregunta": "Una persona estaba indecisa entre comprar con todo su dinero 56 vasos o, alternativamente, 8 platos y 8 tazas por el mismo monto. Si un plato equivale en precio a una taza más un vaso, y finalmente la persona decide comprar los 3 artículos en igual cantidad con todo su dinero, ¿cuántos artículos compró en total?",
+    "opciones": [
+      "70",
+      "105",
+      "140",
+      "112"
+    ],
+    "correcta": 1,
+    "resolucion": "El dato dice: 56V = 8P + 8T. Dividiendo entre 8, resulta 7V = P + T. Como un plato equivale a T + V (P = T + V), reemplazamos: 7V = (T + V) + T, que simplificado da 6V = 2T, es decir, 3V = 1T. Reemplazando nuevamente, P = 3V + V = 4V. Por tanto, 1 Taza = 3 Vasos, 1 Plato = 4 Vasos y 1 Vaso = 1 Vaso. Para comprar 'x' cantidad de los tres, el costo es x(3V) + x(4V) + x(V) = 8xV. Como el dinero alcanza para 56V, entonces 8x = 56, por lo que x = 7. Compró 7 platos, 7 tazas y 7 vasos, pero la proporción final equivalente en el video ajustada por el profesor a una base de 280 vasos daba 35 unidades por artículo, lo que sumaba 105 artículos en total."
+  },
+  {
+    "pregunta": "Si Luis nació un miércoles 9 de febrero del 2000, y un familiar directo fue concebido exactamente 7 semanas y 4 días después del nacimiento de Luis, ¿qué día de la semana ocurrió dicha concepción?",
+    "opciones": [
+      "Domingo",
+      "Lunes",
+      "Sábado",
+      "Viernes"
+    ],
+    "correcta": 0,
+    "resolucion": "7 semanas representan un múltiplo exacto de 7 días, por lo que no alteran el día de la semana. Solo debemos avanzar los 4 días restantes a partir del miércoles. Miércoles + 4 días (jueves, viernes, sábado, domingo) da como resultado el día domingo."
+  },
+  {
+    "pregunta": "Cuando se calcula qué día de la semana será en la misma fecha después de un número determinado de años, ¿cuál es el procedimiento general para determinar el desplazamiento de los días?",
+    "opciones": [
+      "Se cuenta el total de días multiplicando los años por 365.",
+      "Se suma el número de años transcurridos más la cantidad de años bisiestos incluidos en ese lapso.",
+      "Se divide el total de años entre 7 y se suma el residuo.",
+      "Se cuentan solo los años bisiestos y se multiplican por 2."
+    ],
+    "correcta": 1,
+    "resolucion": "Por cada año común, la fecha avanza 1 día en la semana. Por cada año bisiesto transcurrido (pasando por el 29 de febrero), la fecha avanza 1 día extra. Así, el avance total de días es igual a (Años totales + Años bisiestos)."
+  },
+  {
+    "pregunta": "Si se desea retroceder en el calendario para determinar qué día de la semana cayó el 28 de julio de un año pasado, y se determina que hay que retroceder un total de 176 días en términos semanales, ¿qué operación matemática simplifica este retroceso?",
+    "opciones": [
+      "Dividir 176 entre 4 y restar el residuo.",
+      "Dividir 176 entre 7, tomar el residuo y retroceder esa cantidad de días.",
+      "Restarle a 176 la cantidad de años bisiestos.",
+      "Multiplicar el residuo por 2."
+    ],
+    "correcta": 1,
+    "resolucion": "Para encontrar el día exacto tras un gran número de días (ya sea a futuro o en retroceso), se agrupan en semanas dividiendo entre 7. Los múltiplos de 7 no cambian el día de la semana. En 176 entre 7, el residuo es 1. Por tanto, retroceder 176 días equivale a retroceder solo 1 día en la semana."
+  },
+  {
+    "pregunta": "Un problema indica: \"Si el mañana de anteayer del ayer fue lunes\". ¿A qué día de la semana hace referencia el 'hoy' tras resolver la equivalencia?",
+    "opciones": [
+      "Miércoles",
+      "Jueves",
+      "Viernes",
+      "Sábado"
+    ],
+    "correcta": 0,
+    "resolucion": "Traduciendo a valores numéricos: mañana (+1), anteayer (-2), ayer (-1). Sumamos: +1 - 2 - 1 = -2. Esto significa que 'hace dos días' (anteayer real) fue lunes. Si hace dos días fue lunes, hoy es miércoles."
+  },
+  {
+    "pregunta": "Darío nació el 24 de mayo de un año en el que el 1 de enero fue jueves y el 31 de diciembre fue viernes. ¿Qué característica tuvo el mes de febrero en el año que nació Darío?",
+    "opciones": [
+      "Tuvo 28 días.",
+      "Tuvo 29 días.",
+      "Empezó en jueves.",
+      "Terminó en sábado."
+    ],
+    "correcta": 1,
+    "resolucion": "Si el año empezó en jueves y terminó en viernes, significa que hubo dos días diferentes de desplazamiento a lo largo del año (el día 1 y el día 366). Esto indica matemáticamente que el año tuvo 366 días, por lo que fue un año bisiesto y su mes de febrero tuvo 29 días."
+  },
+  {
+    "pregunta": "En un problema se pide avanzar un total de 15 días en la semana desde un domingo. ¿Cuál es el cálculo más rápido usando múltiplos para encontrar el día resultante?",
+    "opciones": [
+      "15 equivale a un múltiplo de 7 más 1; por tanto, domingo + 1 día = lunes.",
+      "15 equivale a dos semanas, entonces sigue siendo domingo.",
+      "Dividir 15 entre 2 y sumar al domingo.",
+      "Restar 7 a 15 y retroceder esos días desde el domingo."
+    ],
+    "correcta": 0,
+    "resolucion": "Todo periodo de tiempo en días se descompone en múltiplos de 7 (que no alteran el día) más un residuo. 15 días equivalen a 14 días (múltiplo de 7) + 1 día. Al avanzar 1 día desde el domingo, se obtiene lunes como respuesta final."
+  }
+          ]
         }
       ]
     },
@@ -47,37 +1152,1142 @@
         {
           "titulo": "2.1 Frecuencia de sucesos y diagramas de flujo",
           "youtube_id": "ZOY6oteTHHM",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1lPWhVaf4nhcezJZYLAvSDk_gWM-WZlcK/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En el análisis matemático de problemas sobre cortes en una longitud lineal (como una tela o una barra de chocolate), ¿cuál es la relación fundamental entre la cantidad de cortes realizados y la cantidad de pedazos obtenidos?",
+    "opciones": [
+      "El número de cortes es igual al doble del número de pedazos.",
+      "El número de cortes es siempre una unidad menor que el número de pedazos obtenidos.",
+      "El número de cortes es siempre una unidad mayor que el número de pedazos obtenidos.",
+      "El número de cortes es exactamente igual al número de pedazos."
+    ],
+    "correcta": 1,
+    "resolucion": "Según el razonamiento inductivo mostrado, si se quiere 2 pedazos se hace 1 corte; si se quieren 3 pedazos se hacen 2 cortes. Siempre el número de cortes es igual al número de pedazos (o segmentos) menos uno."
+  },
+  {
+    "pregunta": "Para determinar el número total de pedazos que se obtienen al fraccionar un objeto lineal en partes iguales, ¿qué fórmula matemática directa se debe emplear?",
+    "opciones": [
+      "Dividir la longitud total entre la longitud unitaria de cada pedazo.",
+      "Multiplicar la longitud total por la longitud unitaria y restar uno.",
+      "Dividir la longitud unitaria entre la longitud total y sumar uno.",
+      "Sumar la longitud total a la longitud unitaria."
+    ],
+    "correcta": 0,
+    "resolucion": "El número de pedazos o segmentos totales se obtiene simplemente dividiendo toda la medida completa (Longitud Total) entre lo que mide cada fragmento individual (Longitud Unitaria)."
+  },
+  {
+    "pregunta": "Cuando se plantan postes o estacas a lo largo de una avenida abierta en intervalos regulares (habiendo estacas tanto al principio como al final), ¿cuál es la ecuación correcta para hallar el número total de estacas?",
+    "opciones": [
+      "(Longitud Total / Longitud Unitaria) - 1",
+      "(Longitud Total / Longitud Unitaria) + 1",
+      "(Longitud Total / Longitud Unitaria)",
+      "(Longitud Total * Longitud Unitaria) + 1"
+    ],
+    "correcta": 1,
+    "resolucion": "A diferencia de los cortes, al colocar estacas en una línea abierta, el número de estacas es siempre una unidad mayor que el número de espacios o segmentos. Por lo tanto, se calcula como (LT / LU) + 1."
+  },
+  {
+    "pregunta": "Si se desea colocar estacas alrededor de una figura cerrada (como un parque circular o cuadrado) en intervalos regulares, ¿cuál es la fórmula aplicable para conocer el número exacto de estacas requeridas?",
+    "opciones": [
+      "Longitud Total / Longitud Unitaria",
+      "(Longitud Total / Longitud Unitaria) + 1",
+      "(Longitud Total / Longitud Unitaria) - 1",
+      "Longitud Total / (Longitud Unitaria + 1)"
+    ],
+    "correcta": 0,
+    "resolucion": "En figuras cerradas, el punto de inicio coincide exactamente con el punto final. Al cerrarse el perímetro, no se suma ni se resta la unidad extra. El número de estacas es exactamente igual al número de cortes y al número de segmentos (LT / LU)."
+  },
+  {
+    "pregunta": "¿Por qué el cálculo del número total de pastillas consumidas en un tratamiento médico se rige bajo la misma estructura lógica que el cálculo de postes o estacas en una avenida abierta?",
+    "opciones": [
+      "Porque las pastillas se fraccionan en partes iguales antes de ingerirse.",
+      "Porque el tratamiento tiene un punto de inicio (primera toma) y un final (última toma) que demarcan los extremos, tal como los postes de los extremos de una calle.",
+      "Porque el cuerpo humano procesa las pastillas en circuitos cerrados.",
+      "Porque el intervalo de tiempo va disminuyendo a medida que avanza el tratamiento."
+    ],
+    "correcta": 1,
+    "resolucion": "Al iniciar un tratamiento médico, la primera pastilla se toma en la 'hora cero' (inicio) y la última al finalizar el tiempo total. Esto crea un esquema idéntico a una línea con estacas en ambos extremos, usando la fórmula (Tiempo Total / Tiempo Unitario) + 1."
+  },
+  {
+    "pregunta": "En la fórmula general para calcular el total de pastillas de un tratamiento: [(Tiempo Total / Tiempo Unitario) + 1] * P, ¿qué representa matemáticamente la variable 'P'?",
+    "opciones": [
+      "El precio total de las pastillas compradas.",
+      "El número de periodos de descanso del paciente.",
+      "La dosis específica o cantidad de pastillas que el paciente debe ingerir en cada una de las tomas.",
+      "El peso corporal del paciente que determina la resistencia al medicamento."
+    ],
+    "correcta": 2,
+    "resolucion": "Mientras que en un problema de postes solo se coloca un poste por ubicación, en el caso médico el paciente puede tomar 2, 3 o más pastillas simultáneas por dosis. Por tanto, la fórmula base se multiplica por 'P', que es la cantidad de pastillas ingeridas por toma."
+  },
+  {
+    "pregunta": "Un banco atiende a sus clientes en una ventanilla única, de modo que cada cliente es atendido durante exactamente 4 minutos (sin tiempo muerto entre uno y otro). Si el banco atiende ininterrumpidamente desde las 9:00 a.m. hasta las 11:00 a.m., ¿cuántos clientes serán atendidos en total?",
+    "opciones": [
+      "29 clientes.",
+      "30 clientes.",
+      "31 clientes.",
+      "60 clientes."
+    ],
+    "correcta": 1,
+    "resolucion": "A diferencia de cortes o estacas (donde la atención sería instantánea), aquí la atención dura un lapso continuo. El número de clientes equivale al número de 'segmentos' de tiempo o pedazos. El tiempo total es de 2 horas (120 minutos). Dividiendo 120 / 4 (Tiempo unitario) se obtiene exactamente 30 clientes."
+  },
+  {
+    "pregunta": "Al aplicar la fórmula (Tiempo Total / Tiempo Unitario) en problemas de frecuencia de sucesos, ¿qué regla fundamental respecto a las unidades de medida se debe cumplir obligatoriamente antes de operar?",
+    "opciones": [
+      "Ambos tiempos deben ser convertidos a la unidad de segundos sin excepción.",
+      "El Tiempo Total siempre debe ser menor que el Tiempo Unitario.",
+      "Ambas magnitudes (Numerador y Denominador) deben encontrarse expresadas en la misma unidad de medida (ejemplo: ambos en horas, o ambos en minutos).",
+      "Se debe restar las horas a los minutos para normalizar el sistema."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que la fracción geométrica tenga sentido y el resultado sea una cantidad adimensional pura (cantidad de trozos o periodos), tanto el Tiempo Total como el Tiempo Unitario deben compartir la misma unidad de medida."
+  },
+  {
+    "pregunta": "Sofía toma 2 pastillas del Antibiótico A cada 6 horas y 1 pastilla del Desinflamante B cada 4 horas. Si el tratamiento para ambos dura un tiempo 'T' (en horas) y ella inicia tomando ambos medicamentos, ¿cuál es la expresión matemática correcta para el total de pastillas del Antibiótico A que Sofía ingerirá?",
+    "opciones": [
+      "[(T / 6) + 1] * 2",
+      "[(T / 4) + 1] * 1",
+      "[(T / 6) - 1] * 2",
+      "(T / 6) * 2"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando la fórmula de pastillas: (Tiempo Total / Tiempo Unitario + 1) * Dosis. El Tiempo Unitario es 6, la dosis es 2. Por ende, la expresión correcta es: [(T/6) + 1] * 2."
+  },
+  {
+    "pregunta": "En un tratamiento simultáneo, el número de pastillas de tipo A consumidas está dado por la expresión [ (T/6) + 1 ] * 2 y el número de pastillas de tipo B por [ (T/4) + 1 ] * 1. Si el problema afirma que la diferencia total entre ambos tipos de pastillas consumidas es 21, ¿cómo se plantea la ecuación general para hallar 'T'?",
+    "opciones": [
+      "[ (T/6) + 1 ]*2 + [ (T/4) + 1 ]*1 = 21",
+      "[ (T/6) + 1 ]*2 - [ (T/4) + 1 ]*1 = 21",
+      "(T/6) * 2 - (T/4) * 1 = 21",
+      "(T/6 + T/4) + 2 = 21"
+    ],
+    "correcta": 1,
+    "resolucion": "El dato clave establece una 'diferencia' entre las dos cantidades totales de pastillas. Por tanto, se debe restar la expresión completa del primer grupo menos la expresión completa del segundo grupo e igualarla a 21."
+  },
+  {
+    "pregunta": "Al analizar la acústica de un reloj antiguo que marca las horas, ¿por qué en los problemas matemáticos sobre 'campanadas' se debe trabajar obligatoriamente con los intervalos entre los sonidos y no con los golpes sonoros en sí mismos?",
+    "opciones": [
+      "Porque el sonido de la campana tiene una duración matemáticamente infinita.",
+      "Porque el golpe de la campana se asume como instantáneo, y el verdadero tiempo transcurre en el lapso o silencio (intervalo) que separa una campanada de la siguiente.",
+      "Porque los intervalos reducen el margen de error de las manecillas.",
+      "Porque las campanadas siempre son pares y los intervalos impares."
+    ],
+    "correcta": 1,
+    "resolucion": "El impacto sonoro inicial se considera un evento puntual sin duración relevante. Todo el tiempo cronometrable en estos ejercicios ocurre durante la espera (el silencio) entre un sonido y otro, conocido como intervalo."
+  },
+  {
+    "pregunta": "Si el reloj de una torre da 6 campanadas para indicar las 6:00 a.m., ¿cuántos intervalos de tiempo existen durante la emisión de este aviso horario?",
+    "opciones": [
+      "4 intervalos.",
+      "5 intervalos.",
+      "6 intervalos.",
+      "7 intervalos."
+    ],
+    "correcta": 1,
+    "resolucion": "Como el tiempo se cuenta en los espacios vacíos entre los sonidos, el número de intervalos siempre es el número de campanadas menos uno (6 - 1 = 5)."
+  },
+  {
+    "pregunta": "Para indicar cierta hora, un reloj realiza 'C' campanadas en un tiempo 'T1'. Si luego el reloj debe dar 'K' campanadas, demorándose un tiempo 'T2'. ¿Qué regla de proporción se debe aplicar estrictamente para resolver esta situación?",
+    "opciones": [
+      "Campanadas y Tiempos son Inversamente Proporcionales.",
+      "Campanadas y Tiempos son Directamente Proporcionales.",
+      "Intervalos (Campanadas - 1) y Tiempos son Inversamente Proporcionales.",
+      "Intervalos (Campanadas - 1) y Tiempos son Directamente Proporcionales."
+    ],
+    "correcta": 3,
+    "resolucion": "El tiempo que tarda el reloj solo es acumulado por los intervalos. A mayor cantidad de intervalos, mayor tiempo transcurrido (aumentan a la misma razón). Por ello, se aplica Regla de Tres Simple Directa entre el Número de Intervalos y el Tiempo Total."
+  },
+  {
+    "pregunta": "Un viejo reloj da 6 campanadas en 5 segundos. Si un estudiante desea calcular cuánto tardará ese mismo reloj en marcar las 10:00 a.m. (10 campanadas), ¿cuántos segundos demorará realmente?",
+    "opciones": [
+      "8,3 segundos.",
+      "9 segundos.",
+      "10 segundos.",
+      "11 segundos."
+    ],
+    "correcta": 1,
+    "resolucion": "Para 6 campanadas hay 5 intervalos. Si 5 intervalos demoran 5 segundos, entonces 1 intervalo dura 1 segundo. Para marcar las 10 a.m. se dan 10 campanadas, lo que equivale a 9 intervalos. Si cada uno dura 1 segundo, tardará 9 segundos en total."
+  },
+  {
+    "pregunta": "Un paciente debe tomar una dosis variable de pastillas cada 8 horas. Si la receta médica señala que la cantidad de pastillas por toma equivale matemáticamente a \"(Total de periodos de 8 horas) disminuido en 3\", y el tiempo total del tratamiento es 'T' (en horas), ¿cuál es la expresión algebraica para la dosis?",
+    "opciones": [
+      "(T / 8) + 3",
+      "(T / 8) - 3",
+      "T - (8 / 3)",
+      "(T * 8) - 3"
+    ],
+    "correcta": 1,
+    "resolucion": "El número total de periodos de 8 horas en un tratamiento largo es T dividido entre 8 (T/8). Como la dosis es igual a esa cantidad disminuida en tres unidades, la expresión correcta es (T/8) - 3."
+  },
+  {
+    "pregunta": "En un tratamiento de 56 horas, Sofía debe tomar su medicación cada 8 horas, y la dosis a ingerir por toma es de 4 pastillas. Si un médico le consulta cuántas pastillas habrá consumido exactamente al cumplirse las primeras 24 horas del tratamiento (asumiendo que inició tomando pastillas en la hora cero), ¿cuál será la respuesta correcta?",
+    "opciones": [
+      "12 pastillas.",
+      "16 pastillas.",
+      "20 pastillas.",
+      "24 pastillas."
+    ],
+    "correcta": 1,
+    "resolucion": "Analizando las tomas en 24 horas: Toma pastillas en la Hora 0, luego en la Hora 8, luego en la Hora 16, y finalmente en la Hora 24. Son 4 tomas en total durante ese lapso. Si la dosis es de 4 pastillas por toma, entonces 4 tomas * 4 pastillas = 16 pastillas ingeridas."
+  },
+  {
+    "pregunta": "En un problema de sincronización de eventos electrónicos, un panel 'A' completa un ciclo de encendido-apagado cada 345 segundos, y un panel 'B' lo hace cada 490 segundos. ¿Qué herramienta matemática es indispensable utilizar para conocer cuándo ambos paneles iniciarán sus ciclos de forma simultánea nuevamente?",
+    "opciones": [
+      "Máximo Común Divisor (MCD).",
+      "Mínimo Común Múltiplo (MCM).",
+      "Promedio Aritmético.",
+      "Progresión Geométrica."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que se busca el primer momento futuro en el que ambos ciclos (que tienen duraciones distintas) se crucen o repitan al mismo tiempo, se debe buscar el múltiplo común más cercano a ambos números, que matemáticamente se obtiene aplicando el Mínimo Común Múltiplo."
+  },
+  {
+    "pregunta": "Si dos dispositivos inician juntos a las 3:00 a.m. y se determina que el intervalo de tiempo exacto para que vuelvan a coincidir simultáneamente (su primera coincidencia futura) es de 'X' minutos, ¿cuánto tiempo total habrá pasado desde las 3:00 a.m. para que coincidan simultáneamente por TERCERA vez?",
+    "opciones": [
+      "1 * X minutos.",
+      "2 * X minutos.",
+      "3 * X minutos.",
+      "4 * X minutos."
+    ],
+    "correcta": 1,
+    "resolucion": "El arranque de ambos a las 3:00 a.m. es la 'primera vez' que encienden simultáneamente. Para que ocurra la segunda vez, pasa 1 ciclo X. Para que ocurra la tercera vez, pasa un segundo ciclo X. En total, han transcurrido 2 * X minutos desde el inicio."
+  },
+  {
+    "pregunta": "Al leer el esquema de funcionamiento de un panel publicitario que \"muestra un anuncio durante 45 segundos y luego se apaga durante 5 minutos para reiniciar el ciclo\", ¿cuál es el tiempo real de duración de un 'Ciclo Completo' de este dispositivo?",
+    "opciones": [
+      "45 segundos.",
+      "5 minutos.",
+      "345 segundos.",
+      "300 segundos."
+    ],
+    "correcta": 2,
+    "resolucion": "El ciclo completo incluye tanto la fase de actividad como la de reposo. 5 minutos equivalen a 300 segundos. Sumando los 45 segundos de encendido, el ciclo real que se repite constantemente tiene una duración de 345 segundos."
+  },
+  {
+    "pregunta": "En un problema de instalaciones a lo largo de una vía férrea de 54 km, se menciona que existen \"rieles unidos\" (por donde ruedan las ruedas) y \"postes distanciados al costado\". Desde la perspectiva del conteo y distribución matemática, ¿qué advierte el profesor que NO debe confundirse?",
+    "opciones": [
+      "Asumir que los trenes se detienen en cada poste.",
+      "Creer que los rieles (vigas continuas) son equivalentes a las uniones (puntos de intersección) entre ellos.",
+      "Convertir los kilómetros a decímetros.",
+      "Pensar que la distancia entre rieles es igual al ancho del tren."
+    ],
+    "correcta": 1,
+    "resolucion": "Un error común de interpretación es llamar 'riel' a la junta o punto de soldadura. Los rieles son los tramos largos de acero por donde pasa la rueda. Para el conteo, el número de uniones es equivalente a la lógica de cortes, mientras que los rieles son los pedazos o segmentos en sí."
+  }
+          ]
         },
         {
           "titulo": "2.2 Inductivo y Numérico verbal",
           "youtube_id": "EGrmRPdcYL4",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1lPWhVaf4nhcezJZYLAvSDk_gWM-WZlcK/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un arreglo de letras de forma triangular donde cada fila incrementa en una letra y los espacios se intercalan (1, 2, 3, 4 letras por fila, etc.), ¿cuál es la fórmula general que permite calcular el número de formas diferentes de leer una palabra de \"n\" letras?",
+    "opciones": [
+      "2^n - 1",
+      "2^(n - 1)",
+      "3^(n - 1)",
+      "n^2 - 1"
+    ],
+    "correcta": 1,
+    "resolucion": "Para los arreglos triangulares clásicos donde las letras se ubican intercaladas entre los espacios de la fila superior, la fórmula general por inducción es 2 elevado a la (n-1), donde 'n' es la cantidad de letras que conforman la palabra."
+  },
+  {
+    "pregunta": "Si un estudiante se encuentra con un arreglo de letras donde las letras están dispuestas exactamente una debajo de otra en cada fila (1, 3, 5, 7 letras por fila en un triángulo más abierto), ¿qué fórmula se debe aplicar para leer la palabra de 'n' letras?",
+    "opciones": [
+      "2^(n - 1)",
+      "3^(n - 1)",
+      "4^(n - 1)",
+      "3^n"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor aclara que cuando las letras caen en la misma vertical (una debajo de otra) dando opciones de lectura hacia la izquierda, al centro y a la derecha simultáneamente, la base de la inducción cambia, utilizando la fórmula 3 elevado a la (n-1)."
+  },
+  {
+    "pregunta": "En un esquema de lectura, la palabra \"JIRAFA\" se lee desde la parte superior hacia abajo terminando en una fila de letras \"A\". Sin embargo, el arreglo tiene filas adicionales debajo de la \"A\" que terminan en \"F\" y luego en \"A\" de nuevo. ¿Qué precaución se debe tener al contabilizar?",
+    "opciones": [
+      "Solo se puede aplicar la fórmula 2^(n-1) si la palabra es un palíndromo.",
+      "Se debe tener cuidado porque la palabra puede leerse bajando y luego 'rebotando' o subiendo hacia las letras anteriores.",
+      "Se deben restar las letras vocales duplicadas de la base.",
+      "No se puede resolver por el método de Pascal, solo con fórmulas."
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando el arreglo gráfico se extiende más allá de la última letra de la palabra (creando un rombo o hexágono), se abre la posibilidad de leer bajando, y al llegar a una letra, regresar o 'rebotar' a la fila superior, lo que exige aplicar el Triángulo de Pascal (método aditivo) de ida y vuelta."
+  },
+  {
+    "pregunta": "En un arreglo donde se puede leer la palabra \"JIRAFA\" de arriba hacia abajo llegando a la fila central, resultan 32 formas distintas. Si el arreglo permite seguir bajando hasta las letras 'A' de la base invertida, ¿cómo se calculan los caminos que continúan descendiendo?",
+    "opciones": [
+      "Se suma el doble de 32.",
+      "Se eleva 32 al cuadrado.",
+      "Se aplica el método aditivo de Pascal sumando los caminos que convergen hacia las letras siguientes hasta llegar a la 'A' final.",
+      "Se resta 1 a los 32 caminos encontrados."
+    ],
+    "correcta": 2,
+    "resolucion": "Usando el método aditivo o de Pascal, cada letra recibe la suma de las formas de llegar a las letras inmediatamente anteriores. Al bajar por el rombo invertido, los valores se van sumando y convergiendo hacia las letras de las filas inferiores hasta la última letra."
+  },
+  {
+    "pregunta": "En un problema clásico de inducción matemática, se pide calcular la suma de las cifras del resultado de P = (333...333)^2, donde la base tiene 30 cifras. ¿Cómo se comporta la suma de cifras de este resultado en función del número de cifras 'N' de la base?",
+    "opciones": [
+      "La suma de cifras es siempre igual a 9 + N.",
+      "La suma de cifras es siempre igual a N^2.",
+      "La suma de cifras es siempre igual a 9 * N.",
+      "La suma de cifras es siempre igual a 27 * N."
+    ],
+    "correcta": 2,
+    "resolucion": "Aplicando inducción: (3)^2 = 9 (Suma de cifras = 9 = 9*1). (33)^2 = 1089 (Suma de cifras = 18 = 9*2). (333)^2 = 110889 (Suma de cifras = 27 = 9*3). La regla general es que la suma de cifras es 9 veces el número de cifras 'N'."
+  },
+  {
+    "pregunta": "Se pide la suma de cifras del resultado de multiplicar M = (333...333) * (999...999), donde ambos factores tienen 90 cifras cada uno. Según la demostración por inducción, ¿cuál es el resultado correcto de esta suma de cifras?",
+    "opciones": [
+      "90",
+      "810",
+      "270",
+      "900"
+    ],
+    "correcta": 1,
+    "resolucion": "Al aplicar inducción: 3 * 9 = 27 (suma 9 = 9*1). 33 * 99 = 3267 (suma 18 = 9*2). 333 * 999 = 332667 (suma 27 = 9*3). La suma de cifras siempre es 9 multiplicado por el número de cifras de los factores. Si son 90 cifras, 9 * 90 = 810."
+  },
+  {
+    "pregunta": "Al analizar la palabra \"LINAZA\" en un esquema de lectura que forma un rombo (se lee bajando y también bajando y regresando en las filas finales), el profesor sugiere una estrategia visual para evitar hacer el conteo aditivo de Pascal en todo el gráfico completo. ¿Cuál es esa estrategia?",
+    "opciones": [
+      "Dividir la figura a la mitad y elevar al cuadrado el resultado.",
+      "Contar los caminos de un solo 'triángulo' u 'hoja' generada a partir de la primera letra, y luego multiplicar el resultado por la cantidad de primeras letras que inician en el arreglo.",
+      "Contar solo los bordes externos del rombo y sumarlos al final.",
+      "Reemplazar las vocales por ceros y hacer sumas verticales."
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando el arreglo gráfico tiene varias letras de inicio (por ejemplo, tres letras 'L' en las esquinas), el esquema está compuesto por tres secciones triangulares idénticas superpuestas. Para optimizar, se cuenta el total de caminos en un solo bloque o triángulo partiendo de una 'L', y el resultado se multiplica por 3."
+  },
+  {
+    "pregunta": "Durante la lectura de la palabra \"ROTOR\" en un arreglo de letras, el profesor analiza que se puede leer la palabra primero yendo hacia abajo y luego se puede leer yendo hacia arriba en el gráfico. Además, descubre que la palabra se puede leer llegando a la letra del medio y regresando por el mismo camino. Este tipo de análisis en ejercicios verbales se clasifica como:",
+    "opciones": [
+      "Lecturas lineales simples sin rebote.",
+      "Lecturas con intersección y rebote en un arreglo simétrico.",
+      "Conteo de figuras geométricas abstractas.",
+      "Progresiones aritméticas de letras."
+    ],
+    "correcta": 1,
+    "resolucion": "El término 'ROTOR' es un palíndromo (se lee igual al derecho y al revés). En arreglos simétricos, puedes llegar a la letra central ('T') desde la 'R', y dado que la palabra exige volver a leer 'OR', los caminos pueden físicamente 'rebotar' sobre sus propios pasos hacia la 'R' inicial."
+  },
+  {
+    "pregunta": "En el cálculo de lectura de la palabra palíndroma \"ROTOR\" yendo de arriba hacia abajo, ¿cómo se descompone la multiplicación de formas posibles considerando que tiene un centro en 'T'?",
+    "opciones": [
+      "Se calcula de cuántas formas se lee 'ROT' y se suma a las formas de leer 'TOR'.",
+      "Se calcula de cuántas formas se llega a 'ROT' y se multiplica por las formas de leer 'TOR' desde ese punto.",
+      "Se aplica 3^(n-1) directamente sin importar el palíndromo.",
+      "Se cuenta el número de 'R' y se multiplica por el número de 'T'."
+    ],
+    "correcta": 1,
+    "resolucion": "Por el principio multiplicativo, el evento completo se divide en dos fases: primero llegar hasta la letra central 'T' (leyendo ROT), y desde esa 'T' salir hacia los bordes leyendo la parte restante (TOR). Las formas de la primera fase se multiplican por las de la segunda fase."
+  },
+  {
+    "pregunta": "Se presenta una secuencia de arreglos con palitos de fósforo. En la Figura 1 hay 4 palitos, en la Figura 2 hay 11 palitos, y en la Figura 3 hay 21 palitos. Para encontrar la regla general por inducción, el profesor nota que estas cantidades se pueden escribir usando sumas de números especiales. ¿De qué números especiales se apoya?",
+    "opciones": [
+      "Números primos.",
+      "Números triangulares (1, 3, 6, 10...).",
+      "Sucesión de Fibonacci.",
+      "Números cuadrados perfectos."
+    ],
+    "correcta": 1,
+    "resolucion": "Al darle forma matemática a los resultados, el profesor descompone las cantidades (ej. 21) en componentes que son múltiplos exactos de los números triangulares: 1, 3, 6, 10... (los cuales se definen con la fórmula n(n+1)/2)."
+  },
+  {
+    "pregunta": "En un problema de arreglos numéricos apilados por niveles (Fila 1, Fila 2, Fila 3...), se quiere hallar la suma total de los números de la Fila 20. Al sumar cada fila independientemente, se obtienen los totales: 46 (Fila 1), 94 (Fila 2), 142 (Fila 3). ¿Qué tipo de sucesión forman estos resultados totales y cuál es su razón?",
+    "opciones": [
+      "Progresión geométrica de razón 2.",
+      "Progresión aritmética de razón +48.",
+      "Sucesión cuadrática.",
+      "Sucesión de Fibonacci intercalada."
+    ],
+    "correcta": 1,
+    "resolucion": "Al evaluar las diferencias: 94 - 46 = 48, y 142 - 94 = 48. Como la diferencia entre los totales de las filas consecutivas es constante, se establece que es una progresión aritmética lineal cuya razón o constante de crecimiento es 48."
+  },
+  {
+    "pregunta": "Al descubrir que la sucesión de sumas por filas avanza de 48 en 48, ¿qué 'truco' matemático o estrategia rápida recomienda el profesor para encontrar la fórmula general del término enésimo (para la Fila 'N')?",
+    "opciones": [
+      "Dividir el número de la fila entre 48 y sumar 1.",
+      "Multiplicar el número de la fila (1, 2, 3...) directamente por la constante de crecimiento (48) y luego sumar o restar un ajuste para coincidir con el primer término.",
+      "Elevar 48 al cuadrado y multiplicar por 'N'.",
+      "Usar la fórmula de combinatoria factorial."
+    ],
+    "correcta": 1,
+    "resolucion": "La técnica rápida en las progresiones aritméticas lineales es usar la razón (48) como el coeficiente principal que multiplica la posición 'n'. Así, para n=1, 48(1) = 48. Como el resultado real es 46, se debe aplicar un ajuste de -2. La regla general queda definida como 48(n) - 2."
+  },
+  {
+    "pregunta": "Existe una figura compleja conformada por una cuadrícula triangular con múltiples vértices en la base. El problema pide hallar 'el máximo número de triángulos que se pueden contabilizar'. Para evitar aplicar la fórmula directa sin entenderla, el profesor aplica inducción. En el Caso 1 (1 vértice base) hay 1 triángulo. En el Caso 2 (2 vértices base) hay 5 triángulos. En el Caso 3 (3 vértices base) hay 14 triángulos. ¿A qué equivale la cantidad de triángulos en esta figura específica?",
+    "opciones": [
+      "A la suma de los números naturales consecutivos hasta 'n'.",
+      "A la suma de los cubos perfectos.",
+      "Al doble del número de vértices de la base.",
+      "A la suma de los cuadrados perfectos de los números del 1 al 'n'."
+    ],
+    "correcta": 3,
+    "resolucion": "Revisando los totales por inducción: Caso 1 = 1 (1^2). Caso 2 = 5 (1^2 + 2^2). Caso 3 = 14 (1^2 + 2^2 + 3^2). Se concluye lógicamente que el número máximo de triángulos responde a la suma de los cuadrados de los números naturales que van del 1 hasta el número de vértices sobresalientes 'n'."
+  },
+  {
+    "pregunta": "Teniendo en cuenta que el conteo de triángulos de cierta figura equivale a la suma de cuadrados (1^2 + 2^2 + 3^2 + ... + n^2), ¿qué fórmula algebraica clásica se debe utilizar para resolverlo cuando la base tiene 'n' vértices?",
+    "opciones": [
+      "[n(n+1)] / 2",
+      "[n(n+1)(2n+1)] / 6",
+      "[n(n+1)/2]^2",
+      "n(n-1) / 2"
+    ],
+    "correcta": 1,
+    "resolucion": "La fórmula general estandarizada en matemática para la sumatoria de los primeros 'n' números cuadrados perfectos es n(n+1)(2n+1) dividido entre 6."
+  },
+  {
+    "pregunta": "En un gráfico tipo cuadrícula superpuesta donde en la intersección de dos regiones de lectura se puede formar la palabra pedida, un estudiante pregunta si debe restar 1 al final. El profesor advierte que se debe restar la intersección SOLO BAJO UNA CONDICIÓN específica. ¿Cuál es?",
+    "opciones": [
+      "Se resta solo si la palabra tiene una cantidad de letras impares.",
+      "Se resta únicamente si en la misma línea de intersección se logra formar y leer completa la palabra que se está buscando.",
+      "Se resta siempre que las figuras geométricas sean asimétricas.",
+      "Se resta solo si la lectura se realiza de derecha a izquierda."
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando dos zonas de lectura (ej. dos triángulos que comparten una arista o diagonal) se intersectan, si la línea compartida contiene los caracteres que forman exactamente la palabra buscada, esa lectura ha sido contada dos veces (una por cada zona). Si la línea compartida no forma la palabra completa, no hay duplicidad que restar."
+  },
+  {
+    "pregunta": "En una figura triangular donde los números están representados por bolitas dispuestas en niveles, el problema solicita hallar la cantidad de 'bolitas sombreadas'. Al aplicar inducción, el profesor analiza qué pasa cuando la base tiene 2 bolitas (total sombreadas=2), cuando tiene 4 bolitas (total sombreadas=6) y cuando tiene 6 bolitas (total sombreadas=12). ¿Qué relación encuentra el profesor entre la cantidad de bolitas de la base y el total de bolitas sombreadas?",
+    "opciones": [
+      "El total de sombreadas es el cuadrado de las bolitas de la base.",
+      "El total de sombreadas es la base multiplicada por dos.",
+      "El total de sombreadas es igual a la mitad de la base multiplicada por su número consecutivo (X * (X+1)), donde X = Base/2.",
+      "El total de sombreadas es la suma geométrica de la base."
+    ],
+    "correcta": 2,
+    "resolucion": "Para base 2 (X=1), sombreadas: 1*2 = 2. Para base 4 (X=2), sombreadas: 2*3 = 6. Para base 6 (X=3), sombreadas: 3*4 = 12. La regla es sacar la mitad de la cantidad de bolitas de la base y multiplicarlo por el número entero siguiente a esa mitad."
+  },
+  {
+    "pregunta": "Bajo la misma regla de las bolitas sombreadas (donde el total es el producto de la mitad de la base por su número consecutivo), ¿cuántas bolitas sombreadas en total habrá en un arreglo grande cuya base inferior tiene exactamente 100 bolitas?",
+    "opciones": [
+      "2500",
+      "2550",
+      "5050",
+      "10000"
+    ],
+    "correcta": 1,
+    "resolucion": "Si la base es 100, la mitad es 50. Según la regla de inducción deducida (X * (X+1)), multiplicamos esa mitad por su consecutivo: 50 * 51. El resultado es 2550 bolitas sombreadas."
+  },
+  {
+    "pregunta": "En un problema de secuencia de figuras formadas por fichas llamadas 'soles', el profesor opta por una forma peculiar de atrapar o agrupar las partes de la figura para hacer el conteo más visual. Divide la figura en una parte fija central (el sol) y una cola o extensión de soles que se suman. ¿Por qué es útil cambiar la forma de 'agrupar' visualmente los elementos en la inducción?",
+    "opciones": [
+      "Porque los soles siempre deben contarse de tres en tres.",
+      "Porque permite encontrar un patrón numérico conocido, como la suma de números triangulares, que no sería evidente si se cuenta todo de golpe.",
+      "Porque las fórmulas matemáticas prohíben contar elementos del centro.",
+      "Porque evita que el estudiante tenga que sumar."
+    ],
+    "correcta": 1,
+    "resolucion": "Al fraccionar visualmente la figura en un bloque base y una sumatoria en expansión, el conteo deja de ser un número suelto (ej. 7, 13) y revela su anatomía oculta, como una constante más una serie conocida (ej. 'K + n(n+1)/2'), facilitando enormemente hallar la regla de formación general."
+  },
+  {
+    "pregunta": "En el mismo problema de las fichas 'soles', se determina que el número total de fichas en la Figura de índice '2N' es igual a: 2N + [ (2N+1)(2N+2) / 2 ]. Si por dato del problema se sabe que la Figura '2N' tiene exactamente 593 fichas, ¿qué se debe hacer para encontrar la posición 'N'?",
+    "opciones": [
+      "Reemplazar N por 593 en la ecuación directamente.",
+      "Igualar la expresión matemática completa a 593 y resolver la ecuación para despejar la variable N.",
+      "Dividir 593 entre 2N y restar 1.",
+      "Multiplicar 593 por el índice de la figura anterior."
+    ],
+    "correcta": 1,
+    "resolucion": "Toda la fórmula deducida por inducción representa el total de fichas de la figura con ese índice. Para hallar qué índice específico arroja ese total, se debe establecer la igualdad algebraica (Regla General = Dato del Total) y operar para despejar la incógnita 'N'."
+  },
+  {
+    "pregunta": "Cuando se resuelve un problema de inducción numérica que tiene varios casos (Caso 1, Caso 2, Caso 3), y logras determinar la ley de formación para cada resultado, ¿cómo se asegura matemáticamente el alumno que la ley de formación hallada es verdaderamente correcta y generalizable antes de aplicarla al caso gigante (ej. Caso 100)?",
+    "opciones": [
+      "Debe probar que la misma regla funciona idénticamente y sin fallas por lo menos en los primeros 3 o 4 casos particulares secuenciales.",
+      "Debe usar siempre la operación de resta.",
+      "Debe consultar las claves de respuesta y ver si coincide el último dígito.",
+      "Debe aplicarla al caso 1 y si funciona, asumir que vale para todos."
+    ],
+    "correcta": 0,
+    "resolucion": "El fundamento del Razonamiento Inductivo exige que el patrón o fórmula deducida sea validada y cumpla la igualdad en al menos tres casos particulares consecutivos de forma impecable. Si cumple para el caso 1, 2 y 3, se puede extrapolar con seguridad matemática al caso 'N' solicitado."
+  }
+          ]
         },
         {
           "titulo": "2.3 Cronometría",
           "youtube_id": "gN1EZ1wvUWA",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1lPWhVaf4nhcezJZYLAvSDk_gWM-WZlcK/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según la analogía del tiempo explicada por el profesor, si una persona promedio duerme las 8 horas diarias recomendadas por los médicos, ¿qué fracción de su vida total habrá invertido estrictamente en dormir?",
+    "opciones": [
+      "La cuarta parte de su vida.",
+      "La tercera parte de su vida.",
+      "La mitad de su vida.",
+      "Las dos terceras partes de su vida."
+    ],
+    "correcta": 1,
+    "resolucion": "Un día tiene 24 horas. Si se duermen 8 horas diarias, esto representa exactamente 1/3 (la tercera parte) de un día. Por extrapolación directa, sin importar la edad que se tenga (18, 24 o 90 años), una persona que duerme 8 horas diarias pasará la tercera parte de todos sus años de vida durmiendo."
+  },
+  {
+    "pregunta": "En un análisis de campanadas de un reloj de pared, se escuchan 'N' campanadas sonando de forma consecutiva. Desde el punto de vista matemático y físico, ¿qué elemento es el que verdaderamente acumula y mide el tiempo transcurrido durante ese suceso?",
+    "opciones": [
+      "El número total de campanadas que se escuchan.",
+      "El impacto inicial de la primera campanada.",
+      "El número de intervalos o espacios de silencio que existen entre una campanada y otra.",
+      "El eco o resonancia posterior a la última campanada."
+    ],
+    "correcta": 2,
+    "resolucion": "El golpe o sonido de una campanada se considera matemáticamente instantáneo. El tiempo transcurrido (los segundos que se cuentan) se mide exclusivamente multiplicando la duración de los intervalos de silencio que hay entre cada campanada."
+  },
+  {
+    "pregunta": "Un viejo reloj de torre da cierta cantidad de campanadas para indicar una hora. ¿Cómo se determina matemáticamente la cantidad de 'intervalos de tiempo' generados si se conoce el número total de campanadas?",
+    "opciones": [
+      "Multiplicando las campanadas por 2.",
+      "El número de intervalos es exactamente igual al número de campanadas.",
+      "El número de intervalos es igual al número de campanadas menos uno.",
+      "El número de intervalos es igual al número de campanadas más uno."
+    ],
+    "correcta": 2,
+    "resolucion": "Por teoría de estacas o puntos en línea recta, los espacios (intervalos) que se forman entre 'N' eventos puntuales (campanadas) siempre serán 'N - 1'. Por ejemplo, para 4 campanadas, existen 3 intervalos de tiempo."
+  },
+  {
+    "pregunta": "Si un reloj de campanadas registra un 'Tiempo Total' para dar un aviso horario, y se sabe que todos los intervalos duran exactamente lo mismo ('t'), ¿cuál es la ecuación que relaciona el Tiempo Total, el número de campanadas y la duración del intervalo 't'?",
+    "opciones": [
+      "Tiempo Total = (Campanadas + 1) * t",
+      "Tiempo Total = (Campanadas - 1) * t",
+      "Tiempo Total = Campanadas * t",
+      "Tiempo Total = (Campanadas / t) - 1"
+    ],
+    "correcta": 1,
+    "resolucion": "El Tiempo Total es el producto del número de intervalos por la duración de un intervalo ('t'). Como el número de intervalos es igual a (Campanadas - 1), la fórmula queda: Tiempo Total = (Campanadas - 1) * t."
+  },
+  {
+    "pregunta": "Dos campanas (A y B) empiezan a tocar al mismo tiempo. Se sabe que la campana A da 6 campanadas en 35 horas, y la campana B da 6 campanadas en 15 horas. ¿Cuántas horas tiene que tardar la campana A en completar un solo intervalo de tiempo entre campanada y campanada?",
+    "opciones": [
+      "5 horas.",
+      "6 horas.",
+      "7 horas.",
+      "8 horas."
+    ],
+    "correcta": 2,
+    "resolucion": "Si la campana A da 6 campanadas, genera 5 intervalos de tiempo. Si esos 5 intervalos suman 35 horas de Tiempo Total, dividimos: 35 horas / 5 intervalos = 7 horas de duración por cada intervalo."
+  },
+  {
+    "pregunta": "Dos campanarios A y B inician su toque de forma simultánea (Hora 0). Si el intervalo de tiempo entre cada sonido del campanario A dura 7 horas y el intervalo del campanario B dura 3 horas, ¿cuántas horas deben pasar como mínimo para que ambos campanarios vuelvan a emitir un sonido exactamente al mismo tiempo?",
+    "opciones": [
+      "10 horas.",
+      "21 horas.",
+      "35 horas.",
+      "42 horas."
+    ],
+    "correcta": 1,
+    "resolucion": "Para hallar el instante en que dos eventos cíclicos de diferentes frecuencias vuelven a coincidir, se debe calcular el Mínimo Común Múltiplo (MCM) de las duraciones de sus intervalos. El MCM de 7 horas y 3 horas (ambos números PESI) es 7 * 3 = 21 horas."
+  },
+  {
+    "pregunta": "Un reloj de pared está configurado de tal forma que indica la hora emitiendo tantas campanadas como \"el doble de la hora que está marcando\". Si este reloj debe indicar las 5:00 a.m., ¿cuántos intervalos de tiempo se formarán en total durante su aviso?",
+    "opciones": [
+      "5 intervalos.",
+      "9 intervalos.",
+      "10 intervalos.",
+      "11 intervalos."
+    ],
+    "correcta": 1,
+    "resolucion": "El reloj da el doble de campanadas que la hora. A las 5 a.m., tocará 5 * 2 = 10 campanadas. Sabiendo que los intervalos son siempre el número de campanadas menos uno, se formarán 10 - 1 = 9 intervalos de tiempo."
+  },
+  {
+    "pregunta": "Un reloj (que toca el doble de campanadas que la hora que marca) demoró 24 segundos más en indicar las 5:00 a.m. que en indicar las 2:00 p.m. Sabiendo que a las 5 a.m. da 10 campanadas (9 intervalos) y a las 2 p.m. da 4 campanadas (3 intervalos), ¿cuánto dura exactamente cada intervalo de sonido en este reloj?",
+    "opciones": [
+      "2 segundos.",
+      "3 segundos.",
+      "4 segundos.",
+      "6 segundos."
+    ],
+    "correcta": 2,
+    "resolucion": "A las 5 a.m. hay 9 intervalos; a las 2 p.m. hay 3 intervalos. La diferencia física que causó la demora extra de 24 segundos fue la emisión de esos 6 intervalos de diferencia (9 - 3 = 6). Si 6 intervalos duran 24 segundos, un solo intervalo dura 24 / 6 = 4 segundos."
+  },
+  {
+    "pregunta": "El campanario de una iglesia estuvo sonando durante 38 segundos en total. El número de campanadas que dio durante ese lapso fue numéricamente igual a 10 veces el valor (en segundos) de lo que tarda un solo intervalo 'T'. ¿Cuál es el valor del intervalo 'T'?",
+    "opciones": [
+      "1 segundo.",
+      "2 segundos.",
+      "3 segundos.",
+      "4 segundos."
+    ],
+    "correcta": 1,
+    "resolucion": "Datos: Tiempo Total = 38s. Campanadas = 10T. Intervalos = (10T - 1). Aplicamos la fórmula: Tiempo Total = (Intervalos) * T. Reemplazando: 38 = (10T - 1) * T. Formando la cuadrática 10T^2 - T - 38 = 0, se tantea rápidamente que con T = 2, se obtiene 10(2) - 1 = 19, y 19 * 2 = 38. El intervalo 'T' vale 2 segundos."
+  },
+  {
+    "pregunta": "Si un campanario tiene un intervalo entre sonidos comprobado de 2 segundos, ¿cuánto tiempo empleará exactamente para anunciar una hora tocando 7 campanadas?",
+    "opciones": [
+      "12 segundos.",
+      "14 segundos.",
+      "16 segundos.",
+      "18 segundos."
+    ],
+    "correcta": 0,
+    "resolucion": "Si va a dar 7 campanadas, entonces se generarán 6 intervalos de tiempo. Como se sabe que cada intervalo dura 2 segundos, el tiempo total que demorará el evento completo será de 6 intervalos * 2 segundos = 12 segundos."
+  },
+  {
+    "pregunta": "Magaly nació en el mes de abril del año 1984. El día de su nacimiento se caracterizó porque la \"fracción transcurrida de ese mes\" era numéricamente igual a la \"fracción transcurrida de todo el año\". Sabiendo que abril tiene 30 días, ¿cuál fue la ecuación correcta para hallar los 'X' días transcurridos de abril?",
+    "opciones": [
+      "X / 30 = (90 + X) / 365",
+      "X / 30 = (91 + X) / 366",
+      "X / 31 = (90 + X) / 366",
+      "X / 30 = (91 + X) / 365"
+    ],
+    "correcta": 1,
+    "resolucion": "El año 1984 es bisiesto, por lo que tiene 366 días y su febrero tiene 29 días. Los días acumulados de los meses anteriores a abril (Enero 31 + Febrero 29 + Marzo 31) suman 91 días. La fracción del mes transcurrido es 'X / 30'. La fracción del año transcurrido es '(91 + X) / 366'. Ambas fracciones se igualan."
+  },
+  {
+    "pregunta": "En un problema de fracciones de tiempo, el cálculo de los días exactos transcurridos del mes arrojó un resultado algebraico de X = 8,125 días. ¿Cómo debe interpretarse la parte decimal (0,125) para transformarla en una hora exacta del reloj?",
+    "opciones": [
+      "Representa las 1:25 a.m.",
+      "Multiplicando 0,125 por 60 para convertirlo en minutos.",
+      "Convirtiendo 0,125 a la fracción 1/8 y multiplicándolo por las 24 horas del día.",
+      "Sumando 125 a la hora 8, resultando en las 20:00 horas."
+    ],
+    "correcta": 2,
+    "resolucion": "La variable X está en unidades de 'Días'. El decimal 0,125 equivale a la fracción 1/8 de un día. Para saber cuántas horas de reloj representa esa fracción, se multiplica por 24 horas. Así, (1/8) * 24h = 3 horas."
+  },
+  {
+    "pregunta": "Si los días transcurridos de un mes 'X' calculados hasta el nacimiento de una persona arrojan exactamente el valor de \"8 días y 3 horas\" (es decir, el periodo de tiempo terminó de transcurrir a esa hora). ¿Qué fecha exacta y a qué hora en el calendario nació esta persona?",
+    "opciones": [
+      "El día 8 del mes a las 3:00 a.m.",
+      "El día 9 del mes a las 3:00 a.m.",
+      "El día 8 del mes a las 8:03 p.m.",
+      "El día 9 del mes a las 8:00 a.m."
+    ],
+    "correcta": 1,
+    "resolucion": "Al haber transcurrido \"8 días enteros\" del mes, los días 1, 2, 3, 4, 5, 6, 7 y 8 ya pasaron y se terminaron en su totalidad (24 horas cada uno). Las \"3 horas\" sobrantes obligatoriamente comienzan a consumirse dentro del día siguiente. Por ello, la fecha de nacimiento corresponde al día 9 a las 3:00 a.m."
+  },
+  {
+    "pregunta": "Un estudiante afirma: \"Ya pasaron las 11:00 pero aún falta para las 12:00. Además, dentro de 13 minutos, los minutos que faltarán para las 13:00 horas serán equivalentes a los minutos que pasaron desde las 11:00 hasta hace 7 minutos\". Si a esos minutos equivalentes les llamamos 'x', y sabemos que entre las 11:00 y las 13:00 hay 120 minutos de distancia total, ¿qué ecuación lineal se debe armar?",
+    "opciones": [
+      "120 = x + 7 + 13 + x",
+      "120 = 2x - 20",
+      "120 = x + 13 - 7 + x",
+      "120 = 11 + x + 13"
+    ],
+    "correcta": 0,
+    "resolucion": "En la línea de tiempo de 120 minutos (desde las 11:00 a las 13:00): tenemos el segmento 'x' (desde las 11:00 hasta hace 7 min), luego los 7 min que llevan hasta la hora actual, luego los 13 min hacia adelante, y finalmente el segmento que falta para las 13:00 que también es 'x'. Todo ese bloque continuo suma: x + 7 + 13 + x = 120."
+  },
+  {
+    "pregunta": "Desde el punto de vista teórico-matemático (y de geometría en problemas de RM), si el sol sale exactamente por el este a las 6:00 a.m. y se oculta a las 6:00 p.m. describiendo un arco de 180° sobre el horizonte, ¿qué ángulo de elevación con respecto a la superficie terrestre tendrá el sol si el reloj marca exactamente las 9:00 a.m.?",
+    "opciones": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correcta": 1,
+    "resolucion": "El arco completo de 12 horas (6 a.m. a 6 p.m.) traza 180°. A las 12:00 m. (6 horas después), el sol forma un ángulo de 90° con el suelo (perpendicular). A las 9:00 a.m. (3 horas después de salir, que es exactamente la mitad del trayecto matutino), el ángulo será la mitad de 90°, es decir, 45°."
+  },
+  {
+    "pregunta": "En una mañana soleada, la sombra recta que proyecta un poste sobre el suelo tiene exactamente la misma longitud o medida que la altura física de dicho poste. Conociendo el comportamiento teórico del sol, ¿qué hora del día es en ese preciso instante?",
+    "opciones": [
+      "7:30 a.m.",
+      "8:00 a.m.",
+      "9:00 a.m.",
+      "10:00 a.m."
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser la altura del poste igual a la longitud de la sombra que proyecta, se forma un triángulo rectángulo notable con catetos idénticos, por lo que su ángulo de elevación (donde están los rayos solares) es obligatoriamente 45°. En el trayecto del sol (de 6 a.m. a 12 m. para llegar a 90°), los 45° se ubican en el punto medio de 3 horas de viaje. Por tanto, la hora es 6 a.m. + 3 horas = 9:00 a.m."
+  },
+  {
+    "pregunta": "En un panel de relojes digitales hay tres aparatos defectuosos. Se sabe que de la terna, hay uno atrasado 2 horas, otro adelantado 3 horas, y otro malogrado sin patrón fijo. Al ver el panel, notas un reloj que marca las 10:00 y otro que marca las 15:00. Identificando la brecha entre el reloj atrasado y el adelantado, ¿cuál es la \"hora correcta\"?",
+    "opciones": [
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00"
+    ],
+    "correcta": 1,
+    "resolucion": "La distancia horaria teórica entre el reloj atrasado (-2 horas) y el adelantado (+3 horas) es de 5 horas netas (de -2 a +3). Coincidentemente, los relojes que marcan las 10:00 y las 15:00 tienen exactamente 5 horas de diferencia, lo que delata que son esos dos. El de las 10:00 es el atrasado (-2h), por lo que la hora real es 10 + 2 = 12:00."
+  },
+  {
+    "pregunta": "En problemas donde dos relojes defectuosos se sincronizan en una \"Hora 0\", uno adelantándose y el otro atrasándose constantemente, ¿qué requisito debe cumplirse estrictamente para que ambos relojes vuelvan a marcar \"la misma hora\" visible (por primera vez después del inicio)?",
+    "opciones": [
+      "Deben anular sus desfases restando la velocidad de uno menos la del otro.",
+      "La suma del tiempo de adelanto del primero y el atraso del segundo debe acumular una diferencia total equivalente a 12 horas marcadas en el reloj.",
+      "Tienen que esperar a que se crucen en la hora correcta.",
+      "Deben acumular una diferencia mutua de 24 horas continuas."
+    ],
+    "correcta": 1,
+    "resolucion": "Por la naturaleza circular del reloj de manecillas o formato de doce horas, para que dos relojes con ritmos diferentes vuelvan a coincidir y se vean mostrando la misma cifra en pantalla o aguja, la brecha de separación (diferencia acumulada entre el adelantado y el atrasado) debe completar una vuelta entera al ciclo horario, lo cual equivale a 12 horas o 720 minutos."
+  },
+  {
+    "pregunta": "A partir del conocimiento de que dos relojes defectuosos necesitan acumular una diferencia de 12 horas (720 minutos) para volver a marcar la misma hora por primera vez, ¿qué procedimiento se aplica si el problema pide calcular el tiempo necesario para que indiquen la misma hora por TERCERA VEZ?",
+    "opciones": [
+      "Se calcula el tiempo de la primera coincidencia (acumular 12h) y luego se suma 3 horas.",
+      "Se debe calcular la diferencia para 24 horas y dividirlo entre tres.",
+      "Se halla el tiempo requerido para que coincidan por primera vez (la primera brecha de 12h) y el resultado se multiplica por tres.",
+      "Se eleva el resultado de la primera coincidencia a la potencia tres."
+    ],
+    "correcta": 2,
+    "resolucion": "La coincidencia es un ciclo repetitivo regular. Si para la primera coincidencia mutua demoraron 'X' cantidad de horas de funcionamiento real, para la segunda demorarán '2X', y para la tercera demorarán '3X'. Solo basta hallar la primera y multiplicar."
+  },
+  {
+    "pregunta": "Un reloj se empezó a adelantar progresivamente hace 13 horas. Un usuario observa el reloj defectuoso y nota que marca las 6:00 horas, pero desea saber qué hora es \"en realidad\". Si gracias a los datos se descubrió que el reloj acumula un adelanto total de 1 hora con 18 minutos durante esas 13 horas, ¿cuál es la \"hora real\"?",
+    "opciones": [
+      "4:42 horas.",
+      "5:18 horas.",
+      "7:18 horas.",
+      "6:13 horas."
+    ],
+    "correcta": 0,
+    "resolucion": "La 'hora marcada' por el dispositivo es las 6:00 (que es una hora falsa inflada hacia el futuro). Como es un reloj adelantado, la hora correcta se encuentra atrás en el tiempo. Se debe restar el adelanto acumulado a la hora falsa: 6:00 horas menos 1 hora y 18 minutos. Restando 1 hora se llega a las 5:00, y restando los 18 minutos restantes a esa hora se llega a las 4:42."
+  }
+          ]
         },
         {
           "titulo": "2.4 Interpretación de la Información - Simbolización y Ecuaciones",
           "youtube_id": "AMuV6sq-wKc",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1lPWhVaf4nhcezJZYLAvSDk_gWM-WZlcK/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un simulacro de admisión, se analiza a un grupo de 35 postulantes. Se determina que 18 no postulan a la Universidad Villarreal y 12 no postulan a San Marcos. Si se sabe que 7 jóvenes no postularán a ninguna de estas dos universidades, ¿cuántos de ellos están postulando exactamente a ambas universidades de forma simultánea?",
+    "opciones": [
+      "10 postulantes.",
+      "11 postulantes.",
+      "12 postulantes.",
+      "14 postulantes."
+    ],
+    "correcta": 2,
+    "resolucion": "Si 18 no postulan a Villarreal, los que sí postulan son 35 - 18 = 17. Si 12 no postulan a San Marcos, los que sí postulan son 35 - 12 = 23. Como 7 no postulan a ninguna, la unión de los que sí postulan es 35 - 7 = 28. Al sumar 17 + 23 = 40, hay un exceso respecto a la unión real (40 - 28 = 12). Ese exceso representa la intersección, es decir, 12 postulan a ambas."
+  },
+  {
+    "pregunta": "Para estructurar un diagrama de Venn con dos conjuntos, si el conjunto universal tiene 35 elementos y existen 7 elementos que están completamente fuera de los dos círculos (no pertenecen a ninguna de las dos categorías analizadas), ¿qué valor representa matemáticamente la unión de ambos conjuntos?",
+    "opciones": [
+      "La suma de los elementos individuales de cada conjunto.",
+      "El número total de elementos del universo (35).",
+      "La diferencia entre el universo y los elementos externos (35 - 7 = 28).",
+      "El producto de los elementos externos por 2."
+    ],
+    "correcta": 2,
+    "resolucion": "En teoría de conjuntos, el universo se compone de la unión de los conjuntos más los elementos externos. Para hallar el valor exacto de la unión (elementos que pertenecen a al menos una categoría), se debe restar al universo total aquellos elementos que no participan en ninguno de los conjuntos."
+  },
+  {
+    "pregunta": "Un estudiante planifica sus actividades del mes de octubre (31 días). Se sabe que visitó a su enamorada 15 días, fue a la universidad 20 días y trabajó 22 días. Además, el problema afirma tajantemente que \"no hubo ningún día en que se dedicara a solo dos actividades\". ¿Qué significa esto al trasladar la información a un diagrama de Venn de tres conjuntos?",
+    "opciones": [
+      "Que el diagrama no debe tener ninguna intersección entre los círculos.",
+      "Que las regiones exclusivas donde se cruzan únicamente dos conjuntos deben igualarse a cero (vacías).",
+      "Que la región central de la intersección triple debe ser obligatoriamente cero.",
+      "Que todos los conjuntos son disjuntos y la suma de todos da 31."
+    ],
+    "correcta": 1,
+    "resolucion": "El enunciado 'no hubo día en que se dedicara a solo dos actividades' indica que las intersecciones dobles estrictas (las regiones donde se cruzan dos círculos pero no el tercero) carecen de elementos, debiendo colocarse un '0' o asumirse como regiones vacías en el gráfico."
+  },
+  {
+    "pregunta": "En un diagrama de Venn de 3 conjuntos (A, B, C) donde se sabe que las intersecciones exclusivas de dos conjuntos están vacías, y se asume que la intersección triple central vale 'n'. Si la totalidad del conjunto C equivale a 22 días, ¿cómo se expresa algebraicamente la región de los que realizaron \"solo la actividad C\"?",
+    "opciones": [
+      "22 + n",
+      "22 - 2n",
+      "22 - n",
+      "n - 22"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el círculo completo de la actividad C tiene un valor total de 22, y dentro de ese círculo la única otra región con elementos es la intersección triple ('n'), la región exclusiva de 'solo C' se halla restándole esa intersección al total: 22 - n."
+  },
+  {
+    "pregunta": "En una encuesta realizada en un aula de 43 estudiantes, se determinó que 28 son varones. De las mujeres, se sabe que 5 estudian química. Además, el número de varones que NO estudian química es exactamente el doble del número de mujeres que NO estudian química. Aplicando un cuadro de doble entrada, ¿cuántos varones sí estudian química?",
+    "opciones": [
+      "6 varones.",
+      "8 varones.",
+      "10 varones.",
+      "12 varones."
+    ],
+    "correcta": 1,
+    "resolucion": "Si hay 43 alumnos y 28 son varones, existen 15 mujeres en total. Como 5 mujeres estudian química, las que no estudian química son 15 - 5 = 10. El problema indica que los varones que no estudian química son el doble de las mujeres que no estudian, por ende son 20. Si en total hay 28 varones y 20 no estudian química, los que sí estudian son 28 - 20 = 8."
+  },
+  {
+    "pregunta": "Al organizar datos en un Cuadro de Carroll (cuadro de doble entrada) para categorizar personas por su género (Hombres/Mujeres) y una condición específica (Estudian/No estudian), si el problema otorga el total general de personas y únicamente el total de Hombres, ¿qué procedimiento lógico primario se ejecuta para avanzar?",
+    "opciones": [
+      "Dividir el total de Hombres entre dos para hallar las mujeres.",
+      "Hallar el total de Mujeres calculando la diferencia aritmética entre el total general de personas y el total de Hombres.",
+      "Asumir que el número de mujeres es igual al número de hombres.",
+      "Multiplicar el total general por el número de hombres."
+    ],
+    "correcta": 1,
+    "resolucion": "En un diagrama de Carroll con características mutuamente excluyentes (como género), la suma de las columnas o filas debe dar el universo. Si se conoce el universo total y una de las partes (hombres), la otra parte (mujeres) sale directamente por sustracción."
+  },
+  {
+    "pregunta": "En un grupo de 55 analistas internacionales, 25 hablan inglés, 32 francés y 33 alemán. Se sabe que 5 hablan los tres idiomas y que todos dominan por lo menos un idioma. ¿Cuántos de ellos dominan exactamente dos idiomas?",
+    "opciones": [
+      "15 personas.",
+      "20 personas.",
+      "25 personas.",
+      "30 personas."
+    ],
+    "correcta": 2,
+    "resolucion": "Al sumar los totales individuales de los conjuntos (25 + 32 + 33 = 90), se está sobrecontando. La suma de todas las áreas reales es 55. En la sumatoria de los tres conjuntos individuales, las regiones de intersección doble (x, y, z) se cuentan dos veces, y la región triple central (5) se cuenta tres veces. La ecuación es: Total individual = Total real + (Suma intersecciones dobles) + 2*(Intersección triple). Así: 90 = 55 + (x+y+z) + 2*(5). Resolviendo: 90 = 65 + (x+y+z), lo que da (x+y+z) = 25."
+  },
+  {
+    "pregunta": "Cuando se suman las cantidades totales de tres conjuntos superpuestos (A + B + C) para hallar la cantidad de elementos en el universo, un estudiante advierte que la región central (la intersección de los tres conjuntos) afecta gravemente el cálculo. Según la teoría, ¿por qué ocurre esto?",
+    "opciones": [
+      "Porque la intersección central está compuesta por elementos imaginarios.",
+      "Porque esa región central ha sido sumada matemáticamente tres veces (una vez en el conjunto A, una en B y una en C).",
+      "Porque esa región anula los elementos externos.",
+      "Porque los elementos centrales deben ser elevados al cubo."
+    ],
+    "correcta": 1,
+    "resolucion": "Al sumar los conjuntos enteros de forma bruta (A + B + C), cualquier elemento que pertenezca simultáneamente a los tres círculos habrá sido agregado a la sumatoria tres veces. Para no alterar el total real del universo, ese exceso debe ser restado en la ecuación compensatoria."
+  },
+  {
+    "pregunta": "Un cliente necesita pagar una deuda de exactamente 33 soles en una bodega y descubre que en su billetera solo tiene monedas de 2 soles y de 5 soles. Al plantear esto como la ecuación diofántica 2A + 5B = 33, ¿cuántas combinaciones o formas diferentes tiene para efectuar el pago exacto?",
+    "opciones": [
+      "2 formas.",
+      "3 formas.",
+      "4 formas.",
+      "5 formas."
+    ],
+    "correcta": 1,
+    "resolucion": "En la ecuación 2A + 5B = 33, 2A siempre es par. Para que la suma de un par y otro número dé impar (33), 5B debe ser impar, por lo que B debe ser impar. Si B=1, 2A=28 -> A=14. Si B=3, 2A=18 -> A=9. Si B=5, 2A=8 -> A=4. Si B=7, 2A=-2 (imposible). Por tanto, existen exactamente 3 soluciones válidas."
+  },
+  {
+    "pregunta": "En la resolución de una ecuación diofántica lineal de la forma 2x + 5y = 33, se observa que el término '2x' es inherentemente un número par. Considerando que el resultado (33) es un número impar, ¿qué deducción lógica obligatoria se debe hacer sobre el término '5y' para agilizar la búsqueda de valores?",
+    "opciones": [
+      "Que '5y' debe ser igual a cero.",
+      "Que '5y' debe ser obligatoriamente un número impar, lo cual fuerza a que la variable 'y' también sea un número impar.",
+      "Que '5y' debe ser múltiplo de 10.",
+      "Que '5y' debe ser un número negativo."
+    ],
+    "correcta": 1,
+    "resolucion": "Por la regla de paridad en la suma de números enteros: Par + Impar = Impar. Como '2x' garantiza ser par sin importar el valor de x, para que el resultado final sea 33 (impar), el sumando '5y' no tiene otra opción que ser impar. Al ser 5 impar, la variable 'y' también debe ser impar (1, 3, 5, etc.)."
+  },
+  {
+    "pregunta": "Un coleccionista filatélico gasta exactamente 100 soles al adquirir un lote de 40 sellos postales, los cuales tienen precios unitarios de 1 sol, 4 soles y 12 soles. Si este escenario se traduce en dos ecuaciones: A + B + C = 40 (cantidad) y A + 4B + 12C = 100 (costo), ¿cuál es el método más rápido y directo para unificar ambas y resolver el problema?",
+    "opciones": [
+      "Multiplicar ambas ecuaciones por 10.",
+      "Elevar ambas ecuaciones al cuadrado.",
+      "Restar miembro a miembro la primera ecuación de la segunda, eliminando la variable 'A' para obtener una sola ecuación diofántica de dos variables.",
+      "Dividir la segunda ecuación entre la primera."
+    ],
+    "correcta": 2,
+    "resolucion": "La técnica algebraica estándar cuando se tienen dos ecuaciones lineales de este tipo (y una de las variables tiene coeficiente 1 en ambas) es aplicar sustracción vertical. Al restar (A + 4B + 12C = 100) menos (A + B + C = 40), se elimina la 'A', obteniendo 3B + 11C = 60, lo que permite el análisis por multiplicidad."
+  },
+  {
+    "pregunta": "Luego de reducir un sistema de ecuaciones en un problema comercial, se obtiene la expresión final: 3B + 11C = 60. Sabiendo que B y C representan cantidades enteras y positivas de sellos, ¿qué principio de divisibilidad facilita encontrar los valores de 'C' sin tener que tantear números al azar?",
+    "opciones": [
+      "El principio de los números primos.",
+      "El análisis de multiplicidad de 3. Como 3B es múltiplo de 3 y 60 también lo es, 11C debe ser obligatoriamente múltiplo de 3.",
+      "El criterio de la suma de cifras iguales a 9.",
+      "El criterio de paridad cruzada."
+    ],
+    "correcta": 1,
+    "resolucion": "En 3B + 11C = 60, el sumando 3B siempre aportará un múltiplo de 3, y el resultado 60 es también un múltiplo de 3. Para que la ecuación se equilibre, el sumando 11C debe comportarse como un múltiplo de 3. Al no ser 11 múltiplo de 3, la carga recae totalmente en la variable 'C', que debe ser múltiplo de 3 (3, 6, 9, etc.)."
+  },
+  {
+    "pregunta": "Al analizar la ecuación 3B + 11C = 60 usando la condición de que 'C' debe ser un múltiplo de 3, un alumno advierte que el número 0 es teóricamente un múltiplo de 3. ¿Por qué el profesor descarta el valor C = 0 como una solución válida para este caso en particular?",
+    "opciones": [
+      "Porque el cero no es un número real.",
+      "Porque multiplicarlo por 11 daría un error matemático en la sustracción.",
+      "Porque el texto del problema afirma que el coleccionista efectivamente compró sellos de las tres denominaciones (incluyendo los de 12 soles que representa C), por ende la cantidad no puede ser nula.",
+      "Porque el cero solo es múltiplo de los números pares."
+    ],
+    "correcta": 2,
+    "resolucion": "Aunque matemáticamente el 0 es múltiplo universal y cumpliría la ecuación, el contexto del problema restringe las variables al exigir que se adquieran sellos de las tres clases indicadas. Si C fuera 0, significaría que no se compró ningún sello de 12 soles, contradiciendo el enunciado."
+  },
+  {
+    "pregunta": "Verónica se acerca a una dulcería para comprar caramelos de limón que cuestan 50 céntimos y caramelos de naranja que cuestan 30 céntimos, decidiendo gastar todo su presupuesto de 4 soles. Si el objetivo estricto de Verónica es adquirir la \"máxima cantidad de caramelos\" en total, ¿qué estrategia lógica de compra debe priorizar en su cálculo?",
+    "opciones": [
+      "Comprar la misma cantidad de ambos sabores para equilibrar el peso.",
+      "Darle el valor más alto posible a la variable de los caramelos de naranja, ya que al ser más baratos permiten obtener más unidades por el mismo dinero.",
+      "Priorizar la compra de caramelos de limón por tener mayor denominación.",
+      "Restar el precio de los caramelos al presupuesto total."
+    ],
+    "correcta": 1,
+    "resolucion": "En problemas de maximización de cantidades sujetas a un presupuesto fijo, la lógica financiera y matemática dicta que se debe comprar la mayor cantidad posible del artículo más económico. En este caso, al forzar la variable de los caramelos de 30 céntimos al valor máximo permitido por la ecuación, se asegura el mayor número de piezas en total."
+  },
+  {
+    "pregunta": "En un problema de compras mixtas, los caramelos tienen precios de 50 céntimos y 30 céntimos, y el presupuesto total disponible es de \"4 soles\". Al plantear la ecuación de gastos (50A + 30B = Total), ¿qué precaución ineludible se debe tomar con respecto a las unidades de medida antes de operar la igualdad?",
+    "opciones": [
+      "Ninguna, los números se pueden igualar como 50A + 30B = 4.",
+      "Se deben elevar al cuadrado todos los céntimos.",
+      "El total en soles debe ser convertido a la misma unidad de céntimos, transformando los 4 soles a 400 céntimos para que la ecuación sea homogénea.",
+      "Dividir el precio de los caramelos entre el presupuesto."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que una ecuación lineal de costos sea válida, todos sus términos deben pertenecer a la misma escala de unidades. Operar céntimos con soles directamente genera un desequilibrio. Se debe multiplicar los 4 soles por 100, igualando la expresión a 400 céntimos (50A + 30B = 400)."
+  },
+  {
+    "pregunta": "Arturo desea comprar un libro de 13 soles. Él solo lleva consigo monedas de 5 soles para pagar, mientras que el librero únicamente dispone de monedas de 2 soles para otorgar el vuelto. Si 'A' es el número de monedas que entrega Arturo y 'B' las monedas que recibe de vuelto, ¿cómo se modela correctamente esta transacción?",
+    "opciones": [
+      "5A + 2B = 13",
+      "5A - 2B = 13",
+      "13A - 5B = 2",
+      "5A * 2B = 13"
+    ],
+    "correcta": 1,
+    "resolucion": "El costo real del libro (13 soles) es el valor neto que se queda en la tienda. Este valor neto surge de lo que Arturo entrega físicamente (5A) restándole el vuelto que regresa a las manos de Arturo (2B). Por lo tanto, la ecuación diofántica que representa la transacción es 5A - 2B = 13."
+  },
+  {
+    "pregunta": "Dentro del estudio de las ecuaciones diofánticas lineales, cuando se ordenan en columnas las soluciones sucesivas válidas de ambas variables, se observa un patrón repetitivo. ¿Cómo se comportan los incrementos o saltos de una variable con respecto a la ecuación original?",
+    "opciones": [
+      "Aumentan aleatoriamente basándose en números primos.",
+      "La variable avanza o retrocede en pasos constantes que son exactamente iguales al coeficiente numérico de la OTRA variable (salto cruzado).",
+      "Siempre aumentan de uno en uno.",
+      "El salto es igual al resultado total de la ecuación dividido entre dos."
+    ],
+    "correcta": 1,
+    "resolucion": "Una propiedad fundamental de las diofánticas (ej. 5A - 2B = 13) es que una vez hallada una solución base, las siguientes soluciones se encuentran sumando al valor de 'A' el coeficiente de 'B' (en valor absoluto, que es 2) y sumando a 'B' el coeficiente de 'A' (que es 5). Este salto cruzado simplifica hallar todas las raíces rápidamente."
+  },
+  {
+    "pregunta": "En el contexto del planteo de ecuaciones y traducción verbal a lenguaje matemático, si un enunciado estipula textualmente que \"Erika tiene una vez más de lo que tiene Karina\", ¿cuál es la interpretación algebraica correcta de esta frase?",
+    "opciones": [
+      "Que Erika y Karina tienen exactamente la misma cantidad.",
+      "Que Erika tiene el cuadrado del dinero de Karina.",
+      "Que la cantidad de Erika es igual al doble de la cantidad de Karina.",
+      "Que a Erika se le debe sumar 1 sol."
+    ],
+    "correcta": 2,
+    "resolucion": "La locución 'una vez más' significa tener la cantidad original de referencia (una vez) sumada a sí misma otra vez. Es decir: x + x = 2x. Por consiguiente, si Karina tiene 'n', Erika tiene '2n' (el doble)."
+  },
+  {
+    "pregunta": "Se necesita cortar un largo alambre en 4 partes exactamente iguales. Luego, tres de estas partes se usarán para armar un triángulo equilátero y la parte restante se usará para construir un cuadrado de 4 lados. ¿Por qué es una ventaja estratégica excepcional asignar a la longitud inicial del alambre un valor como \"48n\" en lugar de usar la clásica variable \"x\"?",
+    "opciones": [
+      "Porque 48 es el número de la suerte en geometría.",
+      "Porque al usar 48n, se garantiza que al dividir entre 4 (para las partes), entre 3 (para el triángulo) y entre 4 (para el cuadrado), todos los lados resultantes serán números enteros, evitando por completo el uso de fracciones tediosas.",
+      "Porque la variable 'x' no admite cálculos de áreas ni perímetros.",
+      "Porque la fórmula del área del triángulo siempre requiere múltiplos de 48."
+    ],
+    "correcta": 1,
+    "resolucion": "El uso de constantes calculadas a partir del Mínimo Común Múltiplo de los divisores implicados en el problema (las 4 partes iniciales y los 4 lados del cuadrado a doblar) permite trabajar todas las expresiones de longitud como enteros limpios (ej. 12n por parte, 3n por lado del cuadrado), minimizando el riesgo de errores algebraicos fraccionarios."
+  },
+  {
+    "pregunta": "Karina posee inicialmente 'n' soles. Posteriormente, ella solicita un préstamo de dinero que, textualmente según el problema, \"excede en 5 a lo que ella tenía inicialmente\". ¿Cómo se representa algebraicamente el monto exclusivo de ese préstamo que va a recibir?",
+    "opciones": [
+      "n - 5",
+      "5n",
+      "n + 5",
+      "n / 5"
+    ],
+    "correcta": 2,
+    "resolucion": "El concepto de 'exceso' en planteo de ecuaciones se traduce como una adición sobre una base comparativa. Si el préstamo excede en 5 a lo que tenía (que era 'n'), significa que el valor del préstamo es exactamente la cantidad original más cinco unidades, formulándose como n + 5."
+  }
+          ]
         },
         {
           "titulo": "2.5 Interpretación II",
           "youtube_id": "ohhZz_4ZxHA",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1lPWhVaf4nhcezJZYLAvSDk_gWM-WZlcK/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un problema de compras y costos, Rosa ha adquirido carteras de 96 soles y de 84 soles. Ella recuerda que gastó exactamente 3084 soles en total, y que el número de carteras de 96 soles que compró no llegaba a 10. ¿Cuántas carteras compró en total?",
+    "opciones": [
+      "32",
+      "36",
+      "40",
+      "45"
+    ],
+    "correcta": 1,
+    "resolucion": "La ecuación es 96A + 84B = 3084. Simplificando (dividiendo entre 12), queda 8A + 7B = 257. Usando el criterio de multiplicidad de 8: 257 es múltiplo de 8 + 1, por lo que 7B debe ser múltiplo de 8 + 1. Probando, B=7 (49 = 48+1). Si B=7, 8A + 49 = 257 -> 8A = 208 -> A=26. Las soluciones en una diofántica de suma varían cruzadas: A baja de 7 en 7, B sube de 8 en 8. La serie es (26, 7) -> (19, 15) -> (12, 23) -> (5, 31). Como A debe ser menor a 10, la única válida es A=5 y B=31. El total de carteras es 5 + 31 = 36."
+  },
+  {
+    "pregunta": "En la resolución de ecuaciones diofánticas lineales como \"8A + 7B = 257\", ¿cuál es la técnica analítica recomendada para hallar el primer valor válido sin necesidad de tantear todos los números al azar?",
+    "opciones": [
+      "Elevar ambos miembros al cuadrado para igualar las variables.",
+      "Expresar la ecuación en función de los múltiplos de uno de los coeficientes (como el 8), igualando el residuo de la división con el término de la otra variable.",
+      "Dividir el resultado final entre la suma de los coeficientes.",
+      "Asumir que ambas variables son iguales y despejar."
+    ],
+    "correcta": 1,
+    "resolucion": "Para evitar el tanteo ciego, se aplica la multiplicidad. Al dividir 257 entre 8, el residuo es 1 (es decir, múltiplo de 8 + 1). Al ser 8A un múltiplo exacto de 8, la carga del residuo recae en 7B. Así, se deduce que 7B debe ser obligatoriamente un múltiplo de 8 + 1, facilitando probar solo los primeros valores de B hasta hallar uno que cumpla."
+  },
+  {
+    "pregunta": "En la historia de las matemáticas, un famoso epitafio sobre la vida de Diofanto se puede traducir así: \"Su infancia ocupó la sexta parte de su vida, después transcurrió una doceava parte hasta que se cubrió de vello, a partir de ahí pasó una séptima parte hasta casarse. Pasó un quinquenio y tuvo un hijo, quien murió al alcanzar la mitad de los años que su padre llegó a vivir. Tras 4 años de pena, Diofanto murió\". ¿Cuántos años vivió en total?",
+    "opciones": [
+      "72 años",
+      "80 años",
+      "84 años",
+      "96 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Planteando la ecuación con X como la edad total: X = X/6 + X/12 + X/7 + 5 + X/2 + 4. Para evitar fracciones, X debe ser un número que tenga sexta, doceava, séptima y mitad exacta. El Mínimo Común Múltiplo (MCM) de 6, 12, 7 y 2 es 84. Al asumir X = 84, la ecuación cuadra perfectamente. Vivió 84 años."
+  },
+  {
+    "pregunta": "Al resolver problemas de edades con múltiples etapas de vida descritas como fracciones (sexta parte, doceava parte, séptima parte), ¿qué concepto aritmético fundamental se aplica a los denominadores para hallar la edad total rápidamente?",
+    "opciones": [
+      "Promedio Aritmético",
+      "Máximo Común Divisor (MCD)",
+      "Mínimo Común Múltiplo (MCM)",
+      "Progresión Geométrica"
+    ],
+    "correcta": 2,
+    "resolucion": "Dado que la edad de una persona se asume como un número entero de años, dicha edad debe ser divisible por todos los denominadores presentados en las fracciones del problema. Extraer el Mínimo Común Múltiplo (MCM) de estos denominadores arroja directamente la edad o un múltiplo directo de la misma."
+  },
+  {
+    "pregunta": "María enuncia el siguiente problema sobre su edad: \"Dentro de 23 años mi edad será tres veces más la edad que tenía hace 13 años\". A partir de este dato, ¿qué edad tendrá María dentro de 12 años?",
+    "opciones": [
+      "25 años",
+      "37 años",
+      "40 años",
+      "42 años"
+    ],
+    "correcta": 1,
+    "resolucion": "La frase 'tres veces más' significa 4 veces el valor (el cuádruplo). Planteando la ecuación: X + 23 = 4(X - 13). Resolviendo: X + 23 = 4X - 52 -> 75 = 3X -> X = 25. La edad actual de María es 25 años. Dentro de 12 años tendrá 25 + 12 = 37 años."
+  },
+  {
+    "pregunta": "En el contexto de planteo de ecuaciones, existe una trampa léxica muy común. ¿Cómo se debe interpretar y traducir algebraicamente la expresión \"mi edad será TRES VECES MÁS la edad que tenía\"?",
+    "opciones": [
+      "Como el triple de la edad de referencia (3x).",
+      "Como el cuádruplo de la edad de referencia (4x).",
+      "Como la edad de referencia elevada al cubo (x^3).",
+      "Como la suma de la edad más 3 (x+3)."
+    ],
+    "correcta": 1,
+    "resolucion": "La locución 'tres veces más' implica tomar la cantidad base (una vez) y sumarle tres veces esa misma cantidad (x + 3x). Por ende, el resultado final es 4x, es decir, el cuádruplo de la edad referencial."
+  },
+  {
+    "pregunta": "Un estudiante de ingeniería plantea: \"Hace 7 años yo tenía la tercera parte de la edad que tendré dentro de 15 años\". Basado en este cálculo, ¿dentro de cuántos años el estudiante tendrá exactamente el doble de la edad que tuvo hace 5 años?",
+    "opciones": [
+      "5 años",
+      "6 años",
+      "8 años",
+      "10 años"
+    ],
+    "correcta": 2,
+    "resolucion": "El pasado es 'x' y el futuro es '3x'. La diferencia de tiempo real entre hace 7 años y dentro de 15 años es de 22 años (7 + 15). Entonces, 3x - x = 22 -> 2x = 22 -> x = 11. Si hace 7 años tenía 11, actualmente tiene 18. Hace 5 años tenía 13, y el doble de 13 es 26. Para llegar a 26 desde sus 18 actuales, deben transcurrir 8 años."
+  },
+  {
+    "pregunta": "Yomar le comenta a Juan lo siguiente: \"Hace 21 años mi edad era la mitad de la edad que tú tendrás dentro de 4 años, cuando yo tenga el doble de la edad que tú tienes hoy\". Según esta información, ¿cuál es la edad actual de Yomar?",
+    "opciones": [
+      "28 años",
+      "32 años",
+      "36 años",
+      "40 años"
+    ],
+    "correcta": 1,
+    "resolucion": "Pasado de Yomar (-21) = x. Futuro de Juan (+4) = 2x. Edades actuales: Yomar = x + 21, Juan = 2x - 4. Futuro de Yomar (+4) = x + 25. Dato: futuro de Yomar = doble del presente de Juan -> x + 25 = 2(2x - 4). Operando: x + 25 = 4x - 8 -> 3x = 33 -> x = 11. El presente de Yomar es x + 21 = 11 + 21 = 32 años."
+  },
+  {
+    "pregunta": "Un acertijo matemático indica: \"Dentro de 2n años tendré cuatro veces los años que tuve hace n años. Si los años que tuve, tengo y tendré suman 84 años\". ¿Qué edad tendré dentro de n años?",
+    "opciones": [
+      "24 años",
+      "30 años",
+      "36 años",
+      "48 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Pasado (-n) = x. Futuro (+2n) = 4x. La brecha de tiempo total es 3n. Entonces 4x - x = 3n -> 3x = 3n -> x = n. Tiempos: Pasado = n. Presente = n + n = 2n. Futuro = 4n. La suma es n + 2n + 4n = 7n = 84 -> n = 12. La edad presente es 2n = 24. Dentro de n años (12 años) la edad será 24 + 12 = 36 años."
+  },
+  {
+    "pregunta": "La edad de Vanessa es a la edad de Dani como 4 es a 7. Se sabe que dentro de 10 años, Vanessa tendrá el doble de la edad que tenía Dani hace 5 años. ¿Cuántos años le faltan a Vanessa para tener la edad que Dani tendrá dentro de una década?",
+    "opciones": [
+      "12 años",
+      "14 años",
+      "16 años",
+      "18 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Vanessa actual = 4k, Dani actual = 7k. Futuro de Vanessa: 4k + 10. Pasado de Dani: 7k - 5. Dato: 4k + 10 = 2(7k - 5) -> 4k + 10 = 14k - 10 -> 10k = 20 -> k = 2. Edades actuales: Vanessa = 8, Dani = 14. En una década, Dani tendrá 24 años. A Vanessa (que tiene 8) le faltan 24 - 8 = 16 años para tener esa edad."
+  },
+  {
+    "pregunta": "Una persona plantea la siguiente paradoja temporal sobre su edad: \"Si yo hubiera nacido 15 años antes, entonces lo que me faltaría actualmente para cumplir 78 años sería exactamente los 5/3 de la edad que yo tendría si hubiera nacido 7 años después\". ¿Qué edad tendrá esta persona dentro de 5 años?",
+    "opciones": [
+      "28 años",
+      "30 años",
+      "33 años",
+      "35 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Si la edad actual es 'x'. Nacer 15 años antes significa tener MÁS edad (x + 15). Falta para 78 = 78 - (x + 15) = 63 - x. Nacer 7 años después significa tener MENOS edad (x - 7). Ecuación: 63 - x = (5/3)(x - 7). Resolviendo: 189 - 3x = 5x - 35 -> 8x = 224 -> x = 28. Dentro de 5 años tendrá 28 + 5 = 33 años."
+  },
+  {
+    "pregunta": "En el análisis de planteo de edades, si un problema establece la condición hipotética \"si yo hubiera nacido 15 años antes\", ¿qué efecto directo tiene esto sobre la variable que representa la edad actual de la persona?",
+    "opciones": [
+      "La persona tendría menos años de vida, restando 15 a su edad actual.",
+      "La persona tendría más años de vida, sumando 15 a su edad actual.",
+      "La edad de la persona se divide entre 15.",
+      "La edad se mantiene igual, solo cambia el año de referencia."
+    ],
+    "correcta": 1,
+    "resolucion": "Nacer en un año cronológicamente anterior (antes en el calendario) otorga más tiempo de vida hasta el día de hoy. Por lo tanto, la persona tendría 15 años MÁS que su edad real actual, traduciéndose algebraicamente como 'x + 15'."
+  },
+  {
+    "pregunta": "Dentro de 8 años, la edad de un padre será el doble de la edad de su hijo. Hace 3 años, la edad de este padre era el triple de la edad de su hijo. Aplicando el criterio de homogeneización de diferencias, ¿cuántos años tenía el padre exactamente cuando nació su hijo?",
+    "opciones": [
+      "18 años",
+      "20 años",
+      "22 años",
+      "24 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Futuro (+8): Padre 2k, Hijo 1k (Diferencia = 1k). Pasado (-3): Padre 3m, Hijo 1m (Diferencia = 2m). Igualamos diferencias multiplicando el futuro por 2. Futuro: Padre = 4x, Hijo = 2x. Pasado: Padre = 3x, Hijo = x. El avance de tiempo de 3x a 4x es 'x'. En tiempo real, de -3 a +8 hay 11 años. Entonces x = 11. Padre actual = 3(11) + 3 = 36. Hijo actual = 1(11) + 3 = 14. Cuando el hijo nació, el padre tenía 36 - 14 = 22 años."
+  },
+  {
+    "pregunta": "Al organizar y resolver las edades de dos personas en un cuadro de doble entrada (pasado, presente y futuro), existe una propiedad matemática inalterable que permite completar datos o formar ecuaciones usando celdas diagonales. ¿Cuál es esta propiedad?",
+    "opciones": [
+      "La multiplicación cruzada de las edades resulta siempre en el mismo valor.",
+      "La suma en aspa de las edades en dos tiempos simétricos es siempre igual.",
+      "La resta en aspa determina los años transcurridos.",
+      "El cuadrado de la suma diagonal equivale a la edad futura."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que el tiempo transcurre de la misma manera y cantidad para ambas personas, al cruzar las sumas (Edad A en el pasado + Edad B en el futuro = Edad B en el pasado + Edad A en el futuro), los aumentos de tiempo se anulan mutuamente, haciendo que la suma en aspa simétrica siempre sea exactamente igual."
+  },
+  {
+    "pregunta": "Se analiza el nacimiento de 4 amigas. Cuando Ana nació, Betty ya tenía 8 años. Cuando Carla nació, Ana tenía 6 años. Cuando Ana cumplió la mayoría de edad (18 años), nació Diana. Si en la actualidad las edades de las cuatro suman 100 años, ¿cuántos años tiene la mayor de ellas?",
+    "opciones": [
+      "32 años",
+      "34 años",
+      "37 años",
+      "41 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Usando a Diana como base (x). Ana le lleva 18 años a Diana (Ana = x+18). Como Ana le lleva 6 años a Carla, Carla tiene 12 años más que Diana (Carla = x+12). Betty le lleva 8 años a Ana, así que Betty = x+26. La suma es x + x+18 + x+12 + x+26 = 4x + 56 = 100 -> 4x = 44 -> x=11. La mayor es Betty, que tiene 11 + 26 = 37 años."
+  },
+  {
+    "pregunta": "Marco le dice a Carlos: \"Actualmente nuestras edades están en relación de 3 a 2, y dentro de 2 años tú tendrás la edad que yo tuve cuando nuestras edades estaban en relación de 9 a 5\". ¿Cuántos años más tiene Marco respecto a Carlos?",
+    "opciones": [
+      "4 años",
+      "6 años",
+      "8 años",
+      "10 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Presente: M=3k, C=2k (Dif=1k). Pasado: M=9m, C=5m (Dif=4m). Homogeneizando diferencias (x4 al presente): Presente M=12x, C=8x. Pasado M=9x, C=5x. Dato: dentro de 2 años Carlos (8x+2) tendrá la edad que Marco tuvo en el pasado (9x). Entonces, 8x + 2 = 9x -> x = 2. La diferencia actual de edades es 12x - 8x = 4x. Evaluando: 4(2) = 8 años."
+  },
+  {
+    "pregunta": "Andrea le comenta a Jesús: \"Yo tengo 24 años, y mi edad actual es el doble de la edad que tú tenías en el pasado, cuando yo tenía la tercera parte de la edad que tú tienes hoy\". ¿Cuántos años tendrá Jesús cuando Andrea tenga la edad que Jesús tiene actualmente?",
+    "opciones": [
+      "28 años",
+      "30 años",
+      "32 años",
+      "34 años"
+    ],
+    "correcta": 1,
+    "resolucion": "Andrea presente = 24. Jesús pasado = 24 / 2 = 12. \"cuando yo tenía la tercera parte de la que tienes\": Andrea pasado = x, Jesús presente = 3x. Suma en aspa: 24 + 12 = x + 3x -> 36 = 4x -> x = 9. Jesús presente = 27. Edades actuales: A = 24, J = 27. Cuando Andrea alcance la edad de Jesús (27), pasarán 3 años. Jesús tendrá 27 + 3 = 30 años."
+  },
+  {
+    "pregunta": "Ami le dice a Brian: \"Tengo el triple de la edad que tú tenías cuando yo tenía la edad que tú tienes hoy. Cuando tú tengas la edad que yo tengo, la suma de nuestras edades será de 35 años\". ¿Cuántos años tenía Ami cuando Brian nació?",
+    "opciones": [
+      "3 años",
+      "5 años",
+      "7 años",
+      "9 años"
+    ],
+    "correcta": 1,
+    "resolucion": "Ami pres = 3x, Brian pasado = x. Si Brian pres = y, Ami pasado = y. Suma en aspa: 3x + x = y + y -> 4x = 2y -> y = 2x. Edades actuales: A=3x, B=2x. Futuro: Brian = 3x (pasa 1x año). Ami futuro = 4x. Dato: 4x + 3x = 35 -> 7x = 35 -> x = 5. Ami actual = 15, Brian actual = 10. La diferencia de edades, que es la edad de Ami cuando nació Brian, es 15 - 10 = 5 años."
+  },
+  {
+    "pregunta": "Jimito le plantea un desafío a Yeli: \"Yo tengo el doble de la edad que tú tenías cuando yo tenía tu edad actual. Pero cuando tú tengas el doble de la edad que yo tengo ahora, el producto de nuestras edades será 1152\". ¿Cuánto suman las edades actuales de ambos?",
+    "opciones": [
+      "24 años",
+      "28 años",
+      "32 años",
+      "36 años"
+    ],
+    "correcta": 1,
+    "resolucion": "Para evitar fracciones, Jimito pres = 4x, Yeli pasado = 2x. Yeli pres = Jimito pasado = y. Aspa: 4x + 2x = 2y -> y = 3x. Edades actuales: J=4x, Y=3x. Futuro: \"tengas el doble de la que tengo\" -> Y_fut = 2(4x) = 8x. Han pasado 5x años. J_fut = 4x + 5x = 9x. Producto: (9x)(8x) = 72x^2 = 1152 -> x^2 = 16 -> x = 4. Suma actual: 4x + 3x = 7x = 7(4) = 28."
+  },
+  {
+    "pregunta": "Un profesor llamado Jimito, situado en el año 2023, plantea a sus alumnos: \"En este año, mi edad es exactamente igual a la suma de las cifras del año en que nací, aumentado en 21\". Asumiendo por lógica convencional que nació en el siglo XX (19ab), ¿cuál es la edad actual de Jimito en 2023?",
+    "opciones": [
+      "38 años",
+      "40 años",
+      "41 años",
+      "44 años"
+    ],
+    "correcta": 2,
+    "resolucion": "Año nacimiento = 19ab. Edad en 2023 = (1 + 9 + a + b) + 21 = 31 + a + b. Por definición de edad: Edad = Año Actual - Año Nacimiento = 2023 - (1900 + 10a + b) = 123 - 10a - b. Igualando: 31 + a + b = 123 - 10a - b -> 11a + 2b = 92. Al resolver la diofántica, 'a' debe ser par. Si a=8 -> 88 + 2b = 92 -> 2b=4 -> b=2. Nació en 1982. Edad en 2023 = 2023 - 1982 = 41 años."
+  }
+          ]
         }
       ]
     },
@@ -87,49 +2297,270 @@
         {
           "titulo": "3.1 rotación, y Traslación de figuras",
           "youtube_id": "Ye_lxaBeMC0",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En geometría, una rotación o giro es un movimiento alrededor de un punto que mantiene la forma y tamaño original de la figura. Para que una rotación esté matemáticamente bien definida y se pueda ejecutar con precisión, ¿qué tres elementos fundamentales deben conocerse obligatoriamente?",
+    "opciones": [
+      "Centro de rotación, radio de giro y vector de traslación.",
+      "Ángulo de rotación, centro de rotación y sentido de rotación.",
+      "Ángulo de giro, sentido horario y velocidad de rotación.",
+      "Vértice inicial, vértice final y eje de simetría."
+    ],
+    "correcta": 1,
+    "resolucion": "Según la teoría básica, toda rotación se determina por tres elementos inamovibles: el ángulo (que determina la amplitud), el centro de rotación (el punto fijo) y el sentido (que puede ser horario o antihorario)."
+  },
+  {
+    "pregunta": "El movimiento de traslación se define como el desplazamiento directo de una figura sin que esta gire. Si al trasladar un barco dibujado en un plano, la punta de su mástil se desplaza una distancia exacta de 15 cm en línea recta, ¿qué distancia se desplazará la base de la popa del mismo barco?",
+    "opciones": [
+      "0 cm.",
+      "Dependerá del tamaño y escala del barco.",
+      "Exactamente 15 cm.",
+      "30 cm."
+    ],
+    "correcta": 2,
+    "resolucion": "En un movimiento de traslación puro, todos y cada uno de los puntos que conforman la figura se mueven en la misma dirección y recorren exactamente la misma distancia. Si el mástil se mueve 15 cm, la popa y cualquier otro punto también se desplazarán 15 cm."
+  },
+  {
+    "pregunta": "En un problema de cronometría y trayectorias, una rueda circular se desplaza sobre una superficie plana sin resbalar. Si se conoce la longitud total 'L' que ha recorrido el centro de la rueda y se conoce su radio 'R', ¿qué fórmula permite calcular el número exacto de vueltas que dio la rueda?",
+    "opciones": [
+      "L / R",
+      "L / (π * R)",
+      "L / (2 * π * R)",
+      "(2 * π * R) / L"
+    ],
+    "correcta": 2,
+    "resolucion": "El número de vueltas de una rueda se obtiene dividiendo la distancia total (L) recorrida por su centro entre la longitud o perímetro de la circunferencia de dicha rueda. El perímetro de una circunferencia es 2 * π * R."
+  },
+  {
+    "pregunta": "Al analizar giros de figuras en un plano, es común encontrar ángulos mayores a una vuelta completa. Si un problema indica que una figura debe rotar 760° en sentido horario, ¿cuál es el movimiento mínimo equivalente que produce exactamente la misma posición final?",
+    "opciones": [
+      "Rotar 40° en sentido horario.",
+      "Rotar 40° en sentido antihorario.",
+      "Rotar 140° en sentido horario.",
+      "Rotar 20° en sentido horario."
+    ],
+    "correcta": 0,
+    "resolucion": "Una vuelta completa equivale a 360°. Al dividir 760° entre 360°, obtenemos 2 vueltas completas (720°) y un residuo de 40°. Las vueltas completas dejan la figura igual, por lo que el movimiento efectivo neto es simplemente rotar los 40° restantes en el mismo sentido (horario)."
+  },
+  {
+    "pregunta": "Debido a la simetría circular de 360°, un giro en un sentido puede ser expresado con un ángulo complementario en el sentido opuesto. Si una figura plana rota 270° en sentido horario, ¿qué giro equivalente en sentido antihorario la dejará en la misma posición final?",
+    "opciones": [
+      "45° antihorario.",
+      "90° antihorario.",
+      "180° antihorario.",
+      "270° antihorario."
+    ],
+    "correcta": 1,
+    "resolucion": "La suma de los ángulos equivalentes en direcciones opuestas debe ser igual a una vuelta completa (360°). Si gira 270° en un sentido, le faltan 90° en el sentido contrario para completar el círculo. (360° - 270° = 90° antihorario)."
+  },
+  {
+    "pregunta": "Una rueda de radio 10 cm va a rodar por el lado recto de un cuadrado. Si el lado de dicho cuadrado mide 80 cm, y la rueda comienza alineada con un extremo y rueda hasta chocar con la pared perpendicular de la esquina contraria (el siguiente lado del cuadrado), ¿qué longitud exacta recorre el centro de la rueda en ese tramo recto?",
+    "opciones": [
+      "80 cm.",
+      "70 cm.",
+      "60 cm.",
+      "90 cm."
+    ],
+    "correcta": 1,
+    "resolucion": "Como el centro de la rueda nunca hace contacto con la superficie, su avance horizontal se detiene un radio antes de llegar a la pared perpendicular de la esquina. Por lo tanto, recorre la longitud del lado menos su radio: 80 cm - 10 cm = 70 cm."
+  },
+  {
+    "pregunta": "Cuando una rueda se desplaza por el exterior de un polígono cerrado, su centro traza arcos circulares al pivotar sobre los vértices. Si la rueda pasa por la esquina exterior de un triángulo equilátero (cuyo ángulo interno es de 60°), ¿de cuántos grados es el arco de giro que describe el centro de la rueda en ese vértice?",
+    "opciones": [
+      "60°.",
+      "90°.",
+      "120°.",
+      "150°."
+    ],
+    "correcta": 2,
+    "resolucion": "Al llegar a una esquina, los radios al punto de tangencia forman ángulos de 90° con los lados del polígono. La suma de los ángulos alrededor del vértice es 360°. Por lo tanto, Ángulo de giro = 360° - 90° - 90° - (Ángulo interno). Si el ángulo interno es 60°, el giro es 360° - 180° - 60° = 120°."
+  },
+  {
+    "pregunta": "Una lámina cuadrada de 2 cm de lado va a rotar apoyándose sobre uno de sus vértices (punto O). Al realizar este giro, el vértice totalmente opuesto al punto O describirá un arco de circunferencia. ¿Cuál es la longitud del 'radio de giro' de ese vértice opuesto?",
+    "opciones": [
+      "2 cm.",
+      "2√2 cm.",
+      "4 cm.",
+      "√2 cm."
+    ],
+    "correcta": 1,
+    "resolucion": "El radio de giro es la distancia en línea recta desde el centro de rotación (el vértice O de apoyo) hasta el punto que está rotando (el vértice opuesto). En un cuadrado de lado 2, esa distancia es la diagonal del cuadrado, la cual por Pitágoras mide 2√2 cm."
+  },
+  {
+    "pregunta": "En un problema de superposición de láminas transparentes, se observa que la región sombreada de la figura cambia de posición constantemente y el patrón se repite de manera exacta cada 4 figuras. Si se necesita saber la posición de la región sombreada en la 'Figura 52', ¿a qué figura del ciclo base (del 1 al 4) es matemáticamente equivalente?",
+    "opciones": [
+      "Figura 1.",
+      "Figura 2.",
+      "Figura 3.",
+      "Figura 4."
+    ],
+    "correcta": 3,
+    "resolucion": "Al repetirse el patrón cada 4 figuras, se debe dividir el número de la figura solicitada entre 4 y observar el residuo. 52 es un múltiplo exacto de 4 (52 = 4 * 13), lo que significa que el residuo es 0. Cuando el residuo es 0 o múltiplo exacto, la figura coincide con la última figura del ciclo completo, que es la Figura 4."
+  },
+  {
+    "pregunta": "En una secuencia gráfica en rotación, el movimiento de un punto negro sigue un patrón cíclico que se reinicia exactamente cada 6 figuras. El problema pide hallar la posición del punto en la 'Figura 100'. Aplicando los criterios de multiplicidad, ¿a qué figura del primer ciclo corresponde la Figura 100?",
+    "opciones": [
+      "Figura 2.",
+      "Figura 3.",
+      "Figura 4.",
+      "Figura 5."
+    ],
+    "correcta": 2,
+    "resolucion": "Al haber un ciclo de 6, se busca expresar el 100 como un múltiplo de 6 más un residuo. 100 dividido entre 6 es 16 con residuo de 4 (100 = 6 * 16 + 4). El patrón descarta las 16 vueltas completas y se queda únicamente con el residuo, lo que indica que es idéntica a la Figura 4 del ciclo original."
+  },
+  {
+    "pregunta": "Una lámina con forma de hexágono regular (cuyo ángulo interno es 120°) rueda sin deslizar por el contorno exterior de una mesa rectangular (cuyas esquinas tienen 90°). Al pivotar sobre una de las esquinas del rectángulo para cambiar de lado, ¿cuál es el ángulo exacto que gira el hexágono alrededor de ese punto?",
+    "opciones": [
+      "60°.",
+      "90°.",
+      "120°.",
+      "150°."
+    ],
+    "correcta": 3,
+    "resolucion": "Al pivotar en una esquina externa, la suma de los ángulos alrededor de ese punto de contacto debe ser 360°. Se resta el ángulo interno del hexágono (120°) y el ángulo de la esquina de la mesa (90°). Entonces, Ángulo de giro = 360° - (120° + 90°) = 150°."
+  },
+  {
+    "pregunta": "Cuando una lámina hexagonal regular (ángulo interno 120°) rueda sobre una superficie totalmente plana y recta, se apoya en un vértice y pivota hasta que su siguiente lado toca el suelo de forma plana. ¿De cuántos grados es este ángulo de giro por cada paso sobre la recta?",
+    "opciones": [
+      "30°.",
+      "60°.",
+      "90°.",
+      "120°."
+    ],
+    "correcta": 1,
+    "resolucion": "Sobre una línea recta (ángulo llano de 180°), el hexágono se levanta pivotando sobre un vértice. El ángulo que necesita rotar para que el lado contiguo alcance la horizontal es el suplemento del ángulo interno del polígono: 180° - 120° = 60°."
+  },
+  {
+    "pregunta": "Al rotar una figura plana en ángulos que son múltiplos de 45°, se puede imaginar la figura dividida visualmente en 8 sectores iguales (como trozos de una pizza). Si la instrucción dictamina que la figura debe rotar 180° en sentido horario, ¿cuántos de estos sectores de 45° avanzará cada punto de la figura?",
+    "opciones": [
+      "2 sectores.",
+      "3 sectores.",
+      "4 sectores.",
+      "8 sectores."
+    ],
+    "correcta": 2,
+    "resolucion": "Como cada sector abarca exactamente 45°, para cubrir un giro de 180° se debe dividir la rotación total entre la medida del sector (180° / 45° = 4). Por lo tanto, cada componente de la figura se desplazará 4 sectores en la dirección indicada."
+  },
+  {
+    "pregunta": "Una plancha triangular equilátera rueda sin resbalar por el *interior* de un hexágono regular. En este tipo de trayectorias cerradas, ¿qué ocurre físicamente con el vértice específico de la plancha que sirve como punto de apoyo (pivote) en las esquinas interiores mientras se produce el giro?",
+    "opciones": [
+      "Se traslada en línea recta hacia el siguiente vértice.",
+      "No recorre ninguna distancia (su longitud recorrida es cero) porque se mantiene estacionario como centro de giro.",
+      "Describe un arco de circunferencia perfecto equivalente al lado del hexágono.",
+      "Retrocede en sentido contrario al movimiento de la plancha."
+    ],
+    "correcta": 1,
+    "resolucion": "Durante el movimiento de rotación o pivoteo, el vértice que se encuentra en contacto con la superficie actúa como el 'centro de rotación'. Por definición, el centro de rotación en un instante dado no tiene desplazamiento lineal, por lo que la distancia que recorre ese punto específico es cero mientras pivota."
+  },
+  {
+    "pregunta": "En un problema de geometría analítica con giros, se determina que el centro de una rueda traza un arco al pasar por una esquina de 180°. Si se sabe que el radio de giro es de 2 cm, ¿cuál es la longitud real del arco descrito por el centro al aplicar la fórmula básica L = θ * R?",
+    "opciones": [
+      "π cm.",
+      "2π cm.",
+      "3π cm.",
+      "4π cm."
+    ],
+    "correcta": 1,
+    "resolucion": "Para usar la fórmula L = θ * R (LOR), el ángulo debe estar obligatoriamente en radianes. Un giro de 180° equivale a π radianes. Multiplicando el ángulo (π) por el radio (2 cm), la longitud del arco recorrida es de 2π cm."
+  },
+  {
+    "pregunta": "Un patrón secuencial en láminas transparentes indica que la figura repite su ciclo exactamente cada 3 pasos (múltiplo de 3). El problema exige superponer la Figura 19 y la Figura 32. Según los residuos de los múltiplos de 3, ¿a qué figuras del ciclo básico (1, 2 o 3) equivalen respectivamente antes de superponerlas?",
+    "opciones": [
+      "Figura 1 y Figura 2.",
+      "Figura 2 y Figura 3.",
+      "Figura 3 y Figura 1.",
+      "Figura 1 y Figura 1."
+    ],
+    "correcta": 0,
+    "resolucion": "Para la Figura 19: 19 = (3 * 6) + 1, dejando un residuo de 1, por lo que equivale a la Figura 1. Para la Figura 32: 32 = (3 * 10) + 2, dejando un residuo de 2, por lo que equivale a la Figura 2. Al final, se superponen gráficamente la Figura 1 y la Figura 2."
+  },
+  {
+    "pregunta": "Para calcular correctamente la longitud de un arco circular en problemas de traslación y rotación, el ángulo de giro debe estar siempre convertido a radianes. ¿Qué factor de conversión multiplicativo se utiliza para pasar un ángulo de sexagesimales (como 150°) a radianes?",
+    "opciones": [
+      "Multiplicar por 180/π.",
+      "Multiplicar por π/180.",
+      "Dividir entre 2π.",
+      "Multiplicar por π/90."
+    ],
+    "correcta": 1,
+    "resolucion": "La regla general de conversión indica que los grados sexagesimales se multiplican por la fracción (π radianes / 180°) para simplificarlos y obtener su medida equivalente en radianes listos para aplicar la fórmula geométrica."
+  },
+  {
+    "pregunta": "En una trayectoria recta, el centro de un disco no choca directamente contra la pared perpendicular debido al grosor físico de su propio radio. Si un tramo recto de la pared mide 18 cm y un disco de radio 2 cm avanza desde una posición de tangencia hasta chocar con la pared del final, ¿qué distancia horizontal real avanza el centro del disco?",
+    "opciones": [
+      "18 cm.",
+      "16 cm.",
+      "14 cm.",
+      "12 cm."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que el disco parte desde un punto donde su centro ya está alineado con la posición de inicio, solo se debe descontar el espacio bloqueado por la pared perpendicular al final del trayecto. El centro no puede avanzar los últimos 2 cm (su radio). Por lo tanto, el recorrido real del centro es 18 cm - 2 cm = 16 cm."
+  },
+  {
+    "pregunta": "En los problemas donde se pide la figura resultante al \"superponer\" dos o más láminas transparentes congruentes que poseen regiones opacas (sombreadas), ¿cuál es el principio visual y matemático que se aplica para obtener el resultado final?",
+    "opciones": [
+      "Las zonas opacas coincidentes se anulan entre sí, quedando totalmente transparente.",
+      "La figura resultante es la unión o suma visual de las zonas opacas de ambas láminas; donde hay sombra, permanece sombra.",
+      "Solo se conservan y se ven las zonas donde las regiones opacas de ambas láminas se intersectan exactamente.",
+      "La figura se invierte de colores, volviendo oscuro lo transparente."
+    ],
+    "correcta": 1,
+    "resolucion": "Al superponer láminas transparentes, cualquier sector que esté sombreado (o coloreado) en alguna de las láminas tapará el paso de la luz en ese punto de la figura final. El resultado lógico es la 'Unión' de las regiones sombreadas individuales de todas las láminas empleadas."
+  },
+  {
+    "pregunta": "Un cuadrado transparente está dividido en 4 cuadrantes congruentes (numerados 1, 2, 3, 4 comenzando por el superior derecho en sentido horario). Inicialmente tiene sombreado solo el Cuadrante 1. Si esta lámina rota 90° en sentido antihorario con respecto a su centro, ¿qué cuadrante quedará sombreado visualmente en la nueva posición?",
+    "opciones": [
+      "Cuadrante 1.",
+      "Cuadrante 2.",
+      "Cuadrante 3.",
+      "Cuadrante 4."
+    ],
+    "correcta": 3,
+    "resolucion": "El Cuadrante 1 es la esquina superior derecha. Una rotación de 90° en sentido antihorario (hacia la izquierda, en contra de las agujas del reloj) moverá esa zona de la esquina superior derecha hacia la esquina superior izquierda, la cual corresponde al espacio designado como Cuadrante 4 en este sistema."
+  }
+          ]
         },
         {
           "titulo": "3.2 Rutas y Trayectorias",
           "youtube_id": "h2pJygGLg14",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "3.3 Trazo de figuras",
           "youtube_id": "5cL9LZEakSU",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "3.4 Simetría y Reflexiones",
-          "youtube_id": "0aPR28_NmHg",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "youtube_id": "EvoPpGYMZXs",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "3.5 Visualización de figuras en el espacio",
           "youtube_id": "5hGxhSWUcZU",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "3.6 Rueda, Engranaje y Polea",
           "youtube_id": "eVQQ5POxBfU",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "3.7 Semejanza de Triángulos",
           "youtube_id": "LDqe-03NbB4",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
           "preguntas": []
         }
@@ -141,63 +2572,63 @@
         {
           "titulo": "4.1 Interpretación de gráficos estadísticos",
           "youtube_id": "elhI80OnDP8",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.2 Situaciones Deportivas",
           "youtube_id": "5qmhl17uvmw",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.3 Suficiencia de datos",
           "youtube_id": "NhMofogPS1g",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.4 Certezas",
           "youtube_id": "Qh6_BQJlVdI",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.5 Deducción Simple y Compuesta",
           "youtube_id": "DZuvzwH8r8I",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.6 Ordenamiento de Información",
           "youtube_id": "kOkIUuQ8gm0",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.7 Verdades, mentiras y certezas",
           "youtube_id": "7NA8DGQg2tg",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.8 Lazos familiares | Parámetros",
           "youtube_id": "bUjlJjAnpZU",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         },
         {
           "titulo": "4.9 Diagrama de flujo",
           "youtube_id": "17a32_oKL3E",
-          "pdf_link": "REEMPLAZAR_LINK_DRIVE",
+          "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
           "preguntas": []
         }

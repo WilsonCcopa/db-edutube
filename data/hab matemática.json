@@ -2527,7 +2527,228 @@
           "youtube_id": "h2pJygGLg14",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En los problemas de rutas y trayectorias no direccionadas, cuando la condición estricta del problema es \"no repetir tramos\", ¿qué regla paralela de la teoría de grafos se asume tácitamente respecto a los vértices o intersecciones?",
+    "opciones": [
+      "Tampoco se pueden repetir los puntos en ningún momento.",
+      "Sí se permite repetir puntos (vértices) en el recorrido.",
+      "Solo se pueden repetir los puntos de inicio y final.",
+      "Se debe pasar por todos los puntos obligatoriamente al menos una vez."
+    ],
+    "correcta": 1,
+    "resolucion": "La condición de 'no repetir tramos' se refiere exclusivamente a no transitar dos veces por la misma línea o arista. Tácitamente, esto implica que sí es totalmente válido regresar o cruzar por un mismo punto (vértice) ya visitado, siempre y cuando se acceda a él mediante una arista diferente."
+  },
+  {
+    "pregunta": "Para ir del punto A al punto B a través de una figura que consta de una sola circunferencia que incluye un segmento recto central conectando ambos extremos, ¿cuántas maneras diferentes existen de hacer el recorrido sin repetir ningún tramo?",
+    "opciones": [
+      "2 maneras.",
+      "3 maneras.",
+      "4 maneras.",
+      "5 maneras."
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener una circunferencia partida por el centro, existen tres rutas directas y sin retorno que no repiten tramos: ir por el arco superior, ir por el arco inferior, o ir directamente por la línea recta del medio."
+  },
+  {
+    "pregunta": "En el cálculo de rutas no direccionadas (sin repetir tramos), existe una fórmula general rápida para hallar el total de caminos cuando hay \"N\" circunferencias consecutivas conectadas entre sí por una línea central. ¿Cuál es esta expresión algebraica?",
+    "opciones": [
+      "2^N - 1",
+      "2^(N+1) - 1",
+      "3^N",
+      "N^2 + 1"
+    ],
+    "correcta": 1,
+    "resolucion": "La regla empírica demostrada indica que se coloca la base 2 elevada al número de circunferencias más uno, y al resultado total de esa potencia se le resta la unidad. Por lo tanto, la fórmula general es 2^(N+1) - 1."
+  },
+  {
+    "pregunta": "Aplicando la generalización de circunferencias consecutivas, si un gráfico de rutas presenta exactamente 3 circunferencias seguidas conectadas por una línea recta central, ¿cuántas formas diferentes hay de ir de un extremo al otro de la figura sin repetir tramos?",
+    "opciones": [
+      "7 formas.",
+      "8 formas.",
+      "15 formas.",
+      "16 formas."
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica la fórmula general 2^(N+1) - 1. Como hay 3 circunferencias, N = 3. Reemplazando en la potencia: 2^(3+1) = 2^4 = 16. Restándole 1, obtenemos 16 - 1 = 15 maneras diferentes de realizar el recorrido."
+  },
+  {
+    "pregunta": "Al analizar un gráfico de rutas muy complejo, se observa que la distribución de líneas en la mitad superior de la figura es topológicamente idéntica a la mitad inferior. Para optimizar el tiempo de resolución en un examen, ¿qué estrategia de cálculo es la más eficiente?",
+    "opciones": [
+      "Contar los caminos de ambas partes y multiplicarlos entre sí para hallar el total.",
+      "Contar minuciosamente los caminos solo de la mitad superior y multiplicar el resultado final por 2.",
+      "Eliminar la mitad inferior asumiendo que sus caminos convergen en cero.",
+      "Dividir el total de nodos entre 2 y elevar al cuadrado."
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad de simetría en los grafos permite reducir el trabajo a la mitad. Al ser un espejo, la cantidad de formas de llegar por arriba es matemáticamente igual a las formas de llegar por abajo. Basta con contar una zona y sumar ambas (o multiplicar por 2)."
+  },
+  {
+    "pregunta": "Un viajero necesita ir de A hacia B, pero la figura lo obliga a pasar por un punto intermedio M. Si al contar las rutas descubre que hay 4 maneras de ir de A hacia M, y 3 maneras de ir de M hacia B, ¿qué principio de conteo debe aplicar y cuál es el total de rutas posibles?",
+    "opciones": [
+      "Principio de adición: 7 rutas.",
+      "Principio de adición: 14 rutas.",
+      "Principio de multiplicación: 12 rutas.",
+      "Principio de multiplicación: 64 rutas."
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser eventos secuenciales y dependientes (primero debes hacer el tramo A-M y luego, por cada una de esas opciones, tienes las opciones del tramo M-B), se aplica el principio multiplicativo. El total es 4 * 3 = 12 rutas."
+  },
+  {
+    "pregunta": "En un análisis de redes de transporte, un conductor nota que puede llegar a su destino utilizando exclusivamente la zona norte del mapa (lo cual le ofrece 4 caminos distintos) o decidiendo ir por la zona sur (que le ofrece 27 caminos distintos). ¿Cuántas formas en total tiene para alcanzar su destino?",
+    "opciones": [
+      "31 formas.",
+      "108 formas.",
+      "23 formas.",
+      "68 formas."
+    ],
+    "correcta": 0,
+    "resolucion": "Las rutas de la zona norte y las de la zona sur representan eventos mutuamente excluyentes (si eliges ir por el norte, no estás yendo por el sur y viceversa). Por ello, se aplica el principio de adición. El total de formas es 4 + 27 = 31."
+  },
+  {
+    "pregunta": "En los recorridos direccionados sobre una cuadrícula perfecta (donde solo se permite avanzar hacia la derecha y hacia abajo), existe el 'Método Combinatorio'. Si una sub-cuadrícula tiene 3 espacios de largo y 2 espacios de ancho, ¿cómo se plantea matemáticamente la combinatoria para hallar el número de rutas de esquina a esquina?",
+    "opciones": [
+      "Combinatoria de 3 en 2.",
+      "Combinatoria de 5 en 2.",
+      "Combinatoria de 6 en 3.",
+      "Combinatoria de 5 en 3."
+    ],
+    "correcta": 1,
+    "resolucion": "La técnica rápida exige sumar la cantidad de espacios horizontales y verticales (3 + 2 = 5) como el índice superior, y tomar como índice inferior cualquiera de las dos dimensiones, usualmente la menor para facilitar el cálculo. Por ende, se plantea la Combinatoria de 5 en 2 (C(5,2)), que es matemáticamente igual a C(5,3)."
+  },
+  {
+    "pregunta": "Aplicando el método combinatorio para cuadrículas perfectas direccionadas, ¿cuántos caminos diferentes existen para cruzar de un vértice al vértice opuesto en una cuadrícula simétrica que mide exactamente 2 espacios por 2 espacios?",
+    "opciones": [
+      "2 caminos.",
+      "4 caminos.",
+      "6 caminos.",
+      "8 caminos."
+    ],
+    "correcta": 2,
+    "resolucion": "Sumamos los espacios: 2 horizontales + 2 verticales = 4. Planteamos la combinatoria tomando uno de los valores: C(4,2). El cálculo es (4 * 3) / (1 * 2) = 12 / 2 = 6 caminos diferentes."
+  },
+  {
+    "pregunta": "Al enfrentarse a un problema de conteo de rutas en una malla gigante, el enunciado impone una restricción: \"es obligatorio pasar siempre por el punto R\". ¿Qué acción analítica se debe realizar sobre la malla para no cometer errores en el cálculo?",
+    "opciones": [
+      "Restarle 1 al total bruto de caminos de la malla entera.",
+      "Centralizar el análisis: calcular solo los caminos que llevan al punto R, descartar todas las aristas que no pasen por ahí, y luego multiplicar por los caminos desde R hasta el final.",
+      "Dividir la cuadrícula en 4 cuadrantes y sumar los caminos que evitan R.",
+      "Contar los caminos libremente y luego dividir el resultado entre el número de aristas de R."
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando un nodo es de paso obligatorio, todas las rutas que se desvían de él o lo esquivan quedan anuladas. El problema se fragmenta en dos etapas forzosas: Llegar al punto R, y partir desde el punto R. Ambas cantidades obtenidas se multiplican, ignorando topológicamente el resto del mapa."
+  },
+  {
+    "pregunta": "En un tramo de recorrido direccionado en una matriz cuadriculada, se aplica la técnica combinatoria y se determina que la expresión a resolver es la \"Combinatoria de 8 en 2\". ¿Cuál es el valor numérico resultante de esta operación?",
+    "opciones": [
+      "16",
+      "28",
+      "56",
+      "64"
+    ],
+    "correcta": 1,
+    "resolucion": "Para desarrollar la combinatoria C(8,2) de forma práctica, se degrada el 8 en dos factores y se divide por el factorial de 2. La operación es (8 * 7) / (1 * 2) = 56 / 2 = 28."
+  },
+  {
+    "pregunta": "Un paquete de datos viaja a través de una red direccionada con dos puntos de control obligatorios, dividiendo el viaje en tres tramos independientes. Aplicando el método combinatorio, se hallan 10 rutas para el primer tramo, 28 para el segundo y 5 para el tercero. ¿De cuántas formas posibles puede completarse el recorrido total?",
+    "opciones": [
+      "43 formas.",
+      "140 formas.",
+      "1400 formas.",
+      "2800 formas."
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser eventos consecutivos y dependientes para formar el viaje completo, las opciones de cada tramo se deben multiplicar por el principio fundamental de conteo. El resultado es 10 * 28 * 5 = 1400 rutas posibles."
+  },
+  {
+    "pregunta": "Un ejercicio exige trazar una ruta de ida de A hacia B, y luego regresar de B hacia A. Sin embargo, impone la restricción: \"no se puede repetir ningún tramo del camino de ida\". Si en la ida, un segmento de la red ofrecía 4 rutas posibles, ¿cuántas rutas disponibles quedarán para ese mismo segmento durante el viaje de vuelta?",
+    "opciones": [
+      "1 ruta.",
+      "2 rutas.",
+      "3 rutas.",
+      "4 rutas."
+    ],
+    "correcta": 2,
+    "resolucion": "Dado que el trayecto de ida ya consumió físicamente uno de los tramos de ese segmento, esa línea exacta queda inhabilitada para el regreso. Por ende, a las rutas totales originales del segmento siempre se le debe restar 1 para la vuelta (4 - 1 = 3 rutas)."
+  },
+  {
+    "pregunta": "En un recorrido de ida y vuelta que consta de tres zonas interconectadas, las rutas disponibles originales para cada zona son 2, 4 y 2 respectivamente. Si en el regreso se cumple la regla de \"no repetir ningún tramo usado en la ida\", ¿cuántas combinaciones válidas existen EXCLUSIVAMENTE para el viaje de vuelta por esos mismos nodos?",
+    "opciones": [
+      "3 combinaciones.",
+      "8 combinaciones.",
+      "15 combinaciones.",
+      "16 combinaciones."
+    ],
+    "correcta": 0,
+    "resolucion": "Para el viaje de retorno por esa misma vía, cada tramo pierde la arista específica que se usó en la ida. Por lo tanto, las opciones se reducen a (2 - 1), (4 - 1) y (2 - 1). Multiplicando los remanentes: 1 * 3 * 1 = 3 combinaciones para el viaje de vuelta."
+  },
+  {
+    "pregunta": "El método combinatorio es una herramienta poderosa y rápida para el conteo de rutas direccionadas, pero tiene una limitación topológica fundamental. ¿En qué escenario gráfico NO se debe aplicar la fórmula combinatoria de manera directa?",
+    "opciones": [
+      "En cuadrículas rectangulares donde el largo y el ancho son distintos.",
+      "En cuadrículas cuadradas perfectas.",
+      "En mallas o cuadrículas incompletas a las que les faltan segmentos internos.",
+      "En cuadrículas que superan los 5x5 espacios."
+    ],
+    "correcta": 2,
+    "resolucion": "La fórmula combinatoria asume matemáticamente que todos los vértices y aristas de una matriz perfecta están disponibles y conectados. Si el gráfico presenta 'huecos' o le faltan líneas internas, la fórmula arrojará rutas fantasmas que en realidad están cortadas, dando un resultado incorrecto."
+  },
+  {
+    "pregunta": "Cuando una red de caminos direccionados presenta líneas faltantes que inhabilitan el uso del método combinatorio directo, ¿cuál es el método 'tradicional' infalible que se debe emplear para hallar la cantidad de rutas?",
+    "opciones": [
+      "El principio aditivo nodo por nodo, sumando las rutas convergentes (similar al triángulo de Pascal).",
+      "Multiplicar el número de vértices útiles por 2.",
+      "El teorema de Pitágoras entre los extremos de la red.",
+      "Restar los espacios vacíos al total de vértices de la cuadrícula base."
+    ],
+    "correcta": 0,
+    "resolucion": "El método seguro para grafos irregulares es el principio de adición progresiva. Se anota un '1' en los nodos iniciales y se va sumando en cada intersección los valores de los nodos adyacentes de los que provienen las flechas, arrastrando el acumulado hasta el final."
+  },
+  {
+    "pregunta": "Al aplicar el conteo tradicional aditivo en una malla direccionada, llegas a un vértice 'C'. Las únicas vías permitidas para entrar a 'C' provienen del vértice 'A' (que acumulaba 6 rutas) y del vértice 'B' (que acumulaba 13 rutas). ¿Qué valor numérico final se debe registrar en el vértice 'C'?",
+    "opciones": [
+      "7",
+      "19",
+      "78",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "Por el principio aditivo de rutas, el número de maneras de llegar a un nodo es la suma exacta de las maneras de llegar a los nodos inmediatamente anteriores que conectan hacia él. Se suman los acumulados: 6 + 13 = 19 rutas hasta 'C'."
+  },
+  {
+    "pregunta": "En un problema estricto de 'recorridos direccionados' (por ejemplo, con flechas indicando solo derecha y abajo), un estudiante en su suma manual transita un segmento hacia arriba para alcanzar un nodo. ¿Por qué esto es un error crítico en el cálculo?",
+    "opciones": [
+      "Porque multiplica el resultado innecesariamente, generando rutas paralelas.",
+      "Porque rompe la restricción direccional del ejercicio, contando trayectorias que están prohibidas e invalidando la suma de ese sector.",
+      "Porque los vértices superiores siempre deben tener un valor de cero por defecto.",
+      "Porque genera un bucle infinito que no puede ser procesado matemáticamente."
+    ],
+    "correcta": 1,
+    "resolucion": "En recorridos direccionados, la condición del movimiento restringe los grados de libertad. Moverse en contra de la dirección impuesta (como ir hacia arriba cuando solo se permite abajo/derecha) suma rutas ilegales al nodo destino, alterando completamente la propagación del conteo."
+  },
+  {
+    "pregunta": "En un gráfico de rutas no direccionadas, el punto de inicio 'A' se divide inmediatamente en dos arcos simples (uno superior y uno inferior) que convergen en un punto 'M' formando un rombo hueco. Sabiendo que no hay una línea recta central que los conecte directamente, ¿cuántas maneras hay de llegar de A hasta M sin repetir tramos?",
+    "opciones": [
+      "1 manera.",
+      "2 maneras.",
+      "3 maneras.",
+      "4 maneras."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que el grafo entre A y M carece de un segmento rectilíneo central o eje de convergencia intermedio, el flujo solo tiene dos caminos aislados posibles: tomar el arco por la arista superior, o tomar el arco por la arista inferior. Son 2 maneras."
+  },
+  {
+    "pregunta": "Un ejercicio complejo pide el total de caminos para un viaje de ida y vuelta con múltiples rutas alternativas. Tras aplicar el cálculo por bloques y la resta de tramos repetidos en el retorno, se descubre que yendo por la ruta 'X' se logran 48 formas, por la ruta 'Y' se logran 32 formas, y por la ruta 'Z' se logran 36 formas. ¿Qué operación se realiza con estas tres cantidades para obtener la respuesta final del problema?",
+    "opciones": [
+      "Promediarlas para hallar la media de rutas.",
+      "Multiplicarlas entre sí formando un espacio muestral 3D.",
+      "Sumarlas todas, aplicando el principio de adición, ya que son formas mutuamente excluyentes de realizar el mismo evento.",
+      "Restarlas de la cantidad total de la cuadrícula."
+    ],
+    "correcta": 2,
+    "resolucion": "Como las rutas 'X', 'Y' y 'Z' representan estrategias o vías independientes para cumplir el objetivo global de ir y volver (si vas por X, no puedes ir simultáneamente por Y), se trata de eventos mutuamente excluyentes. Según el principio de adición, el total absoluto de opciones es la suma de los resultados parciales: 48 + 32 + 36 = 116 formas."
+  }
+          ]
         },
         {
           "titulo": "3.3 Trazo de figuras",

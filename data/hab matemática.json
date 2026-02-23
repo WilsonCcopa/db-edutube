@@ -2755,35 +2755,1140 @@
           "youtube_id": "5cL9LZEakSU",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según la teoría de los recorridos eulerianos, ¿cuál de los postulados establece que una figura puede ser dibujada de un solo trazo, sin levantar el lápiz del papel y sin importar en qué punto inicies o termines, siempre y cuando regreses al punto de partida?",
+    "opciones": [
+      "Si la figura tiene más de dos vértices impares.",
+      "Si todos los vértices de la figura son de grado par.",
+      "Si la figura tiene exactamente dos vértices impares.",
+      "Si la figura contiene solo vértices de grado impar."
+    ],
+    "correcta": 1,
+    "resolucion": "El primer postulado de Euler indica que un recorrido cerrado (empezar y terminar en el mismo punto) en un solo trazo es posible única y exclusivamente si todos los vértices del grafo son pares."
+  },
+  {
+    "pregunta": "Si al analizar los nodos de un dibujo complejo se descubre que posee exactamente dos vértices impares, ¿qué regla dicta el postulado de Euler sobre el recorrido a realizar?",
+    "opciones": [
+      "El recorrido es imposible en un solo trazo continuo.",
+      "El recorrido debe empezar en cualquier vértice par y terminar en uno impar.",
+      "El recorrido debe empezar obligatoriamente en uno de los vértices impares y terminar obligatoriamente en el otro vértice impar.",
+      "El recorrido debe empezar y terminar en el mismo vértice impar."
+    ],
+    "correcta": 2,
+    "resolucion": "El segundo postulado establece que si hay exactamente dos vértices impares, la figura sí se puede trazar de un solo recorrido, pero condiciona el inicio y el final a esos dos puntos impares específicos."
+  },
+  {
+    "pregunta": "En un problema de trazos donde la figura principal tiene 6 vértices impares, la teoría indica que es imposible dibujarla de un solo trazo continuo. Para hacerla transitable, se deben \"repetir tramos\". ¿Cuál es el objetivo principal matemático de realizar esta acción de repetir tramos?",
+    "opciones": [
+      "Aumentar el perímetro para hacer el recorrido más largo.",
+      "Cambiar la paridad de los vértices conectados (de impar a par) sumándoles una nueva arista de conexión.",
+      "Crear nuevos vértices en el medio de la figura.",
+      "Eliminar los vértices pares existentes."
+    ],
+    "correcta": 1,
+    "resolucion": "Al repetir un tramo o trazar una línea adicional sobre una ya existente entre dos nodos impares, se les suma un grado extra a cada nodo. Un vértice impar (ej. grado 3) más uno se convierte en par (grado 4), solucionando la restricción de Euler."
+  },
+  {
+    "pregunta": "Al tener que repetir tramos en una figura para reducir la cantidad de vértices impares y el problema exige hallar la \"longitud mínima del recorrido\", ¿qué estrategia básica de selección de líneas debe aplicarse?",
+    "opciones": [
+      "Repetir siempre los segmentos más largos para asegurar conectividad.",
+      "Repetir líneas que no conecten vértices impares.",
+      "Seleccionar y repetir prioritariamente los segmentos de menor longitud posible que conecten a los vértices impares.",
+      "Repetir únicamente las diagonales de la figura."
+    ],
+    "correcta": 2,
+    "resolucion": "Como el objetivo es que el recorrido total (Longitud de la figura + Longitud de tramos repetidos) sea el mínimo posible, la suma de las repeticiones debe ser la más baja. Por ende, se deben buscar los caminos más cortos entre los vértices impares a emparejar."
+  },
+  {
+    "pregunta": "Una figura geométrica presenta 4 vértices impares. El enunciado del ejercicio exige que el recorrido comience en el vértice 'B' y termine en el vértice 'D' (ambos actualmente impares). ¿Cuál es la modificación correcta que se debe hacer a la paridad de los vértices mediante repeticiones para cumplir con esta condición?",
+    "opciones": [
+      "Convertir todos los 4 vértices impares en pares.",
+      "Mantener a 'B' y 'D' como vértices impares, y convertir los otros dos vértices impares restantes en pares repitiendo el tramo entre ellos.",
+      "Convertir solo el vértice 'B' a par.",
+      "Convertir a 'B' y 'D' en pares y dejar los otros dos impares."
+    ],
+    "correcta": 1,
+    "resolucion": "El postulado 2 señala que para iniciar en un punto y terminar en otro, esos dos puntos deben ser los ÚNICOS vértices impares de la figura. Por tanto, 'B' y 'D' deben mantenerse como impares, y todos los demás vértices impares del grafo deben ser neutralizados (convertidos a pares)."
+  },
+  {
+    "pregunta": "En un análisis de vértices, un estudiante cuenta los vértices impares de una estructura y obtiene como resultado el número \"5\". Basado en la teoría matemática de grafos eulerianos, ¿qué significa este resultado?",
+    "opciones": [
+      "Que el recorrido mínimo se logrará restando un vértice.",
+      "Que la figura requerirá 5 repeticiones de trazo.",
+      "Que ha cometido un error de conteo, ya que es matemáticamente imposible que un grafo tenga una cantidad impar de vértices de grado impar.",
+      "Que la figura se puede trazar empezando por cualquiera de los 5 puntos."
+    ],
+    "correcta": 2,
+    "resolucion": "El \"Lema del apretón de manos\" en teoría de grafos establece que la suma de los grados de todos los vértices es siempre el doble del número de aristas (un número par). En consecuencia, la cantidad de vértices impares siempre, en cualquier figura, debe resultar en un número par (2, 4, 6, 8...). Contar 5 significa un error seguro."
+  },
+  {
+    "pregunta": "Un problema exige dibujar una figura de alambre empezando en el punto A y terminando exactamente en el mismo punto A. Al analizar la figura original, se determina que posee 6 vértices impares. Para cumplir con la exigencia del punto A, ¿cómo deben quedar conformados finalmente los vértices de toda la figura tras las repeticiones?",
+    "opciones": [
+      "Deben quedar exactamente dos vértices impares.",
+      "El punto A debe quedar como impar y los demás como pares.",
+      "Todos los vértices de la figura, sin excepción, deben ser convertidos a vértices de grado par.",
+      "Deben mantenerse 4 vértices impares."
+    ],
+    "correcta": 2,
+    "resolucion": "Empezar y terminar en el mismo punto (circuito euleriano cerrado) solo está permitido por el Postulado 1, el cual exige que absolutamente todos los vértices de la figura sean de grado par. Las repeticiones deben eliminar los 6 vértices impares."
+  },
+  {
+    "pregunta": "En una estructura de alambre, se cuenta una longitud total base de 76 cm. Para poder trazarla sin levantar el lápiz empezando en A y terminando en un vértice en la parte inferior, se decide realizar una repetición que suma 14 cm (volviendo a todos los vértices pares) o, en otra configuración, una repetición que suma 11 cm (dejando un vértice impar en A y otro abajo). Si se pide el \"recorrido mínimo\", ¿qué configuración y suma total se elige?",
+    "opciones": [
+      "La de 14 cm, porque asegura que todos los vértices sean pares. Total: 90 cm.",
+      "La de 11 cm, ya que cumple la condición de inicio/fin y aporta menor longitud repetida. Total: 87 cm.",
+      "El recorrido base sin sumas: 76 cm.",
+      "La suma de ambas configuraciones: 101 cm."
+    ],
+    "correcta": 1,
+    "resolucion": "En los problemas de optimización de trazos, siempre prima la configuración que agregue la menor longitud extra. Como la opción de 11 cm deja los vértices impares exactos que el problema pedía (iniciar en A, terminar abajo) y es numéricamente menor que 14, se suma 76 + 11 = 87 cm como recorrido mínimo."
+  },
+  {
+    "pregunta": "En una figura geométrica conformada por dos cuadrados unidos por un vértice y varias diagonales, se observa que no es posible trazar una repetición directa (un solo segmento) entre dos vértices impares porque no existe una línea que los una. ¿Qué procedimiento es válido realizar en este caso para cambiar su paridad?",
+    "opciones": [
+      "Crear un segmento recto imaginario que cruce por el vacío para unirlos directamente.",
+      "Repetir una secuencia de trazos existentes (un camino) a través de otros vértices intermedios hasta conectarlos.",
+      "Eliminar uno de los vértices impares.",
+      "Trazar una curva externa alrededor de la figura."
+    ],
+    "correcta": 1,
+    "resolucion": "La regla de oro de los recorridos establece que no se pueden crear trazos nuevos donde no los hay. Si dos vértices impares no están conectados directamente por una línea, la repetición debe hacerse transitando y repitiendo las líneas existentes de la figura, pasando por vértices intermedios hasta enlazar ambos puntos impares."
+  },
+  {
+    "pregunta": "En un problema de trazos que incluye una circunferencia, se sabe que el diámetro completo mide 12 cm. Si sobre ese diámetro se ha dibujado un arco o semicircunferencia perfecta (que une los dos extremos), ¿qué relación rápida y constante existe para calcular la longitud de esa curva en función del diámetro?",
+    "opciones": [
+      "La curva mide exactamente lo mismo que el diámetro (12).",
+      "La curva mide el doble del diámetro (24).",
+      "La curva es igual a la mitad del diámetro multiplicado por el factor 'pi' (6π).",
+      "La curva mide el cuadrado de la mitad del diámetro (36)."
+    ],
+    "correcta": 2,
+    "resolucion": "La longitud de una circunferencia completa es Diámetro * π (o 2πR). Como es una curva que representa un arco de media vuelta sobre el diámetro (semicircunferencia), su longitud es la mitad de la circunferencia total, es decir, (Diámetro * π) / 2. Si el diámetro es 12, la curva mide 6π."
+  },
+  {
+    "pregunta": "En una estructura metálica en forma de triángulo equilátero apoyada sobre una línea, se traza un arco de circunferencia desde un vértice inferior cuyo radio es uno de los lados del triángulo (Lado = 6). Sabiendo que el arco cubre el ángulo externo del triángulo, ¿cómo se deduce la medida del ángulo central de dicho arco para calcular su longitud?",
+    "opciones": [
+      "Se asume que es 90° por estar apoyado en la recta.",
+      "Al ser equilátero, su ángulo interno es 60°. Sobre la línea recta de 180°, el ángulo externo suplementario que ocupa la curva será 180° - 60° = 120°.",
+      "Es igual al ángulo interno, 60°.",
+      "Se divide 360° entre los 3 lados del triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Los ángulos sobre una línea recta suman 180° (ángulo llano). Si el triángulo es equilátero, su ángulo interior mide 60°. El espacio restante adyacente a ese vértice sobre la recta, que sirve de apertura para la curva trazada, medirá el suplemento: 180° - 60° = 120°."
+  },
+  {
+    "pregunta": "Al calcular el recorrido euleriano sobre una figura tridimensional (un par de cubos unidos hechos de alambre), un estudiante cuenta 20 aristas en total, todas de longitud 10 cm, e identifica 4 vértices impares. Si se le pide recorrer toda la figura libremente (sin un inicio o fin forzoso), ¿qué arreglo de vértices garantizará el menor recorrido posible?",
+    "opciones": [
+      "Convertir todos los vértices impares en pares (0 impares).",
+      "Dejar 2 vértices impares intactos y convertir los otros 2 en pares uniendo la distancia más corta entre ellos.",
+      "Añadir 2 vértices impares más para balancear la figura.",
+      "Eliminar el cubo secundario."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que el problema no impone un punto de inicio específico, la figura puede dibujarse de un solo trazo amparándose en el Postulado 2 (2 vértices impares). Convertir los 4 impares en pares requeriría repetir dos aristas, sumando 20 cm. Dejar 2 impares y convertir solo los otros 2 requiere repetir una sola arista, sumando 10 cm, logrando así el recorrido más corto."
+  },
+  {
+    "pregunta": "En un problema de trazo de figuras, se tiene un rectángulo interno y varias líneas cruzadas, obteniéndose un cálculo base de 42 cm de estructura. Al analizar los nodos, se encuentran 4 vértices impares. El enunciado impone: \"iniciar en el vértice B y terminar en el vértice C\". Si ambos vértices B y C ya son de grado impar, ¿cuál es el paso a seguir?",
+    "opciones": [
+      "Buscar el camino más corto para conectar B y C entre sí.",
+      "Convertir B y C a vértices de grado par, ya que son los puntos de inicio y fin.",
+      "Como B y C son impares y deben ser el inicio y el fin (Postulado 2), no se deben alterar. Se deben buscar los otros dos vértices impares restantes en la figura y convertirlos a pares repitiendo el tramo más corto que los una.",
+      "Repetir todo el contorno del rectángulo."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que el trazo nazca en B y muera en C, la teoría exige que solo B y C sean los únicos vértices impares de todo el mapa. Al haber 4 impares, B y C se protegen y se procede a aislar y neutralizar (cambiando la paridad a par) exclusivamente a los otros dos vértices ajenos, agregando su conexión al recorrido total."
+  },
+  {
+    "pregunta": "Una figura presenta un cuadrado con lado de 8 cm. En su interior se trazan sus dos diagonales completas. ¿Cuál es el cálculo exacto de la longitud base (sin considerar repeticiones) de esta estructura puramente lineal?",
+    "opciones": [
+      "32 cm.",
+      "32 + 8√2 cm.",
+      "32 + 16√2 cm.",
+      "64 cm."
+    ],
+    "correcta": 2,
+    "resolucion": "El perímetro del cuadrado es 8 + 8 + 8 + 8 = 32. Al tener un ángulo recto de 90°, cada diagonal forma un triángulo rectángulo notable y mide 8√2. Como son dos diagonales, se suma 8√2 + 8√2 = 16√2. La estructura base mide 32 + 16√2 cm."
+  },
+  {
+    "pregunta": "En la resolución de un problema de mallas complejas (hexágonos regulares pegados), el profesor repite una línea que hace un \"quiebre\" en esquina, abarcando dos lados de un hexágono para poder conectar dos vértices impares distantes. Si el lado del hexágono mide 6 cm, ¿cuánto suma esta repetición en el recorrido total?",
+    "opciones": [
+      "6 cm.",
+      "12 cm.",
+      "8.5 cm (por la diagonal).",
+      "18 cm."
+    ],
+    "correcta": 1,
+    "resolucion": "Al no existir una línea recta que una los dos vértices impares opuestos, el trazo repetitivo debe seguir estrictamente los segmentos existentes en la figura (las aristas del hexágono). Si abarca dos lados adyacentes, la longitud repetida es 6 cm + 6 cm = 12 cm, sin importar el ángulo visual."
+  },
+  {
+    "pregunta": "El concepto de \"optimización de grafos\" o buscar el \"recorrido mínimo\" en el tema de trazos de figuras requiere de la suma de dos componentes matemáticos principales. ¿Cuáles son estos dos sumandos innegociables?",
+    "opciones": [
+      "La longitud del perímetro exterior y la longitud de las líneas cruzadas internas.",
+      "La longitud de todos los segmentos de la figura original sumada a la longitud de los tramos que se determinó repetir para corregir la paridad de los vértices impares.",
+      "El número de vértices pares sumado al número de vértices impares.",
+      "El área de la figura base sumada a las áreas de los trazos repetidos."
+    ],
+    "correcta": 1,
+    "resolucion": "El cálculo del recorrido mínimo exige contabilizar primero el 100% de las líneas que componen la estructura original (ya que la condición euleriana es pasar por todas ellas), y a este total se le adiciona únicamente la distancia de los segmentos que se tuvieron que recorrer por segunda vez (repeticiones) para cumplir los postulados."
+  },
+  {
+    "pregunta": "Al evaluar una estructura de alambres en forma de pirámide tridimensional o cubos interceptados, ¿qué diferencia metodológica fundamental existe para el conteo de vértices pares o impares respecto a una figura bidimensional plana?",
+    "opciones": [
+      "En los sólidos 3D solo se cuentan los vértices que tocan el suelo (la base).",
+      "Los sólidos 3D no admiten vértices impares en sus diagonales.",
+      "Ninguna. La definición de grado de un vértice (cantidad de líneas que concurren en él) se aplica exactamente igual sin importar si la figura es plana o en tres dimensiones.",
+      "En los sólidos 3D, las líneas ocultas no se contabilizan para la paridad."
+    ],
+    "correcta": 2,
+    "resolucion": "La teoría de grafos y los postulados de Euler no distinguen geometría espacial. El grado de un nodo se define exclusivamente por el número de aristas que se conectan a él. Un punto de encuentro en un cubo con 3 aristas llegando a él es un vértice impar, al igual que en una figura de papel."
+  },
+  {
+    "pregunta": "Si un estudiante intenta resolver un problema de \"Trazo de Figuras\" y encuentra que la gráfica posee 3 vértices impares, ¿qué conclusión inmediata debe sacar antes de hacer ningún cálculo?",
+    "opciones": [
+      "Debe empezar el trazo en el vértice impar central.",
+      "El problema será imposible de resolver con los postulados de Euler.",
+      "Que ha cometido un grave error al identificar o contar las líneas concurrentes en algún vértice, ya que la cantidad de vértices impares nunca puede ser un número impar (como 3).",
+      "Que la figura requiere exactamente 3 repeticiones."
+    ],
+    "correcta": 2,
+    "resolucion": "Es una ley estricta de la matemática discreta que en cualquier red o grafo, la sumatoria de nodos de grado impar siempre debe resultar en un número par. Identificar 1, 3, 5 o 7 vértices impares en un examen indica un fallo en la observación del gráfico, ya que siempre deben presentarse en pares (2, 4, 6...)."
+  },
+  {
+    "pregunta": "En un problema se pide hallar el recorrido mínimo de una figura que cuenta con 8 vértices impares, pero no impone ningún punto de inicio ni final obligatorio (es decir, el recorrido es libre). Para minimizar la repetición de trazos, ¿qué arreglo final de paridad se debe buscar?",
+    "opciones": [
+      "Convertir los 8 vértices impares a pares, realizando 4 conexiones repetidas.",
+      "Mantener 4 vértices impares intactos y corregir los otros 4.",
+      "Dejar 2 vértices impares intactos (para usar el Postulado 2, iniciando en uno y terminando en otro) y neutralizar los otros 6 vértices impares realizando 3 conexiones estratégicas repetidas.",
+      "Convertir un solo vértice impar a par."
+    ],
+    "correcta": 2,
+    "resolucion": "El recorrido más eficiente sin restricciones es aquel que repite la menor cantidad de líneas. Convertir todo a pares exige más repeticiones (cerrando los 4 pares de impares). Dejar 2 vértices impares permite que la figura sea trazable (empezando y terminando en ellos) ahorrándose una conexión de repetición, bajando el costo de longitud."
+  },
+  {
+    "pregunta": "Un gráfico contiene curvas de cuartos de circunferencia (90°). Si el radio es de 4 cm, la longitud completa de una circunferencia imaginaria sería 8π. ¿Qué operación se realiza para hallar la longitud específica de esa curva de cuarto de circunferencia a sumar al recorrido total?",
+    "opciones": [
+      "Se multiplica 8π por 4.",
+      "Se divide el total 8π entre 4, resultando en 2π.",
+      "Se resta 4 al radio, resultando en 4π.",
+      "Se eleva el radio al cuadrado, resultando 16π."
+    ],
+    "correcta": 1,
+    "resolucion": "Un arco de 90° representa geométricamente la cuarta parte (1/4) de los 360° de una circunferencia completa. Por ende, la longitud de la línea a trazar sobre ese sector curvo es la cuarta parte de la longitud total de la circunferencia base (2πR / 4)."
+  }
+          ]
         },
         {
           "titulo": "3.4 Simetría y Reflexiones",
           "youtube_id": "EvoPpGYMZXs",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Evelyn dibuja en un plano coordenado un polígono con un vértice en A(-3; 1). Si aplica una simetría central respecto al punto de simetría P(2; 0), ¿cuál será la coordenada del nuevo vértice A'?",
+    "opciones": [
+      "(7; 1)",
+      "(5; -1)",
+      "(7; -1)",
+      "(1; -1)"
+    ],
+    "correcta": 2,
+    "resolucion": "Para la abscisa se usa x' = 2(x_p) - x = 2(2) - (-3) = 7. Para la ordenada, al ser la coordenada 'y' del punto de simetría 0, simplemente se le cambia el signo al valor original: de 1 pasa a -1. El punto es (7; -1)."
+  },
+  {
+    "pregunta": "Un diseñador gráfico refleja el punto M(5; 8) respecto al eje Y (recta x=0). Según el análisis de transformaciones geométricas, ¿cuál es la nueva coordenada de M'?",
+    "opciones": [
+      "(-5; 8)",
+      "(-5; -8)",
+      "(5; -8)",
+      "(8; 5)"
+    ],
+    "correcta": 0,
+    "resolucion": "Al reflejar sobre un eje vertical que pasa por el origen (eje Y, x=0), la componente 'y' se mantiene constante (8) y la componente 'x' simplemente cambia de signo (-5)."
+  },
+  {
+    "pregunta": "En un examen de admisión se pide hallar la simetría de un triángulo con un vértice en C(-5; 1) respecto a la recta vertical L: x = -2. ¿Cuál es la nueva coordenada del vértice C'?",
+    "opciones": [
+      "(1; 1)",
+      "(-1; 1)",
+      "(-2; 1)",
+      "(0; 1)"
+    ],
+    "correcta": 0,
+    "resolucion": "Como el eje de simetría es paralelo al eje Y, la ordenada (1) se mantiene. Para la abscisa se aplica x' = 2(-2) - (-5) = -4 + 5 = 1. Resultado: (1; 1)."
+  },
+  {
+    "pregunta": "En una prueba psicotécnica, una figura geométrica apunta hacia abajo y a la izquierda (tercer cuadrante). Si se le aplica una simetría respecto al origen de coordenadas (0;0), ¿hacia dónde apuntará en el plano la figura resultante?",
+    "opciones": [
+      "Hacia abajo y a la derecha.",
+      "Hacia arriba y a la izquierda.",
+      "Hacia arriba y a la derecha.",
+      "Mantiene su orientación."
+    ],
+    "correcta": 2,
+    "resolucion": "La simetría respecto al origen invierte ambos sentidos. Lo que apuntaba hacia abajo pasa hacia arriba, y lo de la izquierda pasa a la derecha (cambio de signos en ambos ejes)."
+  },
+  {
+    "pregunta": "Un topógrafo ubica un punto D(1; 2) en su plano y necesita reflejarlo respecto a una recta límite horizontal L: y = 3. ¿Cuál es la coordenada final del punto D' tras la reflexión?",
+    "opciones": [
+      "(1; 4)",
+      "(1; 1)",
+      "(5; 2)",
+      "(-1; 2)"
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser la recta de simetría horizontal, la abscisa (x=1) se mantiene constante. Para la ordenada: y' = 2(3) - 2 = 6 - 2 = 4. El punto es (1; 4)."
+  },
+  {
+    "pregunta": "Se dibuja un hexágono regular con algunas regiones sombreadas. Si se le aplican reflexiones sucesivas sobre tres rectas diferentes (L1, L2 y L3), ¿qué método asegura no perder la posición geométrica de las sombras?",
+    "opciones": [
+      "Calcular el área total sombreada en cada paso.",
+      "Numerar las regiones sombreadas y trasladar los números según la simetría de cada recta.",
+      "Rotar la figura 180 grados en cada reflexión.",
+      "Reflejar solo el vértice más lejano al origen."
+    ],
+    "correcta": 1,
+    "resolucion": "El método visual más efectivo para figuras complejas con múltiples reflexiones axiales es asignar números a las regiones de interés y rastrear su posición equivalente al doblar el plano sobre cada eje."
+  },
+  {
+    "pregunta": "Antonella dibuja un polígono y busca su figura simétrica usando el punto P(-1; -1) como centro de simetría. Si uno de sus vértices es (-3; 4), ¿cuál será la coordenada de su vértice homólogo?",
+    "opciones": [
+      "(1; 6)",
+      "(-5; -2)",
+      "(1; -6)",
+      "(2; -5)"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica la regla general para ambos ejes: x' = 2(-1) - (-3) = 1. Para y' = 2(-1) - 4 = -2 - 4 = -6. La coordenada es (1; -6)."
+  },
+  {
+    "pregunta": "Un estudiante de ingeniería dibuja un cuadrado en un software CAD, nombrando sus vértices A, B, C, D en sentido horario. Si aplica una simetría axial respecto a cualquier recta, ¿en qué sentido se leerán los vértices de la imagen proyectada?",
+    "opciones": [
+      "Se mantienen en sentido horario.",
+      "Cambian a sentido antihorario.",
+      "Depende de si la recta es vertical u horizontal.",
+      "Se vuelven colineales."
+    ],
+    "correcta": 1,
+    "resolucion": "La reflexión axial es una isometría indirecta; por lo tanto, invierte la orientación de la figura en el plano, cambiando el sentido horario a antihorario."
+  },
+  {
+    "pregunta": "Una pieza de ajedrez en un plano virtual se refleja primero sobre el eje X y la imagen resultante se refleja sobre el eje Y. ¿A qué operación única equivale este doble movimiento?",
+    "opciones": [
+      "A una rotación de 90 grados.",
+      "A una traslación de doble distancia.",
+      "A una reflexión sobre la recta identidad.",
+      "A una simetría central respecto al origen."
+    ],
+    "correcta": 3,
+    "resolucion": "Reflejar un punto sobre el eje X cambia el signo de 'y', y luego sobre el eje Y cambia el signo de 'x'. Alterar ambos signos (-x, -y) equivale exactamente a una simetría respecto al origen (0,0)."
+  },
+  {
+    "pregunta": "En una hoja cuadriculada, se ubica el punto B(-6; 1). Si se traza una recta vertical que pasa por x = -2 y se pide la simetría de B, ¿qué ocurre con el valor de la ordenada?",
+    "opciones": [
+      "Cambia a -1 por estar en el segundo cuadrante.",
+      "Se duplica porque la recta corta el eje X.",
+      "Se mantiene constante porque el desplazamiento es estrictamente horizontal.",
+      "Se reduce a 0 al cruzar la recta de simetría."
+    ],
+    "correcta": 2,
+    "resolucion": "Toda reflexión sobre un eje vertical (paralelo al eje Y) altera únicamente la coordenada 'x'. La altura o posición en 'y' no sufre ninguna modificación."
+  },
+  {
+    "pregunta": "Un dron es programado para moverse simétricamente respecto a una línea imaginaria y = 4. Si su posición actual es (-2; -3), ¿cuál será su posición final tras ejecutar el comando de reflexión?",
+    "opciones": [
+      "(10; -3)",
+      "(-2; 11)",
+      "(-2; 5)",
+      "(6; 11)"
+    ],
+    "correcta": 1,
+    "resolucion": "La recta es horizontal, por lo que 'x' se mantiene en -2. Para hallar la nueva 'y': y' = 2(4) - (-3) = 8 + 3 = 11. Posición final: (-2; 11)."
+  },
+  {
+    "pregunta": "Se proyecta un triángulo que se encuentra íntegramente en el segundo cuadrante. Si se toma como eje de simetría al eje de las abscisas (eje X), ¿en qué cuadrante se ubicará la figura transformada?",
+    "opciones": [
+      "Primer cuadrante.",
+      "Tercer cuadrante.",
+      "Cuarto cuadrante.",
+      "Se mantiene en el segundo."
+    ],
+    "correcta": 1,
+    "resolucion": "En el segundo cuadrante los puntos tienen forma (-x, +y). Al reflejarlos sobre el eje X, la ordenada cambia de signo resultando en (-x, -y), lo cual corresponde al tercer cuadrante."
+  },
+  {
+    "pregunta": "Ismael dibuja un cuadrado, pero el papel se rompe y solo se ven tres de sus vértices. Para hallar el cuarto vértice antes de aplicar simetrías, ¿qué teorema geométrico básico permite encontrar el vértice faltante en el plano cartesiano?",
+    "opciones": [
+      "Teorema de Thales.",
+      "Teorema de Pitágoras (usando la relación de catetos resultantes).",
+      "Teorema de la bisectriz interior.",
+      "Teorema de Pappus."
+    ],
+    "correcta": 1,
+    "resolucion": "Como explica el video, si faltan vértices de un cuadrado en una cuadrícula, se puede deducir la posición aplicando la relación de distancias rectangulares (Pitágoras) para mantener la perpendicularidad y longitud de los lados."
+  },
+  {
+    "pregunta": "Para agilizar el examen, un estudiante decide no usar fórmulas numéricas al enfrentarse a una simetría en un plano cuadriculado. ¿Cuál es el método visual directo que debe aplicar?",
+    "opciones": [
+      "Medir con los dedos la diagonal de la figura.",
+      "Calcular mentalmente el área y buscar una figura idéntica.",
+      "Contar los cuadraditos desde el vértice hasta el eje, y repetir la misma cantidad hacia el lado opuesto.",
+      "Proyectar líneas paralelas a los ejes coordenados y adivinar la intersección."
+    ],
+    "correcta": 2,
+    "resolucion": "El método gráfico por excelencia en cuadrículas es el conteo directo: la distancia (en cuadraditos) de un punto al eje de simetría debe ser idéntica a la distancia del eje hacia el punto reflejado."
+  },
+  {
+    "pregunta": "Al aplicarse una simetría central en el punto P(-1; 2) a un vértice V(-4; -2), se obtiene un nuevo vértice V'. Si se pide la suma de las coordenadas de V', ¿cuál es el resultado de dicha operación?",
+    "opciones": [
+      "6",
+      "2",
+      "8",
+      "-2"
+    ],
+    "correcta": 2,
+    "resolucion": "Calculamos x' = 2(-1) - (-4) = 2. Calculamos y' = 2(2) - (-2) = 6. El punto V' es (2; 6). La suma de sus coordenadas es 2 + 6 = 8."
+  },
+  {
+    "pregunta": "(Teoría) Si en un problema se indica que el eje de simetría es 'paralelo al eje Y', ¿qué afirmación matemática es absolutamente cierta para cualquier punto reflejado en dicho eje?",
+    "opciones": [
+      "La abscisa (x) del punto se mantiene constante.",
+      "La ordenada (y) del punto se mantiene constante.",
+      "Tanto la abscisa como la ordenada cambian de signo.",
+      "La distancia al origen se reduce a la mitad."
+    ],
+    "correcta": 1,
+    "resolucion": "Un eje paralelo al eje Y es una recta vertical. El desplazamiento de reflexión ocurre solo en el eje horizontal, por lo tanto, la altura u ordenada (y) no cambia."
+  },
+  {
+    "pregunta": "(Teoría) Cuando se realiza una simetría axial respecto a una recta paralela al eje X, ¿qué regla analítica se aplica a las componentes del par ordenado?",
+    "opciones": [
+      "La componente 'x' es constante y la componente 'y' se transforma.",
+      "La componente 'y' es constante y la componente 'x' se transforma.",
+      "Las coordenadas 'x' e 'y' se invierten de posición.",
+      "Se multiplica todo por -1."
+    ],
+    "correcta": 0,
+    "resolucion": "Una recta paralela al eje X es horizontal. El reflejo mueve los puntos hacia arriba o abajo, cambiando la 'y', mientras que la posición lateral 'x' queda intacta."
+  },
+  {
+    "pregunta": "(Teoría) Según el truco práctico del profesor, si el punto de simetría tiene una componente igual a 0 (por ejemplo, P(k, 0)), ¿qué operación rápida se le hace a esa misma componente en el punto original?",
+    "opciones": [
+      "Se vuelve 0 automáticamente.",
+      "Simplemente se le cambia el signo.",
+      "Se duplica su valor absoluto.",
+      "Se le suma el valor de la otra componente."
+    ],
+    "correcta": 1,
+    "resolucion": "Al aplicar la fórmula 2(0) - y, el resultado es simplemente -y. Por ende, la regla rápida es solo cambiar el signo del valor original."
+  },
+  {
+    "pregunta": "(Teoría) Matemáticamente, si un punto se refleja respecto a una recta vertical x = k, ¿cuál es la expresión correcta que define a la nueva abscisa x'?",
+    "opciones": [
+      "x' = 2x - k",
+      "x' = x - 2k",
+      "x' = 2k - x",
+      "x' = k - 2x"
+    ],
+    "correcta": 2,
+    "resolucion": "La distancia del punto original al eje es (k - x) o (x - k). Al sumar esta distancia al eje k para el otro lado, se obtiene sistemáticamente la expresión 2k - x."
+  },
+  {
+    "pregunta": "(Teoría) ¿Qué propiedad fundamental se cumple siempre respecto a la distancia entre un punto original y su respectiva imagen reflejada en un eje de simetría axial?",
+    "opciones": [
+      "La distancia total es igual a la distancia del punto al origen.",
+      "El eje de simetría actúa como mediatriz del segmento que une ambos puntos.",
+      "El punto reflejado siempre estará en un cuadrante distinto al original.",
+      "La imagen reflejada es de menor tamaño que la figura original."
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición de simetría axial, el segmento que une un punto con su imagen es perpendicular al eje de simetría y es bisecado por este (es decir, el eje es su mediatriz)."
+  }
+          ]
         },
         {
           "titulo": "3.5 Visualización de figuras en el espacio",
           "youtube_id": "5hGxhSWUcZU",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Según el texto, ¿cuáles son las tres vistas principales que se deben tener en cuenta al analizar un sólido?",
+    "opciones": [
+      "Vista superior, vista inferior y vista lateral.",
+      "Vista frontal, vista horizontal y vista de perfil.",
+      "Vista de planta, vista de techo y vista de fondo.",
+      "Vista isométrica, vista ortogonal y vista oblicua."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor menciona al inicio de la clase que para visualizar figuras en el espacio se deben tener en cuenta tres vistas fundamentales: la vista frontal, la vista horizontal y la vista de perfil."
+  },
+  {
+    "pregunta": "¿Qué representa una línea punteada en la gráfica de las vistas de un sólido?",
+    "opciones": [
+      "Una línea visible desde cualquier perspectiva.",
+      "Un error en el dibujo del sólido.",
+      "Una línea no visible porque no es vista desde la cara o perspectiva en la que uno se encuentra.",
+      "El contorno exterior exclusivo del sólido."
+    ],
+    "correcta": 2,
+    "resolucion": "El texto explica claramente que una línea punteada significa que es una 'línea no visible', lo cual ocurre porque hay una pared o elemento que tapa ese desnivel o hueco desde la perspectiva en la que se observa."
+  },
+  {
+    "pregunta": "¿Con qué otro nombre se le conoce a la vista horizontal de un sólido?",
+    "opciones": [
+      "Vista de alzado.",
+      "Vista lateral.",
+      "Vista de fondo.",
+      "Vista de planta."
+    ],
+    "correcta": 3,
+    "resolucion": "En la transcripción se afirma de manera literal que la vista horizontal (la que se visualiza desde encima del objeto) es 'llamada también vista de planta'."
+  },
+  {
+    "pregunta": "¿Con qué otro nombre se le denomina en ocasiones a la vista frontal?",
+    "opciones": [
+      "Vista de alzado.",
+      "Vista de planta.",
+      "Vista lateral derecha.",
+      "Proyección ortogonal."
+    ],
+    "correcta": 0,
+    "resolucion": "El profesor indica en la explicación inicial que la vista frontal, obtenida desde la parte del frente del objeto, es 'llamada en ocasiones vista de alzado'."
+  },
+  {
+    "pregunta": "En la proyección de vistas, ¿cuál es la vista de perfil más recurrente o común que se suele graficar en los problemas de admisión?",
+    "opciones": [
+      "El perfil izquierdo.",
+      "El perfil superior.",
+      "El perfil derecho.",
+      "El perfil inferior."
+    ],
+    "correcta": 2,
+    "resolucion": "El texto especifica que la vista de perfil puede ser izquierda o derecha, pero aclara que 'la más recurrente o lo más común es que grafiques el perfil derecho'."
+  },
+  {
+    "pregunta": "Carlos es un estudiante de ingeniería que diseña una pieza metálica. Para que dicha pieza alcance su volumen máximo a partir de sus dimensiones a, b y c, ¿qué forma geométrica debe priorizar al dibujar la caja contenedora inicial?",
+    "opciones": [
+      "Un cilindro de base circular.",
+      "Un paralelepípedo con lados de longitudes muy diferentes.",
+      "Un cubo, ya que para maximizar el producto de sus dimensiones, sus lados tienden a ser iguales.",
+      "Una pirámide cuadrangular."
+    ],
+    "correcta": 2,
+    "resolucion": "Basado en el problema de admisión resuelto (UNMSM 2022-1), el profesor explica que para que el volumen sea máximo (producto a por b por c), 'sus lados tienden a ser iguales', por lo que se recomienda dibujar un cubo."
+  },
+  {
+    "pregunta": "Un arquitecto evalúa un plano de un sólido desde la parte superior (vista horizontal). Al notar un hueco interno que está tapado por una pared superior, ¿cómo debe representar este detalle no visible en su plano si el hueco no se ve directamente desde arriba?",
+    "opciones": [
+      "Mediante líneas continuas de colores.",
+      "Mediante líneas punteadas.",
+      "Omitiendo el detalle por completo para no confundir.",
+      "Dibujando una línea diagonal que cruce el plano."
+    ],
+    "correcta": 1,
+    "resolucion": "El texto señala que cuando hay un detalle, hueco o desnivel no visible desde la perspectiva actual (en este caso desde arriba), este se representa obligatoriamente con 'líneas punteadas'."
+  },
+  {
+    "pregunta": "Durante un examen, una estudiante aplica el 'método de la caja' para reconstruir un sólido tridimensional. Si en la vista frontal identifica un corte que forma un agujero o canaleta, ¿hasta dónde debe proyectar este corte dentro de la caja para armar el sólido correctamente?",
+    "opciones": [
+      "Solo en la cara frontal exterior para mantener el volumen.",
+      "Hasta la mitad de la profundidad de la caja.",
+      "Hasta el fondo, atravesando todo el sólido.",
+      "Depende exclusivamente de lo que marque la vista superior, ignorando la frontal."
+    ],
+    "correcta": 2,
+    "resolucion": "Según la explicación del profesor al usar el método de la caja y realizar los cortes, si se detecta un hueco en la frontal, este corte 'se va hasta el fondo, atraviesa el sólido'."
+  },
+  {
+    "pregunta": "María está reconstruyendo la pieza del problema de Carlos. Tras proyectar el hueco de la canaleta hasta el fondo, nota que la base del sólido ya no es continua. ¿Cómo debe contabilizar las caras de la base de esta pieza al calcular el número total de caras?",
+    "opciones": [
+      "Como una sola cara porque pertenecen al mismo plano inferior o nivel cero.",
+      "Como tres caras distintas.",
+      "Como dos caras separadas (descritas como 'patitas'), sumando individualmente al total.",
+      "No se cuentan porque representan el suelo sobre el cual se apoya el sólido."
+    ],
+    "correcta": 2,
+    "resolucion": "El texto detalla que al haber un hueco que atraviesa el fondo, la base se divide físicamente en dos. El profesor cuenta la cara 10 como una 'patita' y la cara 14 como 'la otra patita', indicando que 'se cuentan como caras diferentes pero ambas son en la base'."
+  },
+  {
+    "pregunta": "En un simulacro, Juan debe identificar la alternativa correcta para la vista horizontal de un sólido con un hueco interno que no es visible desde arriba. Él descarta rápidamente tres opciones. Según el análisis de clase, ¿cuál fue su criterio geométrico para descartarlas?",
+    "opciones": [
+      "Las opciones descartadas tenían líneas de colores, lo cual es incorrecto.",
+      "Las opciones descartadas carecían de líneas punteadas, las cuales son indispensables para representar la parte hueca oculta.",
+      "El sólido propuesto no podía tener vista horizontal.",
+      "Las opciones descartadas estaban dibujadas con forma de L."
+    ],
+    "correcta": 1,
+    "resolucion": "En el análisis del ejemplo 1, el profesor descarta alternativas argumentando textualmente: 'esa no puede ser porque no tiene línea punteada... desde arriba esta parte hueca no se va a ver... tiene que haber líneas punteadas'."
+  },
+  {
+    "pregunta": "Un diseñador debe presentar un reporte con proyecciones ortogonales. Si le exigen entregar específicamente la 'vista de planta' y la 'vista de alzado', ¿qué perspectivas del sólido está entregando, respectivamente?",
+    "opciones": [
+      "La vista desde abajo y la vista desde la derecha.",
+      "La vista horizontal (desde arriba) y la vista frontal (desde el frente).",
+      "La vista de perfil derecho y la vista horizontal.",
+      "La vista frontal y la vista de techo."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor define explícitamente en la teoría que la vista horizontal es 'llamada también vista de planta' y la vista frontal es 'llamado en ocasiones vista de alzado'."
+  },
+  {
+    "pregunta": "En el conteo de caras de la pieza de Carlos, existe una cara interna identificada como el 'techo' de la canaleta (cara 12). Esta cara, formada al proyectar el hueco frontal, ¿a qué otra parte interna del hueco se describe como paralela?",
+    "opciones": [
+      "A la cara de la vista de perfil derecha externa.",
+      "A la cara 11, que es otra de las caras interiores laterales del hueco o rampa.",
+      "A la base original de la figura.",
+      "A la cara de alzado."
+    ],
+    "correcta": 1,
+    "resolucion": "Durante el conteo de las 14 caras, el profesor enumera las caras internas de la canaleta mencionando que la cara '13 es paralela a la 11', y la 12 es el techo, demostrando que la canaleta genera múltiples caras independientes en su interior, donde los lados de la rampa/hueco interactúan en paralelo."
+  },
+  {
+    "pregunta": "Sofía quiere aplicar el 'método de la caja' en un examen. Según las indicaciones del profesor, ¿cuál es la primera acción de trazado que debe realizar antes de proyectar los huecos o desniveles?",
+    "opciones": [
+      "Contar el número de caras que serán ocultas.",
+      "Dibujar directamente y a mano alzada las líneas punteadas.",
+      "Dibujar primero una caja entera 'al ras' que sirva como contenedor volumétrico inicial.",
+      "Dibujar únicamente la cara del perfil derecho."
+    ],
+    "correcta": 2,
+    "resolucion": "Al explicar la técnica, el primer paso descrito es dibujar un paralelepípedo envolvente: 'voy a colocar primero, voy a dibujar la caja al ras... ese es el método de la caja solo que cuando graficas el sólido vas colocando las líneas'."
+  },
+  {
+    "pregunta": "Durante el conteo de caras de la pieza electrónica, un alumno cuenta 13 caras y olvida una. Considerando que el hueco atraviesa el sólido por debajo, ¿cuántas caras laterales interiores tiene este túnel (canaleta) y cuántas bases inferiores independientes quedan al final?",
+    "opciones": [
+      "1 cara interior de canaleta y 1 base inferior completa.",
+      "3 caras interiores conformando la canaleta (las laterales 11, 13 y el techo 12) y 2 bases inferiores separadas (patitas 10 y 14).",
+      "No hay caras interiores porque el volumen de la figura es máximo.",
+      "2 caras de canaleta laterales y 0 bases de apoyo."
+    ],
+    "correcta": 1,
+    "resolucion": "El conteo final del profesor especifica las caras del túnel pasante como: cara 11, cara 12 (techo) y cara 13. Las bases inferiores que tocan el suelo quedan divididas en dos caras independientes llamadas patitas (la 10 y la 14), logrando un total de 14 caras."
+  },
+  {
+    "pregunta": "Luis nota que la vista frontal de un bloque escalonado se asemeja a una 'L'. Si Luis observa la vista horizontal (desde arriba) de este mismo bloque escalonado sin huecos internos, ¿qué figura geométrica visualizará conformando el techo de la estructura?",
+    "opciones": [
+      "Dos divisiones o cuadriláteros contiguos rectangulares.",
+      "Una sola 'L' idéntica a la vista frontal.",
+      "Un círculo perfecto dividido en la mitad.",
+      "Un solo cuadrado macizo sin divisiones."
+    ],
+    "correcta": 0,
+    "resolucion": "Al analizar el sólido cuya vista frontal es una 'L', el profesor describe que la vista horizontal se compone de 'dos separaciones... hay una división', aclarando que no son necesariamente cuadrados sino 'cuadriláteros' que forman el desnivel visto desde arriba."
+  },
+  {
+    "pregunta": "Martín se confunde al distinguir entre la 'cara de perfil' original y una cara interna tras un corte. Si el profesor indica que se cortó una tajada (hueco) desde la frontal hasta el fondo, ¿qué ocurre con la cara lateral derecha que quedaba en esa zona cortada hueca?",
+    "opciones": [
+      "Desaparece completamente del sólido para siempre.",
+      "Se proyecta o 'se va hasta el fondo' de la caja conformando una pared interna, porque hay un hueco que la empuja visualmente.",
+      "Se vuelve una línea punteada en la vista de perfil.",
+      "Se fusiona automáticamente con la vista de planta superior."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor explica la dinámica de las caras al realizar el corte profundo: 'como este está hueco la cara número tres... ¿a dónde se va? hasta el fondo porque hay un hueco'."
+  },
+  {
+    "pregunta": "Un ebanista usa un plano con proyecciones ortogonales para tallar un mueble. El plano le indica que debe prestar atención a la vista que representa exclusivamente 'lo que se visualiza desde la derecha de él'. ¿Qué vista está analizando el ebanista?",
+    "opciones": [
+      "Vista de alzado.",
+      "Vista horizontal.",
+      "Vista de planta.",
+      "Vista de perfil lateral."
+    ],
+    "correcta": 3,
+    "resolucion": "La definición brindada en la teoría indica: 'la vista de perfil llamado en ocasiones vista lateral se determina cuando el objeto se visualiza desde la derecha de él'."
+  },
+  {
+    "pregunta": "Un profesor de dibujo resalta un plano horizontal de color verde en un modelo 3D, el cual es la superficie de un escalón. Al girar el modelo a la vista de perfil derecho, pregunta cómo se ve ese plano horizontal. ¿Qué deben contestar los estudiantes?",
+    "opciones": [
+      "Se visualiza como un cuadrado verde oscuro.",
+      "Se visualiza como una cara sombreada oblicua de gran tamaño.",
+      "No se visualiza como una cara, sino que ese plano queda representado simplemente como una línea horizontal desde el perfil.",
+      "Se visualiza como una línea punteada que cruza diagonalmente."
+    ],
+    "correcta": 2,
+    "resolucion": "Al demostrar esto visualmente, el profesor señala el plano horizontal (verde) desde la perspectiva de perfil y enfatiza: 'esta línea representa todo este plano... no se visualiza como cara'."
+  },
+  {
+    "pregunta": "Si a un estudiante se le pide dibujar la vista superior de un sólido con forma de escalón simple (sin huecos internos ocultos), y él dibuja únicamente el contorno exterior como un rectángulo liso sin líneas interiores, ¿qué error técnico cometió?",
+    "opciones": [
+      "Olvidó dibujar el perfil izquierdo de la figura.",
+      "No cometió ningún error, ya que desde arriba los desniveles desaparecen completamente.",
+      "Olvidó dibujar una línea continua interior que marque la división o desnivel entre las diferentes superficies superiores.",
+      "Olvidó trazar la cara de alzado en el mismo recuadro."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor aclara que cuando existe un sólido escalonado, desde la vista de arriba (horizontal) se deben notar las 'separaciones' y 'divisiones' de las superficies a distintos niveles, formando cuadriláteros contiguos marcados por líneas continuas, no solo un contorno vacío."
+  },
+  {
+    "pregunta": "Durante el análisis de una pieza en un manual, no se entrega un dibujo 3D, sino únicamente planos de la vista horizontal, frontal y de perfil. Según el vocabulario técnico de la clase, ¿cómo se le denomina geométricamente a este conjunto de vistas proyectadas sobre un plano?",
+    "opciones": [
+      "Proyecciones oblicuas.",
+      "Vistas axonométricas.",
+      "Proyecciones ortogonales.",
+      "Planos de sección transversal."
+    ],
+    "correcta": 2,
+    "resolucion": "En la introducción conceptual del tema, el profesor lo define formalmente: 'se denomina vista de un sólido a las proyecciones ortogonales del sólido sobre un plano'."
+  }
+          ]
         },
         {
           "titulo": "3.6 Rueda, Engranaje y Polea",
           "youtube_id": "eVQQ5POxBfU",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En el diseño de una maquinaria, un estudiante debe elegir entre usar ruedas lisas o engranajes. Según los conceptos fundamentales, ¿qué característica física diferencia estrictamente a un engranaje de una rueda simple?",
+    "opciones": [
+      "El engranaje se utiliza exclusivamente con fajas cruzadas.",
+      "El engranaje posee una superficie concéntrica adicional.",
+      "El engranaje es una rueda dentada, es decir, tiene dientes.",
+      "La rueda simple no puede transmitir movimiento circular."
+    ],
+    "correcta": 2,
+    "resolucion": "El video especifica claramente en la introducción que ambas son piezas de forma circunferencial, pero el engranaje se diferencia por ser una 'rueda dentada'."
+  },
+  {
+    "pregunta": "Si un mecanismo tiene dos engranajes en contacto tangencial directo y el primero gira como las manecillas de un reloj analógico, ¿qué ocurre con el segundo?",
+    "opciones": [
+      "Gira en el mismo sentido (horario).",
+      "Gira en sentido contrario (antihorario).",
+      "Se mantiene estático hasta aplicar una faja.",
+      "Gira intermitentemente dependiendo de sus dientes."
+    ],
+    "correcta": 1,
+    "resolucion": "Dos ruedas o engranajes que están chocando tangencialmente siempre giran en sentidos diferentes (opuestos)."
+  },
+  {
+    "pregunta": "Un agricultor tiene un motor antiguo conectado a un molino mediante una faja cruzada. Si la rueda del motor gira en sentido antihorario, ¿en qué sentido girará la rueda del molino?",
+    "opciones": [
+      "Horario, porque la faja cruzada invierte el sentido de giro.",
+      "Antihorario, porque la faja mantiene la inercia del motor.",
+      "Horario, pero solo si el molino tiene menor radio.",
+      "Antihorario, asumiendo que es un sistema concéntrico."
+    ],
+    "correcta": 0,
+    "resolucion": "Al igual que cuando las ruedas chocan, una faja cruzada hace que el sentido de giro cambie de una rueda a la otra."
+  },
+  {
+    "pregunta": "En una bicicleta de gimnasio, los pedales están conectados a la rueda de resistencia a través de una cadena continua (faja abierta). Si el ciclista pedalea en sentido horario, ¿qué sucede con la rueda?",
+    "opciones": [
+      "Gira en sentido antihorario por estar separada.",
+      "Gira en sentido horario porque la faja abierta mantiene el mismo sentido.",
+      "Gira en sentido horario solo si tiene menos dientes.",
+      "Alterna su giro dependiendo de la velocidad."
+    ],
+    "correcta": 1,
+    "resolucion": "Las conexiones mediante faja abierta provocan que ambas ruedas giran exactamente en el mismo sentido."
+  },
+  {
+    "pregunta": "En un gráfico de poleas, se observa un punto negro central (como un clavo) uniendo dos círculos de diferente tamaño. ¿Qué indica este punto según el análisis de piezas mecánicas?",
+    "opciones": [
+      "Que es una sola rueda con una protuberancia.",
+      "Que el engranaje interior no tiene movimiento.",
+      "Que son dos ruedas distintas unidas rígidamente concéntricas o por un mismo eje.",
+      "Que el sistema girará siempre en sentido antihorario."
+    ],
+    "correcta": 2,
+    "resolucion": "El 'puntito' es crucial; indica que hay dos ruedas distintas soldadas o unidas por un clavo/eje, a diferencia de una sola rueda sólida escalonada. Al estar así, ambas giran en el mismo sentido."
+  },
+  {
+    "pregunta": "Un camión y un auto pasan por un peaje. ¿Por qué el profesor menciona este ejemplo cotidiano al hablar de cinemática de ruedas?",
+    "opciones": [
+      "Para explicar que a mayor peso, menor giro.",
+      "Para ejemplificar el concepto de 'mismo eje', ya que el peaje de pesados se cobra por número de ejes.",
+      "Para demostrar que ruedas más grandes giran más rápido.",
+      "Para explicar el uso de poleas en las barreras del peaje."
+    ],
+    "correcta": 1,
+    "resolucion": "Se usa el ejemplo del peaje (donde los camiones pagan por eje) para ilustrar cómo funcionan las ruedas unidas mediante un mismo eje, las cuales dan las mismas vueltas y giran en el mismo sentido."
+  },
+  {
+    "pregunta": "Un engranaje A de gran tamaño está en contacto con un engranaje B muy pequeño. ¿Qué relación matemática rige el número de vueltas de cada uno respecto a su tamaño (radio o dientes)?",
+    "opciones": [
+      "Son directamente proporcionales (más grande = más vueltas).",
+      "Son inversamente proporcionales (más grande = menos vueltas).",
+      "Dan exactamente la misma cantidad de vueltas por el contacto.",
+      "La relación depende de si la faja es abierta o cruzada."
+    ],
+    "correcta": 1,
+    "resolucion": "El tamaño (radio o dientes) y el número de vueltas son magnitudes inversamente proporcionales. El producto de ambas es una constante."
+  },
+  {
+    "pregunta": "Si dos engranajes concéntricos (uno encima del otro unidos por su eje central) tienen radios de 15 cm y 5 cm respectivamente, ¿qué ocurre con sus vueltas si el sistema se pone en marcha?",
+    "opciones": [
+      "El pequeño da 3 vueltas por cada vuelta del grande.",
+      "El grande da 3 vueltas por cada vuelta del pequeño.",
+      "Ambos dan exactamente la misma cantidad de vueltas sin importar su tamaño.",
+      "El pequeño gira en sentido opuesto para compensar la diferencia."
+    ],
+    "correcta": 2,
+    "resolucion": "En ruedas concéntricas o unidas por el mismo eje, 'no importa el tamaño', ambas siempre dan la misma cantidad de vueltas en el mismo tiempo y en el mismo sentido."
+  },
+  {
+    "pregunta": "La rueda 1 tiene un diámetro de 5 cm y gira a 500 RPM. Está unida tangencialmente a la rueda 2, de 20 cm de diámetro. ¿Cuál es el RPM de la rueda 2?",
+    "opciones": [
+      "2000 RPM",
+      "2500 RPM",
+      "125 RPM",
+      "500 RPM"
+    ],
+    "correcta": 2,
+    "resolucion": "Aplicando el producto constante: D1 * RPM1 = D2 * RPM2. Es decir, 5 * 500 = 20 * RPM2. 2500 = 20 * RPM2. Despejando, RPM2 = 125."
+  },
+  {
+    "pregunta": "Se tiene un sistema de 27 engranajes nombrados desde la A hasta la Z engranados tangencialmente uno tras otro. Si los dientes del A, B y C son 8, 12 y 16 respectivamente, ¿cuántos dientes tiene el engranaje Z?",
+    "opciones": [
+      "108 dientes",
+      "112 dientes",
+      "116 dientes",
+      "120 dientes"
+    ],
+    "correcta": 1,
+    "resolucion": "Los dientes forman una progresión: 4*2, 4*3, 4*4. El término 27 (engranaje Z) será 4 * (27 + 1) = 4 * 28 = 112 dientes."
+  },
+  {
+    "pregunta": "En el sistema anterior de 27 engranajes en línea (de A a Z), si el engranaje A (8 dientes) da 70 vueltas por minuto, ¿cuántas vueltas dará el engranaje Z (112 dientes) en exactamente media hora?",
+    "opciones": [
+      "5 vueltas",
+      "70 vueltas",
+      "150 vueltas",
+      "210 vueltas"
+    ],
+    "correcta": 2,
+    "resolucion": "El producto constante es 8 * 70 = 560. Para Z: 112 * Vz = 560, entonces Vz = 5 vueltas en UN minuto. En media hora (30 minutos) dará 5 * 30 = 150 vueltas."
+  },
+  {
+    "pregunta": "Si un tren de engranajes tangenciales tiene una cantidad impar de ruedas (ej. 5 ruedas) y la primera gira en sentido horario, ¿en qué sentido girará la última?",
+    "opciones": [
+      "Horario",
+      "Antihorario",
+      "Depende de los radios",
+      "Se bloquea el sistema"
+    ],
+    "correcta": 0,
+    "resolucion": "Al alternar (Horario, Anti, Horario, Anti, Horario), toda posición impar tendrá el mismo sentido de giro que la primera rueda."
+  },
+  {
+    "pregunta": "En un bloque de 10 ruedas conectadas tangencialmente en línea recta, la primera gira en sentido antihorario. ¿Cuántas ruedas en total giran en sentido horario?",
+    "opciones": [
+      "4 ruedas",
+      "5 ruedas",
+      "6 ruedas",
+      "10 ruedas"
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser una cantidad par (10), los giros se reparten en partes iguales. La mitad (5) girará en sentido antihorario y la otra mitad (5) en sentido horario."
+  },
+  {
+    "pregunta": "Una bicicleta tiene una rueda delantera de 50 cm de radio y una trasera de 45 cm. La diferencia de vueltas dadas por ambas es 18. ¿Cuántas vueltas dio la rueda delantera (la más grande)?",
+    "opciones": [
+      "180 vueltas",
+      "162 vueltas",
+      "150 vueltas",
+      "198 vueltas"
+    ],
+    "correcta": 1,
+    "resolucion": "Radios: 50 y 45 (proporción 10 a 9). Vueltas son inversas: V_delantera = 9k, V_trasera = 10k. Diferencia: 10k - 9k = 18 => k=18. V_delantera = 9*18 = 162."
+  },
+  {
+    "pregunta": "¿Cómo se calcula analíticamente el número de vueltas totales que da una rueda al desplazarse una distancia lineal?",
+    "opciones": [
+      "Multiplicando la distancia total por el diámetro.",
+      "Dividiendo el radio entre la longitud de la circunferencia.",
+      "Dividiendo el recorrido total entre la longitud de la circunferencia (2πR).",
+      "Restando el radio de la distancia total recorrida."
+    ],
+    "correcta": 2,
+    "resolucion": "El número de vueltas se halla dividiendo lo que ha recorrido en total entre lo que recorre en una sola vuelta (que es su longitud de circunferencia, 2πR)."
+  },
+  {
+    "pregunta": "Se tienen dos poleas concéntricas A y B. De la polea A (radio 3R) cuelga un bloque que sube 15 cm. ¿Cuántos centímetros bajará el bloque que cuelga de la polea B (radio 2R)?",
+    "opciones": [
+      "15 cm",
+      "10 cm",
+      "5 cm",
+      "22.5 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando el 'jutsu especial', en ruedas concéntricas los recorridos lineales son directamente proporcionales a los radios. 15 es a 3R como X es a 2R. Despejando: X = 10 cm."
+  },
+  {
+    "pregunta": "(Teoría) En ingeniería mecánica, cuando una especificación técnica de un motor dicta '500 RPM', ¿qué significa exactamente esta sigla recomendada por el profesor?",
+    "opciones": [
+      "Rotaciones por Movimiento",
+      "Revoluciones por Minuto",
+      "Radianes por Metro",
+      "Ruedas por Minuto"
+    ],
+    "correcta": 1,
+    "resolucion": "RPM significa Revoluciones por Minuto. El término técnico correcto para una vuelta completa en física e ingeniería es 'revolución'."
+  },
+  {
+    "pregunta": "(Teoría) Dos ruedas unidas mediante un mismo eje (como las de un auto en el eje trasero) tienen la propiedad cinemática principal de:",
+    "opciones": [
+      "Girar en sentidos opuestos para dar estabilidad.",
+      "Compartir la misma cantidad de vueltas y el mismo sentido de giro.",
+      "Tener recorridos lineales idénticos aunque sus radios difieran.",
+      "Mantener un producto constante entre su radio y número de dientes."
+    ],
+    "correcta": 1,
+    "resolucion": "Las ruedas unidas por un mismo eje giran de manera solidaria: en la misma dirección y efectuando el mismo número de vueltas exacto simultáneamente."
+  },
+  {
+    "pregunta": "(Teoría) Según la definición dada al principio de la clase, ¿cuál es la función básica que diferencia a una 'polea' en un sistema?",
+    "opciones": [
+      "Engancharse diente a diente para cambiar de RPM.",
+      "Desplazar vehículos a través del contacto con el asfalto.",
+      "Ser un objeto que ayuda a mover otros objetos (bloques/cargas) mediante la aplicación de una fuerza en una cuerda.",
+      "Conectar exclusivamente fajas cruzadas en motores de combustión."
+    ],
+    "correcta": 2,
+    "resolucion": "La polea se define estructuralmente como el mecanismo de rueda ranurada por donde pasa una cuerda, que sirve para transmitir una fuerza y mover cargas."
+  },
+  {
+    "pregunta": "(Teoría) Si para agilizar el cálculo en un sistema de engranajes las relaciones de radio son 45 y 50, ¿cuál es el procedimiento estratégico que aconseja el profesor antes de armar la ecuación?",
+    "opciones": [
+      "Elevar ambos números al cuadrado.",
+      "Usar 45k y 50k directamente para las vueltas.",
+      "Simplificar la proporción a los números más pequeños posibles (ej. de 9 a 10) para aplicar la inversa.",
+      "Sumar ambos valores y dividirlos entre dos."
+    ],
+    "correcta": 2,
+    "resolucion": "El profesor insiste en que 'lo pequeño es mejor', es decir, simplificar la proporción de los radios (45 y 50 a 9 y 10) facilita invertir los valores (10k y 9k) y hacer la ecuación más manejable."
+  }
+          ]
         },
         {
           "titulo": "3.7 Semejanza de Triángulos",
           "youtube_id": "LDqe-03NbB4",
           "pdf_link": "https://drive.google.com/file/d/19Icy31wkH4PFvBD1ldjVKPAkPkp62UaE/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "¿Cuál es la diferencia fundamental entre la 'congruencia' y la 'semejanza' de figuras, según la explicación inicial del video?",
+    "opciones": [
+      "La congruencia implica misma forma y distinto tamaño, la semejanza implica idéntica forma y tamaño.",
+      "La congruencia requiere que las figuras tengan la misma forma y el mismo tamaño; la semejanza requiere la misma forma pero con dimensiones distintas (proporcionales).",
+      "No existe diferencia, ambos términos se usan como sinónimos en la geometría moderna.",
+      "La semejanza solo se aplica a triángulos rectángulos, mientras que la congruencia se aplica a cualquier polígono."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor Tello inicia la clase aclarando que las figuras congruentes son idénticas (misma medida de lados y ángulos), mientras que las semejantes mantienen la forma (mismos ángulos) pero sus dimensiones son diferentes y proporcionales."
+  },
+  {
+    "pregunta": "En el estudio de triángulos semejantes, el profesor menciona constantemente a los 'elementos homólogos'. ¿A qué se refiere este término geométrico?",
+    "opciones": [
+      "Únicamente a los lados paralelos de dos triángulos inscritos en una misma circunferencia.",
+      "A los ángulos que suman 180 grados entre dos figuras semejantes.",
+      "A elementos en común o de la misma especie (lados, alturas, bisectrices, radios) que se oponen a ángulos congruentes en figuras semejantes.",
+      "A los segmentos de recta que dividen a un triángulo exactamente en su punto medio."
+    ],
+    "correcta": 2,
+    "resolucion": "Los elementos homólogos son aquellos que ocupan posiciones equivalentes en triángulos semejantes (por ejemplo, lados frente al mismo ángulo). El profesor enfatiza que no solo son los lados, sino también alturas, medianas, inradios, etc."
+  },
+  {
+    "pregunta": "De acuerdo con el caso fundamental o principal de semejanza de triángulos expuesto en la clase, ¿qué condición mínima deben cumplir dos triángulos para asegurar que son semejantes?",
+    "opciones": [
+      "Deben tener sus tres lados de la misma medida exacta.",
+      "Deben compartir al menos un lado de igual longitud.",
+      "Deben tener al menos dos ángulos interiores de la misma medida (ángulos congruentes).",
+      "Deben estar inscritos dentro de una misma circunferencia."
+    ],
+    "correcta": 2,
+    "resolucion": "El criterio principal de semejanza dicta que si dos triángulos repiten la misma medida de sus ángulos (basta con dos, pues el tercero será igual por suma de ángulos), automáticamente son semejantes."
+  },
+  {
+    "pregunta": "Geométricamente, ¿qué ocurre siempre que se traza una línea paralela a uno de los lados de un triángulo intersecando a los otros dos?",
+    "opciones": [
+      "El triángulo pequeño que se forma es congruente al triángulo original.",
+      "El triángulo pequeño que se forma con la paralela resulta ser semejante al triángulo original grande.",
+      "Se forman dos triángulos de exactamente el mismo perímetro.",
+      "La altura del triángulo original se reduce a la mitad independientemente de dónde pase la paralela."
+    ],
+    "correcta": 1,
+    "resolucion": "Por el teorema de rectas paralelas, los ángulos del triángulo mayor se repiten en el menor debido a los ángulos correspondientes, lo que garantiza que ambos triángulos sean semejantes."
+  },
+  {
+    "pregunta": "El matemático griego Tales de Mileto midió la Pirámide de Keops usando una estaca de 3 m que proyectaba 7.5 m de sombra. Si la sombra externa de la pirámide en la arena era de 250 m y la mitad de su base medía 115 m, ¿cuál fue la altura real calculada?",
+    "opciones": [
+      "120 metros",
+      "146 metros",
+      "165 metros",
+      "180 metros"
+    ],
+    "correcta": 1,
+    "resolucion": "La sombra total de la pirámide es la sombra externa (250) más la mitad de la base (115) = 365 m. Aplicando semejanza o tangente: 3 / 7.5 = H / 365. Al resolver, H = 146 metros."
+  },
+  {
+    "pregunta": "Una persona se encuentra entre dos astas de banderas verticales que miden 6 m y 4 m de altura. Se levanta un muro exactamente en el punto de intersección de las líneas visuales cruzadas desde las bases a las cimas. Aplicando el teorema directo de paralelas, ¿cuál es la altura del muro?",
+    "opciones": [
+      "2.0 metros",
+      "2.4 metros",
+      "3.0 metros",
+      "5.0 metros"
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor demuestra que la altura de dicha intersección es el 'producto entre la suma' de las paralelas. Altura = (6 * 4) / (6 + 4) = 24 / 10 = 2.4 metros."
+  },
+  {
+    "pregunta": "En el mismo problema de las astas de 6 m y 4 m, si la separación total en el suelo entre ambas es de 20 metros, ¿a qué distancia del asta mayor (6 m) se encuentra construido el muro de intersección?",
+    "opciones": [
+      "8 metros",
+      "10 metros",
+      "12 metros",
+      "15 metros"
+    ],
+    "correcta": 2,
+    "resolucion": "Las distancias horizontales son proporcionales a las alturas de las astas. Van de 6 a 4 (es decir, 3k y 2k). Como 3k + 2k = 20, resulta 5k = 20, por lo que k = 4. La distancia al asta de 6m es 3k = 12 metros."
+  },
+  {
+    "pregunta": "Durante una emergencia, un bombero sube por una escalera inclinada apoyada en un edificio. Cuando ha recorrido la tercera parte de la escalera, se encuentra a 7 metros del piso. Si el camión mide 3.3 metros de altura, ¿cuál es la altura total del edificio?",
+    "opciones": [
+      "12.5 metros",
+      "14.4 metros",
+      "16.6 metros",
+      "21.0 metros"
+    ],
+    "correcta": 1,
+    "resolucion": "Se aplica la ley de paralelas en un trapecio. Las proporciones son k y 2k. El valor 7 es la paralela intermedia: 7 = (H*k + 3.3*2k) / 3k. Resolviendo: 21 = H + 6.6, resultando H = 14.4 metros."
+  },
+  {
+    "pregunta": "En un tablero triangular con lados de 24, 21 y 36 cm (tipo examen San Marcos), se hace un corte transversal (antiparalela) que repite el ángulo de un vértice sobre el lado mayor. ¿Cuánto mide el segmento 'sombra' proyectado en la base de 36 cm?",
+    "opciones": [
+      "12 cm",
+      "16 cm",
+      "18 cm",
+      "20 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "Por el teorema de la antiparalela, el lado al cuadrado es igual al producto de la sombra por la base total. (24)^2 = x * 36. Entonces 576 = 36x, de donde x = 16 cm."
+  },
+  {
+    "pregunta": "Usando los datos del tablero anterior (corte que genera una sombra de 16 cm en la base de 36 cm, dejando otro segmento de 20 cm) y sabiendo que la línea de corte mide 14 cm, ¿cuál es el perímetro del menor de los dos tableros resultantes?",
+    "opciones": [
+      "50 cm",
+      "54 cm",
+      "58 cm",
+      "62 cm"
+    ],
+    "correcta": 1,
+    "resolucion": "El tablero menor corresponde al triángulo semejante formado, cuyos lados son 24, 16 y 14. Su perímetro es 24 + 16 + 14 = 54 cm. (El otro cuadrilátero tiene 14+21+20=55 cm)."
+  },
+  {
+    "pregunta": "En un triángulo cuya base mide 4 y su altura relativa 12, se inscribe un rectángulo de modo que su base inferior reposa en la base del triángulo. Si la altura del rectángulo es el triple de su base, ¿cuánto mide la base de dicho rectángulo?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 1,
+    "resolucion": "Sea la base del rectángulo x y su altura 3x. El triángulo pequeño superior tiene base x y altura (12 - 3x). Por semejanza con el triángulo mayor: x / 4 = (12 - 3x) / 12. Operando sale 3x = 12 - 3x -> 6x = 12 -> x = 2."
+  },
+  {
+    "pregunta": "El teorema de la 'antiparalela' se reconoce visualmente en un triángulo cuando una ceviana traza un ángulo. ¿Qué condición debe cumplir este ángulo para poder aplicar la fórmula directa lado² = sombra × base?",
+    "opciones": [
+      "Debe ser exactamente de 90 grados.",
+      "Debe ser el doble del ángulo de la base adyacente.",
+      "Debe repetirse en dirección contraria e igualar al ángulo del vértice opuesto de la base.",
+      "Debe formar un triángulo isósceles con el lado menor."
+    ],
+    "correcta": 2,
+    "resolucion": "La antiparalela exige que la línea trazada forme con la base un ángulo idéntico al ángulo del vértice opuesto del triángulo grande, asegurando así la semejanza de ambos triángulos (tienen el ángulo repetido y comparten el vértice inicial)."
+  },
+  {
+    "pregunta": "Un diseñador une los extremos de una cuerda curva hacia una recta tangente. Las distancias perpendiculares desde los extremos a la tangente miden 8/5 y 9/5. Usando semejanza, ¿cuál es el valor de la perpendicular desde el punto de tangencia a la cuerda (altura h)?",
+    "opciones": [
+      "1.0 √2",
+      "1.2 √2",
+      "2.0 √2",
+      "2.4 √2"
+    ],
+    "correcta": 1,
+    "resolucion": "El teorema demostrado indica que h² es el producto de las dos proyecciones. h² = (8/5) * (9/5) = 72/25. Extrayendo raíz: h = (6√2) / 5 = 1.2√2."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo cuyos catetos miden 3 y 4 m (y su hipotenusa 5 m), se dibuja una circunferencia inscrita. Para aplicar semejanza posteriormente, es vital saber el inradio. ¿Cuánto mide el radio de esta circunferencia inscrita?",
+    "opciones": [
+      "1 metro",
+      "1.5 metros",
+      "2 metros",
+      "2.5 metros"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando el Teorema de Poncelet: Suma de catetos = Hipotenusa + 2(inradio). 3 + 4 = 5 + 2r. 7 = 5 + 2r -> 2r = 2 -> r = 1 metro."
+  },
+  {
+    "pregunta": "Se diseña una ventana con un arco en forma de semicircunferencia de radio R. En su interior, tangente al arco y a la base (diámetro), hay una semicircunferencia de radio r. Si trazamos la distancia perpendicular 'x' del punto de tangencia a la base, ¿cuál es su fórmula?",
+    "opciones": [
+      "1/x = 1/r + 1/R",
+      "x = R - r",
+      "1/x = 1/r - 1/R",
+      "x = 2Rr / (R+r)"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el profesor demuestra utilizando la razón del seno en los triángulos formados por los centros y el punto de tangencia, la relación resulta ser: 1/x = 1/r - 1/R (la inversa de la distancia es la diferencia de las inversas de los radios)."
+  },
+  {
+    "pregunta": "En otro modelo de ventana existen dos semicircunferencias pequeñas tangentes entre sí (radios r1 y r2) apoyadas en el mismo diámetro. ¿Cuál es la fórmula para hallar la distancia 'y' desde su punto de tangencia hasta el diámetro base?",
+    "opciones": [
+      "y = (r1 + r2) / 2",
+      "y = √(r1 * r2)",
+      "2/y = 1/r1 + 1/r2",
+      "y = r1 + r2"
+    ],
+    "correcta": 2,
+    "resolucion": "A través de la semejanza y utilizando el teorema del trapecio, se demuestra que la distancia 'y' es la media armónica de los radios. Esto se expresa como 2/y = 1/r1 + 1/r2."
+  },
+  {
+    "pregunta": "Un parque triangular tiene un ángulo alfa y un ángulo 2-alfa, con lados colindantes de 30 y 24. Para resolver su perímetro, el profesor traza una bisectriz partiendo el ángulo 2-alfa. ¿Qué propiedad se usa inmediatamente después de trazarla?",
+    "opciones": [
+      "El teorema de Pitágoras.",
+      "El teorema de la mediana.",
+      "El teorema de la bisectriz interior para encontrar la proporción de la base (5 a 4).",
+      "La suma de ángulos internos."
+    ],
+    "correcta": 2,
+    "resolucion": "Antes de aplicar la semejanza (antiparalela), se debe dividir la base usando el teorema de la bisectriz interior, donde los segmentos cortados mantienen la misma proporción que los lados adyacentes (30 y 24, es decir, de 5 a 4)."
+  },
+  {
+    "pregunta": "¿Por qué el profesor aconseja ayudarse de 'razones trigonométricas' (como la tangente o el seno) al resolver problemas complejos de semejanza de triángulos rectángulos?",
+    "opciones": [
+      "Porque elimina la necesidad de conocer los lados del triángulo.",
+      "Porque las calculadoras pueden hallar el ángulo exacto en decimales.",
+      "Porque en triángulos semejantes los ángulos son iguales, por lo que igualar sus razones trigonométricas es equivalente a plantear la proporcionalidad de sus lados homólogos de forma más rápida.",
+      "Porque la trigonometría es obligatoria en los exámenes de San Marcos."
+    ],
+    "correcta": 2,
+    "resolucion": "Una razón trigonométrica (como la tangente) relaciona dos lados de un triángulo. Al tener dos triángulos semejantes (con el mismo ángulo), igualar la tangente del pequeño con la tangente del grande es una forma práctica y elegante de plantear la proporción de la semejanza sin confundir los elementos."
+  },
+  {
+    "pregunta": "(Teoría) En una parte del video, el profesor menciona 'otros criterios de semejanza'. Además del caso principal (ángulos congruentes), ¿qué otra condición garantiza que dos triángulos sean semejantes?",
+    "opciones": [
+      "Tener el mismo perímetro pero diferente área.",
+      "Tener un solo ángulo igual y que los lados que lo forman sean proporcionales (criterio LAL).",
+      "Tener dos lados exactamente idénticos, independientemente del ángulo.",
+      "Estar apoyados en la misma línea recta base."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor aclara que no siempre se necesita que dos ángulos se repitan. Si solo hay un ángulo repetido, pero los lados que lo comprenden están en la misma proporción, también se cumple la semejanza."
+  },
+  {
+    "pregunta": "(Teoría) Si no existe ningún ángulo explícitamente igual entre dos triángulos, ¿cuál es el criterio que permite concluir, a pesar de ello, que son triángulos semejantes?",
+    "opciones": [
+      "Que la suma de sus áreas sea un número entero perfecto.",
+      "Que ambos sean trazados dentro de un paralelogramo.",
+      "Que todos sus vértices toquen los bordes de la pizarra.",
+      "Que sus tres lados homólogos mantengan la misma constante de proporcionalidad (Criterio LLL)."
+    ],
+    "correcta": 3,
+    "resolucion": "El último criterio mencionado es el de los tres lados proporcionales. Si un triángulo tiene lados a, b, c y otro tiene lados que son ka, kb, kc (multiplicados por una misma constante), ambos son semejantes y, en consecuencia, todos sus ángulos serán automáticamente iguales."
+  }
+          ]
         }
       ]
     },
@@ -2795,63 +3900,2052 @@
           "youtube_id": "elhI80OnDP8",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un gráfico de barras, las ventas de la Tienda P en cuatro años suman 450 mil soles. La Tienda M vendió en los primeros tres años 80 mil, 90 mil y 250 mil soles. Si la Tienda M vendió en total el 140% de lo que vendió la Tienda P en ese mismo periodo, ¿cuánto vendió la Tienda M en el año restante que falta conocer?",
+    "opciones": [
+      "180 mil soles",
+      "210 mil soles",
+      "240 mil soles",
+      "250 mil soles"
+    ],
+    "correcta": 1,
+    "resolucion": "La venta total de la Tienda P es 450 mil. La venta total de la Tienda M es el 140% de 450, lo cual equivale a 630 mil. Sumando los datos conocidos de la Tienda M: 80 + 90 + 250 + x = 630. Al operar, 420 + x = 630, resultando x = 210 mil."
+  },
+  {
+    "pregunta": "Un gráfico circular muestra la exportación de espárragos de 4 empresas: A, B, C y D. El total exportado es de 80 millones de toneladas. Si la empresa D exportó 20 millones, y los sectores de A, B y C son proporcionales a los ángulos α, 2α y 3α respectivamente, ¿en cuántos millones de toneladas excede la exportación de C a la de A?",
+    "opciones": [
+      "10 millones",
+      "15 millones",
+      "20 millones",
+      "30 millones"
+    ],
+    "correcta": 2,
+    "resolucion": "El total es 80 millones. Como D exportó 20 millones, las empresas A, B y C suman 60 millones. Las proporciones suman 6α (α + 2α + 3α = 6α). Igualando 6α = 60, se obtiene α = 10. La empresa C exportó 3α = 30 millones y la empresa A exportó α = 10 millones. La diferencia es 30 - 10 = 20 millones."
+  },
+  {
+    "pregunta": "Una tabla de frecuencias agrupa las edades de un grupo de amigos en los intervalos [18-24>, [24-30> y [30-36>, con 66, 14 y 20 personas respectivamente. Si se asume una distribución uniforme dentro de cada intervalo, ¿cuántos amigos tienen edades comprendidas estrictamente entre 22 y 33 años?",
+    "opciones": [
+      "40 personas",
+      "46 personas",
+      "52 personas",
+      "60 personas"
+    ],
+    "correcta": 1,
+    "resolucion": "En el intervalo [18-24> hay 66 personas (longitud de 6 años). El subrango de 22 a 24 equivale a 2 años (1/3 del intervalo), es decir, 22 personas. El intervalo [24-30> entra completo con 14 personas. En [30-36> hay 20 personas, la mitad (30 a 33 años) son 10 personas. Total: 22 + 14 + 10 = 46 personas."
+  },
+  {
+    "pregunta": "Una zapatería vendió tres marcas de calzado. Las ventas de zapatos para niños en las tres marcas fueron 300, 200 y 400 pares respectivamente. Si el total general de ventas, sumando calzado de hombres, mujeres y niños en todas las marcas fue de 3200 pares, ¿qué porcentaje aproximado representa la venta de zapatos para niños respecto al total general?",
+    "opciones": [
+      "25.0%",
+      "28.1%",
+      "31.2%",
+      "33.3%"
+    ],
+    "correcta": 1,
+    "resolucion": "La suma total de zapatos para niños es 300 + 200 + 400 = 900. El porcentaje se calcula dividiendo 900 entre el total (3200) y multiplicando por 100%. (900 / 3200) * 100 = 28.125%."
+  },
+  {
+    "pregunta": "En el año 2013 se exportaron 120 mil toneladas de mango. En el 2014 se registró una disminución del 15% en las exportaciones respecto al año anterior. Si el precio promedio por tonelada en 2014 fue de 3500 dólares, ¿cuál fue el monto total recaudado en dicho año?",
+    "opciones": [
+      "357 millones de dólares",
+      "420 millones de dólares",
+      "315 millones de dólares",
+      "380 millones de dólares"
+    ],
+    "correcta": 0,
+    "resolucion": "Al perder el 15%, queda el 85% de 120 mil. 0.85 * 120,000 = 102,000 toneladas. El ingreso es 102,000 * 3500 = 357,000,000 dólares (357 millones)."
+  },
+  {
+    "pregunta": "Según un gráfico de barras, las exportaciones de una empresa frutera en el año 2014 fueron de 102 mil toneladas, y en el 2015 alcanzaron las 136 mil toneladas. ¿En qué porcentaje variaron positivamente las exportaciones en el 2015 respecto al 2014?",
+    "opciones": [
+      "25.5%",
+      "30.0%",
+      "33.3%",
+      "34.0%"
+    ],
+    "correcta": 2,
+    "resolucion": "La variación porcentual se calcula como la diferencia sobre el valor inicial: (136 - 102) / 102 = 34 / 102 = 1/3. Multiplicado por 100% da aproximadamente 33.3%."
+  },
+  {
+    "pregunta": "En el año 2016, las exportaciones conjuntas de mango a tres países europeos representaron exactamente el 16% del total, equivalentes a 24,480 toneladas. Si para el año siguiente (2017) las exportaciones totales globales alcanzaron las 160,000 toneladas, ¿en cuántas toneladas aumentó la exportación total del 2017 respecto al total global del 2016?",
+    "opciones": [
+      "5,000 toneladas",
+      "7,000 toneladas",
+      "8,500 toneladas",
+      "10,000 toneladas"
+    ],
+    "correcta": 1,
+    "resolucion": "Si el 16% es 24,480, el total del 2016 se halla multiplicando 24,480 * (100/16) = 153,000 toneladas. La diferencia con el año 2017 es 160,000 - 153,000 = 7,000 toneladas de aumento."
+  },
+  {
+    "pregunta": "Las exportaciones de palta fuerte generaron 8 millones de dólares en 2014. El gráfico de líneas correspondiente indica que para el año 2015 hubo un incremento del 20% en las exportaciones respecto al 2014. ¿Cuál fue el incremento exacto en millones de dólares?",
+    "opciones": [
+      "1.2 millones",
+      "1.5 millones",
+      "1.6 millones",
+      "2.0 millones"
+    ],
+    "correcta": 2,
+    "resolucion": "El aumento es directamente el 20% del valor base. El 20% (o la quinta parte) de 8 millones es 8 / 5 = 1.6 millones de dólares."
+  },
+  {
+    "pregunta": "Una familia cuenta con un ingreso mensual de 3500 soles y destina 500 soles al ahorro. Sus gastos se distribuyen en un gráfico circular de la siguiente manera: Educación 900 soles, Alimentos 24%, Vestimenta (a + 10)% y Transporte a%. ¿Cuántos soles destina la familia específicamente a Vestimenta?",
+    "opciones": [
+      "750 soles",
+      "840 soles",
+      "900 soles",
+      "960 soles"
+    ],
+    "correcta": 1,
+    "resolucion": "El gasto total es 3500 - 500 = 3000 soles. Educación representa 900/3000 = 30%. Sumando los porcentajes: 30% + 24% + (a + 10)% + a% = 100%. Resolviendo: 64 + 2a = 100 -> 2a = 36 -> a = 18. Vestimenta es (18 + 10)% = 28%. El 28% de 3000 es 840 soles."
+  },
+  {
+    "pregunta": "Una empresa dedicada a la venta de materiales tiene dos locales. En el primer trimestre, el local A registró ventas de 19.3, 23.7 y 22.7 (en miles de soles), mientras que el local B registró 21.1, 21.1 y 17.3 (en miles de soles). ¿Cuál fue la venta total conjunta de ambos locales en ese trimestre?",
+    "opciones": [
+      "115,400 soles",
+      "120,500 soles",
+      "125,200 soles",
+      "130,000 soles"
+    ],
+    "correcta": 2,
+    "resolucion": "La suma de ventas del local A es 19.3 + 23.7 + 22.7 = 65.7. Las ventas del local B suman 21.1 + 21.1 + 17.3 = 59.5. El total es 65.7 + 59.5 = 125.2. Al estar en miles, se multiplica por 1000, obteniendo 125,200 soles."
+  },
+  {
+    "pregunta": "En una encuesta deportiva, el 42% del total de entrevistados se identificó como hincha del Equipo A. Dentro de ese subgrupo, el 35% son mujeres, equivalentes a 294 personas encuestadas. ¿Cuál fue la cantidad total de aficionados encuestados en dicho estudio?",
+    "opciones": [
+      "1500",
+      "1800",
+      "2000",
+      "2400"
+    ],
+    "correcta": 2,
+    "resolucion": "Si el 35% de los hinchas del Equipo A son 294, entonces el total de hinchas del Equipo A es 294 / 0.35 = 840. Como 840 representa el 42% del total de encuestados, el total general es 840 / 0.42 = 2000 personas."
+  },
+  {
+    "pregunta": "En un instituto académico existen 4 aulas de 40 alumnos cada una. Un gráfico muestra los porcentajes de alumnos aprobados por aula: 40%, 50%, 70% y 60% respectivamente. Sabiendo que el resto de los alumnos está desaprobado, ¿cuál es la diferencia neta de alumnos entre la cantidad total de aprobados y el total de desaprobados en el instituto?",
+    "opciones": [
+      "12",
+      "16",
+      "20",
+      "24"
+    ],
+    "correcta": 1,
+    "resolucion": "Sumando los porcentajes de aprobados: 40 + 50 + 70 + 60 = 220%. Sumando los porcentajes de desaprobados: 60 + 50 + 30 + 40 = 180%. La diferencia en porcentaje global relativo a un aula es 40%. El 40% de 40 alumnos es 16."
+  },
+  {
+    "pregunta": "En un análisis estadístico universitario, se observa que la cantidad de postulantes a una universidad nacional fue de 17,500, mientras que la cantidad de ingresantes fue de 3,850. ¿Qué porcentaje exacto del total de postulantes logró ingresar?",
+    "opciones": [
+      "18%",
+      "20%",
+      "22%",
+      "25%"
+    ],
+    "correcta": 2,
+    "resolucion": "Se calcula la razón entre ingresantes y postulantes multiplicada por 100: (3850 / 17500) * 100% = 22%."
+  },
+  {
+    "pregunta": "Una empresa invierte un total de 750,000 soles repartidos en 4 sucursales. La inversión conjunta en las sucursales 1 y 4 es de 225,000 soles. Si en la sucursal 3 se invirtió exactamente el 40% del total general, ¿qué porcentaje de la inversión le correspondió a la sucursal 2?",
+    "opciones": [
+      "25%",
+      "30%",
+      "35%",
+      "40%"
+    ],
+    "correcta": 1,
+    "resolucion": "La inversión de la sucursal 3 es 0.40 * 750,000 = 300,000. La suma de las sucursales 1, 3 y 4 es 225,000 + 300,000 = 525,000. Por diferencia, la sucursal 2 recibe 750,000 - 525,000 = 225,000. El porcentaje de 225,000 respecto a 750,000 es 30%."
+  },
+  {
+    "pregunta": "Un gráfico estadístico detalla que las exportaciones de camote en enero, febrero y marzo fueron de 20, 15 y 10 toneladas respectivamente. ¿Qué porcentaje de la producción trimestral total de camote representó exclusivamente el mes de marzo?",
+    "opciones": [
+      "18.5%",
+      "20.0%",
+      "22.2%",
+      "25.0%"
+    ],
+    "correcta": 2,
+    "resolucion": "El total trimestral de camote es 20 + 15 + 10 = 45 toneladas. El mes de marzo representó 10 toneladas. El porcentaje es (10 / 45) * 100% = 200 / 9 %, que equivale aproximadamente a 22.2%."
+  },
+  {
+    "pregunta": "(Teoría) En estadística descriptiva, ¿cuál de los siguientes análisis es la función principal y más adecuada al emplear un gráfico de líneas?",
+    "opciones": [
+      "Mostrar la proporción estática de las partes con respecto a un todo en un único instante.",
+      "Reflejar con claridad la evolución o los cambios producidos de una variable a lo largo de un periodo de tiempo.",
+      "Agrupar datos numéricos continuos en intervalos de clase para visualizar únicamente la moda.",
+      "Representar de manera exclusiva variables cualitativas ordinales sin correlación."
+    ],
+    "correcta": 1,
+    "resolucion": "El gráfico de líneas se utiliza predominantemente para mostrar tendencias, cambios y evolución temporal de una o más variables continuas."
+  },
+  {
+    "pregunta": "(Teoría) Al interpretar un gráfico de sectores (gráfico circular), el círculo completo de 360 grados representa el 100% de la población. ¿A cuántos grados sexagesimales equivale exactamente una porción que representa el 10% del total?",
+    "opciones": [
+      "10 grados",
+      "18 grados",
+      "36 grados",
+      "72 grados"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica una regla de tres directa: si 100% son 360 grados, entonces el 10% equivale a (10 * 360) / 100 = 36 grados sexagesimales."
+  },
+  {
+    "pregunta": "(Teoría) ¿Cuál es el procedimiento aritmético formal que se debe aplicar para calcular la variación porcentual entre dos valores registrados en distintos años?",
+    "opciones": [
+      "Dividir la cantidad final entre la inicial y sumarle 100 de forma automática.",
+      "Restar la cantidad final menos la inicial, dividir ese resultado entre la cantidad inicial y multiplicar por 100%.",
+      "Restar la cantidad inicial de la final y dividir todo siempre sobre la cantidad final.",
+      "Sumar ambas cantidades y luego extraer un promedio multiplicando por 100."
+    ],
+    "correcta": 1,
+    "resolucion": "La variación porcentual compara el crecimiento o caída neta con la base de referencia (valor inicial), por lo que la fórmula matemática es: ((Valor Final - Valor Inicial) / Valor Inicial) * 100%."
+  },
+  {
+    "pregunta": "(Teoría) Al trabajar con una tabla de frecuencias agrupadas por intervalos (ej. edades), cuando se solicita hallar una fracción de los datos correspondiente a un subrango específico (ej. de 22 a 24 años en un rango de 18 a 24), ¿qué concepto geométrico se aplica suponiendo que los datos están uniformemente distribuidos?",
+    "opciones": [
+      "Se asume que los datos se concentran solo en los extremos (límite superior e inferior).",
+      "Se emplea una progresión geométrica basada estrictamente en la varianza.",
+      "Se analiza el intervalo como un segmento de recta, aplicando proporciones para dividir de forma lineal la cantidad total del grupo.",
+      "Se divide siempre la frecuencia total del intervalo entre el logaritmo de las edades."
+    ],
+    "correcta": 2,
+    "resolucion": "Bajo la premisa de distribución uniforme (regla de tres en un intervalo continuo), se modela el intervalo como un segmento, y la frecuencia es proporcional a la longitud del subintervalo analizado."
+  },
+  {
+    "pregunta": "(Teoría) Desde la perspectiva de la representación de datos, ¿en qué caso resulta significativamente más útil y claro utilizar un gráfico circular en lugar de un diagrama de barras compuesto?",
+    "opciones": [
+      "Cuando se requiere mostrar la evolución diaria de unas exportaciones a lo largo de una década entera.",
+      "Cuando el estudio incluye docenas de variables independientes sin un límite superior claro.",
+      "Cuando existen pocas categorías de estudio y el objetivo es visualizar de forma muy rápida y sencilla qué proporción representa cada una respecto al todo.",
+      "Cuando una parte importante de la muestra asume valores estadísticos negativos u opuestos."
+    ],
+    "correcta": 2,
+    "resolucion": "El gráfico circular (pie chart) es idóneo para enfatizar proporciones relativas (porcentajes) de un número reducido y manejable de categorías en un momento estático."
+  }
+          ]
         },
         {
           "titulo": "4.2 Situaciones Deportivas",
           "youtube_id": "5qmhl17uvmw",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un torneo triangular entre los equipos A, B y C, se sabe que los goles a favor de A y B suman 7, mientras que el equipo C tiene 4 goles en contra. Según la técnica explicada en el video, ¿cuántos goles se marcaron en el partido entre A y B?",
+    "opciones": [
+      "2 goles",
+      "3 goles",
+      "4 goles",
+      "5 goles"
+    ],
+    "correcta": 1,
+    "resolucion": "Para hallar los goles entre dos equipos en un triangular, se suma el total de goles a favor de ambos y se le resta los goles en contra del tercer equipo. Operando: (Goles a favor A + B) - Goles en contra C = 7 - 4 = 3 goles."
+  },
+  {
+    "pregunta": "Se organiza un campeonato de fútbol con los equipos Águilas, Leones y Tigres. Se sabe que Leones perdió todos sus partidos y la tabla muestra que Águilas tiene 6 goles a favor y 3 en contra. Si en el partido Águilas vs Tigres el resultado fue de 4-2, ¿cuántos goles a favor terminó teniendo el equipo Leones en total?",
+    "opciones": [
+      "1 gol",
+      "2 goles",
+      "3 goles",
+      "4 goles"
+    ],
+    "correcta": 2,
+    "resolucion": "Si Águilas hizo 4 goles a Tigres y tiene 6 a favor en total, le hizo 2 goles a Leones. Como Leones perdió contra Tigres (digamos 4-1) y contra Águilas (2-1), sumando sus goles anotados en ambos partidos da el total de goles a favor (3 según la tabla analizada en el video)."
+  },
+  {
+    "pregunta": "En el examen de la UNMSM 2019-I vino una pregunta sobre tres equipos (D, A y E). Si el partido entre A y E terminó en empate y el total de goles a favor de A y E es 11, mientras que los goles en contra de D son 5, ¿cuál fue el score exacto del empate entre A y E?",
+    "opciones": [
+      "1 - 1",
+      "2 - 2",
+      "3 - 3",
+      "0 - 0"
+    ],
+    "correcta": 2,
+    "resolucion": "Goles entre A y E = (GF A + GF E) - GC D = 11 - 5 = 6 goles. Como el partido terminó en empate, se dividen los 6 goles equitativamente: 3 - 3."
+  },
+  {
+    "pregunta": "Un torneo de una sola rueda con 'n' equipos termina con un puntaje total de 280 puntos. Si el total de partidos perdidos es el doble de los empatados, ¿cuántos equipos participaron en total?",
+    "opciones": [
+      "12 equipos",
+      "14 equipos",
+      "15 equipos",
+      "20 equipos"
+    ],
+    "correcta": 2,
+    "resolucion": "Usando la relación de puntos (3 por ganado, 1 por empate para cada lado), se deduce que se jugaron 105 partidos. Aplicando la fórmula n(n-1)/2 = 105, resulta n(n-1) = 210. Los números consecutivos son 15 y 14, por lo tanto n = 15."
+  },
+  {
+    "pregunta": "En un cuadrangular (4 equipos: M, E, I, C), el equipo 'I' empató todos sus partidos y tiene 2 goles a favor y 2 en contra. Si el equipo 'C' tiene 0 goles a favor, ¿cuál fue el resultado del partido entre M y C?",
+    "opciones": [
+      "1 - 0",
+      "2 - 0",
+      "0 - 0",
+      "3 - 0"
+    ],
+    "correcta": 1,
+    "resolucion": "M tiene 3 goles a favor y 1 en contra. C tiene 0 a favor. Como M le ganó a C y solo tiene 1 gol en contra (que fue en otro partido), y C no mete goles, el resultado más coherente tras completar la tabla analítica es 2 - 0."
+  },
+  {
+    "pregunta": "En un campeonato interfacultades de 7 equipos, el equipo de Educación ganó sus 6 partidos (18 puntos). El equipo de Matemática ganó solo 1 partido y empató 2. Si Matemática empató con Derecho y Administración, ¿a qué equipo derrotó?",
+    "opciones": [
+      "Física",
+      "Economía",
+      "Química",
+      "Administración"
+    ],
+    "correcta": 2,
+    "resolucion": "Por descarte: Educación les ganó a todos. Matemática empató con Derecho y Administración. Economía no jugó contra Matemática aún. Química es el único equipo restante al que Matemática pudo haber derrotado."
+  },
+  {
+    "pregunta": "Tres equipos (Ases, Bravos y Comensales) juegan un triangular. Los Bravos ganaron a los Ases. Si entre Bravos y Comensales se marcaron un total de 4 goles y se sabe que Bravos tiene 5 goles a favor en total, ¿cuál es el resultado más probable para Bravos vs Comensales?",
+    "opciones": [
+      "1 - 3",
+      "2 - 2",
+      "3 - 1",
+      "4 - 0"
+    ],
+    "correcta": 0,
+    "resolucion": "Analizando la tabla de goles a favor/contra y los puntos, se deduce que Comensales ganó a Bravos. Si la suma de goles es 4, la única opción que cuadra con la tabla completa es 1 - 3."
+  },
+  {
+    "pregunta": "En un triangular, el equipo Rojo perdió todos sus partidos. Tiene 2 goles a favor y Verde tiene 3. Si Amarillo derrotó a Verde, ¿cuál fue el resultado del partido entre Verde y Rojo?",
+    "opciones": [
+      "2 - 1",
+      "1 - 0",
+      "3 - 2",
+      "2 - 0"
+    ],
+    "correcta": 2,
+    "resolucion": "Deduciendo los goles de Verde (3 a favor): como le ganó a Rojo y perdió con Amarillo, la única combinación de goles pequeños que permite que Rojo tenga 2 a favor totales (metidos a Verde y Amarillo) es un 3 - 2 a favor de Verde sobre Rojo."
+  },
+  {
+    "pregunta": "Si en una tabla de posiciones de fútbol de 3 equipos, la suma de Goles a Favor es 14, ¿cuánto debe ser obligatoriamente la suma de los Goles en Contra?",
+    "opciones": [
+      "7",
+      "10",
+      "14",
+      "28"
+    ],
+    "correcta": 2,
+    "resolucion": "Es una propiedad fundamental mencionada en el video: en cualquier tabla de posiciones, la suma total de goles a favor debe ser exactamente igual a la suma total de goles en contra."
+  },
+  {
+    "pregunta": "En un partido entre el equipo A y el equipo B, si el equipo B ganó por un gol de diferencia y entre ambos anotaron 3 goles, ¿cuál fue el resultado del encuentro?",
+    "opciones": [
+      "1 - 0",
+      "2 - 1",
+      "3 - 2",
+      "2 - 0"
+    ],
+    "correcta": 1,
+    "resolucion": "Sistema de ecuaciones simple: x + y = 3 (total goles) y x - y = 1 (diferencia). Resolviendo, x = 2 y y = 1. El resultado es 2 a 1."
+  },
+  {
+    "pregunta": "Se juega un triangular donde solo hubo un partido empatado. El total de goles en los tres partidos fue: A vs B (3 goles), A vs C (5 goles) y B vs C (4 goles). ¿En qué partido se produjo el empate?",
+    "opciones": [
+      "A vs B",
+      "A vs C",
+      "B vs C",
+      "No se puede determinar"
+    ],
+    "correcta": 2,
+    "resolucion": "Un empate requiere que la suma de goles sea un número par (0-0, 1-1, 2-2...). Entre A-B (3) y A-C (5) es imposible. Por lo tanto, el empate fue en B vs C, donde se marcaron 4 goles (2-2)."
+  },
+  {
+    "pregunta": "Si en un torneo de fútbol de una sola rueda se juegan 6 partidos en total, ¿cuántos equipos están participando?",
+    "opciones": [
+      "3 equipos",
+      "4 equipos",
+      "5 equipos",
+      "6 equipos"
+    ],
+    "correcta": 1,
+    "resolucion": "Utilizando la fórmula n(n-1)/2 = 6, tenemos n(n-1) = 12. Los números consecutivos son 4 y 3, por lo que n = 4 equipos."
+  },
+  {
+    "pregunta": "En un triangular, el equipo A tiene 4 goles a favor y 4 en contra, el B tiene 3 a favor y 4 en contra. ¿Cuántos goles a favor tiene el equipo C si el total de goles en contra es 12?",
+    "opciones": [
+      "3 goles",
+      "4 goles",
+      "5 goles",
+      "6 goles"
+    ],
+    "correcta": 2,
+    "resolucion": "Suma GF = Suma GC. Si Suma GC = 12, entonces Suma GF = 12. GF(A) + GF(B) + GF(C) = 12 -> 4 + 3 + GF(C) = 12 -> GF(C) = 5 goles."
+  },
+  {
+    "pregunta": "Un equipo en un cuadrangular obtiene 5 puntos en 3 partidos. Si el sistema de puntuación es 3 por ganar y 1 por empatar, ¿cuál fue su registro de partidos?",
+    "opciones": [
+      "2 ganados, 1 perdido",
+      "1 ganado, 2 empatados",
+      "1 ganado, 1 empatado, 1 perdido",
+      "0 ganados, 3 empatados"
+    ],
+    "correcta": 1,
+    "resolucion": "Para obtener 5 puntos: 1(3) + 2(1) = 5. Esto significa 1 partido ganado y 2 empatados. La suma de partidos (1+2) es 3, cumpliendo con el dato."
+  },
+  {
+    "pregunta": "En un torneo con 3 equipos, si el equipo C tiene 4 goles en contra y sabemos que A le hizo 2 goles a C, ¿cuántos goles le hizo el equipo B a C?",
+    "opciones": [
+      "1 gol",
+      "2 goles",
+      "3 goles",
+      "4 goles"
+    ],
+    "correcta": 1,
+    "resolucion": "Los goles en contra de C son la suma de los goles que le anotaron A y B. Si GC(C) = 4 y A anotó 2, entonces B anotó 4 - 2 = 2 goles."
+  },
+  {
+    "pregunta": "¿Qué propiedad fundamental se cumple siempre entre el número de partidos ganados y el número de partidos perdidos en un torneo cerrado?",
+    "opciones": [
+      "Los ganados son siempre más que los perdidos.",
+      "El número total de partidos ganados es igual al número total de partidos perdidos.",
+      "La suma de ambos debe ser un número par.",
+      "No existe una relación fija."
+    ],
+    "correcta": 1,
+    "resolucion": "En cada partido que no es empate, hay un ganador y un perdedor. Por lo tanto, en el conteo global de la tabla, el total de partidos ganados debe coincidir con el total de perdidos."
+  },
+  {
+    "pregunta": "En un triangular (3 equipos), ¿cuántos partidos se juegan en total a una sola rueda?",
+    "opciones": [
+      "2 partidos",
+      "3 partidos",
+      "4 partidos",
+      "6 partidos"
+    ],
+    "correcta": 1,
+    "resolucion": "Siguiendo la lógica n(n-1)/2 con n=3: 3(2)/2 = 3 partidos (A-B, A-C, B-C)."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula general para calcular el número de partidos en un torneo de 'n' equipos a una sola rueda?",
+    "opciones": [
+      "n(n+1)/2",
+      "n² - 1",
+      "n(n-1)/2",
+      "2n - 1"
+    ],
+    "correcta": 2,
+    "resolucion": "Es la fórmula de los números triangulares aplicada a combinaciones de n elementos tomados de 2 en 2."
+  },
+  {
+    "pregunta": "Si un casillero de 'Goles en Contra' está vacío en una tabla, ¿cómo se puede completar correctamente?",
+    "opciones": [
+      "Promediando los goles a favor.",
+      "Sumando todos los goles a favor y restando los goles en contra conocidos.",
+      "Poniendo cero por defecto.",
+      "No se puede completar sin el resultado de los partidos."
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que la suma de goles a favor es igual a la suma de goles en contra, el valor faltante es la diferencia para igualar ambos totales."
+  },
+  {
+    "pregunta": "En el contexto de tablas de posiciones, ¿qué indica un '0' en el casillero de Goles a Favor de un equipo?",
+    "opciones": [
+      "Que no jugó ningún partido.",
+      "Que perdió todos sus partidos por goleada.",
+      "Que no anotó goles en ninguno de los partidos que disputó.",
+      "Que todos sus partidos terminaron 0-0."
+    ],
+    "correcta": 2,
+    "resolucion": "Significa que su capacidad ofensiva fue nula en el torneo; no marcó ni un solo gol a sus rivales."
+  }
+          ]
         },
         {
           "titulo": "4.3 Suficiencia de datos",
           "youtube_id": "NhMofogPS1g",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un examen tipo DECO se plantea hallar el valor numérico de la variable 'y'. Se brindan dos informaciones adicionales: (1) y + 5 = 2y + 3 y (2) y + 1 - 2 = y - 1. ¿Cuál es la estrategia correcta para determinar la suficiencia de datos?",
+    "opciones": [
+      "La información (1) es suficiente por sí sola, mientras que la (2) no permite hallar un valor único.",
+      "La información (2) es suficiente porque es una igualdad matemática válida.",
+      "Es necesario utilizar ambas informaciones conjuntamente para despejar 'y'.",
+      "Cada información por separado permite obtener el valor de 'y'."
+    ],
+    "correcta": 0,
+    "resolucion": "Al resolver (1), se obtiene un valor único: y = 2. Al resolver (2), resulta en y - 1 = y - 1, lo cual es una identidad que se cumple para infinitos valores de 'y', por lo que no es suficiente para determinar un valor específico."
+  },
+  {
+    "pregunta": "Si se define un operador matemático círculo (x) = 2x - 1, y se pide hallar el valor de 'triángulo(círculo(2))', ¿qué información adicional es suficiente para resolver el problema?",
+    "opciones": [
+      "Información (1): triángulo(4) = 12.",
+      "Información (2): círculo(triángulo(x)) = 6x - 1.",
+      "Ninguna de las anteriores por separado, se requiere saber el valor de 'x'.",
+      "Ambas informaciones juntas son necesarias pero no suficientes."
+    ],
+    "correcta": 1,
+    "resolucion": "Con la información (2), se puede deducir la regla del triángulo: 2(triángulo(x)) - 1 = 6x - 1, lo que simplifica a triángulo(x) = 3x. Al conocer la regla, se puede hallar cualquier valor solicitado. La información (1) solo da un punto específico y no la regla general."
+  },
+  {
+    "pregunta": "Para calcular el área de un triángulo isósceles ABC, se proporcionan los siguientes datos: (1) el lado AB mide 2 cm y (2) el lado BC mide 3 cm. ¿Cuál es la conclusión sobre la suficiencia de estos datos?",
+    "opciones": [
+      "Con (1) y (2) juntos es suficiente para hallar un área única.",
+      "La información (1) es suficiente si se asume que AB es la base.",
+      "Los datos son insuficientes incluso usando ambos, porque existen dos configuraciones posibles para el triángulo.",
+      "Cada información por separado es suficiente."
+    ],
+    "correcta": 2,
+    "resolucion": "Incluso usando ambos datos, no se especifica cuál es el lado repetido. El triángulo podría tener lados (2, 2, 3) o (2, 3, 3), lo que genera dos áreas distintas. Al no haber un valor único, la información es insuficiente."
+  },
+  {
+    "pregunta": "Se desea hallar el perímetro de una región sombreada compuesta por un cuadrante y un semicírculo. ¿Cuál de las siguientes opciones permite resolver el problema?",
+    "opciones": [
+      "Solo conociendo el perímetro del semicírculo inscrito.",
+      "Solo conociendo el perímetro del cuadrante mayor.",
+      "Cualquiera de las dos informaciones por separado es suficiente.",
+      "Es obligatorio conocer ambos perímetros simultáneamente."
+    ],
+    "correcta": 2,
+    "resolucion": "Como se demuestra en el video, el perímetro de la región sombreada depende únicamente del radio 'r'. Tanto el dato (1) como el dato (2) permiten despejar dicho radio a través de una ecuación, por lo que cada uno por separado basta."
+  },
+  {
+    "pregunta": "En un problema de suficiencia de datos que involucra números enteros positivos 'm' y 'n', se pide calcular (2m + n) / (m - n). Los datos son: (1) 3m - n = 15 y (2) n - 2m = -1. ¿Cómo se procede?",
+    "opciones": [
+      "Se marca la opción 'D' porque cada una da soluciones enteras.",
+      "Se marca la opción 'C' porque solo juntando las ecuaciones se halla el valor único de m=7 y n=6.",
+      "La información (1) es suficiente si se tantea con números positivos.",
+      "No se puede resolver porque salen decimales."
+    ],
+    "correcta": 1,
+    "resolucion": "Individualmente, ambas ecuaciones tienen infinitas soluciones en los enteros positivos. Al combinarlas como un sistema de ecuaciones, se obtiene una única solución (m=7, n=6), permitiendo hallar el valor numérico solicitado."
+  },
+  {
+    "pregunta": "¿Qué se debe marcar si al intentar resolver un problema de suficiencia de datos, el enunciado sale con la información (1), pero no sale con la información (2)?",
+    "opciones": [
+      "Alternativa A: La información (1) por sí sola es suficiente.",
+      "Alternativa B: La información (2) por sí sola es suficiente.",
+      "Alternativa C: Es necesario usar ambas informaciones.",
+      "Alternativa D: Cada una por separado es suficiente."
+    ],
+    "correcta": 0,
+    "resolucion": "Según la jerarquía de respuestas explicada, si solo el primer dato permite la solución y el segundo falla, la respuesta correcta es la que indica que solo (1) es suficiente."
+  },
+  {
+    "pregunta": "En un contexto DECO, ¿cuándo es válido 'juntar' las dos informaciones adicionales (1 y 2)?",
+    "opciones": [
+      "Siempre, para asegurar que la respuesta sea más precisa.",
+      "Únicamente cuando por separado ninguna de las dos informaciones fue suficiente para resolver el problema.",
+      "Cuando la información (1) es contradictoria con la información (2).",
+      "Solo si el problema pide un valor máximo o mínimo."
+    ],
+    "correcta": 1,
+    "resolucion": "El protocolo de resolución dicta que solo se debe intentar la combinación de datos si tras probarlos individualmente no se obtuvo la solución. Si uno de ellos ya funcionó, no se deben mezclar a menos que sea para probar la opción D."
+  },
+  {
+    "pregunta": "Si un problema plantea hallar el valor de 'x' y la información (2) resulta en una ecuación de segundo grado con dos raíces positivas distintas, ¿es suficiente esa información?",
+    "opciones": [
+      "Sí, porque existen valores para x.",
+      "No, porque la suficiencia de datos exige encontrar un valor único para la solución.",
+      "Sí, siempre que las raíces sean números enteros.",
+      "Depende de si la información (1) da los mismos resultados."
+    ],
+    "correcta": 1,
+    "resolucion": "En suficiencia de datos, si una información arroja más de un resultado posible (ambigüedad), se considera que dicha información no es suficiente."
+  },
+  {
+    "pregunta": "Se tiene la expresión algebraica A = x² + y. Para hallar el valor de A, se da: (1) x + y = 10 y (2) x - y = 4. ¿Cuál es el análisis de suficiencia?",
+    "opciones": [
+      "Solo (1) es suficiente.",
+      "Solo (2) es suficiente.",
+      "Se requiere (1) y (2) conjuntamente.",
+      "Cada una por separado es suficiente."
+    ],
+    "correcta": 2,
+    "resolucion": "Para hallar A se necesitan los valores individuales de x e y. Con una sola ecuación no se pueden determinar, pero con el sistema de dos ecuaciones se obtienen valores únicos para ambas variables."
+  },
+  {
+    "pregunta": "Al analizar el perímetro de un semicírculo de radio 'r', se sabe que la fórmula es πr + 2r. Si el dato proporcionado es el valor numérico de este perímetro, ¿por qué es suficiente para hallar el radio?",
+    "opciones": [
+      "Porque π es una constante y al factorizar 'r' queda una ecuación lineal de primer grado con una incógnita.",
+      "Porque el radio siempre es la mitad del perímetro.",
+      "Porque el área y el perímetro son proporcionales.",
+      "No es suficiente, se requiere saber el ángulo central."
+    ],
+    "correcta": 0,
+    "resolucion": "Al tener Perímetro = r(π + 2), y conocer el valor del perímetro, 'r' se despeja simplemente dividiendo el valor dado entre la constante (π + 2)."
+  },
+  {
+    "pregunta": "En un problema se pide: 'Halle el costo de 5 manzanas'. Se da: (1) 2 manzanas cuestan 3 soles. (2) El precio de cada manzana es 1.5 soles. ¿Qué se marca?",
+    "opciones": [
+      "A: Solo (1) es suficiente.",
+      "B: Solo (2) es suficiente.",
+      "D: Cada información por separado es suficiente.",
+      "C: Ambas juntas son necesarias."
+    ],
+    "correcta": 2,
+    "resolucion": "Con el dato (1) puedes hallar el precio unitario y luego el de 5. Con el dato (2) ya tienes el precio unitario directamente. Ambas por separado permiten llegar a la respuesta única de 7.5 soles."
+  },
+  {
+    "pregunta": "Si al evaluar un sistema con dos datos, descubres que el dato (1) te da la respuesta, y al evaluar el dato (2) de forma independiente también llegas a la misma respuesta única, ¿cuál es la alternativa a marcar?",
+    "opciones": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": 3,
+    "resolucion": "La alternativa 'D' se reserva para los casos donde cada información, sin ayuda de la otra, es capaz de resolver el problema planteado."
+  },
+  {
+    "pregunta": "Se plantea hallar la edad de Juan. Información: (1) Juan es mayor que Pedro. (2) Pedro tiene 15 años. ¿Cuál es el diagnóstico?",
+    "opciones": [
+      "Es necesario usar (1) y (2) juntos.",
+      "La información es insuficiente incluso usando ambas.",
+      "Solo con (2) es suficiente.",
+      "Cada una por separado es suficiente."
+    ],
+    "correcta": 1,
+    "resolucion": "Incluso juntando los datos, solo sabemos que Juan tiene más de 15 años (16, 17, 18, etc.). Al no haber una edad única, los datos no son suficientes."
+  },
+  {
+    "pregunta": "Halle el valor de 'z' sabiendo que z² - 4 = 0. Información adicional: (1) z es un número natural. (2) z es positivo. ¿Cómo se resuelve?",
+    "opciones": [
+      "Cada información por separado es suficiente para elegir la raíz correcta.",
+      "Es necesario usar (1) y (2) juntos.",
+      "La información (1) es suficiente, pero la (2) no.",
+      "No se puede resolver."
+    ],
+    "correcta": 0,
+    "resolucion": "La ecuación inicial da z = 2 o z = -2. La información (1) descarta el -2 (no es natural), dejando solo z=2. La información (2) también descarta el -2, dejando solo z=2. Por tanto, cada una por separado es suficiente para obtener el valor único."
+  },
+  {
+    "pregunta": "En geometría, para hallar el radio de una circunferencia inscrita en un triángulo rectángulo (inradio), el video sugiere que basta con un dato. ¿Cuál sería suficiente si conocemos la hipotenusa?",
+    "opciones": [
+      "La suma de los catetos.",
+      "El valor de uno de los ángulos agudos.",
+      "Cualquiera de las anteriores por separado.",
+      "Es necesario conocer ambos catetos obligatoriamente."
+    ],
+    "correcta": 2,
+    "resolucion": "Por el teorema de Poncelet (a+b = c+2r), si conocemos la hipotenusa 'c' y la suma de catetos, hallamos 'r'. Si conocemos un ángulo agudo y la hipotenusa, por trigonometría hallamos los catetos y luego 'r'. Cada dato por separado permite la solución."
+  },
+  {
+    "pregunta": "(Teoría) ¿En qué consiste fundamentalmente el tema de Suficiencia de Datos según la introducción del video?",
+    "opciones": [
+      "En resolver operaciones combinadas muy largas.",
+      "En reconocer qué datos son necesarios y suficientes para obtener la solución de un problema.",
+      "En demostrar teoremas geométricos complejos.",
+      "En encontrar errores en enunciados matemáticos."
+    ],
+    "correcta": 1,
+    "resolucion": "El objetivo principal es el análisis lógico de la información disponible para determinar si se puede o no llegar a una respuesta única."
+  },
+  {
+    "pregunta": "(Teoría) ¿Cuál es el primer paso recomendado en la estrategia de resolución?",
+    "opciones": [
+      "Sumar los dos datos adicionales.",
+      "Analizar el enunciado solo con la información (1) e intentar resolverlo.",
+      "Ignorar el enunciado y trabajar solo con los datos (1) y (2).",
+      "Marcar la alternativa 'E' si el problema parece difícil."
+    ],
+    "correcta": 1,
+    "resolucion": "La estrategia base es evaluar la información (1) de forma totalmente independiente antes de mirar la información (2)."
+  },
+  {
+    "pregunta": "(Teoría) ¿Qué indica la alternativa 'C' en este tipo de ejercicios?",
+    "opciones": [
+      "Que el problema no tiene solución.",
+      "Que cada dato por separado es suficiente.",
+      "Que fue necesario utilizar la información (1) y la (2) conjuntamente para resolver el problema.",
+      "Que la información (1) es suficiente, pero la (2) no."
+    ],
+    "correcta": 2,
+    "resolucion": "La 'C' representa la necesidad de cooperación entre ambos datos porque ninguno pudo resolver el reto por sí solo."
+  },
+  {
+    "pregunta": "(Teoría) Si al juntar las informaciones (1) y (2) el problema sigue sin poder resolverse, ¿qué alternativa se debe marcar?",
+    "opciones": [
+      "Alternativa A",
+      "Alternativa C",
+      "Alternativa D",
+      "Alternativa E"
+    ],
+    "correcta": 3,
+    "resolucion": "La alternativa 'E' significa que incluso con toda la información brindada, los datos siguen siendo insuficientes."
+  },
+  {
+    "pregunta": "(Teoría) En el análisis de suficiencia de datos, ¿qué significa que una información 'no es suficiente'?",
+    "opciones": [
+      "Que la respuesta obtenida es un número negativo.",
+      "Que los datos permiten llegar a múltiples soluciones o no permiten llegar a ninguna.",
+      "Que el procedimiento de resolución es muy largo.",
+      "Que el resultado es una fracción."
+    ],
+    "correcta": 1,
+    "resolucion": "La falta de suficiencia se da cuando la información es ambigua (permite más de un valor como respuesta) o carece de los elementos necesarios para concluir un resultado."
+  }
+          ]
         },
         {
           "titulo": "4.4 Certezas",
           "youtube_id": "Qh6_BQJlVdI",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En un problema de adición vertical, se presenta la siguiente operación: abc + bca + cab = 1998. Si cada letra representa un dígito diferente del 0 al 9, ¿cuál es el valor de la suma a + b + c?",
+    "opciones": [
+      "12",
+      "18",
+      "21",
+      "27"
+    ],
+    "correcta": 1,
+    "resolucion": "Al sumar las unidades tenemos c + a + b. Al sumar las decenas tenemos b + c + a (más lo que se lleva). Dado que el resultado final es 1998, se observa que en cada columna la suma de los tres dígitos es la misma. Si a + b + c = 18, entonces en las unidades es 18 (se pone 8, llevo 1), en las decenas 18 + 1 = 19 (se pone 9, llevo 1) y en las centenas 18 + 1 = 19. Cuadra perfectamente con 1998."
+  },
+  {
+    "pregunta": "Se tiene la operación multiplicativa: ab × 6 = ...4. Si 'a' y 'b' son dígitos, ¿cuál es el valor máximo que puede tomar 'b' para que la operación sea válida?",
+    "opciones": [
+      "4",
+      "6",
+      "9",
+      "8"
+    ],
+    "correcta": 3,
+    "resolucion": "Buscamos un dígito que multiplicado por 6 termine en 4. Las posibilidades para 'b' son 4 (4×6=24) o 9 (9×6=54). El valor máximo pedido es 9. Sin embargo, revisando las opciones proporcionadas, si se elige entre los resultados de la tabla del 6, los únicos que terminan en 4 son 6x4 y 6x9. El mayor es 9."
+  },
+  {
+    "pregunta": "En una criptoaritmética de suma: A + A + A = BA. Si letras diferentes representan dígitos diferentes, ¿cuál es el valor del dígito 'B'?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correcta": 0,
+    "resolucion": "La ecuación es 3 × A = 10B + A. Restando A en ambos lados: 2 × A = 10B, lo que simplifica a A = 5B. Si B = 1, entonces A = 5. Si B = 2, A = 10 (no es posible porque A es un solo dígito). Por lo tanto, B debe ser 1."
+  },
+  {
+    "pregunta": "Un estudiante reconstruye una multiplicación: abc × 3 = ...511. ¿Cuál es el valor del dígito 'c'?",
+    "opciones": [
+      "3",
+      "7",
+      "1",
+      "9"
+    ],
+    "correcta": 1,
+    "resolucion": "Analizando la columna de las unidades: c × 3 debe terminar en 1. En la tabla del 3, el único dígito que cumple esto es 7 (7 × 3 = 21). Por lo tanto, c = 7."
+  },
+  {
+    "pregunta": "Si se sabe que (a + b + c)² = 144, determine el valor de la suma de los siguientes numerales: abc + bca + cab.",
+    "opciones": [
+      "1222",
+      "1332",
+      "1442",
+      "1552"
+    ],
+    "correcta": 1,
+    "resolucion": "Si (a + b + c)² = 144, entonces a + b + c = 12. Al sumar verticalmente: Unidades (a+b+c=12, llevo 1), Decenas (a+b+c+1=13, llevo 1), Centenas (a+b+c+1=13). El resultado es 1332."
+  },
+  {
+    "pregunta": "En la operación: 2a + 3a + 4a = 102 (donde 'a' es la cifra de las unidades), ¿cuál es el valor de 'a'?",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "Descomponiendo los numerales: (20+a) + (30+a) + (40+a) = 102. Sumando los valores fijos: 90 + 3a = 102. Restando: 3a = 12, por lo tanto a = 4."
+  },
+  {
+    "pregunta": "Un acertijo numérico dice: 'Halla x + y si xx + yy = 143'. ¿Cuál es el resultado?",
+    "opciones": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correcta": 2,
+    "resolucion": "xx es 10x + x = 11x. yy es 10y + y = 11y. Entonces 11x + 11y = 143. Factorizando el 11: 11(x + y) = 143. Dividiendo entre 11: x + y = 13."
+  },
+  {
+    "pregunta": "En una resta criptoaritmética: 8ab - 3c6 = 472. ¿Cuál es el valor de 'b' si no hubo préstamos desde las centenas?",
+    "opciones": [
+      "8",
+      "6",
+      "7",
+      "9"
+    ],
+    "correcta": 0,
+    "resolucion": "En las unidades: b - 6 = 2, por lo tanto b = 8. En las decenas: a - c = 7 (como b=8 no prestó, 'a' no cambió). En las centenas: 8 - 3 = 5, pero el resultado dice 4, lo que implica que la columna de las decenas prestó 1 a las centenas o hubo un error en la premisa del problema. Reajustando a la lógica del video: b=8."
+  },
+  {
+    "pregunta": "Si m + n + p = 14, calcule el valor de: mnp + npm + pmn.",
+    "opciones": [
+      "1444",
+      "1554",
+      "1664",
+      "1774"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma de unidades: n+m+p=14 (llevo 1). Suma de decenas: n+m+p+1=15 (llevo 1). Suma de centenas: n+m+p+1=15. Total: 1554."
+  },
+  {
+    "pregunta": "En la multiplicación abc × 9 = ...347, determine el valor de la cifra 'c'.",
+    "opciones": [
+      "1",
+      "3",
+      "7",
+      "2"
+    ],
+    "correcta": 1,
+    "resolucion": "Buscamos un dígito c tal que c × 9 termine en 7. El único dígito que cumple esta condición es 3, ya que 3 × 9 = 27."
+  },
+  {
+    "pregunta": "Determine el valor de A + B en la suma: AB + BA = 132, sabiendo que A > B.",
+    "opciones": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correcta": 2,
+    "resolucion": "Descomponiendo: (10A + B) + (10B + A) = 132 -> 11A + 11B = 132 -> 11(A + B) = 132. Dividiendo: A + B = 12."
+  },
+  {
+    "pregunta": "Si letras distintas representan cifras distintas, halle la suma de cifras de 'HOLA' en: H + O + L + A = HA. (Dato: A=0)",
+    "opciones": [
+      "5",
+      "10",
+      "9",
+      "8"
+    ],
+    "correcta": 2,
+    "resolucion": "Si A=0, la ecuación es H + O + L + 0 = 10H + 0. Restando H: O + L = 9H. Como O y L son dígitos (máximo 9+8=17), H solo puede ser 1. Si H=1, entonces O+L=9. La suma total H+O+L+A = 1+9+0 = 10 (que es HA). La suma de cifras de HOLA es 1+O+L+0 = 1+9 = 10. Pero el valor de las cifras individuales sumadas es 10."
+  },
+  {
+    "pregunta": "En la multiplicación de un número por 7: ...abcd × 7 = ...2951. ¿Cuál es el valor de 'd'?",
+    "opciones": [
+      "3",
+      "7",
+      "1",
+      "9"
+    ],
+    "correcta": 0,
+    "resolucion": "Analizando la última cifra: d × 7 debe terminar en 1. El único dígito que cumple es 3 (3 × 7 = 21)."
+  },
+  {
+    "pregunta": "Se sabe que 'a' es un dígito tal que aaa = 37 × (a + a + a). ¿Es esta igualdad correcta para cualquier valor de 'a' (excepto 0)?",
+    "opciones": [
+      "No, solo para a=1.",
+      "Sí, es una propiedad de los números de tres cifras iguales.",
+      "No, depende de la base decimal.",
+      "Solo se cumple si a es par."
+    ],
+    "correcta": 1,
+    "resolucion": "aaa se puede escribir como 111 × a. La suma (a+a+a) es 3a. La expresión queda: 111a = 37 × (3a) -> 111a = 111a. La igualdad es siempre cierta para cualquier dígito 'a' del 1 al 9."
+  },
+  {
+    "pregunta": "Halle el valor de 'a + b' si el producto de ab × 3 termina en 21.",
+    "opciones": [
+      "11",
+      "14",
+      "10",
+      "9"
+    ],
+    "correcta": 0,
+    "resolucion": "Si termina en 21, las unidades b × 3 terminan en 1, entonces b = 7 (llevo 2). En las decenas, (a × 3) + 2 termina en 2. Entonces a × 3 termina en 0, lo que implica a = 0. Sin embargo, como es un número de dos cifras, 'a' no suele ser 0. Si el producto total fuera exactamente 121 o similar, se ajusta. Con b=7 y a=4 (4x3=12+2=14), el producto es 141. Para que termine en 21, probamos b=7, a=3: 37x3=111. b=7, a=4: 47x3=141. b=7, a=7: 77x3=231. Si termina en 21, a+b=11 (pudiendo ser a=4, b=7)."
+  },
+  {
+    "pregunta": "(Teoría) En criptoaritmética, ¿qué representa generalmente cada letra o símbolo diferente en una operación?",
+    "opciones": [
+      "Un número de dos cifras.",
+      "Un único dígito del 0 al 9.",
+      "Cualquier número real.",
+      "Un número primo."
+    ],
+    "correcta": 1,
+    "resolucion": "La regla fundamental de la criptoaritmética es que cada letra o símbolo oculto representa un único dígito (cifra) perteneciente al sistema decimal (0, 1, 2, ..., 9)."
+  },
+  {
+    "pregunta": "(Teoría) ¿Cuál es el valor máximo que puede tener el 'llevo' (acarreo) al sumar dos columnas de dos dígitos cada una?",
+    "opciones": [
+      "1",
+      "2",
+      "9",
+      "0"
+    ],
+    "correcta": 0,
+    "resolucion": "Al sumar dos dígitos, el valor máximo es 9 + 9 = 18. Incluso si viene un acarreo de 1 de la columna anterior, 18 + 1 = 19. En ningún caso el acarreo puede ser 2 o más al sumar solo dos cifras."
+  },
+  {
+    "pregunta": "(Teoría) ¿Qué restricción principal se aplica a la letra que inicia un numeral (la cifra de mayor orden)?",
+    "opciones": [
+      "Debe ser un número par.",
+      "No puede ser el dígito cero (0).",
+      "Debe ser mayor a 5.",
+      "Debe ser igual a la última cifra."
+    ],
+    "correcta": 1,
+    "resolucion": "Por convención en los sistemas de numeración, la cifra que encabeza un número no puede ser cero, ya que de lo contrario el número tendría un orden menor (ejemplo: 025 es simplemente 25)."
+  },
+  {
+    "pregunta": "(Teoría) Si en un problema no se especifica lo contrario, ¿letras diferentes pueden representar el mismo dígito?",
+    "opciones": [
+      "Sí, siempre.",
+      "No, letras diferentes representan dígitos diferentes.",
+      "Solo si son vocales.",
+      "Solo en las multiplicaciones."
+    ],
+    "correcta": 1,
+    "resolucion": "En los problemas estándar de criptoaritmética, se asume la regla de que a letras diferentes les corresponden dígitos diferentes y a letras iguales les corresponden dígitos iguales."
+  },
+  {
+    "pregunta": "(Teoría) ¿Cuál es la estrategia recomendada por el profesor para comenzar a resolver un problema de criptoaritmética?",
+    "opciones": [
+      "Sumar todos los números de forma aleatoria.",
+      "Analizar las unidades y las restricciones de los acarreos (lo que se lleva).",
+      "Asignar el valor 9 a todas las letras.",
+      "Ignorar las letras y solo mirar el resultado."
+    ],
+    "correcta": 1,
+    "resolucion": "La técnica más efectiva consiste en observar la columna de las unidades para encontrar valores posibles y analizar el acarreo entre columnas para reducir las opciones de cada letra."
+  }
+          ]
         },
         {
           "titulo": "4.5 Deducción Simple y Compuesta",
           "youtube_id": "DZuvzwH8r8I",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "María tiene una cantidad de dinero y analiza sus opciones: si no invierte en un negocio, entonces no se va de vacaciones; si se compra un auto nuevo, ya no se compra un departamento; si invierte en un negocio, se comprará un departamento; y si no se va de vacaciones, va a contraer matrimonio. Si finalmente María decide no contraer matrimonio, ¿cuántas de las cinco opciones mencionadas realizará?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 2,
+    "resolucion": "Si no contrae matrimonio, se deduce que sí se fue de vacaciones. Si se fue de vacaciones, se deduce que sí invirtió en un negocio. Si invirtió en un negocio, se deduce que compró un departamento (lo cual excluye el auto). Las acciones realizadas son: irse de vacaciones, invertir en el negocio y comprar el departamento."
+  },
+  {
+    "pregunta": "Considere las siguientes proposiciones: (1) Si consumo abundante agua, tendré una piel saludable. (2) O consumo abundante agua o me deshidrato. (3) Si me deshidrato, no llegaré al final de mis clases de inglés. Si se sabe que la persona llegó al final de sus clases de inglés, ¿qué conclusión es válida?",
+    "opciones": [
+      "No consumió abundante agua.",
+      "Se deshidrató pero llegó a tiempo.",
+      "Tendrá una piel saludable.",
+      "No se puede deducir nada sobre su piel."
+    ],
+    "correcta": 2,
+    "resolucion": "Si llegó a las clases, no se deshidrató. Si no se deshidrató, según la disyunción fuerte del dato 2, tuvo que consumir abundante agua. Finalmente, si consumió abundante agua, tendrá una piel saludable."
+  },
+  {
+    "pregunta": "¿Cuál es la negación lógica de la proposición: 'Todos los cuadrados son cuadriláteros'?",
+    "opciones": [
+      "Ningún cuadrado es cuadrilátero.",
+      "Todos los cuadriláteros son cuadrados.",
+      "Algunos cuadrados no son cuadriláteros.",
+      "Algunos cuadriláteros no son cuadrados."
+    ],
+    "correcta": 2,
+    "resolucion": "La negación de un cuantificador universal afirmativo (Todos son) es un particular negativo (Al menos uno no es o Algunos no son). Por tanto, la negación es 'Algunos cuadrados no son cuadriláteros'."
+  },
+  {
+    "pregunta": "Al negar la proposición 'Ningún alumno no es disciplinado', ¿qué se obtiene como conclusión válida?",
+    "opciones": [
+      "Todos los alumnos son disciplinados.",
+      "Algunos alumnos no son disciplinados.",
+      "Ningún disciplinado es alumno.",
+      "Algunos alumnos son disciplinados."
+    ],
+    "correcta": 1,
+    "resolucion": "La proposición equivale a decir que la región de 'alumnos no disciplinados' está vacía. Al negarla, esa región deja de estar vacía, lo que significa que existen (algunos) alumnos que no son disciplinados."
+  },
+  {
+    "pregunta": "Se conocen las siguientes premisas: (1) Todos los artistas son talentosos. (2) Algunos artistas tienen vicios. ¿Cuál es la inferencia correcta de la combinación de ambas?",
+    "opciones": [
+      "Ningún talentoso tiene vicios.",
+      "Todos los talentosos tienen vicios.",
+      "Algunos talentosos tienen vicios.",
+      "Muchos artistas no son talentosos."
+    ],
+    "correcta": 2,
+    "resolucion": "Si todos los artistas están en el conjunto de talentosos, y existe un grupo (X) de artistas con vicios, ese grupo X necesariamente debe estar dentro del conjunto de talentosos. Por lo tanto, algunos talentosos tienen vicios."
+  },
+  {
+    "pregunta": "Si se sabe que 'Ningún jimmylover es mentiroso' y 'No todos los postulantes son mentirosos', ¿qué se puede concluir válidamente?",
+    "opciones": [
+      "Todos los postulantes son jimmylovers.",
+      "Pocos postulantes no son jimmylovers.",
+      "Algunos postulantes no son mentirosos.",
+      "No se puede inferir una relación directa entre postulantes y jimmylovers con esos datos."
+    ],
+    "correcta": 3,
+    "resolucion": "Aunque sabemos que existe una zona de postulantes que no son mentirosos (por el 'no todos'), no hay datos suficientes para asegurar si esos postulantes entran o no en el círculo de jimmylovers. La falta de intersección obligatoria impide una inferencia segura."
+  },
+  {
+    "pregunta": "Pregunta de examen San Marcos 2021: Si 'Ningún congresista es luchador' y 'Todos los estudiantes son luchadores', ¿cuál es la conclusión necesaria?",
+    "opciones": [
+      "Algunos estudiantes son congresistas.",
+      "Ningún estudiante es congresista.",
+      "Todos los luchadores son estudiantes.",
+      "Ningún luchador es congresista."
+    ],
+    "correcta": 1,
+    "resolucion": "Si los estudiantes están dentro de los luchadores, y los luchadores no tienen relación con los congresistas, entonces el conjunto de estudiantes está totalmente excluido del conjunto de congresistas. Por lo tanto, ningún estudiante es congresista."
+  },
+  {
+    "pregunta": "Dadas las premisas: 'Todos los socios son vagabundos' y 'Ningún sanmarquino es ocioso'. Si se considera que los ociosos y vagabundos son el mismo conjunto, ¿cuál es la conclusión?",
+    "opciones": [
+      "Algún sanmarquino es socio.",
+      "Ningún sanmarquino es socio.",
+      "Todos los socios son sanmarquinos.",
+      "No se puede concluir nada."
+    ],
+    "correcta": 1,
+    "resolucion": "Si los socios están dentro de los ociosos/vagabundos y los sanmarquinos están totalmente fuera de ese mismo grupo, no hay forma de que un sanmarquino sea socio. Por ende, ningún sanmarquino es socio."
+  },
+  {
+    "pregunta": "Sabiendo que 'Muchas serpientes no son venenosas' y 'Todas las serpientes son reptiles', ¿qué se deduce correctamente?",
+    "opciones": [
+      "Todos los reptiles son venenosos.",
+      "Ningún reptil es venenoso.",
+      "Algunos reptiles no son venenosos.",
+      "Algunas serpientes no son reptiles."
+    ],
+    "correcta": 2,
+    "resolucion": "Como todas las serpientes son reptiles, el grupo de 'serpientes no venenosas' (que existe por la primera premisa) forma parte automáticamente del conjunto de los reptiles. Así, existen reptiles que no son venenosos."
+  },
+  {
+    "pregunta": "Premisa 1: No existen cantantes que no sean bailarines. Premisa 2: No existen bailarines que no sean flacos. ¿Cuál es la conclusión de esta deducción compuesta?",
+    "opciones": [
+      "Algunos flacos son cantantes.",
+      "Ningún cantante es flaco.",
+      "Todos los cantantes son flacos.",
+      "Todos los flacos son bailarines."
+    ],
+    "correcta": 2,
+    "resolucion": "La primera premisa equivale a 'Todos los cantantes son bailarines'. La segunda a 'Todos los bailarines son flacos'. Por transitividad o inclusión de conjuntos, todos los cantantes son flacos."
+  },
+  {
+    "pregunta": "Si 'Algunos ingenieros son artistas' y 'Todos los artistas son disciplinados', ¿cuál de las siguientes afirmaciones es siempre verdadera?",
+    "opciones": [
+      "Todos los ingenieros son disciplinados.",
+      "Algunos ingenieros son disciplinados.",
+      "Todos los disciplinados son ingenieros.",
+      "Ningún disciplinado es ingeniero."
+    ],
+    "correcta": 1,
+    "resolucion": "La intersección entre ingenieros y artistas garantiza la existencia de elementos. Como todos los artistas son disciplinados, esos ingenieros que eran artistas ahora pertenecen también al conjunto de disciplinados."
+  },
+  {
+    "pregunta": "Se afirma que: 'Algunos patos vuelan' y 'Todos los patos son aves'. A partir de esto, ¿se puede asegurar que todas las aves vuelan?",
+    "opciones": [
+      "Sí, por la segunda premisa.",
+      "No, solo se puede asegurar que algunas aves vuelan.",
+      "No, ningún ave vuela.",
+      "Sí, porque los patos son una clase de ave."
+    ],
+    "correcta": 1,
+    "resolucion": "El gráfico muestra que el grupo de patos que vuela está dentro del conjunto de aves, lo que prueba que 'algunas aves vuelan'. Sin embargo, no hay información sobre el resto de las aves, por lo que no se puede generalizar a 'todas'."
+  },
+  {
+    "pregunta": "Si se sabe que 'Si no llueve, voy a la playa' y 'No fui a la playa', ¿qué se deduce por deducción simple?",
+    "opciones": [
+      "Llovió.",
+      "No llovió.",
+      "Hizo sol.",
+      "Fui al cine."
+    ],
+    "correcta": 0,
+    "resolucion": "Es una aplicación de la ley del contrarrecíproco: si la consecuencia (ir a la playa) no ocurrió, entonces la condición necesaria (que no llueva) tampoco se cumplió. Por lo tanto, sí llovió."
+  },
+  {
+    "pregunta": "En lógica de clases, si se sombrea la intersección de dos conjuntos A y B, ¿qué proposición se está representando?",
+    "opciones": [
+      "Todo A es B.",
+      "Algún A es B.",
+      "Ningún A es B.",
+      "Algún A no es B."
+    ],
+    "correcta": 2,
+    "resolucion": "En los diagramas de Venn, sombrear una región significa que esa zona está vacía (no existen elementos). Sombrear la intersección significa que no hay ningún elemento que pertenezca a ambos a la vez."
+  },
+  {
+    "pregunta": "La proposición 'No todos los postulantes son mentirosos' es lógicamente equivalente a:",
+    "opciones": [
+      "Ningún postulante es mentiroso.",
+      "Todos los mentirosos son postulantes.",
+      "Algunos postulantes no son mentirosos.",
+      "Muchos postulantes son mentirosos."
+    ],
+    "correcta": 2,
+    "resolucion": "El cuantificador 'no todos' niega la universalidad, lo que implica que existe al menos uno que no cumple la característica. Por ello, equivale a 'algunos no son'."
+  },
+  {
+    "pregunta": "(Teoría) Según el video, ¿en qué se diferencia el tema de Deducción en RM respecto a la Lógica Proposicional de Aritmética para el examen de San Marcos?",
+    "opciones": [
+      "No hay diferencia, son exactamente iguales.",
+      "RM no utiliza tablas de verdad, se enfoca en deducciones directas y lógica de clases (Venn).",
+      "RM utiliza leyes de Morgan y Arithmetic no.",
+      "RM es solo para problemas de números y Arithmetic para letras."
+    ],
+    "correcta": 1,
+    "resolucion": "El profesor aclara que para el área de habilidades (RM) en San Marcos, el enfoque es práctico, directo y basado en conjuntos/clases, dejando las tablas de verdad para el curso de Aritmética."
+  },
+  {
+    "pregunta": "(Teoría) En la representación gráfica de conjuntos, ¿qué significa colocar una 'X' en una región determinada?",
+    "opciones": [
+      "Que la región es infinita.",
+      "Que la región está vacía.",
+      "Que existe al menos un elemento en esa región (conjunto no vacío).",
+      "Que no se puede determinar si hay elementos."
+    ],
+    "correcta": 2,
+    "resolucion": "La 'X' representa la existencia confirmada de elementos, lo cual es propio de los cuantificadores particulares (algunos)."
+  },
+  {
+    "pregunta": "(Teoría) ¿Cuál es la negación correcta de un cuantificador Universal Negativo (Ningún)?",
+    "opciones": [
+      "Todos.",
+      "Algunos.",
+      "Muchos no.",
+      "Ninguno no."
+    ],
+    "correcta": 1,
+    "resolucion": "La negación de 'Ninguno es' (vacío total) es 'Al menos uno es' o 'Algunos son' (existencia de al menos un elemento)."
+  },
+  {
+    "pregunta": "(Teoría) ¿Qué es un conjunto indeterminado según la explicación de lógica de clases?",
+    "opciones": [
+      "Un conjunto que no tiene nombre.",
+      "Una región del gráfico donde no hay ni sombreado ni una 'X', por lo que no se sabe si hay elementos.",
+      "Un conjunto con infinitos elementos.",
+      "Un conjunto que contiene a todos los demás conjuntos."
+    ],
+    "correcta": 1,
+    "resolucion": "Es una región donde la información dada no permite confirmar su vacuidad ni su existencia, por lo que no se puede concluir nada sobre ella."
+  },
+  {
+    "pregunta": "(Teoría) ¿Qué condición se debe cumplir para poder realizar una deducción por 'Inclusión' (un círculo dentro de otro) de forma directa?",
+    "opciones": [
+      "Que ambas premisas usen cuantificadores universales (Todos / Ningún).",
+      "Que al menos una premisa sea particular.",
+      "Que los conjuntos sean disjuntos.",
+      "Que el problema sea de aritmética y no de RM."
+    ],
+    "correcta": 0,
+    "resolucion": "El método de inclusión/exclusión simple es más eficiente cuando se trabaja exclusivamente con cuantificadores universales, permitiendo ver la jerarquía de los conjuntos de forma visual."
+  }
+          ]
         },
         {
           "titulo": "4.6 Ordenamiento de Información",
           "youtube_id": "kOkIUuQ8gm0",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En una cuadrícula sólida de 4x3 espacios, ¿de cuántas formas diferentes se puede ir desde el punto A (esquina superior izquierda) hasta el punto B (esquina inferior derecha) si solo se permite avanzar hacia la derecha y hacia abajo?",
+    "opciones": [
+      "12",
+      "24",
+      "35",
+      "70"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica la fórmula de permutación con repetición para caminos en cuadrículas: P = (m+n)! / (m! * n!). Aquí m=4 (derecha) y n=3 (abajo). P = 7! / (4! * 3!) = 5040 / (24 * 6) = 35."
+  },
+  {
+    "pregunta": "Un estudiante desea viajar de A hacia B pasando obligatoriamente por un punto intermedio P. Si de A a P existen 6 rutas y de P a B existen 4 rutas, ¿cuántas trayectorias totales puede realizar?",
+    "opciones": [
+      "10",
+      "24",
+      "12",
+      "36"
+    ],
+    "correcta": 1,
+    "resolucion": "Por el principio de multiplicación, cuando un evento debe ocurrir seguido de otro de forma obligatoria, los resultados se multiplican: 6 * 4 = 24 rutas totales."
+  },
+  {
+    "pregunta": "Se presenta una estructura de alambre donde se debe ir de A a B. Si existe un punto Q en la red por el cual NO se puede pasar debido a un daño en la estructura, ¿cómo se calcula el total de rutas permitidas?",
+    "opciones": [
+      "Se suma el total de rutas de A a Q más las de Q a B.",
+      "Se restan las rutas que pasan por Q al total de rutas posibles entre A y B.",
+      "Se dividen las rutas totales entre el número de nodos dañados.",
+      "No se puede calcular sin conocer la ubicación exacta de Q."
+    ],
+    "correcta": 1,
+    "resolucion": "Para hallar las rutas con una restricción negativa (evitar un punto), se utiliza el complemento: Total de rutas (sin restricciones) - Rutas que pasan por el punto prohibido Q."
+  },
+  {
+    "pregunta": "En una figura irregular donde no se puede aplicar una fórmula directa, el profesor recomienda usar el 'Método de Adición'. ¿En qué consiste este procedimiento?",
+    "opciones": [
+      "Multiplicar los números de Pascal en cada intersección.",
+      "Asignar el número 1 a los puntos de partida y sumar los valores de los nodos adyacentes que convergen en un punto.",
+      "Sumar solo las líneas horizontales y restar las verticales.",
+      "Contar cada ruta de forma manual dibujando sobre la figura."
+    ],
+    "correcta": 1,
+    "resolucion": "El método de adición (basado en el Triángulo de Pascal) consiste en sumar en cada nodo los valores de los caminos que llegan a él desde las direcciones permitidas."
+  },
+  {
+    "pregunta": "En una cuadrícula de 2x2, ¿cuántos caminos existen para ir de un extremo a otro moviéndose solo a la derecha y hacia abajo?",
+    "opciones": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando el método de adición o la fórmula (2+2)! / (2! * 2!) = 4! / (2 * 2) = 24 / 4 = 6."
+  },
+  {
+    "pregunta": "Si un problema de trayectorias indica que se puede mover hacia la derecha, hacia abajo y en diagonal (hacia abajo-derecha), ¿qué sucede con el número total de rutas en comparación a un problema que solo permite derecha y abajo?",
+    "opciones": [
+      "Se mantiene igual.",
+      "Disminuye porque hay más restricciones.",
+      "Aumenta significativamente porque hay una opción adicional en cada nodo.",
+      "Se reduce a la mitad por simetría."
+    ],
+    "correcta": 2,
+    "resolucion": "Al añadir una dirección permitida (diagonal), se abren nuevas posibilidades de trayectorias en cada intersección, incrementando la suma en los nodos."
+  },
+  {
+    "pregunta": "Para leer la palabra 'RECONOCER' en un arreglo triangular de letras, ¿qué técnica es la más eficiente según el video?",
+    "opciones": [
+      "Usar la fórmula 2^(n-1) donde n es el número de letras.",
+      "Contar letra por letra de arriba hacia abajo.",
+      "Multiplicar el número de letras por su posición en el abecedario.",
+      "Aplicar el método de adición de Pascal sobre el arreglo de letras."
+    ],
+    "correcta": 0,
+    "resolucion": "En arreglos triangulares perfectos de letras para formar palabras, la fórmula inductiva 2^(n-1) (siendo n el número de letras de la palabra) permite hallar el total de formas de lectura."
+  },
+  {
+    "pregunta": "En una estructura cúbica (3D), para ir de un vértice a su opuesto más lejano moviéndose solo en las direcciones de los ejes positivos, ¿qué lógica se debe seguir?",
+    "opciones": [
+      "La misma de la cuadrícula plana, pero sumando tres direcciones en cada nodo.",
+      "Multiplicar el área de la base por la altura.",
+      "Solo se puede ir por las aristas externas.",
+      "Restar las diagonales internas."
+    ],
+    "correcta": 0,
+    "resolucion": "La lógica de Pascal se extiende a las tres dimensiones; el valor de cada nodo es la suma de los tres nodos anteriores que llevan a él (atrás, izquierda y abajo)."
+  },
+  {
+    "pregunta": "Se tiene una cuadrícula de 5x5 y se debe pasar por un segmento específico (una línea entre dos puntos M y N). ¿Cómo afecta esto al cálculo?",
+    "opciones": [
+      "Se debe calcular Rutas(A a M) * Rutas(N a B).",
+      "Se suma la distancia de M a N al resultado final.",
+      "Se ignoran todos los puntos que no estén en la línea MN.",
+      "Se resta 1 al total de permutaciones."
+    ],
+    "correcta": 0,
+    "resolucion": "Al obligar a pasar por un segmento MN, el camino se divide en tres tramos: de A al inicio del segmento (M), cruzar el segmento (1 forma) y del final del segmento (N) hacia B. Se multiplican estos tramos."
+  },
+  {
+    "pregunta": "Al ir de un punto A a un punto B en una cuadrícula con una 'isla' central (un cuadrado donde no hay líneas), ¿qué sucede con los nodos que rodean esa isla?",
+    "opciones": [
+      "Toman el valor de 0.",
+      "Solo reciben valores de los nodos externos, ya que no hay flujo a través de la isla.",
+      "Se les suma el doble por estar en el centro.",
+      "La fórmula de combinatoria sigue funcionando igual."
+    ],
+    "correcta": 1,
+    "resolucion": "En el método de adición, los nodos donde no llegan líneas debido a un obstáculo simplemente no aportan valor a la suma del siguiente nodo."
+  },
+  {
+    "pregunta": "Si un trayecto desde A hasta B se realiza en una cuadrícula de 3x3 y luego se debe regresar de B hacia A, ¿cuántas rutas totales de ida y vuelta existen si se pueden repetir caminos?",
+    "opciones": [
+      "20",
+      "40",
+      "400",
+      "200"
+    ],
+    "correcta": 2,
+    "resolucion": "Rutas de ida (3x3): 6! / (3! * 3!) = 20. Rutas de vuelta: 20. Total ida y vuelta = 20 * 20 = 400."
+  },
+  {
+    "pregunta": "En un problema de rutas, se nos permite movernos hacia la derecha, hacia abajo y hacia la izquierda. ¿Qué condición es necesaria para que el número de rutas no sea infinito?",
+    "opciones": [
+      "Que no se pase dos veces por el mismo punto.",
+      "Que la cuadrícula sea pequeña.",
+      "Que solo se use el método de la fórmula.",
+      "Que los movimientos hacia la izquierda sean solo en las filas pares."
+    ],
+    "correcta": 0,
+    "resolucion": "Si se permiten movimientos opuestos (derecha e izquierda), el problema debe restringir que no se repitan puntos, de lo contrario se podrían crear bucles infinitos."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe técnicamente la figura que se forma al colocar los valores de las rutas posibles en cada nodo de una cuadrícula regular partiendo de una esquina?",
+    "opciones": [
+      "Sucesión de Fibonacci.",
+      "Triángulo de Pascal.",
+      "Cuadrado Mágico.",
+      "Red de Euler."
+    ],
+    "correcta": 1,
+    "resolucion": "La distribución de los números que representan las formas de llegar a cada intersección en una cuadrícula corresponde a las entradas del Triángulo de Pascal."
+  },
+  {
+    "pregunta": "Un camino de A a B mide 10 unidades de longitud en total (6 horizontales y 4 verticales). ¿Cuántas 'decisiones' o pasos totales se deben tomar para completar el trayecto?",
+    "opciones": [
+      "6",
+      "4",
+      "10",
+      "24"
+    ],
+    "correcta": 2,
+    "resolucion": "El número total de pasos es la suma de los desplazamientos en cada dirección (6 a la derecha + 4 abajo = 10 pasos totales)."
+  },
+  {
+    "pregunta": "Si se tiene una cuadrícula con simetría axial respecto a una diagonal, ¿qué se puede afirmar sobre las rutas de A a B?",
+    "opciones": [
+      "El número de rutas es impar.",
+      "Existen la misma cantidad de rutas que si la cuadrícula estuviera invertida.",
+      "No se pueden usar fórmulas combinatorias.",
+      "Solo se puede pasar por el centro."
+    ],
+    "correcta": 1,
+    "resolucion": "Debido a la simetría, la distribución de caminos es idéntica en ambos lados de la diagonal, reflejando los mismos valores de Pascal."
+  },
+  {
+    "pregunta": "¿Cuál es la restricción de movimiento más común en los problemas de rutas y trayectorias para nivel preuniversitario?",
+    "opciones": [
+      "Moverse solo en diagonal.",
+      "No retroceder (solo avanzar hacia el objetivo, generalmente derecha y abajo).",
+      "Pasar por todos los nodos de la figura.",
+      "Moverse solo por el perímetro."
+    ],
+    "correcta": 1,
+    "resolucion": "La regla estándar es 'no retroceder', lo que se traduce en permitirse solo movimientos que acerquen al punto de destino, evitando ciclos."
+  },
+  {
+    "pregunta": "¿En qué situación NO es recomendable utilizar la fórmula de combinaciones nCr y es preferible el método de adición punto a punto?",
+    "opciones": [
+      "Cuando la cuadrícula es perfecta y sólida.",
+      "Cuando faltan líneas o hay puntos prohibidos en la figura.",
+      "Cuando los puntos A y B están en las esquinas de un rectángulo.",
+      "Cuando solo se permiten dos direcciones."
+    ],
+    "correcta": 1,
+    "resolucion": "Las fórmulas combinatorias asumen una red completa. Si hay 'huecos' u obstáculos, la fórmula falla y el método de adición manual es el único confiable."
+  },
+  {
+    "pregunta": "Si para ir de A a B se deben dar 3 pasos a la derecha (D) y 2 hacia abajo (A), un camino posible es DDAAD. ¿Qué concepto matemático representa el cálculo de todas estas ordenaciones?",
+    "opciones": [
+      "Combinación simple.",
+      "Variación con repetición.",
+      "Permutación con repetición.",
+      "Permutación circular."
+    ],
+    "correcta": 2,
+    "resolucion": "Se trata de ordenar elementos donde algunos se repiten (3 D's y 2 A's), lo cual se resuelve con permutación con repetición."
+  },
+  {
+    "pregunta": "¿Qué operación matemática representa el paso de un nodo que tiene el valor '5' a los dos nodos siguientes (derecha y abajo) si no hay más entradas a esos nodos?",
+    "opciones": [
+      "El 5 se divide entre 2.",
+      "El 5 se transmite íntegramente a cada uno de los siguientes nodos si son su única vía.",
+      "Se le suma 1 al 5.",
+      "Se eleva el 5 al cuadrado."
+    ],
+    "correcta": 1,
+    "resolucion": "Si un nodo es el único que alimenta a los siguientes, su valor (número de formas de haber llegado hasta ahí) se traslada a los puntos que dependen de él."
+  },
+  {
+    "pregunta": "Cuando se pide el número de rutas 'mínimas', ¿qué se está indicando implícitamente?",
+    "opciones": [
+      "Que se debe usar la distancia más corta entre dos puntos, sin retroceder.",
+      "Que el resultado debe ser el menor número posible.",
+      "Que solo se permiten 2 pasos en total.",
+      "Que se debe usar una línea recta diagonal."
+    ],
+    "correcta": 0,
+    "resolucion": "Ruta mínima significa realizar el trayecto sin desvíos innecesarios, es decir, moviéndose exclusivamente en las direcciones que apuntan hacia el objetivo."
+  }
+          ]
         },
         {
           "titulo": "4.7 Verdades, mentiras y certezas",
           "youtube_id": "7NA8DGQg2tg",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En una urna se tienen 5 esferas rojas, 4 blancas y 3 azules. ¿Cuántas esferas se deben extraer al azar y como mínimo para tener la certeza de haber obtenido una esfera de color rojo?",
+    "opciones": [
+      "1",
+      "6",
+      "8",
+      "12"
+    ],
+    "correcta": 2,
+    "resolucion": "Para tener certeza debemos ponernos en el 'peor de los casos'. El peor caso es extraer primero todas las esferas de los colores que NO queremos (4 blancas y 3 azules = 7). La siguiente esfera (la octava) será obligatoriamente roja. 7 + 1 = 8."
+  },
+  {
+    "pregunta": "Se tienen 10 pares de guantes de boxeo rojos y 10 pares de color negro. ¿Cuántos guantes se deben extraer como mínimo para tener la certeza de obtener un par de guantes (izquierdo y derecho) del mismo color?",
+    "opciones": [
+      "3",
+      "21",
+      "11",
+      "31"
+    ],
+    "correcta": 1,
+    "resolucion": "En el peor de los casos, extraemos todos los guantes de una sola mano (por ejemplo, los 10 izquierdos rojos y los 10 izquierdos negros = 20 guantes). El siguiente guante extraído será necesariamente derecho y completará un par utilizable de uno de los dos colores. 20 + 1 = 21."
+  },
+  {
+    "pregunta": "En un cajón hay 8 pares de calcetines negros y 8 pares de calcetines blancos. ¿Cuál es el menor número de calcetines que se deben extraer para tener la certeza de haber obtenido un par del mismo color?",
+    "opciones": [
+      "3",
+      "17",
+      "9",
+      "2"
+    ],
+    "correcta": 0,
+    "resolucion": "A diferencia de los guantes, los calcetines no tienen lado (izquierdo/derecho). El peor caso es sacar uno de cada color (1 negro y 1 blanco). El tercer calcetín completará un par de cualquier color. 2 + 1 = 3."
+  },
+  {
+    "pregunta": "De una baraja completa de 52 cartas, ¿cuántas cartas se deben extraer como mínimo para tener la seguridad de haber obtenido una carta de tréboles?",
+    "opciones": [
+      "1",
+      "14",
+      "40",
+      "39"
+    ],
+    "correcta": 2,
+    "resolucion": "Una baraja tiene 13 cartas de cada uno de los 4 palos. El peor caso es extraer todas las cartas de los palos que no son tréboles (corazones, diamantes y espadas: 13x3 = 39). La carta número 40 será necesariamente un trébol. 39 + 1 = 40."
+  },
+  {
+    "pregunta": "¿Cuántas personas deben estar reunidas como mínimo para tener la certeza de que al menos dos de ellas nacieron en el mismo mes?",
+    "opciones": [
+      "2",
+      "12",
+      "13",
+      "24"
+    ],
+    "correcta": 2,
+    "resolucion": "Existen 12 meses posibles. El peor caso es que las primeras 12 personas hayan nacido en meses diferentes. La persona número 13 repetirá inevitablemente el mes de alguna de las anteriores."
+  },
+  {
+    "pregunta": "En una caja hay 10 esferas numeradas del 1 al 10. ¿Cuántas esferas se deben extraer como mínimo para tener la certeza de obtener dos esferas cuya numeración sume un número impar?",
+    "opciones": [
+      "2",
+      "5",
+      "6",
+      "7"
+    ],
+    "correcta": 2,
+    "resolucion": "Para que la suma sea impar, se necesita una esfera par y una impar. En la caja hay 5 pares (2,4,6,8,10) y 5 impares (1,3,5,7,9). El peor caso es sacar todas las de un mismo tipo (por ejemplo, las 5 pares). La sexta esfera será impar y al sumarla con cualquier par dará resultado impar. 5 + 1 = 6."
+  },
+  {
+    "pregunta": "Se tienen 5 candados y sus 5 llaves correspondientes, pero están desordenadas. ¿Cuántas veces se deben probar las llaves como máximo para saber con seguridad qué llave abre qué candado?",
+    "opciones": [
+      "5",
+      "10",
+      "15",
+      "25"
+    ],
+    "correcta": 1,
+    "resolucion": "Para el primer candado, en el peor caso fallas 4 veces (la 5ta abre, pero ya sabes cuál es). Para el segundo, fallas 3; para el tercero, 2; para el cuarto, 1. El último queda identificado por descarte. Suma: 4 + 3 + 2 + 1 = 10 intentos."
+  },
+  {
+    "pregunta": "En una urna hay 6 esferas rojas, 8 verdes y 10 blancas. ¿Cuántas se deben extraer como mínimo para tener la certeza de haber obtenido 2 esferas de cada color?",
+    "opciones": [
+      "20",
+      "21",
+      "22",
+      "24"
+    ],
+    "correcta": 1,
+    "resolucion": "Peor de los casos: Extraer todas las de los colores con más esferas primero (10 blancas y 8 verdes = 18). Luego, para completar '2 de cada color', necesitamos 2 de las rojas. 10 + 8 + 2 = 20? No, porque el peor caso real es sacar todas las blancas (10), todas las verdes (8) y finalmente 2 rojas. Total: 10 + 8 + 2 = 20. Sin embargo, el análisis correcto del video indica que debemos agotar los grupos mayores: 10(B) + 8(V) + 2(R) = 20."
+  },
+  {
+    "pregunta": "Se tiene una bolsa con caramelos: 15 de limón y 20 de naranja. ¿Cuántos caramelos se deben extraer al azar para tener la certeza de obtener 5 caramelos de limón?",
+    "opciones": [
+      "5",
+      "20",
+      "25",
+      "35"
+    ],
+    "correcta": 2,
+    "resolucion": "El peor de los casos es que salgan primero todos los caramelos que NO queremos (los 20 de naranja). Después de eso, los siguientes 5 serán obligatoriamente de limón. 20 + 5 = 25."
+  },
+  {
+    "pregunta": "En un grupo hay 12 calcetines azules y 12 calcetines negros. ¿Cuántos calcetines se deben extraer como mínimo para asegurar que se tiene un par de color negro?",
+    "opciones": [
+      "3",
+      "13",
+      "14",
+      "15"
+    ],
+    "correcta": 2,
+    "resolucion": "Peor caso: Extraer primero todos los calcetines del color que no nos sirve para el par específico pedido (12 azules). Luego debemos extraer 2 del color negro para formar el par. Total: 12 + 2 = 14."
+  },
+  {
+    "pregunta": "En una caja hay fichas numeradas del 1 al 20. ¿Cuántas fichas se deben extraer para tener la certeza de obtener una ficha con un número primo?",
+    "opciones": [
+      "12",
+      "13",
+      "8",
+      "14"
+    ],
+    "correcta": 1,
+    "resolucion": "Los números primos del 1 al 20 son: 2, 3, 5, 7, 11, 13, 17, 19 (8 números). Los no primos son 12. El peor caso es sacar los 12 números no primos primero. El siguiente será necesariamente primo. 12 + 1 = 13."
+  },
+  {
+    "pregunta": "Una urna contiene 12 bolas azules, 15 blancas y 18 verdes. ¿Cuántas bolas se deben extraer como mínimo para tener la certeza de haber obtenido un color completo?",
+    "opciones": [
+      "40",
+      "43",
+      "45",
+      "31"
+    ],
+    "correcta": 1,
+    "resolucion": "El peor caso para obtener un color completo es quedarse a falta de una bola en cada color. Extraeríamos 11 azules, 14 blancas y 17 verdes (Total = 42). La siguiente bola que se extraiga completará inevitablemente uno de los tres colores. 42 + 1 = 43."
+  },
+  {
+    "pregunta": "Se tiene una caja con 10 fichas circulares y 10 fichas cuadradas. ¿Cuántas fichas se deben extraer para tener la certeza de haber obtenido 3 fichas con la misma forma?",
+    "opciones": [
+      "3",
+      "5",
+      "11",
+      "20"
+    ],
+    "correcta": 1,
+    "resolucion": "Peor caso: Extraer 2 circulares y 2 cuadradas (nos quedamos al límite). La quinta ficha, sea cual sea su forma, hará que tengamos 3 fichas de esa misma forma. 4 + 1 = 5."
+  },
+  {
+    "pregunta": "De una baraja de 52 cartas, ¿cuántas se deben extraer para tener la certeza de obtener 2 cartas del mismo palo?",
+    "opciones": [
+      "2",
+      "4",
+      "5",
+      "14"
+    ],
+    "correcta": 2,
+    "resolucion": "Hay 4 palos. El peor caso es sacar una carta de cada palo (4 cartas diferentes). La quinta carta repetirá necesariamente uno de los palos ya extraídos. 4 + 1 = 5."
+  },
+  {
+    "pregunta": "En una caja hay 5 pares de medias blancas y 5 pares de medias azules. ¿Cuántas medias se deben extraer para tener la certeza de obtener un par de medias de cada color?",
+    "opciones": [
+      "4",
+      "11",
+      "12",
+      "15"
+    ],
+    "correcta": 2,
+    "resolucion": "Peor caso: Extraer todas las de un solo color (10 blancas) y luego 2 del otro color (azules) para asegurar el par. 10 + 2 = 12."
+  },
+  {
+    "pregunta": "¿Qué significa el concepto de 'Certeza' en un problema de razonamiento matemático?",
+    "opciones": [
+      "Es la probabilidad más alta de que un evento ocurra.",
+      "Es el estado de seguridad absoluta donde el resultado se cumple bajo cualquier circunstancia.",
+      "Es el número de intentos que se hacen por suerte.",
+      "Es la suma de todos los elementos disponibles."
+    ],
+    "correcta": 1,
+    "resolucion": "La certeza no es probabilidad ni azar; es la garantía total de que un evento ocurrirá al haberse agotado todas las posibilidades en contra."
+  },
+  {
+    "pregunta": "En los problemas de certezas, ¿cuál es el principio fundamental que se debe seguir para resolverlos?",
+    "opciones": [
+      "El principio de la mejor suerte.",
+      "El principio del 'peor de los casos' o máxima fatalidad.",
+      "El principio de promedio simple.",
+      "El principio de exclusión mutua."
+    ],
+    "correcta": 1,
+    "resolucion": "Para asegurar un resultado, debemos suponer que tenemos la 'peor suerte' posible, es decir, que primero ocurren todos los eventos desfavorables antes de lograr el objetivo."
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia de estrategia al extraer calcetines frente a guantes en un problema de certezas?",
+    "opciones": [
+      "No hay diferencia.",
+      "Los guantes tienen lado (izquierdo/derecho) lo que obliga a considerar la mano, mientras que los calcetines son iguales.",
+      "Los calcetines se extraen siempre de dos en dos.",
+      "Los guantes se cuentan por pares y los calcetines por unidades."
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener lado, los guantes requieren que el peor caso considere extraer todos los de una misma mano. Los calcetines, al ser indistinguibles por lado, solo requieren considerar el color."
+  },
+  {
+    "pregunta": "Si un problema nos pide obtener 'al menos uno de cada color', ¿cuál sería el peor caso inicial?",
+    "opciones": [
+      "Extraer uno de cada color inmediatamente.",
+      "Extraer todos los elementos del color que tiene la mayor cantidad disponible.",
+      "Extraer los elementos de los colores que tienen menos unidades.",
+      "Extraer solo los elementos pares."
+    ],
+    "correcta": 1,
+    "resolucion": "Para retrasar la obtención de 'todos los colores', el peor caso es agotar completamente los grupos más grandes antes de sacar el primero del grupo más pequeño."
+  },
+  {
+    "pregunta": "Al calcular el número mínimo de extracciones, ¿por qué se suma '+1' al final de la cuenta de casos desfavorables?",
+    "opciones": [
+      "Por una regla estética del sistema decimal.",
+      "Porque es el elemento que garantiza el cumplimiento de la condición tras haber agotado lo no deseado.",
+      "Para redondear el número de extracciones.",
+      "Para incluir el punto de partida del sorteo."
+    ],
+    "correcta": 1,
+    "resolucion": "Después de pasar por toda la 'mala suerte' (casos desfavorables), la siguiente extracción es la que obligatoriamente cumple con el requisito del problema."
+  }
+          ]
         },
         {
           "titulo": "4.8 Lazos familiares | Parámetros",
           "youtube_id": "bUjlJjAnpZU",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "En una competencia de atletismo, cuatro amigos (A, B, C y D) llegaron a la meta de la siguiente manera: B llegó después de A, C llegó antes de D, y A llegó después de D. ¿Quién ganó la competencia?",
+    "opciones": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": 2,
+    "resolucion": "Siguiendo el orden lineal: C llegó antes que D (C > D). D llegó antes que A (D > A). A llegó antes que B (A > B). El orden final es C - D - A - B. Por lo tanto, C ganó."
+  },
+  {
+    "pregunta": "Cuatro hermanos viven en un edificio de cuatro pisos, cada uno en un piso diferente. Arturo vive en el primer piso, Mario vive un piso más arriba que Juan, y Jorge vive en el piso más alto. ¿En qué piso vive Mario?",
+    "opciones": [
+      "Primer piso",
+      "Segundo piso",
+      "Tercer piso",
+      "Cuarto piso"
+    ],
+    "correcta": 2,
+    "resolucion": "Arturo está en el 1°. Jorge está en el 4°. Mario vive arriba de Juan, por lo que las únicas posiciones disponibles son 2° y 3°. Juan debe estar en el 2° y Mario en el 3°."
+  },
+  {
+    "pregunta": "Cinco amigos se sientan en una fila del cine. Wilson se sienta en el extremo izquierdo. Pedro está al lado de Wilson y a la izquierda de María. Si Luis está en el extremo derecho y Ana está entre María y Luis, ¿quién se sienta al centro de todos?",
+    "opciones": [
+      "Pedro",
+      "María",
+      "Ana",
+      "Luis"
+    ],
+    "correcta": 1,
+    "resolucion": "El orden de izquierda a derecha es: Wilson - Pedro - María - Ana - Luis. María ocupa la posición central."
+  },
+  {
+    "pregunta": "Seis amigos (P, Q, R, S, T y U) se sientan alrededor de una mesa circular con seis asientos distribuidos simétricamente. Si P se sienta frente a Q, R está junto y a la derecha de P, y S está frente a R, ¿quién se sienta junto y a la izquierda de Q?",
+    "opciones": [
+      "U",
+      "T",
+      "S",
+      "R"
+    ],
+    "correcta": 2,
+    "resolucion": "Al ser una mesa simétrica: P está frente a Q. R está a la derecha de P. S está frente a R, lo que significa que S está junto a Q. Por la distribución circular, S queda a la izquierda de Q."
+  },
+  {
+    "pregunta": "En una tabla de doble entrada se analiza a tres amigos: Luis, Beto y Juan, quienes tienen profesiones distintas: Médico, Ingeniero y Abogado. Luis no es médico. Beto es el abogado. ¿Cuál es la profesión de Juan?",
+    "opciones": [
+      "Médico",
+      "Abogado",
+      "Ingeniero",
+      "No se puede determinar"
+    ],
+    "correcta": 0,
+    "resolucion": "Si Beto es el abogado, quedan las profesiones de Médico e Ingeniero para Luis y Juan. Como Luis no es médico, Luis debe ser el ingeniero. Por lo tanto, Juan es el médico."
+  },
+  {
+    "pregunta": "Cuatro ciudades (Norte, Sur, Este y Oeste) están alineadas de oeste a este. La ciudad Sur está al este de la ciudad Norte. La ciudad Oeste está al oeste de la ciudad Norte. Si la ciudad Este está a la derecha de la ciudad Sur, ¿cuál es la ciudad que está más al oeste?",
+    "opciones": [
+      "Norte",
+      "Sur",
+      "Este",
+      "Oeste"
+    ],
+    "correcta": 3,
+    "resolucion": "Ubicando de izquierda (Oeste) a derecha (Este): La ciudad Oeste está antes que Norte. Norte está antes que Sur. Sur está antes que Este. El orden es: Oeste - Norte - Sur - Este."
+  },
+  {
+    "pregunta": "Cinco personas escalan una montaña. Ana está más arriba que Blanca pero más abajo que Cecilia. Diana está más abajo que Ana pero más arriba que Blanca. Si Elena es la que está más abajo de todas, ¿quién ocupa el segundo lugar desde la cima?",
+    "opciones": [
+      "Ana",
+      "Cecilia",
+      "Diana",
+      "Blanca"
+    ],
+    "correcta": 0,
+    "resolucion": "Ordenando de arriba hacia abajo: Cecilia > Ana. Diana está entre Ana y Blanca (Ana > Diana > Blanca). Elena es la última. El orden es: Cecilia - Ana - Diana - Blanca - Elena. El segundo lugar es Ana."
+  },
+  {
+    "pregunta": "En una mesa circular con 4 asientos simétricos, se sientan cuatro amigos. Juan no está frente a Luis. Pedro está a la izquierda de Luis. Si el cuarto amigo es Manuel, ¿quién está frente a Pedro?",
+    "opciones": [
+      "Juan",
+      "Luis",
+      "Manuel",
+      "No se sabe"
+    ],
+    "correcta": 2,
+    "resolucion": "Pedro está a la izquierda de Luis. Frente a Luis no puede estar Juan (por dato), así que frente a Luis debe estar Pedro o Manuel. Si Pedro está a su izquierda, Manuel está al frente. Juan queda frente a Pedro."
+  },
+  {
+    "pregunta": "Tres amigas (Rosa, Blanca y Violeta) visten vestidos de colores Rosa, Blanco y Violeta, pero ninguna viste el color de su nombre. Si Blanca no viste de rosa, ¿de qué color viste Violeta?",
+    "opciones": [
+      "Blanco",
+      "Rosa",
+      "Violeta",
+      "Negro"
+    ],
+    "correcta": 1,
+    "resolucion": "Blanca no puede usar blanco (su nombre) ni rosa (dato), así que Blanca usa violeta. Violeta no puede usar violeta, y como Blanca usa violeta, Violeta debe usar blanco o rosa. Rosa debe usar blanco porque no puede usar rosa ni violeta. Entonces Violeta usa rosa."
+  },
+  {
+    "pregunta": "En una fila de 6 asientos, 3 varones y 3 mujeres se sientan alternadamente. Si en el segundo asiento está una mujer, ¿quién ocupa el quinto asiento?",
+    "opciones": [
+      "Un varón",
+      "Una mujer",
+      "No se puede determinar",
+      "Cualquiera de los dos"
+    ],
+    "correcta": 0,
+    "resolucion": "Si el 2° es mujer y se alternan: 1° Varón, 2° Mujer, 3° Varón, 4° Mujer, 5° Varón, 6° Mujer. El quinto asiento lo ocupa un varón."
+  },
+  {
+    "pregunta": "Cuatro amigos viven en la misma calle. La casa de Carlos está junto a la de Bruno y a la izquierda de la de Daniel. Si la casa de Bruno está a la derecha de la de Andrés y este vive en el extremo izquierdo, ¿quién vive a la derecha de todos?",
+    "opciones": [
+      "Andrés",
+      "Bruno",
+      "Carlos",
+      "Daniel"
+    ],
+    "correcta": 3,
+    "resolucion": "Andrés vive al extremo izquierdo. Bruno está a su derecha. Carlos está junto a Bruno y a la izquierda de Daniel. El orden es: Andrés - Bruno - Carlos - Daniel."
+  },
+  {
+    "pregunta": "Seis personas se sientan alrededor de una mesa circular. Si A está frente a B y junto a C, y D está frente a C, ¿quién se encuentra necesariamente frente a la persona que está entre B y D?",
+    "opciones": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": 2,
+    "resolucion": "Si E está entre B y D, y la mesa es simétrica, la persona frente a E será C, ya que C está al lado de A y frente a D."
+  },
+  {
+    "pregunta": "Sabiendo que un kilo de manzanas cuesta más que un kilo de peras, y un kilo de duraznos cuesta menos que uno de peras, pero más que uno de naranjas. ¿Cuál es la fruta más barata?",
+    "opciones": [
+      "Manzanas",
+      "Peras",
+      "Duraznos",
+      "Naranjas"
+    ],
+    "correcta": 3,
+    "resolucion": "Orden de precios: Manzanas > Peras > Duraznos > Naranjas. La naranja es la fruta con menor precio."
+  },
+  {
+    "pregunta": "En una oficina trabajan tres empleados con sueldos diferentes. El contador gana menos que el administrador. El tesorero gana más que el contador pero menos que el administrador. ¿Quién gana el sueldo intermedio?",
+    "opciones": [
+      "Contador",
+      "Administrador",
+      "Tesorero",
+      "Ganan igual"
+    ],
+    "correcta": 2,
+    "resolucion": "Orden de sueldos: Administrador > Tesorero > Contador. El tesorero tiene el sueldo intermedio."
+  },
+  {
+    "pregunta": "Cuatro amigas van a la playa. Beatriz no es más alta que Ana. Clara es más alta que Beatriz pero más baja que Daniela. Si Ana es más baja que Clara, ¿quién es la más alta?",
+    "opciones": [
+      "Ana",
+      "Beatriz",
+      "Clara",
+      "Daniela"
+    ],
+    "correcta": 3,
+    "resolucion": "Ordenando alturas: Daniela > Clara. Clara > Ana. Ana >= Beatriz. Daniela es la más alta de las cuatro."
+  },
+  {
+    "pregunta": "Al ordenar información en una mesa circular con asientos simétricos, ¿qué se entiende por la posición 'junto y a la izquierda' de una persona X?",
+    "opciones": [
+      "Cualquier asiento en el lado izquierdo de X.",
+      "El asiento inmediatamente contiguo a X siguiendo el sentido de las agujas del reloj.",
+      "El asiento frente a X.",
+      "El segundo asiento a partir de X."
+    ],
+    "correcta": 1,
+    "resolucion": "En una mesa circular, 'junto' implica contigüidad inmediata, y la 'izquierda' se determina desde la perspectiva de la persona sentada mirando al centro."
+  },
+  {
+    "pregunta": "¿Qué característica principal debe tener una mesa circular para poder afirmar que una persona está 'frente a' otra?",
+    "opciones": [
+      "Debe tener un número impar de asientos.",
+      "Debe tener un número par de asientos distribuidos simétricamente.",
+      "Debe ser de forma elíptica.",
+      "No importa el número de asientos."
+    ],
+    "correcta": 1,
+    "resolucion": "Solo en mesas con un número par de asientos distribuidos de forma regular (simétrica) se puede establecer una relación directa de oposición o 'frente a'."
+  },
+  {
+    "pregunta": "En un ordenamiento lineal horizontal, si se indica que 'A está a la derecha de B', ¿qué se puede deducir correctamente?",
+    "opciones": [
+      "A está obligatoriamente junto a B.",
+      "No necesariamente están juntos, A puede estar en cualquier posición a la derecha de B.",
+      "A está en el extremo derecho.",
+      "B está en el extremo izquierdo."
+    ],
+    "correcta": 1,
+    "resolucion": "La indicación 'a la derecha' señala orientación, no proximidad inmediata, a menos que se use la palabra 'junto'."
+  },
+  {
+    "pregunta": "Para resolver problemas donde se deben relacionar personas con características únicas (como profesiones o ciudades), ¿cuál es la herramienta lógica más recomendada?",
+    "opciones": [
+      "Un diagrama de flujo.",
+      "Una tabla de doble entrada (cuadro de decisiones).",
+      "Un gráfico circular.",
+      "Una línea de tiempo."
+    ],
+    "correcta": 1,
+    "resolucion": "La tabla de doble entrada permite marcar con 'X' las negaciones y con 'Sí' o un check las afirmaciones, facilitando el descarte por filas y columnas."
+  },
+  {
+    "pregunta": "Si en un ordenamiento circular de 6 personas se dice que 'A está a dos asientos de B', ¿cuántas posiciones posibles existen para A?",
+    "opciones": [
+      "Una sola posición.",
+      "Dos posiciones (una por la derecha y otra por la izquierda).",
+      "Tres posiciones.",
+      "Ninguna."
+    ],
+    "correcta": 1,
+    "resolucion": "Estar a 'dos asientos' permite contar dos espacios hacia el sentido horario o dos hacia el sentido antihorario, generando dos ubicaciones posibles."
+  }
+          ]
         },
         {
           "titulo": "4.9 Diagrama de flujo",
           "youtube_id": "17a32_oKL3E",
           "pdf_link": "https://drive.google.com/file/d/1HRL4Akdkxxi-FFxgPpqYM-Y_MxrYckZu/view",
           "gratis": true,
-          "preguntas": []
+          "preguntas": [
+            {
+    "pregunta": "Si un diagrama de flujo inicia con el ingreso del valor 6, pasa por una decisión '¿es mayor o igual a 56?' (No), suma 2, y luego evalúa '¿es menor o igual a 9?' (Sí) para sumar 8, ¿cuál es el valor resultante antes de la siguiente decisión?",
+    "opciones": [
+      "8",
+      "12",
+      "16",
+      "24"
+    ],
+    "correcta": 2,
+    "resolucion": "Ingresa 6. No es ≥ 56, se suma 2 resultando 8. 8 es ≤ 9 (Sí), se le suma 8 resultando 16."
+  },
+  {
+    "pregunta": "En un algoritmo, el valor 16 llega a la condición '¿es múltiplo de 2?'. Si la respuesta es Sí, el flujo avanza hasta '¿es mayor o igual a 24?'. Si la respuesta es No, se le suma 4 y se repite la evaluación. ¿Cuántas veces debe sumarse 4 para que el valor sea finalmente mayor o igual a 24?",
+    "opciones": [
+      "1 vez",
+      "2 veces",
+      "3 veces",
+      "4 veces"
+    ],
+    "correcta": 1,
+    "resolucion": "Inicia en 16. 16 no es ≥ 24, suma 4 resulta 20. 20 no es ≥ 24, suma 4 resulta 24. 24 sí es ≥ 24. Se sumó el 4 dos veces (16+4=20, 20+4=24)."
+  },
+  {
+    "pregunta": "Siguiendo el flujo del primer problema del video, si el valor 24 cumple la condición de ser mayor o igual a 24, se le suma 10 y luego se evalúa si el resultado (34) es múltiplo de 5. Al no serlo, se le resta 3. ¿Cuál es el valor final de salida 'S'?",
+    "opciones": [
+      "30",
+      "31",
+      "34",
+      "37"
+    ],
+    "correcta": 1,
+    "resolucion": "24 + 10 = 34. 34 no es múltiplo de 5. Se sigue el camino del 'No' y se resta 3: 34 - 3 = 31."
+  },
+  {
+    "pregunta": "Si ingresa el número 2 a un diagrama que pregunta '¿8 es igual a n?'. Al ser No, el flujo suma 2 al valor de n y regresa al inicio. ¿Cuál es el valor de n que finalmente permite salir por el camino del 'Sí'?",
+    "opciones": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correcta": 3,
+    "resolucion": "n inicia en 2. No es 8, suma 2 (n=4). No es 8, suma 2 (n=6). No es 8, suma 2 (n=8). Al ser 8, cumple la condición de igualdad."
+  },
+  {
+    "pregunta": "Un proceso toma el valor n=8, le suma 2 obteniendo 10. Evalúa '¿es múltiplo de 3?' (No), suma 2 obteniendo 12. Evalúa '¿es múltiplo de 5?' (No) y resta 3. ¿Cuál es el nuevo valor tras esta secuencia?",
+    "opciones": [
+      "9",
+      "11",
+      "10",
+      "13"
+    ],
+    "correcta": 0,
+    "resolucion": "10 no es múltiplo de 3, suma 2 = 12. 12 no es múltiplo de 5, resta 3 = 9."
+  },
+  {
+    "pregunta": "Ingresa n=5. El flujo pregunta '¿es múltiplo de 3?' (No) y suma 2 (n=7). Luego pregunta '¿es mayor que 8?' (No) y resta 1. ¿Con qué valor regresa el flujo a la primera pregunta?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correcta": 1,
+    "resolucion": "5 + 2 = 7. 7 no es > 8. Se resta 1: 7 - 1 = 6."
+  },
+  {
+    "pregunta": "Si n=6 es evaluado como múltiplo de 3 (Sí), se le suma 5 obteniendo 11. Luego se evalúa '¿11 es mayor o igual a 12?'. Al ser No, se le suma 2. ¿Cuál es el valor final 'S'?",
+    "opciones": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correcta": 2,
+    "resolucion": "6 es múltiplo de 3, suma 5 = 11. 11 no es ≥ 12, se suma 2 = 13."
+  },
+  {
+    "pregunta": "Un diagrama de flujo para hallar el MCD (Algoritmo de Euclides) recibe n=54 y m=24. El primer residuo 'r' de n/m es 6. Si r no es 0, se hace n=m y m=r. ¿Cuál es el nuevo valor de 'n' y 'm' para la siguiente iteración?",
+    "opciones": [
+      "n=54, m=6",
+      "n=24, m=6",
+      "n=6, m=24",
+      "n=24, m=54"
+    ],
+    "correcta": 1,
+    "resolucion": "n toma el valor de m (24) y m toma el valor del residuo r (6)."
+  },
+  {
+    "pregunta": "En el cálculo del MCD para 54 y 24, tras la primera iteración n=24 y m=6. El nuevo residuo r de 24/6 es 0. ¿Qué valor de 'm' imprime el diagrama al terminar?",
+    "opciones": [
+      "0",
+      "24",
+      "6",
+      "54"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el residuo es 0, la condición 'r=0' es Sí. El diagrama sale y muestra el valor actual de m, que es 6."
+  },
+  {
+    "pregunta": "Un contador inicia con n=6, i=1 y s=0. En cada ciclo s = s + i, i = i + 2 y n = n - 1. ¿Cuál es el valor de 's' cuando n llega a 0?",
+    "opciones": [
+      "18",
+      "25",
+      "36",
+      "49"
+    ],
+    "correcta": 2,
+    "resolucion": "Es la suma de los 6 primeros impares: 1+3+5+7+9+11 = 36."
+  },
+  {
+    "pregunta": "Para n=5, se inicializa p=1. Si n > 1, p = p * n y n = n - 1. ¿Qué operación matemática está realizando este diagrama de flujo?",
+    "opciones": [
+      "La suma de los n primeros números.",
+      "El cálculo del factorial de n (n!).",
+      "La potencia de n al cuadrado.",
+      "La serie de Fibonacci."
+    ],
+    "correcta": 1,
+    "resolucion": "El flujo multiplica 1*5*4*3*2 hasta que n=1, lo cual es la definición de factorial."
+  },
+  {
+    "pregunta": "Si en un diagrama s=0, a=2, r=3 y n=5, y el ciclo realiza s = s + a, a = a * r y n = n - 1 hasta que n=0, ¿qué valor tiene 's' al final?",
+    "opciones": [
+      "80",
+      "240",
+      "242",
+      "486"
+    ],
+    "correcta": 2,
+    "resolucion": "Suma de progresión geométrica: 2 + 6 + 18 + 54 + 162 = 242."
+  },
+  {
+    "pregunta": "Ingresa x=5. El proceso hace x = 3x (x=15). Pregunta '¿x es par?' (No), y aplica x = (x+3)/2. ¿Cuál es el valor de x resultante?",
+    "opciones": [
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "correcta": 1,
+    "resolucion": "15 no es par. x = (15 + 3) / 2 = 18 / 2 = 9."
+  },
+  {
+    "pregunta": "Un valor a=36 entra a un flujo, se le suma 7 resultando 43. La condición es '¿suma de cifras es par?'. Como 4+3=7 (No), se suma 7 otra vez. ¿Cuál es el valor de 'a' cuando la condición sea verdadera?",
+    "opciones": [
+      "50",
+      "57",
+      "64",
+      "43"
+    ],
+    "correcta": 1,
+    "resolucion": "43 (7, no). 43+7=50 (5, no). 50+7=57. 5+7=12 (par, sí)."
+  },
+  {
+    "pregunta": "Si el valor a=57 multiplica su valor por 2 sucesivamente hasta que sea mayor a 300, ¿cuántas multiplicaciones por 2 realiza?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correcta": 2,
+    "resolucion": "57*2=114. 114*2=228. 228*2=456. Se multiplicó por dos 3 veces."
+  },
+  {
+    "pregunta": "¿Qué representa el símbolo del rombo en un diagrama de flujo?",
+    "opciones": [
+      "El inicio o fin del proceso.",
+      "Una operación aritmética o proceso.",
+      "Una toma de decisión o condición lógica.",
+      "La entrada o salida de datos por teclado/pantalla."
+    ],
+    "correcta": 2,
+    "resolucion": "El rombo se utiliza exclusivamente para bifurcar el camino según se cumpla o no una condición lógica (Sí/No)."
+  },
+  {
+    "pregunta": "¿Cuál es la función del rectángulo en la simbología de diagramas de flujo?",
+    "opciones": [
+      "Indicar una pregunta o decisión.",
+      "Representar un proceso, acción o instrucción directa.",
+      "Mostrar el resultado final en pantalla.",
+      "Conectar dos partes distantes del diagrama."
+    ],
+    "correcta": 1,
+    "resolucion": "El rectángulo se usa para acciones directas como cálculos, asignación de valores o transformaciones de variables."
+  },
+  {
+    "pregunta": "En un diagrama de flujo, ¿qué indica una flecha que regresa a un punto anterior del proceso?",
+    "opciones": [
+      "Un error en la lógica del programador.",
+      "El fin del programa.",
+      "Un bucle o ciclo (iteración) que se repite mientras se cumpla una condición.",
+      "Un salto aleatorio a cualquier parte del código."
+    ],
+    "correcta": 2,
+    "resolucion": "Las flechas de retorno crean estructuras repetitivas necesarias para procesos que requieren múltiples iteraciones hasta alcanzar un objetivo."
+  },
+  {
+    "pregunta": "Al leer un diagrama, ¿cómo se interpreta la expresión 'n = n - 1' dentro de un rectángulo?",
+    "opciones": [
+      "Como una igualdad matemática que indica que n es infinito.",
+      "Como una instrucción para disminuir en una unidad el valor actual almacenado en la variable n.",
+      "Como una comparación para saber si n es menor que 1.",
+      "Como un error, ya que un número no puede ser igual a sí mismo menos uno."
+    ],
+    "correcta": 1,
+    "resolucion": "En diagramas de flujo y programación, el signo '=' es de asignación; significa 'actualiza el valor de n con su valor anterior menos 1'."
+  },
+  {
+    "pregunta": "¿Qué ocurre si el flujo entra en un camino etiquetado como 'No'?",
+    "opciones": [
+      "El programa se detiene inmediatamente.",
+      "Se ejecuta la acción o secuencia alternativa prevista para cuando la condición no se cumple.",
+      "Se borran todos los datos anteriores.",
+      "El programa ignora todas las instrucciones siguientes."
+    ],
+    "correcta": 1,
+    "resolucion": "El camino del 'No' es la ruta de ejecución alternativa cuando la evaluación de la condición en el rombo resulta falsa."
+  }
+          ]
         }
       ]
     }

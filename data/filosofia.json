@@ -1,0 +1,4190 @@
+{
+  "curso": "Filosofía",
+  "temas": [
+    {
+      "titulo": "Tema 1: Nociones preliminares de filosofía",
+      "videos": [
+        {
+          "titulo": "1.1 Filosofía",
+          "youtube_id": "yV2VVEDOBfk",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la definición etimológica de la palabra filosofía según el video?",
+    "opciones": [
+      "Amor a la sabiduría",
+      "Estudio de la naturaleza",
+      "Búsqueda de la verdad absoluta",
+      "Pensamiento crítico y reflexivo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Quién fue el primer pensador en utilizar la palabra filosofía y autoproclamarse filósofo?",
+    "opciones": [
+      "Tales de Mileto",
+      "Sócrates",
+      "Pitágoras",
+      "Aristóteles"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Platón y Aristóteles, ¿cuál es el origen o desencadenante del filosofar?",
+    "opciones": [
+      "La duda metódica",
+      "El asombro o la admiración",
+      "Las situaciones límite",
+      "El ocio y el tiempo libre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo sostiene que la filosofía surge a partir de la 'duda metódica'?",
+    "opciones": [
+      "Karl Jaspers",
+      "Karl Marx",
+      "René Descartes",
+      "Platón"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica de la filosofía se refiere a la búsqueda del fundamento o raíz de todas las cosas?",
+    "opciones": [
+      "Totalizadora",
+      "Crítica",
+      "Problemática",
+      "Radical"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "La característica que diferencia a la filosofía de la ciencia por estudiar la realidad como un todo es:",
+    "opciones": [
+      "Racional",
+      "Totalizadora",
+      "Sistemática",
+      "Trascendente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la rama de la filosofía que estudia el conocimiento en general, su origen y posibilidad?",
+    "opciones": [
+      "Epistemología",
+      "Gnoseología",
+      "Ontología",
+      "Axiología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué disciplina filosófica se encarga del estudio del ser, el ente y el fundamento de la realidad?",
+    "opciones": [
+      "Ética",
+      "Antropología filosófica",
+      "Ontología",
+      "Epistemología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la tesis de Karl Marx, ¿cuál fue el factor determinante para la aparición de la filosofía?",
+    "opciones": [
+      "La angustia existencial",
+      "El asombro ante el cosmos",
+      "El factor económico y el ocio derivado del esclavismo",
+      "La necesidad de refutar mitos antiguos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué rama de la filosofía estudia los valores y la naturaleza de los juicios de valor?",
+    "opciones": [
+      "Ética",
+      "Axiología",
+      "Gnoseología",
+      "Ontología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante se pregunta por qué aceptamos como verdades absolutas ciertas ideas religiosas sin cuestionarlas. Al realizar este examen riguroso de los dogmas, ¿qué característica de la actitud filosófica está aplicando?",
+    "opciones": [
+      "Trascendente",
+      "Crítica",
+      "Totalizadora",
+      "Sistemática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante la actual pandemia, muchas personas experimentan una profunda angustia y se cuestionan el sentido de la vida y la cercanía de la muerte. Según Karl Jaspers, este escenario corresponde a:",
+    "opciones": [
+      "El asombro ante la naturaleza",
+      "La duda metódica",
+      "Situaciones límite",
+      "La praxis revolucionaria"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un biólogo estudia específicamente la estructura de la célula, mientras que un filósofo se pregunta por el sentido de la vida en su conjunto. Esta diferencia resalta que la filosofía, a diferencia de la ciencia, es:",
+    "opciones": [
+      "Metódica",
+      "Selectiva",
+      "Totalizadora",
+      "Radical"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: René Descartes utilizaba la metáfora de un árbol donde la física era el tronco y las otras ciencias las ramas. En esta analogía, la filosofía se ubica en las raíces porque busca el sustento último, cumpliendo con la característica de:",
+    "opciones": [
+      "Problemática",
+      "Radical",
+      "Racional",
+      "Trascendente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un investigador se dedica a analizar los métodos científicos, la lógica de la investigación y los criterios para diferenciar la ciencia de la pseudociencia, está ejerciendo la disciplina de la:",
+    "opciones": [
+      "Gnoseología",
+      "Axiología",
+      "Ontología",
+      "Epistemología"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "DECO: Cuando un filósofo formula una pregunta y, tras hallar una respuesta, vuelve a cuestionar ese nuevo resultado de forma permanente, está demostrando que la filosofía es:",
+    "opciones": [
+      "Problemática",
+      "Sistemática",
+      "Universal",
+      "Dogmática"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un grupo de amigos discute sobre si la justicia es un valor objetivo o una invención humana. ¿En qué ramas de la filosofía se enmarca principalmente este debate?",
+    "opciones": [
+      "Gnoseología y Epistemología",
+      "Ontología y Antropología",
+      "Axiología y Ética",
+      "Metafísica y Gnoseología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Pitágoras no se llamaba a sí mismo 'sabio' (sophos), sino 'amante de la sabiduría' (filósofo). Esto implica que para él la filosofía no es una posesión de la verdad, sino una:",
+    "opciones": [
+      "Actividad de búsqueda constante",
+      "Habilidad técnica",
+      "Ciencia terminada",
+      "Tradición mística"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un filósofo presenta una teoría donde cada concepto está organizado de manera coherente, rigurosa y ordenada, evitando contradicciones internas. ¿Qué característica del saber filosófico se evidencia aquí?",
+    "opciones": [
+      "Trascendente",
+      "Radical",
+      "Sistemática",
+      "Crítica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Al estudiar el origen del hombre, su esencia y su naturaleza humana, nos encontramos dentro del campo de estudio de la:",
+    "opciones": [
+      "Ética",
+      "Antropología filosófica",
+      "Ontología",
+      "Gnoseología"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.2 Definiciones, Origen y Características",
+          "youtube_id": "Qnf1vR9cJAs",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la definición etimológica de la palabra 'filosofía' mencionada en el video?",
+    "opciones": [
+      "Amor a la sabiduría",
+      "Estudio de las causas",
+      "Búsqueda de la verdad",
+      "Conocimiento del ser"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según la definición etimológica, ¿qué tipo de amor es el que el filósofo siente por el saber?",
+    "opciones": [
+      "Interesado y lucrativo",
+      "Puro y desinteresado",
+      "Pasajero y emocional",
+      "Egoísta y exclusivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo griego comparó a los filósofos con los espectadores de los Juegos Olímpicos?",
+    "opciones": [
+      "Sócrates",
+      "Aristóteles",
+      "Platón",
+      "Pitágoras"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal entre un 'sabio' y un 'filósofo' según el video?",
+    "opciones": [
+      "El sabio tiene más dinero que el filósofo",
+      "El sabio cree saberlo todo, mientras el filósofo busca el conocimiento",
+      "El filósofo es más antiguo que el sabio",
+      "No existe ninguna diferencia real entre ambos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Aristóteles, ¿cuál es el objeto de estudio de la filosofía?",
+    "opciones": [
+      "Las opiniones de los hombres",
+      "Las causas primeras de las cosas",
+      "Los sentimientos humanos",
+      "La belleza de la naturaleza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la causa que se refiere a la esencia, estructura o forma de algo según Aristóteles?",
+    "opciones": [
+      "Causa material",
+      "Causa eficiente",
+      "Causa formal",
+      "Causa final"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué se refiere la 'causa final' en la teoría de Aristóteles?",
+    "opciones": [
+      "A la materia de la que está hecho algo",
+      "Al agente que produce el objeto",
+      "A la estructura externa",
+      "Al propósito o finalidad de las cosas"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "¿Qué nombre reciben los conocimientos que se basan principalmente en el uso de los sentidos?",
+    "opciones": [
+      "Conocimientos filosóficos",
+      "Conocimientos empíricos",
+      "Conocimientos trascendentes",
+      "Conocimientos abstractos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿qué tipo de causa sería el carpintero que construye una casa?",
+    "opciones": [
+      "Causa eficiente",
+      "Causa material",
+      "Causa formal",
+      "Causa final"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "A diferencia de la ciencia que es especializada, ¿cómo se describe la visión de la filosofía?",
+    "opciones": [
+      "Igual de específica",
+      "Más general y profunda",
+      "Limitada a los laboratorios",
+      "Basada solo en experimentos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante afirma que la filosofía es inútil porque no sirve para fabricar celulares ni generar dinero. Al escuchar esto, un docente le explica que el filósofo busca el saber por el puro placer de conocer, sin fines lucrativos. Esta actitud se alinea con:",
+    "opciones": [
+      "La búsqueda de gloria en los Juegos Olímpicos",
+      "La definición etimológica de amor desinteresado al saber",
+      "La definición aristotélica de causa eficiente",
+      "El conocimiento empírico cotidiano"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si decimos que una estatua de mármol es tal porque el mármol es el elemento base del que proviene, ¿a qué causa aristotélica nos estamos refiriendo?",
+    "opciones": [
+      "Causa formal",
+      "Causa eficiente",
+      "Causa material",
+      "Causa final"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un biólogo explica que el color de las flores se debe a la pigmentación y la reflexión de la luz. Un filósofo, en cambio, se pregunta por la naturaleza de la materia eterna que hace posible la existencia de la luz y la vida. Esta diferencia muestra que la filosofía es:",
+    "opciones": [
+      "Una actitud que busca trascender lo empírico",
+      "Un conocimiento basado solo en la observación cotidiana",
+      "Una ciencia especializada en botánica",
+      "Un saber que se limita a los experimentos de laboratorio"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Pitágoras observaba que en los juegos había mercaderes (buscan dinero) y atletas (buscan fama). El filósofo, al ser comparado con el espectador que solo va a contemplar, destaca por su:",
+    "opciones": [
+      "Interés en ganar premios deportivos",
+      "Necesidad de vender productos a los griegos",
+      "Deseo de contemplar y conocer la realidad por sí misma",
+      "Capacidad física para competir"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Cuando un joven decide estudiar medicina con el objetivo de salvar vidas y lograr sus metas académicas, está actuando movido por una razón o propósito. En términos aristotélicos, este propósito se conoce como:",
+    "opciones": [
+      "Causa eficiente",
+      "Causa final",
+      "Causa material",
+      "Causa formal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un niño dice que 'el sol calienta'. Un científico explica el proceso de fusión nuclear en el sol. Un filósofo pregunta qué es el 'ser' del sol y su lugar en la totalidad de lo existente. El conocimiento del niño y del científico coinciden en ser:",
+    "opciones": [
+      "Conocimientos exclusivamente filosóficos",
+      "Conocimientos empíricos (basados en sentidos y observación)",
+      "Conocimientos trascendentes",
+      "Conocimientos puramente abstractos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un escultor utiliza su técnica para transformar un bloque de piedra en una figura de héroe, el escultor mismo representa una de las cuatro causas de Aristóteles. ¿Cuál es?",
+    "opciones": [
+      "Causa eficiente (el agente)",
+      "Causa material (la piedra)",
+      "Causa formal (la figura)",
+      "Causa final (el héroe)"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: En una discusión entre amigos sobre qué es la filosofía, uno sostiene que estudia el lenguaje, otro la política y otro las causas. El video sugiere que esto ocurre porque:",
+    "opciones": [
+      "La filosofía es una ciencia exacta con una sola respuesta",
+      "Definir qué es la filosofía es, en sí mismo, un problema filosófico sin acuerdo único",
+      "Los filósofos no saben de lo que hablan",
+      "Solo Aristóteles tuvo la razón definitiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al distinguir entre una silla y una casa, Aristóteles diría que, aunque ambas puedan ser de madera, lo que las hace diferentes es su estructura interna y esencia. A esto lo denomina:",
+    "opciones": [
+      "Causa material",
+      "Causa final",
+      "Causa formal",
+      "Causa eficiente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Se dice que el filósofo 'busca' la sabiduría pero no la 'posee' totalmente. Esto implica que la filosofía es más una ________ que un conjunto de verdades acabadas.",
+    "opciones": [
+      "Actitud o búsqueda constante",
+      "Técnica de memorización",
+      "Ciencia especializada",
+      "Habilidad manual"
+    ],
+    "correcta": 0
+  }
+]
+        },
+        {
+          "titulo": "1.3 Sócrates y Platón Filosofía",
+          "youtube_id": "T1eR_8byA4c",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la principal diferencia entre Sócrates y los sofistas respecto al conocimiento?",
+    "opciones": [
+      "Sócrates cree en verdades universales y los sofistas en el relativismo",
+      "Sócrates cobraba por enseñar y los sofistas lo hacían gratis",
+      "Sócrates escribió muchos libros y los sofistas no escribieron nada",
+      "Sócrates defendía la retórica y los sofistas la dialéctica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué consiste el primer momento del método socrático llamado 'ironía'?",
+    "opciones": [
+      "En burlarse de los discípulos para que se sientan mal",
+      "En hacer que el interlocutor reconozca su propia ignorancia",
+      "En dar respuestas directas a todas las preguntas",
+      "En parir ideas nuevas desde el interior del alma"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la teoría de las ideas de Platón, ¿cuáles son los dos mundos que existen?",
+    "opciones": [
+      "El mundo terrenal y el mundo celestial",
+      "El mundo material y el mundo espiritual",
+      "El mundo inteligible y el mundo sensible",
+      "El mundo real y el mundo imaginario"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la alegoría del carro alado de Platón, ¿qué representa el 'auriga' o cochero?",
+    "opciones": [
+      "El alma racional",
+      "El alma irascible",
+      "El alma concupiscible",
+      "El cuerpo físico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué significa el concepto de 'reminiscencia' en la filosofía de Platón?",
+    "opciones": [
+      "Que el conocimiento se adquiere solo por los sentidos",
+      "Que aprender es en realidad recordar lo que el alma ya sabía",
+      "Que el futuro se puede predecir mediante la razón",
+      "Que el olvido es la base de toda sabiduría"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Aristóteles, la unión indisoluble de materia y forma en una sustancia se denomina:",
+    "opciones": [
+      "Dualismo",
+      "Realismo",
+      "Hilemorfismo",
+      "Esencialismo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuáles son las cuatro causas de la realidad según Aristóteles?",
+    "opciones": [
+      "Principio, medio, fin y conclusión",
+      "Material, formal, eficiente y final",
+      "Lógica, ética, estética y política",
+      "Agua, aire, tierra y fuego"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el intelectualismo moral de Sócrates, ¿por qué el hombre comete acciones malas?",
+    "opciones": [
+      "Porque es malvado por naturaleza",
+      "Porque desea el sufrimiento de los demás",
+      "Por pura ignorancia del bien",
+      "Porque los dioses lo obligan"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué función del alma es exclusiva del ser humano según Aristóteles?",
+    "opciones": [
+      "Función vegetativa",
+      "Función sensitiva",
+      "Función intelectiva",
+      "Función reproductiva"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el fin supremo de la vida humana (telos) para Aristóteles?",
+    "opciones": [
+      "La riqueza",
+      "La fama",
+      "La felicidad (Eudaimonía)",
+      "El poder político"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un joven político contrata a un maestro para aprender a persuadir a las masas mediante el discurso, sin importar si lo que dice es verdad o no. Según el video, ¿a qué grupo pertenecía este tipo de maestros en la antigua Grecia?",
+    "opciones": [
+      "A los socráticos",
+      "A los sofistas",
+      "A los académicos",
+      "A los peripatéticos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante dice: 'Yo solo sé que la pizarra es verde porque la estoy viendo'. Ante esto, un seguidor de Platón le respondería que ese conocimiento es solo una opinión (doxa) porque se basa en:",
+    "opciones": [
+      "El mundo inteligible",
+      "El mundo sensible",
+      "La dialéctica",
+      "La noesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En el mito de la caverna, los prisioneros que solo ven sombras representan a las personas que viven en la ignorancia. El sol que el prisionero liberado ve afuera representa:",
+    "opciones": [
+      "La idea del Bien",
+      "La luz del fuego",
+      "La opinión pública",
+      "Las sombras de los objetos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un ciudadano ateniense se dedica a la defensa de la ciudad y se caracteriza por su valor y coraje. Según la división del alma de Platón, ¿qué tipo de alma predomina en él?",
+    "opciones": [
+      "Alma racional",
+      "Alma irascible",
+      "Alma concupiscible",
+      "Alma vegetativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Aristóteles menciona que una semilla es un árbol 'en potencia'. Cuando la semilla crece y se convierte efectivamente en un árbol frondoso, ha pasado al estado de:",
+    "opciones": [
+      "Materia prima",
+      "Acto",
+      "Accidente",
+      "Sustancia eterna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de personas discute sobre cuál es el mejor gobierno. Uno dice que deben gobernar los más ricos, otro que los más fuertes. Platón intervendría diciendo que deben gobernar los más sabios. A esta propuesta se le conoce como:",
+    "opciones": [
+      "Democracia",
+      "Tiranía",
+      "El filósofo rey",
+      "Oligarquía"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Al analizar una mesa de madera, un aristotélico diría que la madera es la causa material. El diseño o concepto de 'mesa' que le da su esencia sería la:",
+    "opciones": [
+      "Causa formal",
+      "Causa eficiente",
+      "Causa final",
+      "Causa accidental"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Sócrates afirmaba ser como una 'partera' (mayéutica). Si una partera ayuda a dar a luz bebés, Sócrates ayudaba a sus interlocutores a:",
+    "opciones": [
+      "Ganar debates políticos",
+      "Parir verdades desde su propia alma",
+      "Escribir grandes obras literarias",
+      "Aprender retórica y gramática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Para Aristóteles, un hombre que es cobarde está en un extremo, y uno que es temerario (se arriesga sin pensar) está en el otro. La virtud se encuentra en la valentía, que representa el:",
+    "opciones": [
+      "Justo medio",
+      "Exceso de confianza",
+      "Mundo de las ideas",
+      "Intelecto puro"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Si el alma de una persona está dominada por los deseos de comida y placeres físicos, Platón diría que su alma racional ha perdido el control del carruaje frente al:",
+    "opciones": [
+      "Caballo blanco (irascible)",
+      "Caballo negro (concupiscible)",
+      "Cuerpo inmortal",
+      "Mundo inteligible"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.4 Filosofía contemporánea",
+          "youtube_id": "f1atKYh_IsI",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A qué siglo se refiere principalmente la filosofía contemporánea según el video?",
+    "opciones": [
+      "Siglo XIX",
+      "Siglo XX",
+      "Siglo XVIII",
+      "Siglo XXI"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el tema central del existencialismo?",
+    "opciones": [
+      "La lógica de las proposiciones",
+      "La existencia humana y sus problemas como la muerte y la libertad",
+      "El estudio de los objetos materiales",
+      "La clasificación de las ciencias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo define Heidegger al ser humano en su obra 'El ser y el tiempo'?",
+    "opciones": [
+      "Como un animal racional puro",
+      "Como Dasein o 'ser-ahí'",
+      "Como una máquina biológica",
+      "Como un ente puramente matemático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué diferencia establece Heidegger entre lo óntico y lo ontológico?",
+    "opciones": [
+      "Lo óntico estudia el ser y lo ontológico los objetos",
+      "Lo óntico se refiere a entes/objetos y lo ontológico al sentido del ser",
+      "No existe diferencia, son sinónimos",
+      "Lo óntico es religión y lo ontológico es ciencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la existencia inauténtica según Heidegger?",
+    "opciones": [
+      "Aceptar la angustia ante la muerte",
+      "Vivir una vida alienada, masificada y sin aceptar la finitud",
+      "Construir proyectos temporales propios",
+      "Estudiar metafísica profundamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es considerado el padre de la lógica moderna y antecedente de la filosofía analítica?",
+    "opciones": [
+      "Aristóteles",
+      "Gottlob Frege",
+      "Jean-Paul Sartre",
+      "Martin Heidegger"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el 'Tractatus' de Wittgenstein, ¿qué es el isomorfismo?",
+    "opciones": [
+      "La creencia en múltiples dioses",
+      "La igualdad de estructura entre el mundo y el lenguaje",
+      "El rechazo a las matemáticas",
+      "La curación de enfermedades mentales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué debe hacer la filosofía con los problemas metafísicos según el primer Wittgenstein?",
+    "opciones": [
+      "Resolverlos mediante la fe",
+      "Disolverlos porque son pseudoproblemas o absurdos lingüísticos",
+      "Aceptarlos como verdades absolutas",
+      "Enseñarlos en todas las universidades"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere el 'giro pragmático' en la segunda etapa de Wittgenstein?",
+    "opciones": [
+      "A que el lenguaje ahora solo es lógica",
+      "A que el significado de las palabras depende de su uso en contextos sociales",
+      "A la invención de un nuevo idioma universal",
+      "Al estudio exclusivo de la gramática antigua"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué metáfora usa Wittgenstein para describir a los filósofos atrapados en el lenguaje?",
+    "opciones": [
+      "Leones en la selva",
+      "Moscas atrapadas en una botella",
+      "Peces en el océano",
+      "Águilas volando sobre el mundo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un joven profesional se siente vacío a pesar de tener un buen sueldo y lujos, dándose cuenta de que solo vive para comprar cosas. Según Heidegger, este sentimiento de vacío y la priorización de los objetos sobre el sentido de vivir reflejan un olvido de:",
+    "opciones": [
+      "La técnica y la tecnología",
+      "Lo ontológico (el sentido del ser)",
+      "La acumulación de entes",
+      "Los cursos de robótica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante una crisis personal, una persona acepta que su vida es finita y que morirá algún día, decidiendo por ello dar un propósito propio a su tiempo. ¿Qué concepto de Heidegger describe esta actitud?",
+    "opciones": [
+      "Existencia inauténtica",
+      "Existencia auténtica",
+      "Dominio de los entes",
+      "Ciberadicción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una sociedad donde se eliminan los cursos de humanidades para priorizar solo carreras técnicas que generen dinero, Heidegger advertiría que se está privilegiando:",
+    "opciones": [
+      "El estudio del ser",
+      "Lo óntico y el dominio de los entes",
+      "La analítica existencial",
+      "La poesía y el arte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un científico afirma 'La fuerza es igual a la masa por la aceleración', el primer Wittgenstein diría que esta expresión es válida porque es una proposición que:",
+    "opciones": [
+      "Expresa un sentimiento profundo",
+      "Representa o 'pinta' un hecho del mundo",
+      "Es un juego de palabras divertido",
+      "Es una orden que debemos obedecer"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar la frase 'El ser sesea y la nada nadea', un filósofo analítico del primer periodo concluiría que:",
+    "opciones": [
+      "Es una verdad científica absoluta",
+      "Es un absurdo porque no describe ningún hecho verificable",
+      "Es la base de la nueva religión",
+      "Es una proposición atómica perfecta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de amigos utiliza jergas que solo ellos entienden para comunicarse. Según las 'Investigaciones filosóficas' de Wittgenstein, esto es un ejemplo de:",
+    "opciones": [
+      "Un error lógico que debe corregirse con tablas de verdad",
+      "Juegos de lenguaje donde el significado surge del uso compartido",
+      "Una falta de respeto al diccionario",
+      "Un isomorfismo fallido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En la clase se menciona que en ciertos países se ha decidido legalizar la eutanasia como una forma de que el individuo elija su fin. Desde el existencialismo, esto podría interpretarse como un ejercicio de:",
+    "opciones": [
+      "La técnica sobre el hombre",
+      "La libertad y la autonomía ante el 'ser para la muerte'",
+      "Una existencia masificada",
+      "El dominio de los objetos materiales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Cuando compramos una marca específica (como 'Colinos' o 'Ace') y usamos ese nombre para referirnos a cualquier pasta dental o detergente, estamos demostrando, según el segundo Wittgenstein, que:",
+    "opciones": [
+      "El lenguaje es fijo y eterno",
+      "El significado está determinado por el uso cotidiano en la comunidad",
+      "Estamos cometiendo un pecado contra la lógica",
+      "No existe el isomorfismo en la limpieza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Heidegger afirma que 'el lenguaje es la ventana del ser'. Si una sociedad pierde su riqueza lingüística y solo habla de dinero, ¿qué consecuencia tendría esto para su visión del mundo?",
+    "opciones": [
+      "Tendrían una visión más amplia de la realidad",
+      "Reducirían su comprensión del mundo a lo mercantil y óntico",
+      "Mejorarían su analítica existencial",
+      "Llegarían más rápido a la existencia auténtica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante se angustia antes de recibir sus resultados de admisión. El profesor explica que esa angustia es parte de la libertad de no saber el destino. Esta explicación pertenece a la corriente del:",
+    "opciones": [
+      "Racionalismo moderno",
+      "Existencialismo",
+      "Positivismo lógico",
+      "Idealismo alemán"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.5 Filosofía en el Perú y Latinoamérica",
+          "youtube_id": "qTMkjm038dE",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la tesis principal de Augusto Salazar Bondy respecto a la filosofía latinoamericana?",
+    "opciones": [
+      "Es una filosofía original y propia",
+      "Es una filosofía inauténtica e imitativa debido a la dominación",
+      "Es la base de la filosofía moderna europea",
+      "Es una filosofía puramente científica y técnica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la cosmovisión andina prehispánica, ¿qué representa el 'Hanan Pacha'?",
+    "opciones": [
+      "El mundo de aquí o mundo de los hombres",
+      "El mundo de abajo o de los muertos",
+      "El mundo de arriba, ligado a las constelaciones y astros",
+      "La tierra fértil para el cultivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué tema central se discutió durante el periodo de la Escolástica en el Perú?",
+    "opciones": [
+      "La independencia económica de Inglaterra",
+      "La humanidad del indio y el derecho a esclavizarlo",
+      "La creación de una constitución liberal",
+      "El desarrollo de la industria minera"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién defendió la tesis de que el indio es un ser humano con alma y debe ser evangelizado pacíficamente?",
+    "opciones": [
+      "Juan Ginés de Sepúlveda",
+      "Bartolomé de las Casas",
+      "Augusto Salazar Bondy",
+      "Alejandro Deustua"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál era el objetivo principal de los criollos durante el periodo de la Ilustración?",
+    "opciones": [
+      "Restaurar el Imperio Incaico",
+      "Lograr la emancipación o independencia política y económica",
+      "Fomentar la religión católica en Europa",
+      "Eliminar la educación universitaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibió la sociedad secreta de criollos ilustrados y cuál era su revista principal?",
+    "opciones": [
+      "Los Amigos del Orden y 'El Comercio'",
+      "Sociedad Amantes del País y el 'Mercurio Peruano'",
+      "Partido Civilista y 'La República'",
+      "Movimiento Indigenista y 'Amauta'"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el periodo del Romanticismo, ¿cuál fue el debate central entre liberales y conservadores?",
+    "opciones": [
+      "La mejor técnica para extraer minerales",
+      "La soberanía popular frente a la soberanía de la inteligencia",
+      "La ubicación de la nueva capital del Perú",
+      "El uso del quechua en la liturgia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo conservador defendía que el gobierno debía estar en manos de una élite inteligente?",
+    "opciones": [
+      "Benito Lazo",
+      "Bartolomé Herrera",
+      "Manuel González Prada",
+      "José Carlos Mariátegui"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué corriente filosófica surgió como respuesta para reconstruir el país tras la guerra contra Chile?",
+    "opciones": [
+      "Escolástica",
+      "Positivismo",
+      "Existencialismo",
+      "Espiritualismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la postura de Manuel González Prada respecto a la educación y la religión?",
+    "opciones": [
+      "Debe ser controlada exclusivamente por la iglesia",
+      "Es anticlerical y propone una educación científica y laica",
+      "No es necesaria para el progreso del país",
+      "Debe enfocarse solo en la estética y el arte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un historiador analiza que en el Perú actual se siguen consumiendo formatos televisivos extranjeros casi sin cambios. Si aplicamos la tesis de Salazar Bondy mencionada en el video, este fenómeno se explicaría como:",
+    "opciones": [
+      "Una muestra de integración cultural global",
+      "Una consecuencia de nuestra condición de país dependiente y cultura imitativa",
+      "Un avance tecnológico propio de la modernidad",
+      "La superación definitiva del subdesarrollo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante el periodo prehispánico, los entierros de los nobles se hacían en posición fetal para simbolizar el retorno al vientre de la tierra. Este concepto metafísico de la vida y la muerte se ubica dentro de:",
+    "opciones": [
+      "El Uku Pacha o mundo de abajo",
+      "El Kay Pacha o mundo de aquí",
+      "El Hanan Pacha o mundo de arriba",
+      "La Escolástica española"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Si en una discusión académica se sostiene que ciertas poblaciones no tienen capacidad de autogobierno por ser 'naturalmente inferiores', se estaría utilizando un argumento similar al de:",
+    "opciones": [
+      "Bartolomé de las Casas",
+      "Juan Ginés de Sepúlveda influenciado por Aristóteles",
+      "Francisco de Vitoria",
+      "José Carlos Mariátegui"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Juan Pablo Viscardo y Guzmán escribió a los criollos instándolos a tomar el poder. Según el video, ¿cuál era la contradicción económica que impulsaba este deseo de independencia?",
+    "opciones": [
+      "La falta de tierras para el cultivo de papa",
+      "El deseo de los criollos de no pagar tributos a una corona que los discriminaba",
+      "La prohibición de practicar la religión católica",
+      "La obligación de hablar inglés en los puertos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una elección moderna, cuando se afirma que 'el voto de un ciudadano educado debe valer más que el de uno que no sabe leer', se está retomando indirectamente la tesis de:",
+    "opciones": [
+      "La soberanía popular de Benito Lazo",
+      "La soberanía de la inteligencia de Bartolomé Herrera",
+      "El anarquismo de Manuel González Prada",
+      "El socialismo de Mariátegui"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Manuel González Prada afirmó que el Perú necesitaba 'más ingenieros y menos cocineros'. Desde la perspectiva del positivismo, esta frase critica:",
+    "opciones": [
+      "La falta de sabor en la comida peruana",
+      "La educación metafísica y literaria que no aporta al desarrollo industrial",
+      "La construcción de nuevos restaurantes en Lima",
+      "El uso excesivo de tecnología en la cocina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un filósofo espiritualista como Alejandro Deustua se opondría a la masificación de la educación primaria para todos los sectores porque creía que:",
+    "opciones": [
+      "Todos los hombres son iguales por naturaleza",
+      "La educación debe ser un privilegio de la élite para cultivar el espíritu",
+      "La técnica es el único camino al progreso",
+      "El estado debe regalar libros a los pobres"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si hoy en día un pensador propone que para solucionar los problemas del Perú se debe invitar a inmigrantes europeos para 'mejorar la raza', estaría siguiendo el pensamiento de:",
+    "opciones": [
+      "Mariátegui y el indigenismo",
+      "Alejandro Deustua y su reacción espiritualista",
+      "Víctor Raúl Haya de la Torre",
+      "Francisco de Vitoria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Haya de la Torre propuso el concepto de 'Espacio-Tiempo Histórico' para explicar que Latinoamérica no debe copiar modelos europeos ciegamente. Esta postura busca superar:",
+    "opciones": [
+      "La falta de minerales en la región",
+      "La imitación inauténtica denunciada por Salazar Bondy",
+      "El uso del idioma castellano",
+      "La construcción de ferrocarriles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Mariátegui analizó que el problema del indio en el Perú no era pedagógico ni eclesiástico, sino económico y social ligado a la tierra. A este análisis se le conoce como:",
+    "opciones": [
+      "Liberalismo económico",
+      "Tesis de la semifeudalidad",
+      "Positivismo universitario",
+      "Ilustración separatista"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.6  Filosofía-Tema: Filosofía contemporanea",
+          "youtube_id": "v86b0oJDzsA",
+          "pdf_link": "https://drive.google.com/file/d/1j1m9HKBZa-uEoSFuS6tdlTswYbri9R2B/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la frase célebre de Hegel que resume su pensamiento sobre la relación entre la razón y la realidad?",
+    "opciones": [
+      "Pienso, luego existo",
+      "Todo lo real es racional y todo lo racional es real",
+      "Solo sé que nada sé",
+      "Dios ha muerto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la dialéctica hegeliana, ¿cómo se denomina a la tríada que explica el movimiento del espíritu?",
+    "opciones": [
+      "Inicio, nudo y desenlace",
+      "Tesis, antítesis y síntesis",
+      "Pasado, presente y futuro",
+      "Idea, materia y energía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo invirtió la dialéctica de Hegel, sosteniendo que la base de la sociedad es la estructura económica?",
+    "opciones": [
+      "Auguste Comte",
+      "Friedrich Nietzsche",
+      "Karl Marx",
+      "Immanuel Kant"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Karl Marx, ¿qué motor impulsa el cambio en la historia de la humanidad?",
+    "opciones": [
+      "El desarrollo de las ideas puras",
+      "La lucha de clases",
+      "La voluntad divina",
+      "El azar biológico"
+    ],
+  "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la corriente filosófica fundada por Auguste Comte que prioriza los hechos observables y la ciencia?",
+    "opciones": [
+      "Existencialismo",
+      "Positivismo",
+      "Materialismo",
+      "Idealismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los tres estadios de la historia propuestos por Auguste Comte?",
+    "opciones": [
+      "Infancia, adolescencia y adultez",
+      "Teológico, metafísico y positivo",
+      "Esclavismo, feudalismo y capitalismo",
+      "Apolíneo, dionisiaco y socrático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué frase de Nietzsche simboliza la crisis de los valores absolutos y el inicio del nihilismo?",
+    "opciones": [
+      "El hombre es un animal político",
+      "Dios ha muerto",
+      "La propiedad es un robo",
+      "La libertad es una ilusión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la filosofía de Nietzsche, ¿cuáles son las dos fuerzas o impulsos que fluyen en la espiritualidad humana?",
+    "opciones": [
+      "El bien y el mal",
+      "Lo apolíneo y lo dionisiaco",
+      "El alma y el cuerpo",
+      "La tesis y la antítesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué concepto de Nietzsche se refiere a la capacidad de autosuperación y afirmación de la vida a pesar del dolor?",
+    "opciones": [
+      "Plusvalía",
+      "Voluntad de poder",
+      "Espíritu absoluto",
+      "Estadio teológico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿quién es el 'superhombre' para Nietzsche?",
+    "opciones": [
+      "Un héroe con poderes físicos",
+      "Aquel que ama la vida trágica y crea sus propios valores",
+      "Un líder político que domina el mundo",
+      "Un santo que renuncia a los placeres"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante universitario siente que su proyecto de ingresar es una idea abstracta (en sí), pero sabe que solo se materializará (para sí) mediante el esfuerzo y el estudio. Este proceso de pasar de la idea a la realidad concreta mediante la contradicción refleja la:",
+    "opciones": [
+      "Ley de la gravitación",
+      "Dialéctica hegeliana",
+      "Plusvalía marxista",
+      "Moral de esclavos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una fábrica, un obrero siente que el producto que fabrica tiene más valor que su propio trabajo, sintiéndose deshumanizado. Marx explica que esta situación donde el capitalista se queda con el valor no remunerado se llama:",
+    "opciones": [
+      "Enajenación",
+      "Plusvalía",
+      "Contrato social",
+      "Libre mercado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El lema 'Orden y Progreso' que aparece en algunas banderas nacionales refleja la idea de que la ciencia y la técnica llevarán a la sociedad a su etapa definitiva. Esta visión pertenece al:",
+    "opciones": [
+      "Vitalismo de Nietzsche",
+      "Positivismo de Comte",
+      "Materialismo de Marx",
+      "Idealismo de Hegel"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona decide salir a bailar, disfrutar del éxtasis y dejarse llevar por sus instintos sin preocuparse por las reglas racionales. Según Nietzsche, esta persona está siendo dominada por el impulso:",
+    "opciones": [
+      "Apolíneo",
+      "Dionisiaco",
+      "Socrático",
+      "Metafísico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante la actual crisis sanitaria, muchas personas se han auto superado aprendiendo nuevas habilidades y aferrándose a la vida a pesar de la tragedia. Nietzsche describiría esta actitud como:",
+    "opciones": [
+      "Resignación cristiana",
+      "Voluntad de poder",
+      "Nihilismo pasivo",
+      "Falsa conciencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un historiador afirma que la Revolución Francesa fue el momento donde el 'Espíritu' alcanzó la conciencia de la libertad, está utilizando una interpretación:",
+    "opciones": [
+      "Comtiana",
+      "Hegeliana",
+      "Marxista",
+      "Nietzscheana"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Marx sostiene que la religión es el 'opio del pueblo' porque consuela a los oprimidos con la promesa de una vida mejor, evitando que luchen por cambiar su realidad material. Esto forma parte de la:",
+    "opciones": [
+      "Estructura económica",
+      "Superestructura ideológica",
+      "Síntesis dialéctica",
+      "Voluntad de poder"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un investigador decide ignorar las explicaciones religiosas o filosóficas sobre el origen del universo y se centra exclusivamente en datos medibles y leyes físicas. Según Comte, este investigador se encuentra en el:",
+    "opciones": [
+      "Estadio teológico",
+      "Estadio positivo",
+      "Estadio metafísico",
+      "Eterno retorno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona cree que debe ser sumisa, humilde y esperar una recompensa en el 'más allá' para soportar sus sufrimientos actuales. Nietzsche critica esto llamándolo:",
+    "opciones": [
+      "Moral de señores",
+      "Moral de esclavos",
+      "Amor fati",
+      "Nihilismo activo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El concepto del 'Eterno Retorno' en Nietzsche nos invita a vivir cada momento de tal manera que desearíamos que se repitiera infinitamente. Esto implica una:",
+    "opciones": [
+      "Negación de la vida",
+      "Afirmación total de la existencia",
+      "Huida hacia el futuro",
+      "Esperanza en el progreso lineal"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Ética, sociedad y democracia",
+      "videos": [
+        {
+          "titulo": "2.1 FILOSOFÍA - Antropología Filosófica",
+          "youtube_id": "Iyl3YM7UL6M",
+          "pdf_link": "https://drive.google.com/file/d/1a3m5wlQz3Ujhcy1P8mazStYIF5My4WJC/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué disciplina filosófica se encarga del estudio de la naturaleza o esencia humana según el video?",
+    "opciones": [
+      "Ética",
+      "Ontología",
+      "Antropología filosófica",
+      "Epistemología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo define Aristóteles al ser humano en relación a su capacidad de razonar?",
+    "opciones": [
+      "Animal simbólico",
+      "Animal racional",
+      "Ser para la muerte",
+      "Lobo para el hombre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la definición de Aristóteles, el término 'Zoon Politicón' significa que el hombre es un:",
+    "opciones": [
+      "Animal político o social",
+      "Ser espiritual libre",
+      "Animal dominado por instintos",
+      "Individuo aislado por naturaleza"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué filósofo sostiene la tesis de que 'el hombre es un lobo para el hombre' (Homo homini lupus)?",
+    "opciones": [
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "Max Scheler",
+      "Friedrich Nietzsche"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Ernst Cassirer, el hombre no interactúa directamente con la naturaleza, sino a través de mitos, arte y lenguaje, por lo que es un:",
+    "opciones": [
+      "Animal racional",
+      "Animal técnico",
+      "Animal simbólico",
+      "Animal de costumbres"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué característica define al hombre como 'ser espiritual' según Max Scheler?",
+    "opciones": [
+      "La capacidad de ser libre frente a sus impulsos biológicos",
+      "La necesidad de vivir en una polis",
+      "La búsqueda constante de riqueza material",
+      "El miedo absoluto a la muerte"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según Nietzsche, ¿qué fuerza es el motor de la historia y de la vida humana?",
+    "opciones": [
+      "La razón pura",
+      "La voluntad de poder",
+      "El contrato social",
+      "La compasión cristiana"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo existencialista define al hombre como un 'ser para la muerte'?",
+    "opciones": [
+      "René Descartes",
+      "Martin Heidegger",
+      "Karl Marx",
+      "Platón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la antropología de Karl Marx, ¿qué proceso deshumaniza al trabajador en el sistema capitalista?",
+    "opciones": [
+      "La espiritualización",
+      "La enajenación o alienación por el trabajo",
+      "La reminiscencia",
+      "El contrato social"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia fundamental entre la moral y la ética mencionada en la clase?",
+    "opciones": [
+      "No existe ninguna diferencia",
+      "La moral es la disciplina y la ética es el objeto",
+      "La moral es lo vivido (hechos) y la ética es lo pensado (reflexión)",
+      "La moral es para los griegos y la ética para los modernos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un grupo de náufragos llega a una isla desierta y, tras unos días, deciden organizar turnos de vigilancia y reparto de comida. Según Aristóteles, esta tendencia a organizarse en comunidad demuestra que:",
+    "opciones": [
+      "Son animales simbólicos que crean mitos",
+      "El hombre es un animal social/gregario por naturaleza",
+      "Tienen miedo a la muerte y por eso pactan",
+      "Son seres espirituales que rechazan lo material"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una situación de escasez extrema, dos personas pelean violentamente por el último trozo de pan disponible. Thomas Hobbes explicaría este comportamiento basándose en:",
+    "opciones": [
+      "La ley natural de autoconservación en un estado de guerra de todos contra todos",
+      "La falta de educación estética de los individuos",
+      "La ausencia de una vida asética",
+      "El cumplimiento del imperativo categórico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un artista prefiere pasar hambre antes que abandonar su obra, controlando su instinto básico de alimentación por un fin ideal. Según Max Scheler, esto es posible porque el hombre:",
+    "opciones": [
+      "Es un animal simbólico",
+      "Es un ser espiritual capaz de decir 'no' a sus impulsos biológicos",
+      "Es un animal racional que calcula su éxito futuro",
+      "Está alienado por el sistema de mercado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar una pintura rupestre, un investigador afirma que el ser humano antiguo no solo veía animales, sino que les otorgaba un significado sagrado. Esta interpretación coincide con la visión de:",
+    "opciones": [
+      "Aristóteles y el animal racional",
+      "Ernst Cassirer y el animal simbólico",
+      "Heidegger y el Dasein",
+      "Hobbes y el Leviatán"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Nietzsche critica a una persona que siempre pide perdón y es sumisa ante las injusticias, considerándola 'débil'. Según el video, Nietzsche asocia estos valores con:",
+    "opciones": [
+      "La moral del superhombre",
+      "La moral occidental cristiana que reprime la naturaleza humana",
+      "La voluntad de poder auténtica",
+      "La identidad ciudadana en la polis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante se siente angustiado porque debe elegir su carrera profesional y entiende que esta decisión define su futuro, pero también sabe que la muerte es la única certeza final. Esta vivencia se enmarca en la filosofía de:",
+    "opciones": [
+      "Marx y el materialismo",
+      "Heidegger y la existencia auténtica del 'ser para la muerte'",
+      "Descartes y el dualismo",
+      "Platón y el alma inmortal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un obrero fabrica piezas de lujo que nunca podrá comprar y siente que su vida se agota en una fábrica donde no decide nada, Karl Marx diría que este hombre sufre de:",
+    "opciones": [
+      "Inmoralidad",
+      "Enajenación por el trabajo asalariado",
+      "Autoconciencia espiritual",
+      "Simbolismo cultural"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un debate político, un ponente afirma que 'la ley existe para que los hombres no se destruyan entre sí, pues somos agresivos por naturaleza'. Esta postura es una defensa de:",
+    "opciones": [
+      "El buen salvaje de Rousseau",
+      "El contrato social de Thomas Hobbes",
+      "La virtud aristotélica",
+      "La noesis de Platón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Según el video, el profesor Segundo Montoya indica que la antropología filosófica es fundamental porque sirve de base para entender:",
+    "opciones": [
+      "Solo la biología de las especies",
+      "Otras disciplinas como la política, la moral y la nociología",
+      "Únicamente el origen del universo",
+      "La gramática de las lenguas antiguas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona decide vivir con lo mínimo, alejándose del consumismo y los lujos del mercado para cultivar su paz interior. Scheler llamaría a este estilo de vida:",
+    "opciones": [
+      "Vida burguesa",
+      "Vida asética (de asceta)",
+      "Vida enajenada",
+      "Vida de bárbaro"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.2 Antropología filosófica",
+          "youtube_id": "FzFH1i4Aj44",
+          "pdf_link": "https://drive.google.com/file/d/1a3m5wlQz3Ujhcy1P8mazStYIF5My4WJC/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el objeto de estudio de la antropología filosófica según el video?",
+    "opciones": [
+      "Las manifestaciones culturales y tradiciones de los pueblos",
+      "La naturaleza, esencia, origen y sentido de la condición humana",
+      "La evolución biológica de los primates exclusivamente",
+      "La estructura del cerebro y los procesos cognitivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo es el principal representante del monismo antropológico, que une la tesis creacionista con la evolucionista?",
+    "opciones": [
+      "Charles Darwin",
+      "Friedrich Nietzsche",
+      "Teilhard de Chardin",
+      "Max Scheler"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según la teoría clásica de Aristóteles, ¿cuál es la característica que define esencialmente al hombre?",
+    "opciones": [
+      "Ser un animal simbólico",
+      "Ser un animal racional y político (zoon politikon)",
+      "Ser un ser arrojado a la existencia",
+      "Ser un compuesto de alma y cuerpo en conflicto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué nombre recibe en la filosofía de Descartes la sustancia que define al hombre como 'cosa pensante'?",
+    "opciones": [
+      "Res extensa",
+      "Res divina",
+      "Res cogitans",
+      "Dasein"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Ernst Cassirer, el hombre es un 'animal simbólico' porque:",
+    "opciones": [
+      "Se relaciona directamente con la naturaleza mediante el instinto",
+      "Accede al mundo de forma mediata a través de símbolos (lenguaje, mitos, arte)",
+      "Su única preocupación es el éxito económico y material",
+      "Busca la eternidad del alma a través de la religión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo define Martin Heidegger al hombre en su dimensión existencial?",
+    "opciones": [
+      "Como un animal egoísta por naturaleza",
+      "Como un 'Dasein' o ser-ahí, una posibilidad absoluta",
+      "Como una máquina biológica determinada por sus genes",
+      "Como un ser puramente racional sin emociones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué factor social es determinante para la transformación del mono en hombre según la tesis de Federico Engels?",
+    "opciones": [
+      "La religión",
+      "El trabajo",
+      "El azar biológico",
+      "La guerra"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Max Scheler, ¿cuál es la facultad que permite al hombre ser 'persona' y diferenciarse de un simple individuo?",
+    "opciones": [
+      "La fuerza física",
+      "La conciencia y autoconciencia (discernimiento)",
+      "El instinto de conservación",
+      "La capacidad de reproducción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la filosofía de Friedrich Nietzsche, el hombre es visto como:",
+    "opciones": [
+      "La máxima creación de Dios",
+      "Un animal racional perfecto",
+      "Un puente o tránsito hacia el superhombre",
+      "Un ser condenado al sufrimiento eterno"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué filósofo planteó que el hombre es una 'caña pensante' cuya grandeza reside en su pensamiento a pesar de su miseria biológica?",
+    "opciones": [
+      "René Descartes",
+      "Blas Pascal",
+      "Jean-Paul Sartre",
+      "Aristóteles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un niño en educación inicial desarrolla su aparato psicomotriz haciendo trazos y círculos. El profesor Segundo Montoya menciona que esta actividad no es un juego vacío, sino la base de la evolución humana según la tesis de:",
+    "opciones": [
+      "El evolucionismo biológico de Darwin",
+      "El factor social del trabajo defendido por Engels y Marx",
+      "La autoconciencia espiritual de Max Scheler",
+      "La vida auténtica de Martin Heidegger"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de personas sobrevive a un naufragio y, de forma espontánea, establecen normas de convivencia y reparto de tareas. Esta tendencia natural a vivir en sociedad coincide con el concepto aristotélico de:",
+    "opciones": [
+      "Animal simbólico",
+      "Zoon Politikon",
+      "Dasein",
+      "Superhombre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un artista decide ignorar su hambre física extrema para terminar su obra maestra, demostrando que puede decir 'no' a sus impulsos biológicos. Este rasgo del ser espiritual es propio de la teoría de:",
+    "opciones": [
+      "Friedrich Nietzsche",
+      "Max Scheler",
+      "Charles Darwin",
+      "Thomas Hobbes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un líder inca lanza una Biblia al suelo porque no puede 'oír' la palabra de Dios en ella. Este choque cultural ilustra que el hombre habita un mundo de significados que deben ser interpretados, lo cual es la base del:",
+    "opciones": [
+      "Naturalismo biológico",
+      "Estructuralismo",
+      "Simbolismo de Ernst Cassirer",
+      "Creacionismo fijista"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Danilo vive obsesionado con comprar ropa de marca y publicar fotos en Dubái solo para que los demás lo admiren, siguiendo modas impuestas. Según Heidegger, esta es una muestra de una:",
+    "opciones": [
+      "Existencia auténtica",
+      "Existencia inauténtica o masificada",
+      "Voluntad de poder",
+      "Conciencia trascendental"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Héctor decide enfrentar a Aquiles en batalla sabiendo que va a morir, pero eligiendo conscientemente su destino para alcanzar la gloria. Este reconocimiento del 'ser para la muerte' es central en el:",
+    "opciones": [
+      "Existencialismo",
+      "Fijismo",
+      "Racionalismo",
+      "Socialismo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un médico analiza el miedo como un conjunto de reacciones químicas cerebrales (hormonas), mientras que un filósofo lo analiza como un estado del alma. Esta distinción entre cuerpo y mente es característica del:",
+    "opciones": [
+      "Monismo antropológico",
+      "Dualismo antropológico",
+      "Evolucionismo social",
+      "Naturalismo ético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un biólogo afirma que la actual pandemia seleccionará a aquellos humanos con mejores defensas naturales para que la especie sobreviva. Esta perspectiva se basa en los principios de:",
+    "opciones": [
+      "La moral cristiana",
+      "La selección natural de Charles Darwin",
+      "El simbolismo cultural",
+      "La glándula pineal de Descartes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un juez declara 'inimputable' a un individuo con retardo mental grave porque no posee discernimiento de sus actos jurídicos. Desde la antropología de Scheler, esto se debe a que el sujeto:",
+    "opciones": [
+      "Es un superhombre",
+      "Es un individuo que no ha alcanzado el grado de persona (autoconciencia)",
+      "Es una res extensa sin res cogitans",
+      "Es un animal simbólico sin lenguaje"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si se afirma que la felicidad no está en comprar objetos (Smartphone, laptop) sino en las cosas más sencillas de la vida y el autodominio, se estaría siguiendo la idea de 'autarquía' de:",
+    "opciones": [
+      "Platón",
+      "Aristóteles",
+      "Diógenes de Sinope (los cínicos)",
+      "Herbert Spencer"
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "2.3 Filosofía: Ética",
+          "youtube_id": "DYaMLSHeWKM",
+          "pdf_link": "https://drive.google.com/file/d/1a3m5wlQz3Ujhcy1P8mazStYIF5My4WJC/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Etimológicamente, la palabra 'ética' proviene del vocablo griego 'ethos', el cual hace referencia a:",
+    "opciones": [
+      "Las leyes impuestas por el Estado",
+      "Las costumbres y el carácter que se puede mejorar",
+      "El castigo divino tras una mala acción",
+      "La morada física donde habita el hombre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste el 'intelectualismo moral' propuesto por Sócrates?",
+    "opciones": [
+      "En que solo los científicos pueden ser personas buenas",
+      "En que el mal es producto de la voluntad perversa del alma",
+      "En que la virtud es conocimiento y nadie actúa mal sino por ignorancia",
+      "En que la moral depende de las leyes relativas de los sofistas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Aristóteles, todas las acciones humanas tienen un fin supremo o 'telos'. ¿Cuál es ese fin?",
+    "opciones": [
+      "La riqueza material",
+      "El cumplimiento del deber por el deber",
+      "La felicidad o Eudaimonía",
+      "El placer sensorial inmediato"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la ética aristotélica, ¿cómo se define la virtud moral?",
+    "opciones": [
+      "Como el justo medio entre dos extremos viciosos",
+      "Como la renuncia total a todos los placeres",
+      "Como el conocimiento abstracto de las ideas",
+      "Como la obediencia ciega a las normas religiosas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué concepto utiliza San Agustín para explicar que el hombre es responsable de sus actos a pesar de la presciencia divina?",
+    "opciones": [
+      "Imperativo categórico",
+      "Justo medio",
+      "Libre albedrío",
+      "Intuicionismo moral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Para Immanuel Kant, una acción tiene valor moral auténtico solo si se realiza por:",
+    "opciones": [
+      "Miedo al castigo legal",
+      "Buena voluntad y respeto al deber",
+      "Búsqueda de la felicidad propia",
+      "Conveniencia social y política"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la máxima que define al 'imperativo categórico' de Kant?",
+    "opciones": [
+      "Haz a los demás lo que quieras que te hagan a ti",
+      "Busca el mayor placer para el mayor número de personas",
+      "Obra de tal modo que tu máxima pueda valer como ley universal",
+      "Obrar bien para alcanzar el éxito en el mundo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "El utilitarismo de John Stuart Mill sostiene que el criterio para juzgar una acción como buena es:",
+    "opciones": [
+      "Su coherencia con los mandamientos religiosos",
+      "La intención pura de quien realiza el acto",
+      "La maximización del bienestar para el mayor número de personas",
+      "El respeto irrestricto a los derechos individuales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según G.E. Moore y su intuicionismo, el concepto de 'bien' es:",
+    "opciones": [
+      "Indefinible porque es un concepto simple que solo se intuye",
+      "Sinónimo de placer y ausencia de dolor",
+      "Una construcción social basada en la historia",
+      "Deducible a través de la investigación científica"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "En la distinción contemporánea, ¿a qué se refiere la 'ética de máximos'?",
+    "opciones": [
+      "A las leyes mínimas para convivir en paz",
+      "A las aspiraciones de una vida buena y autorrealización",
+      "A los castigos máximos por delitos morales",
+      "A la obediencia total a un líder político"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un funcionario público decide no aceptar un soborno no por miedo a la cárcel, sino porque considera que si todos los funcionarios aceptaran sobornos, la confianza en el Estado colapsaría. ¿Qué principio kantiano está aplicando?",
+    "opciones": [
+      "Imperativo hipotético",
+      "Cálculo de consecuencias utilitaristas",
+      "Imperativo categórico",
+      "Justo medio aristotélico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Durante una emergencia sanitaria, un comité de ética médica decide priorizar el uso de ventiladores para pacientes con mayor probabilidad de supervivencia para salvar la mayor cantidad de vidas. Este razonamiento es:",
+    "opciones": [
+      "Formalista",
+      "Socrático",
+      "Utilitarista",
+      "Intuicionista"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un joven gasta todo su sueldo en un fin de semana de fiestas, mientras que otro ahorra absolutamente todo viviendo en privaciones extremas. Aristóteles diría que ambos carecen de virtud porque no alcanzan:",
+    "opciones": [
+      "La buena voluntad",
+      "El justo medio",
+      "La intuición del bien",
+      "El libre albedrío"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante devuelve una laptop encontrada en la biblioteca solo porque sabe que hay cámaras y no quiere ser expulsado. Según Kant, esta acción es:",
+    "opciones": [
+      "Moralmente buena porque el resultado es correcto",
+      "Moralmente mala porque robar es un pecado",
+      "Conforme al deber, pero carece de valor moral genuino",
+      "Un acto de virtud heroica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Sócrates observa que un ciudadano comete un acto de injusticia por desconocer que el bien colectivo beneficia también su propia alma. Para Sócrates, este ciudadano es:",
+    "opciones": [
+      "Malvado por naturaleza y nacimiento",
+      "Malo por pura ignorancia",
+      "Un sabio que busca su propio interés",
+      "Un hombre libre que eligió el mal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una persona siente una repulsión inmediata e inexplicable ante un acto de crueldad, sin necesidad de analizar leyes ni consecuencias, G.E. Moore diría que esto es una muestra de:",
+    "opciones": [
+      "Intelectualismo moral",
+      "Imperativo categórico",
+      "Intuicionismo moral",
+      "Eudemonismo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: San Agustín explica que Dios conoce que un hombre pecará mañana, pero eso no obliga al hombre a pecar, del mismo modo que recordar el pasado no obliga a que los hechos hayan ocurrido. Esto defiende la:",
+    "opciones": [
+      "Inexistencia de Dios",
+      "Predestinación absoluta",
+      "Compatibilidad entre presciencia divina y libertad humana",
+      "Nulidad de la responsabilidad moral"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un filósofo afirma que 'una golondrina no hace la primavera' para explicar que donar dinero una sola vez no hace a una persona generosa, sino que se requiere constancia. Esta idea pertenece a:",
+    "opciones": [
+      "La ética del deber de Kant",
+      "La ética de la virtud de Aristóteles",
+      "El utilitarismo de Mill",
+      "El existencialismo moderno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una sociedad donde se debate el aborto, un grupo apela a la 'ética de máximos' al discutir sus ideales de vida y creencias personales. Según el video, estos debates pertenecen al ámbito de:",
+    "opciones": [
+      "La moral de mínimos (obligaciones)",
+      "La ética (aspiraciones vitales)",
+      "La ley jurídica estricta",
+      "La lógica proposicional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Aristóteles considera que la felicidad más perfecta no se encuentra en el dinero ni en la fama, sino en la actividad racional pura de estudio. A esto le llama:",
+    "opciones": [
+      "Virtud ética",
+      "Vida contemplativa o teórica",
+      "Imperativo categórico",
+      "Placer hedonista"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.4 Dilemas éticos en la vida cotidiana",
+          "youtube_id": "GvNWjgQscqg",
+          "pdf_link": "https://drive.google.com/file/d/1a3m5wlQz3Ujhcy1P8mazStYIF5My4WJC/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué es un dilema ético según la definición brindada en el video?",
+    "opciones": [
+      "Una norma jurídica impuesta por el Estado",
+      "Una historia breve rodeada de circunstancias donde se debe tomar una decisión",
+      "Un castigo religioso por cometer un pecado",
+      "Una ley científica comprobada por la experiencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la ética de Platón, ¿cuál es la función de la parte 'irascible' del alma?",
+    "opciones": [
+      "Satisfacer los placeres mundanos y corporales",
+      "Dirigir el alma mediante la sabiduría y la prudencia",
+      "Representar el valor, la fortaleza y el coraje",
+      "Acumular riquezas y honores sociales"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Aristóteles, ¿cuál es el fin último (telos) que buscan todos los seres humanos?",
+    "opciones": [
+      "La riqueza material",
+      "La felicidad (Eudaimonía)",
+      "El poder político",
+      "La fama y el honor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "De acuerdo con el video, ¿cuál es una diferencia clave entre la ética y la moral?",
+    "opciones": [
+      "La ética es colectiva y la moral es individual",
+      "La ética es la reflexión individual y la moral es la práctica social de costumbres",
+      "La ética se basa en sentimientos y la moral en la razón pura",
+      "No existe ninguna diferencia, son términos intercambiables"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué propone el 'imperativo categórico' de Immanuel Kant?",
+    "opciones": [
+      "Actuar buscando el beneficio personal en cada situación",
+      "Actuar de modo que tu máxima pueda convertirse en ley universal",
+      "Actuar según lo que dicten las consecuencias finales",
+      "Actuar solo si existe una recompensa económica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué criterio utilizan los filósofos 'consecuencialistas' para juzgar un acto?",
+    "opciones": [
+      "La pureza de la intención de quien realiza el acto",
+      "La obediencia a los mandamientos religiosos",
+      "Los resultados o efectos finales de la acción",
+      "La tradición cultural de la sociedad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el orden propuesto en el video para alcanzar la integridad personal?",
+    "opciones": [
+      "Decir, hacer y luego pensar",
+      "Pensar, decir y hacer",
+      "Hacer, pensar y decir",
+      "Pensar, hacer y luego decir"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la charla, ¿cuál es la característica distintiva de las normas jurídicas frente a las morales?",
+    "opciones": [
+      "Las jurídicas son opcionales y las morales obligatorias",
+      "Las morales siempre conllevan una multa económica",
+      "Las jurídicas tienen una sanción específica y una pena impuesta por la ley",
+      "Las morales son dictadas exclusivamente por el presidente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué los sofistas eran cuestionados por filósofos como Sócrates?",
+    "opciones": [
+      "Porque no creían en la existencia del lenguaje",
+      "Porque cobraban por sus servicios y buscaban la victoria argumentativa",
+      "Porque se oponían al uso de la retórica en la política",
+      "Porque defendían la verdad absoluta sobre todas las cosas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué aspecto del alma se relaciona con los placeres momentáneos según el esquema platónico?",
+    "opciones": [
+      "Lo racional",
+      "Lo irascible",
+      "Lo concupiscible",
+      "Lo espiritual"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: En el dilema del tren, una persona decide mover la palanca para salvar a cinco personas a costa de una. ¿Cuál es el fundamento ético predominante en esta decisión?",
+    "opciones": [
+      "Deontología (ética del deber)",
+      "Utilitarismo (consecuencialismo)",
+      "Intelectualismo moral",
+      "Estética innovadora"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Juan encuentra un sobre con dinero y la dirección del dueño. Aunque tiene deudas urgentes, lo devuelve pensando: 'Si todos robáramos cuando tenemos necesidad, la sociedad colapsaría'. Juan actúa bajo un imperativo:",
+    "opciones": [
+      "Hipotético",
+      "Categórico",
+      "Consecuencialista",
+      "Relativista"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un profesional recibe un correo por error donde descubre una infidelidad de la pareja de su mejor amigo, pero la política de privacidad de su empresa prohíbe revelar información interna. ¿Qué tipo de conflicto enfrenta?",
+    "opciones": [
+      "Un conflicto puramente estético",
+      "Un dilema ético entre la lealtad personal y la normativa institucional",
+      "Un problema de falta de conocimiento técnico",
+      "Una situación de azar biológico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que en los terremotos de México la gente se unió para ayudar a desconocidos. El ponente usa esto para ejemplificar:",
+    "opciones": [
+      "La crisis de valores en la juventud",
+      "La existencia de valores humanos coincidentes ante desastres naturales",
+      "La superioridad de las leyes jurídicas sobre las morales",
+      "El fracaso de la educación universitaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una madre en el aeropuerto asume la culpa por la droga que lleva su hijo para evitar que él vaya a la cárcel. Desde la jerarquía de valores, ella está priorizando:",
+    "opciones": [
+      "La honradez sobre la amistad",
+      "La lealtad familiar sobre la moral legal",
+      "El ahorro económico sobre la salud",
+      "La estética sobre la ética"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al inicio de la pandemia, se debió decidir a quién asignar respiradores limitados. Si la decisión se tomó basándose en salvar al paciente con más años de vida potenciales, se aplicó un enfoque:",
+    "opciones": [
+      "Utilitarista",
+      "Kantiano (deber puro)",
+      "Religioso fundamentalista",
+      "Socrático"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un empleado nota que su jefe le pide realizar un acto poco ético bajo amenaza de despido. El empleado decide denunciar el hecho. Según el ponente, esta persona está demostrando:",
+    "opciones": [
+      "Miedo al castigo divino",
+      "Integridad al alinear su pensamiento con su acción a pesar del riesgo",
+      "Una conducta impulsiva e irascible",
+      "Falta de compromiso con su empresa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Alguien critica duramente cómo otros países tratan a los migrantes, pero en su vida diaria discrimina a vecinos de otras regiones. Esta persona carece de:",
+    "opciones": [
+      "Conocimiento científico",
+      "Coherencia entre su ética personal y su discurso social",
+      "Poder económico",
+      "Títulos académicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona gasta todo su dinero en lujos que no puede pagar solo para aparentar en redes sociales. Platón diría que esta persona está siendo gobernada por su alma:",
+    "opciones": [
+      "Racional",
+      "Concupiscible",
+      "Irascible",
+      "Filosófica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una familia moderna se discuten nuevos derechos de orientación sexual que chocan con tradiciones antiguas. El video define este choque como:",
+    "opciones": [
+      "Una señal del fin del mundo",
+      "Una crisis de valores producto de la remodelación social",
+      "Un error administrativo de la familia",
+      "Un problema de falta de tecnología"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Ciencia y Conocimiento",
+      "videos": [
+        {
+          "titulo": "3.1 conocimiento científico",
+          "youtube_id": "H0FgadWPoAY",
+          "pdf_link": "https://drive.google.com/file/d/1IgLCYIEwO6QKjUL9ZRGkh8sjJojoogYg/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué es el conocimiento científico según el video?",
+    "opciones": [
+      "Un conjunto de creencias basadas en la tradición oral",
+      "Un conjunto ordenado, comprobado y sistematizado de saberes",
+      "La acumulación de opiniones individuales sobre la naturaleza",
+      "Un saber que no requiere experimentación para ser válido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del método científico mencionada en el video?",
+    "opciones": [
+      "Confirmar prejuicios personales sobre la realidad",
+      "Herramienta de investigación para comprobar veracidad o falsedad de una tesis",
+      "Eliminar la necesidad de observación en el estudio de fenómenos",
+      "Garantizar que todos los hallazgos sean subjetivos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los cinco pasos del método científico descritos?",
+    "opciones": [
+      "Opinión, debate, votación, ley y archivo",
+      "Observación, hipótesis, experimentación, teoría y conclusiones",
+      "Pregunta, lectura, escritura, dibujo y publicación",
+      "Inicio, desarrollo, nudo, desenlace y moraleja"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica del conocimiento científico permite distinguir entre lo verdadero y lo falso?",
+    "opciones": [
+      "Objetivo",
+      "Crítico",
+      "Metódico",
+      "Universal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando el video menciona que la validez es igual para todos y se aplica en todas partes, ¿a qué característica se refiere?",
+    "opciones": [
+      "Unificado",
+      "Universal",
+      "Fundamentado",
+      "Verificable"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué se dice que el conocimiento científico es metódico?",
+    "opciones": [
+      "Porque se basa en la improvisación constante",
+      "Porque aplica métodos de investigación y procedimientos rigurosos",
+      "Porque depende de la suerte del investigador",
+      "Porque solo estudia casos singulares y aislados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La característica de ser 'objetivo' implica que:",
+    "opciones": [
+      "Los hallazgos tienen un valor individual y privado",
+      "Los hallazgos tienen un valor general y no individual",
+      "El investigador puede cambiar los datos según su parecer",
+      "El conocimiento científico es puramente emocional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que el conocimiento científico sea 'verificable'?",
+    "opciones": [
+      "Que debe ser aceptado por fe ciega",
+      "Que puede ser comprobado mediante la experiencia",
+      "Que es imposible de repetir en un laboratorio",
+      "Que solo los científicos pueden entenderlo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos fundamentales del conocimiento científico?",
+    "opciones": [
+      "Ocultar los procesos de la naturaleza",
+      "Entender y explicar el porqué de las cosas",
+      "Crear leyes que solo funcionen en un país",
+      "Descartar el razonamiento lógico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "El conocimiento científico es 'unificado' porque:",
+    "opciones": [
+      "Busca conocimientos generales y no singulares",
+      "Divide la realidad en partes que nunca se conectan",
+      "Depende de una sola persona en el mundo",
+      "No admite nuevas investigaciones"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un investigador observa que las plantas crecen más rápido con un tipo de abono. Para validar su hallazgo, realiza el mismo proceso varias veces bajo condiciones controladas. ¿Qué característica del conocimiento científico está ejerciendo primordialmente?",
+    "opciones": [
+      "Subjetividad",
+      "Verificabilidad",
+      "Singularidad",
+      "Tradicción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un debate sobre el calentamiento global, un ponente presenta tablas de datos y pruebas obtenidas tras años de análisis riguroso. Según el video, ¿qué característica resalta al basar sus conocimientos en pruebas y datos?",
+    "opciones": [
+      "Conocimiento intuitivo",
+      "Conocimiento fundamentado",
+      "Conocimiento espontáneo",
+      "Conocimiento subjetivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante afirma que 'la gravedad solo funciona en Perú porque yo lo digo'. Un profesor le corrige señalando que las leyes científicas se aplican en todas partes del mundo por igual. ¿Qué característica del conocimiento científico está defendiendo el profesor?",
+    "opciones": [
+      "Particularidad",
+      "Universalidad",
+      "Relatividad",
+      "Emocionalidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Antes de lanzar una nueva vacuna al mercado, los científicos deben seguir una serie de pasos preestablecidos: observar el virus, proponer una solución, probarla en laboratorio y documentar resultados. Este cumplimiento de pasos se conoce como:",
+    "opciones": [
+      "Azar científico",
+      "Método científico",
+      "Ley de la probabilidad",
+      "Dogmatismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de astrónomos descubre un nuevo cuerpo celeste. En lugar de guardar el descubrimiento para ellos, publican los datos para que otros científicos puedan analizarlo y llegar a las mismas conclusiones. Esto asegura que el hallazgo tenga un valor general, cumpliendo con la:",
+    "opciones": [
+      "Individualidad",
+      "Objetividad",
+      "Improvisación",
+      "Finitud"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al estudiar la caída de los cuerpos, la ciencia no se queda con la observación de que 'esta manzana cayó hoy', sino que busca establecer la ley que rige a todos los objetos que caen. Esta búsqueda de conocimientos generales define al saber cómo:",
+    "opciones": [
+      "Desordenado",
+      "Unificado",
+      "Caótico",
+      "Incomprobable"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un médico analiza los síntomas de un paciente y propone una posible causa de la enfermedad antes de realizar los exámenes. En el marco del método científico, ¿en qué paso se encuentra el médico?",
+    "opciones": [
+      "Conclusión",
+      "Hipótesis",
+      "Teoría",
+      "Experimentación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una teoría científica no puede ser comprobada mediante la experiencia ni el análisis de hechos, el video sugeriría que dicha teoría:",
+    "opciones": [
+      "Es una verdad absoluta",
+      "Carece de carácter científico",
+      "Es un dogma religioso",
+      "Es un saber metódico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un científico rechaza una idea antigua porque nuevas pruebas demuestran que era falsa. Esta capacidad de distinguir entre lo cierto y lo discutible mediante el análisis riguroso es la esencia del carácter:",
+    "opciones": [
+      "Dogmático",
+      "Crítico",
+      "Pasivo",
+      "Subjetivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un laboratorio sigue estrictamente un manual de procedimientos para asegurar que sus mediciones sean exactas y no varíen por descuido. ¿Qué rasgo del conocimiento científico se está priorizando aquí?",
+    "opciones": [
+      "El desorden sistémico",
+      "El carácter metódico",
+      "La fe en el resultado",
+      "La intuición personal"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.2 Problemas e hipótesis",
+          "youtube_id": "VE3L0rbZa7A",
+          "pdf_link": "https://drive.google.com/file/d/1IgLCYIEwO6QKjUL9ZRGkh8sjJojoogYg/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el punto de partida principal de una investigación según el video?",
+    "opciones": [
+      "Encontrar una pregunta de investigación",
+      "Escribir las conclusiones finales",
+      "Realizar encuestas al azar",
+      "Publicar los resultados en una revista"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es una variable según la definición del Dr. Linares?",
+    "opciones": [
+      "Un número fijo que nunca cambia",
+      "Cualquier cosa que no es una constante y puede variar",
+      "Un sentimiento puramente subjetivo",
+      "La conclusión definitiva de un experimento"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define una hipótesis en el contexto de la investigación cuantitativa?",
+    "opciones": [
+      "Una verdad absoluta e irrefutable",
+      "Una relación conjetural entre dos o más variables",
+      "Un resumen de la bibliografía consultada",
+      "Una pregunta sin respuesta posible"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una relación causa-efecto, ¿cuál es la variable que representa la causa?",
+    "opciones": [
+      "Variable dependiente",
+      "Variable interviniente",
+      "Variable independiente",
+      "Variable constante"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe un concepto que ha sido creado por los científicos para explicar fenómenos (como la depresión o la ansiedad)?",
+    "opciones": [
+      "Abstracción",
+      "Constructo",
+      "Parámetro",
+      "Hipótesis circular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es uno de los criterios que debe cumplir un problema de investigación?",
+    "opciones": [
+      "Debe ser imposible de medir",
+      "Debe expresarse como una relación entre dos o más variables",
+      "No debe formularse en forma de pregunta",
+      "Debe basarse únicamente en opiniones personales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede con la variable dependiente ante los cambios en la independiente?",
+    "opciones": [
+      "Permanece constante",
+      "Representa la consecuencia o el efecto del cambio",
+      "Se convierte en la causa del fenómeno",
+      "Desaparece del estudio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Para qué sirven los problemas e hipótesis en una investigación?",
+    "opciones": [
+      "Para confundir al investigador",
+      "Para dar un panorama y guiar el camino de la investigación",
+      "Para rellenar el marco teórico de la tesis",
+      "Para evitar el uso de la estadística"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica determinante que permite someter un problema a prueba?",
+    "opciones": [
+      "La prueba empírica (observación o experimentación)",
+      "La aprobación de un comité de ética",
+      "Que la respuesta sea obvia desde el inicio",
+      "Que no existan variables involucradas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué recomienda el video para evitar explicaciones circulares en una hipótesis?",
+    "opciones": [
+      "Ignorar las variables",
+      "Acudir a la literatura y estudios previos",
+      "Cambiar el tema de investigación",
+      "No realizar mediciones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un investigador postula que 'la falta de sueño disminuye el rendimiento escolar'. En este escenario, ¿cuál es la variable independiente?",
+    "opciones": [
+      "El rendimiento escolar",
+      "La falta de sueño",
+      "Los estudiantes",
+      "Las horas de clase"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un estudio de mercado concluye que 'a mayor inversión en publicidad, mayor volumen de ventas', se está planteando una hipótesis que relaciona dos variables. ¿Qué tipo de investigación es esta según el video?",
+    "opciones": [
+      "Cualitativa",
+      "Cuantitativa",
+      "Filosófica",
+      "Experimental pura"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un sociólogo observa que en el país 'debería predominar la legalidad', pero en la realidad 'hay mucha corrupción'. Este contraste entre el 'deber ser' y el 'ser' es útil para:",
+    "opciones": [
+      "Eliminar la hipótesis",
+      "Plantear un problema de investigación",
+      "Evitar la prueba empírica",
+      "Confirmar que no hay variables"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una tesis sobre psicología organizacional, se desea medir la 'satisfacción laboral'. Como este concepto no existe físicamente sino que es una creación científica para explicar el bienestar, se clasifica como:",
+    "opciones": [
+      "Una constante",
+      "Un constructo",
+      "Una variable circular",
+      "Un dato empírico directo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante afirma: 'Me va mal en matemáticas porque odio los números, y odio los números porque me va mal en matemáticas'. El Dr. Linares diría que este es un problema de:",
+    "opciones": [
+      "Relación lineal",
+      "Explicación circular",
+      "Variable independiente clara",
+      "Constructo mal definido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un equipo científico termina una investigación sobre el estrés y el malestar físico. Al final, proponen investigar qué tipo específico de malestar (cardiovascular o muscular) predomina. Esto demuestra que la investigación:",
+    "opciones": [
+      "Ha fracasado",
+      "Genera nuevas preguntas de investigación",
+      "No tuvo una hipótesis válida",
+      "Debe descartar el método cuantitativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un investigador analiza cómo el 'clima laboral' afecta la 'productividad' de una empresa. Si el clima laboral es la causa, la productividad es:",
+    "opciones": [
+      "La variable independiente",
+      "La variable dependiente",
+      "Un constructo inmedible",
+      "Una constante fija"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un experimento, se descubre que no hay correlación entre las variables estudiadas. Según el video, ¿qué debería hacer el investigador?",
+    "opciones": [
+      "Desechar el estudio por falta de éxito",
+      "No publicarlo para no arruinar su reputación",
+      "Considerarlo un resultado valioso y averiguar por qué no hubo correlación",
+      "Cambiar los datos para que coincidan con la teoría"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Para que la 'ansiedad' sea tratada en una investigación cuantitativa, el video insiste en que esta debe ser:",
+    "opciones": [
+      "Únicamente descrita con palabras",
+      "Medible mediante escalas o instrumentos",
+      "Ignorada por ser un constructo",
+      "Tratada como una constante"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ingeniero quiere investigar por qué se caen los puentes después de un sismo. Al decir 'los puentes deberían resistir sismos de magnitud 8', está definiendo el:",
+    "opciones": [
+      "Ser (la realidad)",
+      "Deber ser (lo ideal)",
+      "Constructo",
+      "Resultado final"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.3 ¿Qué es una hipótesis científica?",
+          "youtube_id": "0mIie5axzW4",
+          "pdf_link": "https://drive.google.com/file/d/1IgLCYIEwO6QKjUL9ZRGkh8sjJojoogYg/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo define el video la diferencia entre un 'dato' y una 'idea'?",
+    "opciones": [
+      "El dato es subjetivo y la idea es objetiva",
+      "El dato se afirma a través de los sentidos o instrumentos; la idea se conjetura",
+      "No existe diferencia, ambos son sinónimos de verdad absoluta",
+      "La idea es un dato que ya ha sido comprobado por la religión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo de la ciencia propuso el 'falsacionismo' como criterio de demarcación?",
+    "opciones": [
+      "Mario Bunge",
+      "Karl Popper",
+      "Albert Einstein",
+      "Thomas Kuhn"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Karl Popper, ¿cuándo se considera que una idea es científica?",
+    "opciones": [
+      "Cuando es imposible demostrar que es falsa",
+      "Cuando se arriesga a ser sometida a pruebas que podrían demostrar su falsedad",
+      "Cuando es aceptada por la mayoría de la población",
+      "Cuando se basa en creencias místicas tradicionales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué las predicciones del horóscopo no son científicas según el criterio de Popper?",
+    "opciones": [
+      "Porque son demasiado precisas",
+      "Porque son afirmaciones vagas e infalsables que no se arriesgan a fallar",
+      "Porque los planetas no existen en la realidad material",
+      "Porque no utilizan un lenguaje matemático avanzado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué criterio adicional propuso Mario Bunge para mejorar el falsacionismo de Popper?",
+    "opciones": [
+      "El criterio de fe religiosa",
+      "El criterio del materialismo (referencia al mundo material)",
+      "El criterio de la opinión popular",
+      "El criterio del azar absoluto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿qué define a un 'objeto material' en el contexto científico?",
+    "opciones": [
+      "Cualquier cosa que podamos imaginar claramente",
+      "Un objeto que posee energía y cambia en el tiempo",
+      "Una entidad espiritual que interviene en el clima",
+      "Un concepto abstracto que no ocupa lugar en el espacio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'creer' y 'saber' explicada en la presentación?",
+    "opciones": [
+      "No hay diferencia, son procesos mentales idénticos",
+      "El saber requiere justificación racional y evidencia empírica; la creencia no",
+      "Creer es más importante que saber para los científicos",
+      "Saber es una forma de creencia que nunca cambia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué la homeopatía es considerada no científica según el video?",
+    "opciones": [
+      "Porque es demasiado barata para ser ciencia",
+      "Porque es incoherente con los principios de la química y la física",
+      "Porque utiliza plantas medicinales reales",
+      "Porque Popper nunca la estudió en sus libros"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la 'coherencia racional' para Mario Bunge?",
+    "opciones": [
+      "Es irrelevante si la idea tiene mucha evidencia",
+      "Una idea científica debe ser coherente con el resto del conocimiento científico ya establecido",
+      "Significa que el científico debe tener buena salud mental",
+      "Permite que la ciencia acepte mitos si estos suenan lógicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿qué sucede con una hipótesis científica una vez que se acumula evidencia a favor?",
+    "opciones": [
+      "Se convierte en un dogma religioso",
+      "Se transforma en conocimiento científico aceptado socialmente",
+      "Deja de ser útil para la investigación",
+      "Se vuelve infalsable permanentemente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un astrólogo afirma: 'Mañana te ocurrirá algo importante relacionado con el amor'. Usted intenta demostrar que esto es falso, pero cualquier cosa que pase (conocer a alguien o pelear con su pareja) el astrólogo la usa como prueba de su acierto. ¿Qué concepto de Popper se aplica aquí?",
+    "opciones": [
+      "Falsación exitosa",
+      "Infalsabilidad por vaguedad",
+      "Materialismo científico",
+      "Justificación racional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Albert Einstein predijo que la luz se desviaría exactamente un ángulo determinado al pasar cerca del sol. Si el experimento hubiera mostrado un ángulo diferente, su teoría habría caído. Esta actitud de arriesgar su teoría define el:",
+    "opciones": [
+      "Dogmatismo científico",
+      "Criterio de falsabilidad",
+      "Relativismo epistemológico",
+      "Subjetivismo empírico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de personas afirma que la lluvia es causada por el llanto de una deidad invisible que habita en otra dimensión. Mario Bunge rechazaría esta idea como científica principalmente porque:",
+    "opciones": [
+      "La deidad está triste y la ciencia busca la felicidad",
+      "Apela a entidades inmateriales fuera del mundo físico",
+      "No han presentado fotos de la deidad",
+      "La mitología es más antigua que la ciencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un investigador sostiene que el consumo de vino es saludable porque contiene antioxidantes, a pesar de que nuevos estudios masivos demuestran que los daños del alcohol superan este beneficio. Según el video, esta persona defiende una:",
+    "opciones": [
+      "Verdad absoluta e inmutable",
+      "Creencia no científica que ignora la evidencia acumulada",
+      "Hipótesis científica de vanguardia",
+      "Teoría basada en el materialismo puro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Usted dice: 'Yo creo que mi equipo ganará el domingo porque tengo fe'. Su profesor de ciencias le responde: 'Eso no es un saber científico'. La razón del profesor se basa en que su afirmación carece de:",
+    "opciones": [
+      "Ganas de ganar",
+      "Justificación racional y evidencia empírica",
+      "Un uniforme adecuado",
+      "Pasión nacionalista"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En el año 2012, se difundió la idea de que el mundo explotaría el 21 de diciembre según el calendario Maya. Aunque la predicción falló, Popper la consideraría más 'científica' en forma que un horóscopo porque:",
+    "opciones": [
+      "Los mayas eran mejores astrónomos",
+      "Era una afirmación arriesgada que permitía ser falseada (y lo fue)",
+      "El fin del mundo es un tema serio",
+      "Se basaba en escritos antiguos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un fabricante de medicamentos homeopáticos afirma que su producto funciona 'por memoria del agua', aunque la química demuestra que no queda ni una molécula de la sustancia original. Mario Bunge diría que esta hipótesis es:",
+    "opciones": [
+      "Correcta por ser materialista",
+      "Irracional por ser incoherente con la química establecida",
+      "Válida porque el agua es un objeto material",
+      "Científica porque la gente se siente mejor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al estudiar los relámpagos, la ciencia prefiere la hipótesis de las 'partículas cargadas' (electrones) sobre la de 'dioses enojados' porque, aunque los electrones no se vean directamente, sus efectos son:",
+    "opciones": [
+      "Mágicos",
+      "Contrastables empíricamente y coherentes con la física",
+      "Únicamente imaginarios",
+      "Aceptados por la iglesia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un científico afirma que ha descubierto un 'fantasma' que no tiene masa, ni energía, ni puede interactuar con ninguna máquina. Según los requisitos del video, esta hipótesis:",
+    "opciones": [
+      "Es científica porque es nueva",
+      "No es científica por no referirse a una entidad material",
+      "Es científica porque Popper creía en fantasmas",
+      "Es una teoría de la física cuántica avanzada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un político reinterpreta cada fracaso económico de su gobierno como una 'victoria oculta' que nadie más entiende, Popper diría que su discurso se asemeja a la:",
+    "opciones": [
+      "Lógica de la investigación científica",
+      "Pseudociencia, al rehuir a la refutación de los hechos",
+      "Matemática pura",
+      "Filosofía analítica"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Teoría de la Argumentación",
+      "videos": [
+        {
+          "titulo": "4.1 Filosofía-Tema: La argumentación",
+          "youtube_id": "Z9Wv2eAMAl4",
+          "pdf_link": "https://drive.google.com/file/d/14I4IGsyiMYCQJq_YWN8rcNxyr2_zM3eP/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el objetivo principal de la actividad argumentativa según el video?",
+    "opciones": [
+      "Tratar de convencer al interlocutor de una determinada postura u opinión",
+      "Ganar una discusión mediante el uso de falacias lógicas",
+      "Demostrar verdades matemáticas absolutas en todo contexto",
+      "Imponer una creencia personal sin necesidad de pruebas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué filósofos son considerados los iniciadores de la nueva teoría de la argumentación?",
+    "opciones": [
+      "Sócrates y Platón",
+      "Chaïm Perelman y Stephen Toulmin",
+      "Aristóteles y René Descartes",
+      "Karl Popper y Mario Bunge"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En un argumento deductivo, ¿qué carácter tiene la relación entre las premisas y la conclusión?",
+    "opciones": [
+      "Carácter de probabilidad",
+      "Carácter de incertidumbre",
+      "Carácter de necesidad",
+      "Carácter de ambigüedad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "A diferencia de la deducción, los argumentos inductivos arriban a conclusiones que son:",
+    "opciones": [
+      "Necesariamente verdaderas",
+      "Probables",
+      "Lógicamente imposibles",
+      "Siempre universales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué se centra el 'enfoque material' del razonamiento?",
+    "opciones": [
+      "En la validez de la estructura lógica sin importar el contenido",
+      "En la capacidad de persuasión emocional del orador",
+      "En la verdad del contenido, la verosimilitud y el respaldo de los datos",
+      "En el uso de variables abstractas como P y Q"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define un argumento 'complejo' en cuanto a su estructura?",
+    "opciones": [
+      "Como un argumento que usa palabras muy técnicas",
+      "Como aquel que contiene sub-argumentos que apoyan a un argumento principal",
+      "Como un razonamiento que siempre llega a una conclusión falsa",
+      "Como una sola razón muy larga y detallada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un 'entimema' en la práctica argumentativa?",
+    "opciones": [
+      "Un argumento donde se deja una premisa implícita por considerarse obvia",
+      "Una falacia que ataca directamente a la persona",
+      "Un razonamiento que utiliza solo comparaciones analógicas",
+      "Una conclusión que contradice abiertamente a sus premisas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "El enfoque pragmático de la argumentación considera que el razonamiento tiene como fin:",
+    "opciones": [
+      "Descubrir leyes de la naturaleza únicamente",
+      "Analizar la gramática de las oraciones",
+      "Persuadir a un auditorio o llegar a un acuerdo",
+      "Eliminar cualquier rastro de emoción en el diálogo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Perelman, en el campo de la argumentación no se busca la verdad absoluta, sino la:",
+    "opciones": [
+      "Mentira bien estructurada",
+      "Plausibilidad (lo que es razonable y probable de aceptar)",
+      "Confusión del interlocutor",
+      "Victoria mediante el insulto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Stephen Toulmin propone un enfoque de la argumentación que toma sus ideas principalmente del campo del:",
+    "opciones": [
+      "Derecho",
+      "Marketing",
+      "Biotecnología",
+      "Fútbol"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Una persona afirma: 'Mi primera pareja me engañó y la segunda también, por lo tanto, es probable que todas las parejas sean infieles'. ¿Qué tipo de argumento está utilizando y qué precaución sugiere el video?",
+    "opciones": [
+      "Deductivo; se debe aceptar como una verdad necesaria",
+      "Analógico; no se pueden comparar dos personas distintas",
+      "Inductivo; es una generalización que solo tiene grado de probabilidad",
+      "Material; los datos presentados son científicamente irrefutables"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: En un comercial se dice: 'Usa esta crema porque 8 de cada 10 odontólogos la recomiendan'. Desde el enfoque material de la argumentación, lo más importante sería:",
+    "opciones": [
+      "Evaluar si la estructura lógica P -> Q es válida",
+      "Verificar si la investigación estadística mencionada es real y veraz",
+      "Analizar si el color del empaque es persuasivo",
+      "Identificar si hay una premisa escondida sobre el precio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si decimos 'Sócrates es hombre, por lo tanto es mortal', omitiendo la premisa 'Todos los hombres son mortales', estamos ante un:",
+    "opciones": [
+      "Entimema",
+      "Argumento inductivo",
+      "Sofisma de distracción",
+      "Argumento analógico"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: El Joker convence a Harvey Dent de que matar a su prometida 'no fue personal' alegando que él es un 'agente del caos' y que el caos es 'justo'. Este tipo de argumentación compleja busca principalmente:",
+    "opciones": [
+      "Dar una explicación científica sobre el crimen",
+      "Persuadir y cambiar la percepción de la víctima mediante un enfoque pragmático",
+      "Demostrar una ley matemática sobre el azar",
+      "Ganar tiempo para que llegue Batman"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Alguien dice: 'La ociosidad es la madre de todos los vicios, y como a toda madre hay que respetarla'. El video señala que este argumento se refuta detectando una falacia de:",
+    "opciones": [
+      "Ad hominem",
+      "Petición de principio",
+      "Equívoco (uso del término 'madre' con dos sentidos distintos)",
+      "Apelación a la autoridad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: José Mujica argumenta que aceptó la ley del aborto no por estar de acuerdo con el acto en sí, sino como una 'solución práctica' al problema de la soledad de la mujer. Este es un ejemplo de razonamiento con enfoque:",
+    "opciones": [
+      "Formal y deductivo",
+      "Pragmático y material",
+      "Estético y literario",
+      "Religioso y dogmático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un orador compara la necesidad de un capitán en un equipo de fútbol con la necesidad de un líder en la sociedad para aclarar su postura. Este es un argumento de tipo:",
+    "opciones": [
+      "Deductivo",
+      "Analógico",
+      "Estadístico",
+      "Inductivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un esquema argumentativo sobre la obesidad, se presentan razones como 'enfermedades cardiovasculares' y 'estrés'. Estos elementos funcionan estructuralmente como:",
+    "opciones": [
+      "Tesis principales",
+      "Sub-argumentos que refuerzan un argumento central",
+      "Refutaciones al problema de la salud",
+      "Premisas implícitas o entimemas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un joven decide no salir de fiesta basándose en que si lo hace, sus padres se enojarán y le quitarán el celular. Al persuadirse a sí mismo mediante consecuencias, aplica un enfoque:",
+    "opciones": [
+      "Formal",
+      "Material",
+      "Pragmático",
+      "Deductivo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Según Perelman, si en un debate sobre política un candidato convence al auditorio por presentar la solución que parece más razonable ante la crisis actual, ha ganado por:",
+    "opciones": [
+      "Plausibilidad",
+      "Verdad absoluta",
+      "Necesidad lógica",
+      "Muestreo aleatorio"
+    ],
+    "correcta": 0
+  }
+]
+        },
+        {
+          "titulo": "4.2 Teoría de la argumentación, análisis",
+          "youtube_id": "ISBK7dOMnsY",
+          "pdf_link": "https://drive.google.com/file/d/14I4IGsyiMYCQJq_YWN8rcNxyr2_zM3eP/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo se define un argumento según la clase explicada en el video?",
+    "opciones": [
+      "Una opinión personal sin necesidad de pruebas",
+      "Una estructura de proposiciones compuesta por premisas y una conclusión",
+      "Un grito o insulto para ganar una discusión",
+      "Una lista de hechos científicos irrefutables"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué relación existe entre las premisas y la conclusión en un argumento?",
+    "opciones": [
+      "Son independientes y no tienen relación",
+      "La conclusión se deriva o desprende de las premisas",
+      "Las premisas se derivan de la conclusión",
+      "La conclusión siempre debe ser falsa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quiénes son los dos autores clásicos de la teoría de la argumentación mencionados en el video?",
+    "opciones": [
+      "Sócrates y Aristóteles",
+      "Platón y Descartes",
+      "Perelman y Toulmin",
+      "Hegel y Marx"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Perelman, ¿qué es un 'auditorio universal'?",
+    "opciones": [
+      "Un grupo de personas en un mercado",
+      "Un auditorio ideal compuesto por sujetos racionales con nivel educativo elevado",
+      "Cualquier multitud en un mitin político",
+      "Un grupo de niños en una escuela primaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'convencer' y 'persuadir' según la teoría de Perelman?",
+    "opciones": [
+      "Son sinónimos exactos",
+      "Convencer se dirige al auditorio universal; persuadir al auditorio particular",
+      "Persuadir es para científicos; convencer es para políticos",
+      "Convencer usa amenazas; persuadir usa la razón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste la falacia 'ad baculum' mencionada en el video?",
+    "opciones": [
+      "Apelar a la piedad o lástima",
+      "Atacar a la persona en lugar de a su argumento",
+      "Uso de la amenaza o la intimidación para imponer una idea",
+      "Repetir una mentira hasta que parezca verdad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el propósito fundamental de la argumentación como acción comunicativa?",
+    "opciones": [
+      "Establecer quién grita más fuerte",
+      "Expresar razones para convencer o persuadir al interlocutor",
+      "Escribir poemas sobre la verdad",
+      "Ignorar el punto de vista contrario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la estructura de un argumento, ¿donde se puede ubicar la conclusión?",
+    "opciones": [
+      "Únicamente al final del argumento",
+      "Únicamente al inicio del argumento",
+      "Puede estar al inicio, al medio o al final",
+      "Siempre después de un punto aparte"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el argumento donde se omite una premisa por considerarse obvia?",
+    "opciones": [
+      "Silogismo perfecto",
+      "Entimema",
+      "Sofisma",
+      "Paradoja"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la obra más conocida de Chaïm Perelman citada en el video?",
+    "opciones": [
+      "Crítica de la razón pura",
+      "Tratado de la argumentación: La nueva retórica",
+      "Los usos de la argumentación",
+      "El contrato social"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante lee un texto filosófico y encuentra que la primera frase dice: 'La educación es el único camino al progreso'. Luego, el texto ofrece tres razones que sustentan esa idea. En este caso, la conclusión del argumento se encuentra:",
+    "opciones": [
+      "Al final del texto como una moraleja",
+      "Al inicio del texto como una tesis central",
+      "Escondida e implícita",
+      "En las referencias bibliográficas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un congreso internacional de física cuántica, los expositores presentan fórmulas y experimentos para que sus colegas acepten sus teorías. Según Perelman, el objetivo de estos científicos es:",
+    "opciones": [
+      "Persuadir a un auditorio particular mediante emociones",
+      "Convencer a un auditorio universal mediante la razón",
+      "Amenazar a la comunidad científica",
+      "Crear una paradoja matemática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un candidato presidencial llega a una plaza pública y utiliza frases emotivas y promesas rápidas para ganar votos. Según la teoría de la argumentación, este orador está realizando una acción de:",
+    "opciones": [
+      "Convicción lógica en un auditorio ideal",
+      "Persuasión ante un auditorio particular o concreto",
+      "Demostración geométrica",
+      "Refutación sistemática de la ciencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un jefe le dice a su empleado: 'Deberías aceptar trabajar horas extra sin pago, recuerda que hay mucha gente buscando empleo y no querrías tener un accidente laboral'. ¿Qué falacia está cometiendo el jefe?",
+    "opciones": [
+      "Ad misericordiam",
+      "Ad baculum (apelación a la amenaza/fuerza)",
+      "Ad hominem",
+      "Equívoco"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar el argumento 'Sócrates es mortal porque es hombre', notamos que falta la premisa general 'Todos los hombres son mortales'. Este tipo de razonamiento incompleto pero válido en la comunicación diaria se llama:",
+    "opciones": [
+      "Falacia de división",
+      "Entimema",
+      "Deducción necesaria",
+      "Inducción probable"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que muchos estudiantes no terminan su tesis porque carecen de habilidades metodológicas para fundamentar sus opiniones. Esto demuestra que la argumentación universitaria requiere principalmente pasar de:",
+    "opciones": [
+      "La verdad a la mentira",
+      "La simple opinión a la justificación racional o fundamentación",
+      "La lectura a la memorización",
+      "La ciencia a la retórica política"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un juicio, un abogado presenta pruebas de que su cliente es 'un buen padre y un hombre arrepentido' para evitar que vaya a prisión por un robo. Este argumento busca conmover al juez mediante la falacia:",
+    "opciones": [
+      "Ad baculum",
+      "Ad misericordiam (apelación a la piedad)",
+      "Ad ignorantiam",
+      "De ambigüedad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un joven intenta enamorar a una chica usando poemas y gestos afectuosos en lugar de silogismos lógicos, está tratando con un auditorio de tipo:",
+    "opciones": [
+      "Universal e ideal",
+      "Particular o concreto, donde prima la persuasión",
+      "Científico y riguroso",
+      "Metodológico y procesal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: La paradoja del barbero ('El barbero afeita a todos los que no se afeitan a sí mismos, ¿quién afeita al barbero?') se utiliza en clase para ilustrar problemas de lógica planteados por:",
+    "opciones": [
+      "Aristóteles",
+      "Bertrand Russell",
+      "René Descartes",
+      "Stephen Toulmin"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Cuando usamos conectores como 'además', 'asimismo' o 'también' para unir ideas que sirven de base a una conclusión, estamos construyendo la parte del argumento denominada:",
+    "opciones": [
+      "Conclusión anticipada",
+      "Premisas",
+      "Garantías de Toulmin",
+      "Falacias de ambigüedad"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "4.3 FILOSOFIA - TEORIA DE LA ARGUMENTACION ",
+          "youtube_id": "bMOHIVv6eRM",
+          "pdf_link": "https://drive.google.com/file/d/14I4IGsyiMYCQJq_YWN8rcNxyr2_zM3eP/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo se define un argumento según la clase expuesta en el video?",
+    "opciones": [
+      "Una opinión personal sin necesidad de sustento",
+      "Una estructura de proposiciones compuesta por premisas y conclusión",
+      "Un grito o exclamación para ganar un debate",
+      "Una ley científica comprobada exclusivamente en laboratorio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el nombre completo de la disciplina que analizan autores como Perelman y Toulmin?",
+    "opciones": [
+      "Lógica matemática pura",
+      "Teoría de la argumentación jurídica",
+      "Retórica de los sofistas antiguos",
+      "Filosofía del lenguaje cotidiano"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Chaïm Perelman, ¿cuál es la finalidad de dirigirse a un 'auditorio universal'?",
+    "opciones": [
+      "Persuadir mediante emociones y sentimientos",
+      "Convencer mediante razones a sujetos racionales",
+      "Manipular a la masa para obtener votos",
+      "Entretener a un público heterogéneo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste un argumento deductivo?",
+    "opciones": [
+      "En llegar a una conclusión probable a partir de casos particulares",
+      "En que la conclusión se deriva necesariamente de las premisas",
+      "En una comparación entre dos situaciones similares",
+      "En una opinión basada en la experiencia personal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es un 'entimema'?",
+    "opciones": [
+      "Un argumento inválido por ser demasiado largo",
+      "Un razonamiento incompleto al que le falta una premisa",
+      "Una verdad absoluta evidente por sí misma",
+      "Un tipo de falacia que ataca a la persona"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la principal crítica que los teóricos de la argumentación hacen a la lógica tradicional?",
+    "opciones": [
+      "Que es demasiado fácil de aprender",
+      "Que es insuficiente para analizar argumentos en la vida real y jurídica",
+      "Que solo sirve para los filósofos griegos",
+      "Que no utiliza el lenguaje matemático"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué autor trabajó con Wittgenstein y escribió 'Los usos de la argumentación'?",
+    "opciones": [
+      "Chaïm Perelman",
+      "Stephen Toulmin",
+      "René Descartes",
+      "Aristóteles"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el contexto de la argumentación jurídica, ¿qué significa el término 'razonabilidad'?",
+    "opciones": [
+      "Alcanzar una verdad absoluta e irrefutable",
+      "Llegar a un consenso o acuerdo mediante el diálogo",
+      "Demostrar que el oponente no tiene cerebro",
+      "Seguir reglas matemáticas para juzgar a alguien"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función de La Retórica en la teoría de la argumentación?",
+    "opciones": [
+      "Establecer fórmulas matemáticas de verdad",
+      "Proporcionar herramientas y estrategias para persuadir",
+      "Eliminar el diálogo entre las personas",
+      "Estudiar la caída de los objetos físicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Dónde puede ubicarse la conclusión en un argumento dentro de un texto?",
+    "opciones": [
+      "Únicamente al final del párrafo",
+      "Puede estar al inicio, al medio o al final",
+      "Siempre después de una coma",
+      "Solamente en el título del texto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un candidato presidencial da un discurso en una plaza pública apelando al patriotismo y la identidad nacional para ganar votos. Según Perelman, el candidato está ante un:",
+    "opciones": [
+      "Auditorio universal y busca convencer",
+      "Auditorio particular y busca persuadir",
+      "Auditorio ideal y busca la verdad",
+      "Auditorio científico y busca demostrar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un congreso internacional de medicina, un investigador presenta datos sobre una nueva vacuna ante colegas de todo el mundo. Este escenario corresponde a un:",
+    "opciones": [
+      "Auditorio particular donde prima la emoción",
+      "Auditorio universal donde se busca convencer racionalmente",
+      "Mitin político para ganar aprobación",
+      "Diálogo socrático basado en la ironía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Analice el siguiente enunciado: 'Usted no puede dar el examen porque ha sobrepasado el límite de inasistencias'. Identifique la conclusión de este argumento.",
+    "opciones": [
+      "Usted ha sobrepasado el límite de inasistencias",
+      "Usted no puede dar el examen",
+      "El examen es parcial",
+      "Faltar a clases es malo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un juez resuelve un caso basándose en cómo otros jueces dictaminaron en situaciones similares anteriormente. ¿Qué concepto de Stephen Toulmin se aplica aquí?",
+    "opciones": [
+      "Lógica formal deductiva",
+      "Experiencia acumulada por el derecho (precedente)",
+      "Intuición divina del juez",
+      "Falsación de la hipótesis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si decimos 'Juan es profesional y es inteligente; María es profesional y es inteligente; por lo tanto, todos los profesionales son inteligentes', estamos ante un argumento:",
+    "opciones": [
+      "Deductivo porque la conclusión es necesaria",
+      "Inductivo porque la conclusión es probable pero no necesaria",
+      "Válido porque las premisas son verdaderas",
+      "Entimemático porque falta información personal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El famoso discurso fúnebre de Pericles apelaba a la libertad de Atenas frente a la opresión de Esparta para motivar a los ciudadanos a seguir luchando. Este es un ejemplo de:",
+    "opciones": [
+      "Uso de la retórica con fines persuasivos en política",
+      "Demostración lógica de la superioridad militar",
+      "Un silogismo aristotélico sobre la muerte",
+      "Una falacia que ataca a los espartanos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Al evaluar el argumento: 'Si Pedro poseyera minas de oro sería rico; Pedro no las posee, luego no es rico', se concluye que es inválido porque:",
+    "opciones": [
+      "Pedro es en realidad una persona pobre",
+      "Existen otras formas de ser rico sin tener minas de oro",
+      "La lógica no acepta nombres propios",
+      "No se puede hablar de dinero en filosofía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un abogado negocia con un colaborador eficaz para obtener información a cambio de una reducción de pena. Este enfoque de la argumentación se describe como:",
+    "opciones": [
+      "Formalista y matemático",
+      "Pragmático, buscando un consenso para resolver un problema",
+      "Metafísico y espiritual",
+      "Socrático, buscando la verdad interior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: René Descartes sostenía que si dudo, pienso, y si pienso, existo. Los teóricos de la argumentación critican este modelo de 'evidencia racional' porque:",
+    "opciones": [
+      "Descartes no era un buen matemático",
+      "En el ámbito jurídico y social no hay verdades tan evidentes",
+      "La duda no es un proceso mental válido",
+      "Nadie puede estar seguro de su propia existencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una investigación científica sobre el clima debe ceñirse a normas como el muestreo aleatorio y estar respaldada por datos verificables. Esto diferencia la argumentación científica de la cotidiana por su:",
+    "opciones": [
+      "Uso de anécdotas personales",
+      "Respaldo en evidencia empírica y normas de la comunidad",
+      "Capacidad de gritar más fuerte",
+      "Dependencia de la opinión del público"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "4.4 Falacias no Formales",
+          "youtube_id": "dE7AuPabK8Y",
+          "pdf_link": "https://drive.google.com/file/d/14I4IGsyiMYCQJq_YWN8rcNxyr2_zM3eP/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo define el video el concepto de 'falacia' en el estudio de la lógica?",
+    "opciones": [
+      "Un razonamiento válido y verdadero en cualquier contexto",
+      "Un error en el razonamiento que lo hace no válido o inválido",
+      "Una técnica avanzada para demostrar leyes científicas",
+      "Un sentimiento de duda ante una premisa falsa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre un 'sofisma' y un 'paralogismo' según la clase?",
+    "opciones": [
+      "El sofisma es formal y el paralogismo es no formal",
+      "El sofisma se hace con intención de engañar; el paralogismo es sin intención",
+      "El paralogismo es matemático y el sofisma es literario",
+      "No hay diferencia, ambos términos son sinónimos exactos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza a las falacias 'formales' mencionadas en el video?",
+    "opciones": [
+      "El uso de palabras ambiguas en una oración",
+      "El uso incorrecto o la violación de las leyes lógicas",
+      "La apelación a las emociones del interlocutor",
+      "El ataque directo a la personalidad del oponente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la falacia 'Ad baculum', ¿a qué recurso se apela para ganar un argumento?",
+    "opciones": [
+      "A la piedad y la lástima",
+      "A la fuerza, la amenaza o la autoridad coercitiva",
+      "A la ignorancia del tema tratado",
+      "A la sabiduría de la mayoría"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste la falacia 'Ad hominem'?",
+    "opciones": [
+      "En atacar a la persona en lugar de refutar sus ideas",
+      "En citar a un experto famoso para validar una idea",
+      "En asumir que algo es verdad porque todos lo creen",
+      "En usar una palabra con dos significados distintos"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué afirma la falacia 'Ad ignorantiam' sobre la verdad de una proposición?",
+    "opciones": [
+      "Que es verdad porque lo dice el pueblo",
+      "Que algo es verdad solo porque no se ha probado que es falso (o viceversa)",
+      "Que la verdad depende del estado de ánimo del orador",
+      "Que solo los ignorantes pueden conocer la verdad absoluta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La falacia 'Ad verecundiam' se produce cuando apelamos a:",
+    "opciones": [
+      "La vergüenza propia ante un error",
+      "Una autoridad que no es experta en la materia que se discute",
+      "La lástima para evitar un castigo merecido",
+      "Los instintos biológicos de supervivencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la falacia de 'Equívoco'?",
+    "opciones": [
+      "Toda la oración tiene un doble sentido gramatical",
+      "El uso de una palabra polisémica con distintos sentidos en un mismo argumento",
+      "Gritar una palabra para asustar al oponente",
+      "Atribuir las propiedades de un todo a sus partes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre en la falacia de 'Composición'?",
+    "opciones": [
+      "Se separan las premisas de la conclusión adrede",
+      "Se asignan las características de las partes al todo",
+      "Se divide un argumento complejo en partes simples",
+      "Se escribe un poema usando falacias psicológicas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "La falacia 'Ad populum' fundamenta la validez de un argumento en:",
+    "opciones": [
+      "La opinión de un científico destacado",
+      "El sentimiento de la mayoría o la apelación a las masas",
+      "La demostración matemática rigurosa",
+      "La falta de pruebas en contra"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante le pide al profesor que no lo jale porque si sus padres se enteran, lo castigarán y le quitarán el celular. El estudiante está usando una falacia:",
+    "opciones": [
+      "Ad baculum",
+      "Ad misericordiam (apelación a la piedad)",
+      "Ad populum",
+      "Ad hominem"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un comercial de televisión muestra a un famoso futbolista recomendando una marca de lavadoras. Según la lógica explicada, este es un ejemplo de:",
+    "opciones": [
+      "Argumento científico válido",
+      "Falacia Ad verecundiam (autoridad falsa en la materia)",
+      "Falacia de anfibología",
+      "Sofisma de composición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: 'Si no terminas tu tarea ahora mismo, no irás a la fiesta el fin de semana porque yo soy tu padre y aquí mando yo'. ¿Qué falacia de atingencia se evidencia aquí?",
+    "opciones": [
+      "Ad hominem",
+      "Ad baculum (apelación a la autoridad/fuerza)",
+      "Ad ignorantiam",
+      "Causa falsa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Juan afirma que 'los fantasmas existen porque nadie ha podido demostrar científicamente que no existan'. Juan está cometiendo la falacia:",
+    "opciones": [
+      "Ad populum",
+      "Ad ignorantiam (apelación a la ignorancia)",
+      "Ad verecundiam",
+      "Anfibología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un debate político, un candidato dice: 'No escuchen a mi oponente sobre economía, pues él es un hombre que se divorció tres veces'. Este razonamiento es una falacia:",
+    "opciones": [
+      "Ad baculum",
+      "Ad hominem (ataque a la persona)",
+      "Ad populum",
+      "Equívoco"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un titular de periódico dice en letras grandes: '¡FARFÁN ROBÓ!', y abajo en letras pequeñas: '...el corazón de sus fans'. Este recurso para engañar al lector es una falacia de:",
+    "opciones": [
+      "División",
+      "Énfasis",
+      "Ad misericordiam",
+      "Causa falsa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: 'Cada pieza de este motor es muy liviana; por lo tanto, el motor completo debe ser muy liviano'. Este razonamiento incurre en la falacia de:",
+    "opciones": [
+      "División",
+      "Composición",
+      "Anfibología",
+      "Ad ignorantiam"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona cruza un gato negro y horas después pierde su billetera, concluyendo que el gato fue la razón de su desgracia. Según el video, esto es una falacia de:",
+    "opciones": [
+      "Ad populum",
+      "Causa falsa (Non causa pro causa)",
+      "Ad hominem",
+      "Énfasis"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: 'Se venden jabones para niños con forma de hipopótamo'. Esta frase es confusa porque no se sabe si los jabones tienen esa forma o los niños son los que tienen forma de hipopótamo. Es una falacia de:",
+    "opciones": [
+      "Equívoco",
+      "Anfibología (ambigüedad en la oración)",
+      "Ad verecundiam",
+      "Composición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un joven decide comprarse una marca de ropa específica porque todos sus amigos en el barrio la usan y dicen que es la mejor. Su decisión se basa en una falacia:",
+    "opciones": [
+      "Ad ignorantiam",
+      "Ad populum (apelación al pueblo/mayoría)",
+      "Ad baculum",
+      "De división"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Apreciación estética",
+      "videos": [
+        {
+          "titulo": "5.1 Estética | Kant y Baumgarten",
+          "youtube_id": "YrC4oeI1YGw",
+          "pdf_link": "https://drive.google.com/file/d/1Pkt7I9MKoBaPrR6AqKIwIdXcnuTxRsoK/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué filósofo es considerado el fundador de la estética como disciplina formal al acuñar el término en el siglo XVIII?",
+    "opciones": [
+      "Immanuel Kant",
+      "Alexander Baumgarten",
+      "David Hume",
+      "Friedrich Hegel"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Baumgarten, la estética es definida como una 'gnoseología inferior' porque se encarga del:",
+    "opciones": [
+      "Conocimiento racional y lógico",
+      "Conocimiento basado en los sentidos y las percepciones",
+      "Estudio de las leyes matemáticas",
+      "Análisis de las verdades absolutas de Dios"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué obra fundamental Immanuel Kant desarrolla su teoría estética y el juicio del gusto?",
+    "opciones": [
+      "Crítica de la razón pura",
+      "Crítica de la razón práctica",
+      "Crítica del juicio (o de la facultad de juzgar)",
+      "Prolegómenos a toda metafísica futura"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Para Kant, el juicio estético se distingue del lógico porque el primero es:",
+    "opciones": [
+      "Objetivo y conceptual",
+      "Subjetivo y desinteresado",
+      "Útil para la ciencia",
+      "Basado en el interés económico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere Baumgarten con el término 'nociología superior'?",
+    "opciones": [
+      "Al estudio de las artes plásticas",
+      "A la lógica y el conocimiento intelectual",
+      "A la teología mística",
+      "A la psicología de las masas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿cuál es la finalidad de la estética para Baumgarten?",
+    "opciones": [
+      "La perfección del conocimiento sensible",
+      "La creación de leyes para los artistas",
+      "Demostrar que el arte es una pérdida de tiempo",
+      "Clasificar las pinturas por su precio"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Kant define lo bello como aquello que place de manera:",
+    "opciones": [
+      "Interesada y privada",
+      "Conceptual y necesaria",
+      "Universal sin concepto",
+      "Únicamente física y biológica"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la estética kantiana, el 'placer desinteresado' implica que valoramos el objeto:",
+    "opciones": [
+      "Por su utilidad práctica",
+      "Por su existencia real y posesión",
+      "Por la mera representación y contemplación de su forma",
+      "Por el prestigio social que nos otorga"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué disciplina es considerada la 'hermana de la lógica' en la modernidad alemana?",
+    "opciones": [
+      "La Ética",
+      "La Estética",
+      "La Metafísica",
+      "La Ontología"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Kant, cuando decimos que algo es bello, pretendemos que nuestra satisfacción sea:",
+    "opciones": [
+      "Válida solo para nosotros",
+      "Válida universalmente para todos los sujetos",
+      "Ignorada por los demás",
+      "Basada en una ley científica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un coleccionista compra una pintura solo porque sabe que su valor aumentará en el futuro. Según la definición de Kant sobre el juicio del gusto, este acto no es puramente estético porque:",
+    "opciones": [
+      "El cuadro no es lo suficientemente colorido",
+      "Existe un interés económico que condiciona el placer",
+      "La pintura no es de un autor alemán",
+      "El coleccionista no tiene estudios de arte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al observar un atardecer, una persona siente una gran satisfacción sin poder explicar con conceptos científicos por qué le agrada. Baumgarten clasificaría este tipo de saber dentro de la:",
+    "opciones": [
+      "Gnoseología superior",
+      "Lógica formal",
+      "Gnoseología inferior (estética)",
+      "Metafísica de las costumbres"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Si un juez de arte califica una obra basándose estrictamente en un manual de reglas matemáticas de proporción, Kant diría que está realizando un juicio lógico y no estético porque:",
+    "opciones": [
+      "La estética no acepta el uso de reglas",
+      "El juicio estético no se basa en conceptos o reglas preestablecidas",
+      "El arte debe ser caótico por naturaleza",
+      "El juez no siente placer al usar las reglas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Usted visita un museo y afirma: 'Esta escultura es bella'. Aunque es su opinión personal, usted espera que los demás visitantes coincidan con usted. Este fenómeno es llamado por Kant:",
+    "opciones": [
+      "Relativismo absoluto",
+      "Pretensión de universalidad subjetiva",
+      "Dogmatismo artístico",
+      "Egoísmo estético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ingeniero analiza una casa por su eficiencia térmica y ahorro de materiales, mientras que un arquitecto la observa por la armonía de sus fachadas. El enfoque del arquitecto se alinea con la estética porque:",
+    "opciones": [
+      "Es más caro que el enfoque del ingeniero",
+      "Busca la utilidad de los habitantes",
+      "Se centra en la perfección de la forma sensible",
+      "Ignora la realidad del edificio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Durante la Ilustración, Baumgarten defendió que el conocimiento de los sentidos no era un error, sino una forma distinta de saber. Esto permitió que el arte dejara de ser visto solo como entretenimiento para ser:",
+    "opciones": [
+      "Un objeto de estudio científico y filosófico",
+      "Una herramienta de propaganda política",
+      "Una rama de la física óptica",
+      "Un pecado contra la razón pura"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Kant sostiene que lo 'agradable' (como el sabor de un vino) es privado, mientras que lo 'bello' exige consenso. Si usted dice 'el vino me gusta', Kant considera que es un juicio de:",
+    "opciones": [
+      "Gusto estético universal",
+      "Sentido privado o placer de los sentidos",
+      "Razón práctica",
+      "Lógica superior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una clase de dibujo, el profesor pide a los alumnos que 'sientan' la forma del objeto antes de medirlo. Esta prioridad de la percepción sobre el concepto racional es un principio de la estética de:",
+    "opciones": [
+      "Platón",
+      "Baumgarten",
+      "Aristóteles",
+      "Descartes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un filósofo afirma que la belleza es la 'verdad de los sentidos'. Esta frase resume el esfuerzo de Baumgarten por elevar la estética al nivel de la:",
+    "opciones": [
+      "Biología",
+      "Lógica",
+      "Religión",
+      "Historia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si al mirar una flor usted no piensa en su reproducción biológica ni en su precio en el mercado, sino que solo se deleita en su forma, Kant diría que su juicio es:",
+    "opciones": [
+      "Interesado",
+      "Conceptuado",
+      "Desinteresado",
+      "Inmoral"
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "5.2 Estética teoria 1",
+          "youtube_id": "Pf9z__6ILFc",
+          "pdf_link": "https://drive.google.com/file/d/1Pkt7I9MKoBaPrR6AqKIwIdXcnuTxRsoK/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el significado etimológico de la palabra 'estética' mencionado en el video?",
+    "opciones": [
+      "El estudio de las bellas artes",
+      "Actividad sensorial o sensibilidad (aisthesis)",
+      "La imitación de la naturaleza",
+      "La búsqueda de la verdad absoluta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué filósofo alemán es considerado el padre de la estética moderna por plantearla como una rama sistemática de la filosofía?",
+    "opciones": [
+      "Immanuel Kant",
+      "Friedrich Hegel",
+      "Alexander Baumgarten",
+      "Arthur Schopenhauer"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según Platón, ¿por qué los artistas son 'copistas' de tercer grado?",
+    "opciones": [
+      "Porque no saben pintar correctamente",
+      "Porque representan el mundo sensible, que ya es una copia del mundo ideal",
+      "Porque roban las ideas de los gobernantes",
+      "Porque sus obras son demasiado costosas para el Estado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Aristóteles, la belleza no es un modelo eterno, sino que se encuentra en:",
+    "opciones": [
+      "El alma del artista exclusivamente",
+      "El mundo de las ideas",
+      "Las cosas mismas y sus proporciones",
+      "La voluntad de poder"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué filósofo medieval sostiene que el arte 'continúa la obra de Dios' al embellecer la naturaleza?",
+    "opciones": [
+      "Santo Tomás de Aquino",
+      "San Agustín de Hipona",
+      "Platón",
+      "Pitágoras"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Kant, ¿qué característica hace que el arte sea valioso en sí mismo?",
+    "opciones": [
+      "Su utilidad para transformar la naturaleza",
+      "La satisfacción de una contemplación desinteresada",
+      "La cantidad de dinero que genera al artista",
+      "Su capacidad de adoctrinar al pueblo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Hegel, el arte es una manifestación sensorial de:",
+    "opciones": [
+      "El Espíritu Absoluto",
+      "Los instintos más bajos del hombre",
+      "La lucha de clases",
+      "La mentira poética"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "Según Schopenhauer, la vida oscila entre el dolor y el tedio. ¿Qué papel cumple el arte en este contexto?",
+    "opciones": [
+      "Aumentar el deseo del hombre",
+      "Servir como una actividad liberadora y de contemplación pura",
+      "Demostrar que la razón es superior a la voluntad",
+      "Justificar el sufrimiento humano"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué espíritu griego asocia Nietzsche con el arte impulsivo, erótico y la embriaguez?",
+    "opciones": [
+      "Espíritu Apolíneo",
+      "Espíritu Socrático",
+      "Espíritu Dionisíaco",
+      "Espíritu Platónico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "En la Escuela de Frankfurt, ¿qué función le asigna Theodor Adorno al artista?",
+    "opciones": [
+      "Entretener a las masas consumistas",
+      "Cumplir un papel social de crítica al sistema",
+      "Pintar solo cosas bellas y perfectas",
+      "Ignorar el contexto histórico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un estudiante observa una pared pintada de amarillo y simplemente reconoce el color. Sin embargo, al ver 'Los Girasoles' de Van Gogh, experimenta una conmoción interna. Según el video, esta diferencia radica en que:",
+    "opciones": [
+      "La primera es una actividad sensorial y la segunda es una experiencia estética",
+      "La pared amarilla es una idea platónica",
+      "El cuadro es valioso solo por el precio del mercado",
+      "Los sentidos no intervienen en la apreciación del cuadro"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un pintor contemporáneo decide retratar una calle congestionada de Lima. Según la crítica de Platón expuesta en el video, este artista está:",
+    "opciones": [
+      "Accediendo directamente a la idea de 'ciudad'",
+      "Realizando una copia de algo que ya es una copia (el mundo sensible)",
+      "Creando una realidad superior a la de los dioses",
+      "Educando a los ciudadanos en la virtud"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un arquitecto diseña un edificio basándose en proporciones matemáticas y simetría, afirmando que la belleza es una propiedad objetiva que él solo debe descubrir. Esta postura coincide con la de:",
+    "opciones": [
+      "Platón",
+      "Aristóteles",
+      "Nietzsche",
+      "Adorno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante el Renacimiento, se pintaron numerosas escenas bíblicas con gran detalle. Si seguimos el pensamiento de San Agustín, estas obras se consideran perfectas porque:",
+    "opciones": [
+      "Usan pinturas muy costosas",
+      "Intentan vincularse directamente con la divinidad",
+      "Muestran la fealdad del mundo real",
+      "Son aprobadas por los sofistas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al visitar un museo, una persona admira una escultura sin pensar en cuánto cuesta ni en qué lugar de su casa la pondría, simplemente disfruta observándola. Kant llamaría a esto:",
+    "opciones": [
+      "Un interés comercial",
+      "Un placer sensorial básico",
+      "Una satisfacción desinteresada",
+      "Un juicio racional puro"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un historiador del arte explica que el arte del siglo XIX es más avanzado que el del siglo XIII porque el Espíritu ha progresado históricamente. Esta visión es fundamentalmente:",
+    "opciones": [
+      "Nietzscheana",
+      "Hegeliana",
+      "Socrática",
+      "Pitagórica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona cansada del estrés diario y de sus constantes deseos insatisfechos encuentra paz escuchando una sinfonía de Beethoven. Según Schopenhauer, esto ocurre porque el arte:",
+    "opciones": [
+      "Le da más ganas de trabajar",
+      "Es una manifestación de la lógica pura",
+      "Le permite liberarse momentáneamente del dolor de la voluntad",
+      "Es un producto de la industria cultural"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: En una fiesta popular, la música y el baile generan un estado de éxtasis colectivo que rompe con las normas sociales de moderación. Nietzsche diría que aquí predomina el:",
+    "opciones": [
+      "Espíritu Apolíneo (orden)",
+      "Espíritu Dionisíaco (embriaguez)",
+      "Nihilismo pasivo",
+      "Racionalismo moderno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un fotógrafo captura imágenes de la pobreza extrema para denunciar la desigualdad social. Desde la perspectiva de Theodor Adorno, este artista cumple con:",
+    "opciones": [
+      "La creación de una belleza ideal",
+      "El rol político de crítica social a través del arte",
+      "La imitación de las ideas eternas",
+      "La satisfacción desinteresada de Kant"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Platón consideraba que los futuros gobernantes debían aprender música porque esta representa armonía y orden. Esto se debe a que Platón tenía una fuerte influencia de la escuela:",
+    "opciones": [
+      "Sofista",
+      "Pitagórica",
+      "Existencialista",
+      "Marxista"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "5.3 APRECIACIÓN ESTÉTICA",
+          "youtube_id": "lHW0yrQmg5o",
+          "pdf_link": "https://drive.google.com/file/d/1Pkt7I9MKoBaPrR6AqKIwIdXcnuTxRsoK/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el significado etimológico de la palabra 'estética' según el video?",
+    "opciones": [
+      "El estudio de lo bello",
+      "Sensación o percepción sensorial",
+      "Armonía de las formas",
+      "Trascendencia del espíritu"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es considerado el 'padre de la estética' por escribir el primer texto con ese nombre en el siglo XVIII?",
+    "opciones": [
+      "Immanuel Kant",
+      "Alexander Baumgarten",
+      "Georg Hegel",
+      "David Hume"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la escuela pitagórica, ¿cómo se define la belleza?",
+    "opciones": [
+      "Como un sentimiento puramente subjetivo",
+      "Como armonía y proporción matemática",
+      "Como la imitación de la naturaleza salvaje",
+      "Como la expresión del dolor humano"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué Platón consideraba que los artistas realizaban 'copias de copias'?",
+    "opciones": [
+      "Porque los artistas no tenían talento propio",
+      "Porque retratan el mundo sensible, que ya es una copia del mundo de las ideas",
+      "Porque usaban materiales de baja calidad",
+      "Porque se limitaban a imitar a otros artistas famosos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Para Aristóteles, ¿cuál es la función principal de la tragedia en el arte?",
+    "opciones": [
+      "Entretener a las masas sin educación",
+      "Lograr la purificación de las pasiones o catarsis",
+      "Demostrar la superioridad de los dioses",
+      "Fomentar el caos en la ciudad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según San Agustín, ¿qué relación tiene el artista con la obra de Dios?",
+    "opciones": [
+      "El artista crea algo totalmente nuevo que Dios no pudo imaginar",
+      "El artista es un pecador por intentar imitar la creación divina",
+      "El arte es la prolongación de la belleza de la naturaleza creada por Dios",
+      "El arte debe reemplazar a la naturaleza en la Edad Media"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la tesis fundamental de Immanuel Kant sobre el juicio estético?",
+    "opciones": [
+      "La belleza es una propiedad física de los objetos",
+      "El arte es una satisfacción universal y desinteresada",
+      "Solo los expertos pueden determinar qué es bello",
+      "La belleza depende del valor monetario de la obra"
+    ],
+  "correcta": 1
+  },
+  {
+    "pregunta": "En la historia del arte de Hegel, ¿cuál es el arte que representa el equilibrio perfecto entre materia y forma?",
+    "opciones": [
+      "El arte simbólico oriental (Arquitectura)",
+      "El arte clásico grecorromano (Escultura)",
+      "El arte romántico germano (Poesía)",
+      "El arte moderno (Cine)"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según Schopenhauer, ¿cómo ayuda el arte al ser humano frente al dolor de la vida?",
+    "opciones": [
+      "Le da esperanzas de una vida eterna",
+      "Le permite olvidar sus necesidades y dolores mediante la contemplación pura",
+      "Le enseña técnicas para ganar más dinero",
+      "Aumenta su voluntad de dominar a los demás"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué espíritu griego asocia Nietzsche con el arte impulsivo, sensual e irracional?",
+    "opciones": [
+      "Espíritu Apolíneo",
+      "Espíritu Socrático",
+      "Espíritu Dionisíaco",
+      "Espíritu Platónico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Una persona afirma que el reggaetón no es arte porque solo promueve el lujo y la cosificación. Según Theodor Adorno y la Escuela de Frankfurt, esta crítica sería válida porque:",
+    "opciones": [
+      "El arte debe ser siempre melodioso y tranquilo",
+      "Ese tipo de música refleja valores de la burguesía y evita la reflexión crítica",
+      "Los instrumentos usados no son clásicos",
+      "No ha sido compuesto por un filósofo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al observar una estrella de mar, un joven nota que sus brazos guardan una proporción exacta. Si este joven sigue el pensamiento de Pitágoras, concluiría que la estrella es bella porque:",
+    "opciones": [
+      "Le gusta el color que tiene",
+      "Posee una armonía matemática descubierta por el alma",
+      "Es una creación de la voluntad ciega",
+      "Es un símbolo de la libertad oriental"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un coleccionista paga 120,000 dólares por un plátano pegado a la pared. Desde la perspectiva de Kant sobre la 'satisfacción desinteresada', este acto podría ser cuestionado como puramente estético si:",
+    "opciones": [
+      "El plátano se pudre en pocos días",
+      "El interés del coleccionista es el prestigio o la inversión y no la mera contemplación",
+      "El artista no usó pintura al óleo",
+      "La sociedad no está de acuerdo con el precio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un seguidor de José Carlos Mariátegui analiza una canción de 'Chacalón' y afirma que es una obra maestra. Su argumento se basa en que el arte:",
+    "opciones": [
+      "Es una copia imperfecta del mundo ideal",
+      "Tiene una posición de clase y representa el esfuerzo del pueblo",
+      "Es pura forma sin contenido social",
+      "Debe ser universalmente aceptado por la élite"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Platón valoraba la música pero rechazaba a los poetas y pintores de su estado ideal. La razón de esta distinción era que la música:",
+    "opciones": [
+      "Era más barata de producir",
+      "Representaba el orden y la armonía pitagórica",
+      "No podía ser escuchada por los esclavos",
+      "Era un invento de los dioses y no de los hombres"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al leer el guion de una película trágica, una persona llora intensamente y luego se siente aliviada y 'limpia' emocionalmente. Aristóteles llamaría a este proceso:",
+    "opciones": [
+      "Inspiración dionisíaca",
+      "Catarsis",
+      "Mímesis de segundo grado",
+      "Gnoseología inferior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Hegel explica que en las pirámides de Egipto la materia predomina sobre la idea, mientras que en la poesía la idea fluye libremente. Esto demuestra que para Hegel el arte:",
+    "opciones": [
+      "No ha cambiado desde la antigüedad",
+      "Es un proceso histórico de liberación del espíritu",
+      "Es una mentira creada por los gobernantes",
+      "Solo existe en la cultura clásica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un individuo se siente atrapado por el estrés del trabajo y las deudas. Decide ir a un concierto de música clásica solo para observar la ejecución. Según Schopenhauer, esta actividad es:",
+    "opciones": [
+      "Una pérdida de tiempo",
+      "Una forma de liberarse momentáneamente del dolor de la voluntad",
+      "Una manera de fortalecer su ego burgués",
+      "Un acto irracional que lo llevará al tedio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una sociedad decide que la belleza solo depende del 'me gusta' de cada individuo en redes sociales, estaría adoptando una postura similar a la de:",
+    "opciones": [
+      "Platón y su belleza absoluta",
+      "David Hume y el esteticismo sentimental personal",
+      "Pitágoras y el orden del cosmos",
+      "San Agustín y la perfección divina"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Nietzsche critica la moral cristiana por debilitar al hombre. Él propone que el arte debe ayudar a superar este 'nihilismo' mediante:",
+    "opciones": [
+      "La imitación de los santos",
+      "La creación de nuevos valores que exalten la vida y la fuerza",
+      "La obediencia a la razón pura de Kant",
+      "La destrucción de todos los instrumentos musicales"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    }
+  ]
+}

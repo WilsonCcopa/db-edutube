@@ -1,0 +1,3774 @@
+{
+  "curso": "Educación Cívica",
+  "temas": [
+    {
+      "titulo": "Tema 1: Derechos Humanos",
+      "videos": [
+        {
+          "titulo": "1.1 CÍVICA - Derechos Humanos",
+          "youtube_id": "hmhtetx3IpQ",
+          "pdf_link": "https://drive.google.com/file/d/1b7rl081FjJlrP7u2ZM3dDrO1Cz54H17q/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿En qué fecha y lugar se firmó la Declaración Universal de los Derechos Humanos?",
+    "opciones": [
+      "28 de julio de 1821 en Lima, Perú",
+      "10 de diciembre de 1948 en París, Francia",
+      "4 de julio de 1776 en Washington, EE. UU.",
+      "14 de julio de 1789 en Versalles, Francia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué año adoptó el Perú la Declaración Universal de los Derechos Humanos como texto legal?",
+    "opciones": [
+      "1948",
+      "1979",
+      "1959",
+      "1993"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Según la pirámide de Kelsen explicada en el video, en qué nivel se ubican los tratados internacionales de Derechos Humanos en el Perú?",
+    "opciones": [
+      "Nivel Legal",
+      "Nivel Constitucional",
+      "Nivel Reglamentario",
+      "Normas Particulares"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué característica de los Derechos Humanos indica que estos no pueden ser cedidos, vendidos ni rentados?",
+    "opciones": [
+      "Universales",
+      "Imprescriptibles",
+      "Inalienables",
+      "Indivisibles"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que los Derechos Humanos sean 'imprescriptibles'?",
+    "opciones": [
+      "Que pertenecen a todos los seres humanos por igual",
+      "Que no pueden ser suspendidos por el Estado",
+      "Que nunca pierden vigencia con el paso del tiempo",
+      "Que son necesarios para el desarrollo del talento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué generación de derechos pertenecen los derechos civiles y políticos, surgidos con la Revolución Francesa?",
+    "opciones": [
+      "Primera generación",
+      "Segunda generación",
+      "Tercera generación",
+      "Cuarta generación"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es el foco principal de los derechos de segunda generación?",
+    "opciones": [
+      "Derechos individuales de libertad",
+      "Derechos de los pueblos y la solidaridad global",
+      "Derechos económicos, sociales y culturales",
+      "Derechos de acceso a la tecnología"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué derecho es un ejemplo típico de la tercera generación?",
+    "opciones": [
+      "Derecho a la vida",
+      "Derecho a un medio ambiente sano",
+      "Derecho al trabajo",
+      "Derecho al sufragio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué principio de la administración de justicia garantiza que una persona pueda pedir que su sentencia sea revisada por una instancia superior?",
+    "opciones": [
+      "Presunción de inocencia",
+      "Indemnización por error judicial",
+      "Pluralidad de instancia",
+      "Derecho a la defensa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define la característica de 'progresividad' en los Derechos Humanos?",
+    "opciones": [
+      "Que los derechos solo aplican en países desarrollados",
+      "Que los derechos aumentan y evolucionan con el tiempo",
+      "Que cada persona elige qué derecho cumplir",
+      "Que los derechos son otorgados por el gobierno de turno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano es detenido por la policía y, tras 48 horas, se le niega el acceso a un abogado alegando que 'el caso es muy complejo'. Según la administración de justicia y los derechos humanos, el Estado está vulnerando:",
+    "opciones": [
+      "La inalienabilidad de sus bienes",
+      "El derecho a la defensa y el debido proceso",
+      "La libertad de tránsito internacional",
+      "La consulta previa comunitaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una comunidad nativa, una empresa desea iniciar actividades de extracción sin informar a los pobladores sobre el impacto ambiental. Los comuneros exigen que se respete su derecho a decidir sobre su territorio. Este es un caso de:",
+    "opciones": [
+      "Derechos de primera generación y libertad individual",
+      "Derechos de segunda generación y huelga laboral",
+      "Derechos de tercera generación y consulta previa",
+      "Derechos constitucionales de nivel legal"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un hombre que cometió crímenes de lesa humanidad durante una dictadura hace 30 años es capturado hoy. Su abogado pide archivar el caso porque 'el tiempo ya pasó'. El juez rechaza el pedido basándose en que los derechos humanos son:",
+    "opciones": [
+      "Universales",
+      "Indivisibles",
+      "Imprescriptibles",
+      "Progresivos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Si una persona intenta vender uno de sus órganos argumentando que 'es dueño de su cuerpo y necesita el dinero', el Estado prohíbe esta acción debido a que los derechos fundamentales son:",
+    "opciones": [
+      "Rentables",
+      "Inalienables",
+      "Conexos",
+      "Particulares"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante una crisis sanitaria, el Estado prioriza el acceso a vacunas para toda la población sin distinción de etnia o nivel socioeconómico. Esta acción estatal se fundamenta en la característica de:",
+    "opciones": [
+      "Subjetividad",
+      "Universalidad",
+      "Legalidad particular",
+      "Reforma constitucional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un sindicato de trabajadores protesta exigiendo una jornada laboral de 8 horas y condiciones de seguridad en las máquinas. Según la clasificación de las generaciones de derechos, este reclamo pertenece a la:",
+    "opciones": [
+      "Primera generación (Civiles)",
+      "Segunda generación (Económicos y sociales)",
+      "Tercera generación (Solidaridad)",
+      "Cuarta generación (Información)"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona es acusada de un robo, pero no existen pruebas concluyentes. El juez determina que, ante la duda, el acusado debe permanecer en libertad. ¿Qué concepto de justicia se aplicó aquí?",
+    "opciones": [
+      "Prerrogativa estatal",
+      "Presunción de inocencia",
+      "Indemnización por dolo",
+      "Derecho al honor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que en el pasado las mujeres no podían votar ni estudiar en la universidad, pero hoy estos derechos están garantizados. Este cambio histórico ejemplifica que los derechos son:",
+    "opciones": [
+      "Estáticos e inmutables",
+      "Progresivos",
+      "Jerárquicos",
+      "Excluyentes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano extranjero es detenido en Perú y no comprende el idioma español. Para garantizar su derecho a un juicio justo, la administración de justicia debe proporcionarle un:",
+    "opciones": [
+      "Embajador de su país",
+      "Pasaporte diplomático",
+      "Intérprete",
+      "Bono de ayuda humanitaria"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Al analizar el caso del 'Monstruo de Armendáriz', quien fue ejecutado y años después se probó su inocencia, el video resalta la necesidad de que el Estado cumpla con la:",
+    "opciones": [
+      "Pena de muerte para todos los delitos",
+      "Inviabilidad del sistema judicial",
+      "Indemnización por errores judiciales",
+      "Eliminación de los tratados internacionales"
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "1.2 Declaración Universal de los Derechos Humanos",
+          "youtube_id": "BMoRiW27Cs0",
+          "pdf_link": "https://drive.google.com/file/d/1b7rl081FjJlrP7u2ZM3dDrO1Cz54H17q/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál se considera el mayor aporte de Francia a la humanidad en materia de derechos?",
+    "opciones": [
+      "La creación de la ONU",
+      "La Declaración de los Derechos del Hombre y del Ciudadano",
+      "El Seguro Social obligatorio",
+      "La jornada laboral de 12 horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué fecha exacta se realizó la Declaración Universal de los Derechos Humanos?",
+    "opciones": [
+      "24 de octubre de 1945",
+      "10 de diciembre de 1948",
+      "1 de enero de 1950",
+      "28 de julio de 1821"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué organismo precedió a la ONU y fracasó al no poder impedir la Segunda Guerra Mundial?",
+    "opciones": [
+      "La Sociedad de Naciones",
+      "La Asamblea General",
+      "El Consejo de Seguridad",
+      "La Cruz Roja Internacional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Quién propuso el nombre de 'Organización de las Naciones Unidas' (ONU)?",
+    "opciones": [
+      "Winston Churchill",
+      "Franklin Roosevelt",
+      "Charles de Gaulle",
+      "Abraham Lincoln"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que los derechos humanos sean 'inherentes'?",
+    "opciones": [
+      "Que el Estado los crea mediante leyes",
+      "Que nacen con la persona y no son otorgados por el hombre",
+      "Que solo aplican en tiempos de paz",
+      "Que se pueden perder si se comete un delito grave"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere la característica de 'inalienabilidad' de los derechos?",
+    "opciones": [
+      "Que no pueden ser violentados por el gobierno",
+      "Que no se pueden transferir a otra persona",
+      "Que aumentan conforme pasa el tiempo",
+      "Que pertenecen a todos sin distinción de raza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Con qué acontecimiento histórico aparecen los derechos de primera generación?",
+    "opciones": [
+      "La Revolución Mexicana",
+      "La Revolución Francesa",
+      "La caída del Muro de Berlín",
+      "La creación de la OEA"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué valor fundamental defienden los derechos de segunda generación?",
+    "opciones": [
+      "La libertad individual",
+      "La igualdad social y económica",
+      "La paz mundial",
+      "El medio ambiente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se les conoce también a los derechos de tercera generación?",
+    "opciones": [
+      "Derechos civiles y políticos",
+      "Derechos económicos y culturales",
+      "Derechos de los pueblos y de la solidaridad",
+      "Derechos del niño y adolescente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué año la ONU redactó la Declaración de los Derechos del Niño mencionada en el video?",
+    "opciones": [
+      "1948",
+      "1959",
+      "1965",
+      "1993"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano es detenido y el policía le dice que, por orden del alcalde, ya no tiene derecho a la libertad de tránsito. Según la característica de 'inviolabilidad', esta acción es ilegal porque:",
+    "opciones": [
+      "El alcalde no tiene suficiente dinero",
+      "Nadie, ni siquiera un gobernante, puede violentar los derechos humanos",
+      "Solo aplica para ciudadanos extranjeros",
+      "El derecho a viajar es solo para mayores de edad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona intenta vender su derecho a la vida a una empresa a cambio de una gran suma de dinero para su familia. Según el video, esto es imposible debido a la característica de:",
+    "opciones": [
+      "Universalidad",
+      "Inalienabilidad (no es transferible)",
+      "Progresividad",
+      "Divisibilidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En el siglo XIX no existía el derecho al descanso remunerado, pero hoy es una norma aceptada. Este incremento constante de nuevos derechos a lo largo de la historia ejemplifica que los derechos son:",
+    "opciones": [
+      "Estáticos",
+      "Progresivos",
+      "Inalienables",
+      "Individuales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un gobierno decide respetar el derecho a la vida de sus ciudadanos, pero les prohíbe el derecho a la educación y a la salud. Según el principio de 'indivisibilidad', el Estado está actuando mal porque:",
+    "opciones": [
+      "La educación es más cara que la vida",
+      "Los derechos se deben respetar en su totalidad, no por partes",
+      "Solo los derechos de primera generación son importantes",
+      "El pueblo no ha votado por esos derechos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un trabajador exige pertenecer a un sindicato y tener un seguro social. Según la clasificación de generaciones, este ciudadano está reclamando derechos de:",
+    "opciones": [
+      "Primera generación (Civiles)",
+      "Segunda generación (Económicos y sociales)",
+      "Tercera generación (Solidaridad)",
+      "Cuarta generación (Tecnológicos)"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una comunidad indígena protesta porque una empresa minera está contaminando el río que usan para vivir. Según el video, este reclamo se ampara en los derechos de:",
+    "opciones": [
+      "Primera generación y la libertad de prensa",
+      "Tercera generación y el derecho a un medio ambiente sano",
+      "Segunda generación y el derecho al voto",
+      "Primera generación y el derecho al nombre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un hombre decide renunciar a su derecho a la integridad física y pide que lo golpeen voluntariamente, la ley interviene. Esto sucede porque los derechos humanos son:",
+    "opciones": [
+      "Opcionales",
+      "Irrenunciables",
+      "Transferibles",
+      "Temporales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al finalizar la Segunda Guerra Mundial, el mundo buscó un nuevo orden para evitar otra catástrofe similar. El resultado fue la creación de la ONU, que inicialmente contó con:",
+    "opciones": [
+      "198 países",
+      "51 países",
+      "10 países",
+      "Solo los países de Europa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un niño en una zona de conflicto no tiene acceso a vacunas ni a una escuela. El video menciona que la ONU protege a estos menores específicamente a través de un documento de 10 artículos llamado:",
+    "opciones": [
+      "Constitución de Querétaro",
+      "Declaración de los Derechos del Niño (1959)",
+      "Tratado de Versalles",
+      "Código Civil del Perú"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que Cajamarca aporta mucho oro al país pero sigue siendo pobre. Desde la perspectiva de los derechos de solidaridad, esto indica una falla en:",
+    "opciones": [
+      "La libertad de tránsito",
+      "El desarrollo y bienestar de los pueblos (Tercera generación)",
+      "El derecho al sufragio universal",
+      "La propiedad privada de la burguesía"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.3 Convención sobre los Derechos del Niño",
+          "youtube_id": "1972krOnPSU",
+          "pdf_link": "https://drive.google.com/file/d/1b7rl081FjJlrP7u2ZM3dDrO1Cz54H17q/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿En qué fecha fue aprobada la Convención sobre los Derechos del Niño por la Asamblea General de las Naciones Unidas?",
+    "opciones": [
+      "10 de diciembre de 1948",
+      "20 de noviembre de 1989",
+      "10 de junio de 2011",
+      "20 de noviembre de 1959"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la Convención, ¿quién es considerado 'niño'?",
+    "opciones": [
+      "Todo ser humano menor de 12 años",
+      "Todo ser humano menor de 15 años",
+      "Todo ser humano menor de 18 años",
+      "Todo ser humano desde la concepción hasta la pubertad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿De cuántos artículos consta la Convención sobre los Derechos del Niño?",
+    "opciones": [
+      "30 artículos",
+      "10 artículos",
+      "54 artículos",
+      "100 artículos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué año ratificó México esta Convención para que entrara en vigor en el país?",
+    "opciones": [
+      "1989",
+      "1990",
+      "2011",
+      "2000"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son las dos vías principales de protección de los derechos humanos mencionadas en el video?",
+    "opciones": [
+      "Vía familiar y vía escolar",
+      "Vía legislativa y vía ejecutiva",
+      "Vía jurisdiccional y vía no jurisdiccional",
+      "Vía nacional y vía internacional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué instancia pertenece a la vía de protección NO jurisdiccional?",
+    "opciones": [
+      "El Ministerio Público",
+      "La Comisión de Derechos Humanos",
+      "Los Tribunales de Justicia",
+      "La Fiscalía General"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la clasificación de los derechos que utiliza el video para facilitar su comprensión?",
+    "opciones": [
+      "Individuales, sociales y colectivos",
+      "Civiles, políticos y económicos",
+      "De provisión, de protección y de participación",
+      "Primarios, secundarios y terciarios"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué se refieren los 'derechos de provisión'?",
+    "opciones": [
+      "Al derecho de ser rescatado en emergencias",
+      "A lo que el Estado y tutores deben dar al niño para su desarrollo (educación, salud, nombre)",
+      "Al derecho de opinar en las asambleas escolares",
+      "A la protección contra el maltrato físico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué artículos de la Convención están más estrechamente relacionados con el derecho a la educación?",
+    "opciones": [
+      "Artículos 1 y 2",
+      "Artículos 50 y 54",
+      "Artículos 28 y 29",
+      "Artículos 10 y 11"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué significa que los derechos de los niños sean 'interdependientes'?",
+    "opciones": [
+      "Que los niños dependen de sus padres para ejercerlos",
+      "Que un derecho puede ser más importante que otro según el caso",
+      "Que todos los derechos van de la mano y no se pueden separar ni jerarquizar",
+      "Que el Estado solo cumple los derechos si tiene presupuesto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un docente observa que un alumno llega con marcas de golpes y muestra miedo al mencionar a sus tutores. Según el video, el docente tiene la obligación de actuar ante esta vulneración de derechos de:",
+    "opciones": [
+      "Participación",
+      "Protección (contra el maltrato y violencia)",
+      "Provisión",
+      "Identidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante la pandemia, muchos niños no pudieron acceder a clases por falta de internet o televisión. Si el Estado no busca alternativas para llegar a ellos, está incumpliendo su obligación de:",
+    "opciones": [
+      "Garantizar la libertad de expresión",
+      "Proteger la vida privada del menor",
+      "Garantizar y hacer efectivo el derecho a la educación (Provisión)",
+      "Fomentar la participación política infantil"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: En una escuela, un grupo de niños excluye a un compañero porque practica una religión diferente. El instructor del video señala que las autoridades educativas deben intervenir para garantizar los derechos de:",
+    "opciones": [
+      "Supervivencia",
+      "Protección contra el abandono",
+      "Participación y niñez incluyente",
+      "Nacionalidad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un niño llega a clase sin desayunar y se queda dormido constantemente. El video clasifica esta falta de atención a las necesidades básicas del desarrollo como una deficiencia en los derechos de:",
+    "opciones": [
+      "Protección",
+      "Provisión",
+      "Opinión libre",
+      "Justicia jurisdiccional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un directivo escolar obliga a un alumno a firmar un documento donde acepta una conducta inapropiada sin la presencia de sus padres. ¿Qué derecho de la Convención se está vulnerando?",
+    "opciones": [
+      "Derecho a la educación gratuita",
+      "Protección de la vida privada y contra injerencias arbitrarias en su conducta",
+      "Derecho a un nombre y nacionalidad",
+      "Derecho a la salud pública"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Debido al cierre de oficinas por una emergencia sanitaria, muchos recién nacidos no fueron registrados a tiempo. Según el video, es obligación del Estado:",
+    "opciones": [
+      "Cobrar multas a los padres por el retraso",
+      "Adaptar las medidas para garantizar el derecho al nombre y la nacionalidad",
+      "Esperar a que termine la emergencia para registrar",
+      "Eliminar el requisito del registro civil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una institución educativa detecta un caso de abuso pero decide no denunciar a la fiscalía para 'no afectar la imagen de la escuela'. El video indica que esta omisión hace que la autoridad escolar incurra en:",
+    "opciones": [
+      "Una decisión pedagógica correcta",
+      "Responsabilidad legal por omitir la protección del menor",
+      "Un ejercicio de derechos de participación",
+      "Una falta leve de administración"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un niño desea expresar su opinión sobre las reglas de convivencia en su aula, pero el maestro le pide callar porque 'es solo un niño'. Este acto contradice el principio de la Convención sobre:",
+    "opciones": [
+      "Interés superior de la niñez",
+      "Derecho a expresar su opinión libremente (Participación)",
+      "Derecho a la supervivencia",
+      "No discriminación por salud"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un procurador de protección a la infancia se niega a recibir una denuncia de maltrato infantil, el video sugiere que la instancia a la que se debe acudir para vigilar que la autoridad cumpla es:",
+    "opciones": [
+      "La policía local",
+      "La Comisión de Derechos Humanos (vía no jurisdiccional)",
+      "La dirección de la escuela",
+      "El registro civil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Benito Juárez es mencionado en el video como un antecedente en la historia de México por establecer el derecho a la educación con las características de:",
+    "opciones": [
+      "Privada y opcional",
+      "Gratuita, laica y obligatoria",
+      "Religiosa y obligatoria",
+      "Únicamente para hombres"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "1.4 Garantías Constitucionales",
+          "youtube_id": "iOJO9Ba0BOE",
+          "pdf_link": "https://drive.google.com/file/d/1b7rl081FjJlrP7u2ZM3dDrO1Cz54H17q/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué espacios son considerados domicilio para el derecho a la inviolabilidad según lo mencionado en el video?",
+    "opciones": [
+      "Solo casas propias inscritas en Registros Públicos",
+      "Casas, departamentos, cuartos de hotel e incluso autos si se toman como domicilio",
+      "Únicamente viviendas con título de propiedad",
+      "Cualquier lugar público donde una persona decida dormir"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué único caso es posible la cárcel por deudas en el Perú según el artículo 2 de la Constitución?",
+    "opciones": [
+      "Deudas bancarias superiores a 10 UIT",
+      "Deudas con proveedores del Estado",
+      "Solo por deudas alimentarias",
+      "Por no pagar el impuesto a la renta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la jerarquía de pago que debe seguir una empresa en crisis según los preceptos constitucionales?",
+    "opciones": [
+      "Primero los bancos, luego los proveedores y finalmente los trabajadores",
+      "Primero la SUNAT y luego los acreedores financieros",
+      "Primero el derecho del trabajador (salarios y beneficios) por encima de cualquier otra obligación",
+      "La empresa decide libremente a quién pagar primero según su conveniencia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué edad deja de ser obligatorio el voto en el Perú para convertirse en facultativo?",
+    "opciones": [
+      "A los 60 años",
+      "A los 65 años",
+      "A los 70 años",
+      "A los 75 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué implica que los derechos humanos sean 'imprescriptibles'?",
+    "opciones": [
+      "Que no pueden ser transferidos a otra persona",
+      "Que no tienen fecha de caducidad y perduran a través del tiempo",
+      "Que son iguales para todos los seres humanos",
+      "Que nacen con la propia naturaleza del hombre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el hecho histórico que otorga carácter universal a los derechos de primera generación?",
+    "opciones": [
+      "La Independencia de las 13 colonias (1776)",
+      "La Revolución Mexicana y la Constitución de Querétaro",
+      "La Revolución Francesa (1789)",
+      "La creación de la ONU tras la Segunda Guerra Mundial"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se les denomina también a los derechos de tercera generación?",
+    "opciones": [
+      "Derechos civiles y políticos",
+      "Derechos económicos, sociales y culturales",
+      "Derechos de solidaridad o de los pueblos",
+      "Derechos de cuarta generación o tecnológicos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Ante qué situación procede interponer un Habeas Data?",
+    "opciones": [
+      "Ante una detención arbitraria por parte de la policía",
+      "Para proteger el derecho al trabajo y la libertad de empresa",
+      "Para solicitar información pública o proteger la información de carácter privado",
+      "Cuando una autoridad se niega a cumplir una ley"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué garantía constitucional se utiliza cuando una norma con rango de ley vulnera la Constitución?",
+    "opciones": [
+      "Acción de Amparo",
+      "Acción Popular",
+      "Acción de Inconstitucionalidad",
+      "Acción de Cumplimiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano es el encargado de resolver la Acción de Inconstitucionalidad?",
+    "opciones": [
+      "El Poder Judicial",
+      "El Congreso de la República",
+      "El Tribunal Constitucional",
+      "El Ministerio Público"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un ciudadano es detenido en la vía pública por la policía sin existir flagrante delito ni orden judicial, y permanece incomunicado por más del tiempo establecido por ley. ¿Qué garantía constitucional corresponde interponer?",
+    "opciones": [
+      "Acción de Amparo",
+      "Habeas Data",
+      "Habeas Corpus",
+      "Acción Popular"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un candidato político descubre que su oponente tiene una enfermedad terminal privada y pretende difundir esa información para desprestigiarlo. ¿Qué acción legal puede interponer el candidato afectado para proteger su intimidad?",
+    "opciones": [
+      "Habeas Corpus",
+      "Acción de Amparo",
+      "Habeas Data",
+      "Acción de Cumplimiento"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Una municipalidad emite un decreto que contradice directamente lo establecido en la Constitución Política. Al no ser una norma con rango de ley (sino de menor jerarquía), la garantía adecuada para impugnarla es:",
+    "opciones": [
+      "Acción de Inconstitucionalidad",
+      "Acción de Amparo",
+      "Acción Popular",
+      "Habeas Data"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un trabajador es despedido de su centro de labores de manera arbitraria tras haber formado un sindicato, vulnerando su derecho a la libertad de asociación y al trabajo. Al no tratarse de libertad física ni de información, procede una:",
+    "opciones": [
+      "Acción de Cumplimiento",
+      "Acción de Amparo",
+      "Acción de Inconstitucionalidad",
+      "Acción Popular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El Estado Peruano ha emitido una resolución reconociendo el pago de un bono a un grupo de docentes jubilados, pero la autoridad correspondiente se muestra renuente a ejecutar dicho pago a pesar de la ley. ¿Qué garantía obliga a la autoridad a acatar lo establecido?",
+    "opciones": [
+      "Acción de Amparo",
+      "Acción de Cumplimiento",
+      "Acción Popular",
+      "Habeas Corpus"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un debate sobre la pena de muerte, un ciudadano propone someter a referéndum la eliminación del derecho a la vida para violadores. Según el video, esto no es constitucionalmente viable porque:",
+    "opciones": [
+      "El referéndum solo sirve para elegir alcaldes",
+      "No se pueden suprimir derechos fundamentales mediante referéndum",
+      "La Constitución no menciona a los violadores",
+      "Solo el presidente puede proponer la pena de muerte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un estado de emergencia decretado por el gobierno, un ciudadano es detenido. Aunque se suspenden derechos relativos a la libertad, el video aclara que:",
+    "opciones": [
+      "Se pierden todos los derechos humanos permanentemente",
+      "No se suspenden las garantías constitucionales como el Habeas Corpus",
+      "El ciudadano pierde su nacionalidad automáticamente",
+      "La policía puede torturar si hay emergencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de ciudadanos reclama que una empresa petrolera está contaminando el mar, afectando los recursos de las próximas generaciones. ¿A qué generación de derechos pertenece este reclamo por un medio ambiente sano?",
+    "opciones": [
+      "Primera generación",
+      "Segunda generación",
+      "Tercera generación",
+      "Cuarta generación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un joven de 17 años desea postular como alcalde de su distrito. La autoridad electoral rechaza su inscripción. Según el video, esta decisión es correcta porque la ciudadanía:",
+    "opciones": [
+      "Es un derecho que se pierde al nacer",
+      "Se ejerce a partir de los 18 años con la inscripción electoral",
+      "Solo es para personas con propiedades",
+      "No permite participar en política local"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un juez condena a un hombre a 10 años de prisión efectiva. El abogado del sentenciado argumenta que su cliente tiene derecho a que la sentencia sea revisada por un órgano superior. ¿Qué principio de la administración de justicia está invocando?",
+    "opciones": [
+      "Presunción de inocencia",
+      "Gratuidad de la justicia",
+      "Pluralidad de instancia",
+      "Indemnización por error"
+    ],
+    "correcta": 2
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Participación Ciudadana",
+      "videos": [
+        {
+          "titulo": "2.1  Mecanismos de Participación ciudadana",
+          "youtube_id": "PP2BDWxE7Rw",
+          "pdf_link": "https://drive.google.com/file/d/1Xcy6xkrdjccFUis17m2fYbmy7kB_mgXt/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A partir de qué edad el voto en el Perú deja de ser obligatorio para convertirse en opcional o facultativo?",
+    "opciones": [
+      "A los 65 años",
+      "A los 70 años",
+      "A los 71 años",
+      "A los 75 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué porcentaje de firmas de la población electoral se requiere para presentar una iniciativa legislativa?",
+    "opciones": [
+      "0.1%",
+      "0.3%",
+      "10%",
+      "25%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el mecanismo que permite a la ciudadanía aprobar o desaprobar leyes y reformas constitucionales mediante el voto?",
+    "opciones": [
+      "Revocatoria",
+      "Iniciativa legislativa",
+      "Referéndum",
+      "Remoción"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué porcentaje de la población nacional debe solicitar un referéndum para que este proceda?",
+    "opciones": [
+      "0.3%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mecanismo de control se aplica específicamente a las autoridades que han sido elegidas por voto popular?",
+    "opciones": [
+      "Remoción",
+      "Rendición de cuentas",
+      "Revocatoria",
+      "Presupuesto participativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el porcentaje de firmas necesario para solicitar la revocatoria de una autoridad local o regional?",
+    "opciones": [
+      "10%",
+      "25%",
+      "50%",
+      "0.3%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué autoridades se les puede aplicar el mecanismo de remoción según el video?",
+    "opciones": [
+      "Alcaldes y Regidores",
+      "Gobernadores Regionales",
+      "Autoridades designadas o no elegidas por el pueblo",
+      "Jueces de Paz"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué mecanismo permite a los ciudadanos preguntar a la autoridad sobre el uso de los fondos públicos en su jurisdicción?",
+    "opciones": [
+      "Consulta previa",
+      "Rendición de cuentas",
+      "Presupuesto participativo",
+      "Iniciativa legislativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la única autoridad judicial que puede ser sometida a un proceso de revocatoria por los ciudadanos?",
+    "opciones": [
+      "Juez Supremo",
+      "Juez de Paz",
+      "Fiscal de la Nación",
+      "Presidente del Poder Judicial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mecanismo se utiliza principalmente para resolver conflictos de demarcación territorial?",
+    "opciones": [
+      "Consulta previa",
+      "Consulta vecinal",
+      "Referéndum nacional",
+      "Presupuesto participativo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de vecinos en Cusco está descontento con la gestión de su actual alcalde y desean retirarlo del cargo antes de que termine su periodo. ¿Qué mecanismo de control deben activar y qué porcentaje de firmas necesitan?",
+    "opciones": [
+      "Remoción con el 50% de firmas.",
+      "Revocatoria con el 25% de firmas del padrón electoral local.",
+      "Referéndum con el 10% de firmas nacionales.",
+      "Rendición de cuentas mediante un pliego escrito."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una ciudadana de 72 años decide no ir a votar en las últimas elecciones presidenciales. Según la ley peruana explicada en el video, ¿cuál es su situación legal?",
+    "opciones": [
+      "Debe pagar una multa obligatoria por ser ciudadana activa.",
+      "No recibe multa porque a partir de los 71 años el voto es opcional.",
+      "Será detenida por omitir su deber cívico de sufragio.",
+      "Su DNI quedará inhabilitado para trámites bancarios."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de especialistas jurídicos desea proponer un cambio en un artículo específico de la Constitución Política del Perú. Para que su propuesta sea recibida por el Congreso, ¿qué mecanismo deben emplear?",
+    "opciones": [
+      "Iniciativa legislativa.",
+      "Iniciativa de reforma constitucional.",
+      "Acción de cumplimiento.",
+      "Consulta vecinal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El gobierno regional ha designado a un nuevo Director Regional de Salud. Los trabajadores del sector salud consideran que el funcionario no es apto. ¿Qué mecanismo pueden usar para destituirlo y qué apoyo requieren?",
+    "opciones": [
+      "Revocatoria con el 25% de firmas.",
+      "Remoción con el apoyo del 50% de la población afectada.",
+      "Referéndum para anular su resolución de nombramiento.",
+      "Consulta previa con los pueblos originarios."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una comunidad nativa en la Amazonía peruana se entera de que una empresa petrolera iniciará actividades en su territorio. Según el video, ¿qué mecanismo protege su derecho a ser consultados sobre leyes o medidas que los afecten directamente?",
+    "opciones": [
+      "Consulta vecinal territorial.",
+      "Referéndum legislativo.",
+      "Consulta previa.",
+      "Iniciativa constitucional."
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Los representantes de diversas organizaciones sociales de un distrito desean participar en la decisión de cómo se invertirá el dinero de la municipalidad el próximo año. Este derecho se ejerce a través de:",
+    "opciones": [
+      "La rendición de cuentas pública.",
+      "El presupuesto participativo.",
+      "La iniciativa legislativa ciudadana.",
+      "La revocatoria del gerente municipal."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un proceso de revocatoria, los promotores intentan recolectar firmas durante el primer año de gestión del alcalde. Según la normativa mencionada en el video, ¿es esto procedente?",
+    "opciones": [
+      "Sí, la revocatoria puede pedirse en cualquier momento.",
+      "No, no se puede solicitar ni en el primer año ni en el último año de gestión.",
+      "Solo si el alcalde tiene denuncias penales vigentes.",
+      "Sí, siempre que se alcance el 10% de las firmas."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un ciudadano desea saber exactamente en qué se gastó el presupuesto destinado a obras públicas de su distrito y compra un kit de preguntas en la ONPE, está ejerciendo su derecho de:",
+    "opciones": [
+      "Iniciativa legislativa.",
+      "Rendición de cuentas.",
+      "Revocatoria de autoridades.",
+      "Consulta previa."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se somete a votación ciudadana la aprobación de una nueva ley que el Congreso no logra consensuar. Los ciudadanos deben marcar 'SÍ' o 'NO' en la cédula. Este acto es un ejemplo de:",
+    "opciones": [
+      "Elección democrática representativa.",
+      "Referéndum.",
+      "Iniciativa legislativa de formación de ley.",
+      "Remoción de autoridades estatales."
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar el voto, el video menciona que este es 'personal'. Esto significa que:",
+    "opciones": [
+      "Nadie puede saber por quién votamos.",
+      "No se permite que otra persona asista o reemplace al votante en el acto.",
+      "El voto del presidente vale más que el de un ciudadano común.",
+      "Es obligatorio pagar una multa si no asistimos."
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.2 Sociedad civil de responsabilidad limitada",
+          "youtube_id": "1TD7XAHo0Tc",
+          "pdf_link": "https://drive.google.com/file/d/1Xcy6xkrdjccFUis17m2fYbmy7kB_mgXt/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿En qué artículo de la Ley General de Sociedades se regula la constitución de la sociedad civil?",
+    "opciones": [
+      "Artículo 100",
+      "Artículo 295",
+      "Artículo 302",
+      "Artículo 407"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el fin común primordial para el cual se constituye una sociedad civil?",
+    "opciones": [
+      "Fines altruistas y de beneficencia",
+      "Fin común de carácter económico mediante el ejercicio personal de una profesión u oficio",
+      "Producción masiva de bienes industriales",
+      "Compra y venta de acciones en la bolsa de valores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En la sociedad civil ordinaria, ¿cómo responden los socios ante las deudas de la sociedad?",
+    "opciones": [
+      "No responden con sus bienes personales",
+      "Responden personalmente y en forma subsidiaria con beneficio de excusión",
+      "Responden solo hasta el monto de su aporte inicial",
+      "La sociedad no puede contraer deudas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa el 'beneficio de excusión' mencionado en el video?",
+    "opciones": [
+      "Que los socios están exonerados de pagar impuestos",
+      "Que el acreedor debe agotar primero los bienes de la sociedad antes de dirigirse contra los socios",
+      "Que los socios pueden retirarse de la empresa sin previo aviso",
+      "Que la empresa no puede ser demandada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el número máximo de socios permitido en una Sociedad Civil de Responsabilidad Limitada (S. Civil de R. L.)?",
+    "opciones": [
+      "20 socios",
+      "30 socios",
+      "50 socios",
+      "No tiene límite máximo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se divide el capital en una sociedad civil según la normativa?",
+    "opciones": [
+      "En acciones negociables",
+      "En participaciones que no pueden ser denominadas acciones",
+      "En bonos corporativos",
+      "En cuotas de participación de libre mercado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué órgano es considerado el supremo en la estructura de una sociedad civil?",
+    "opciones": [
+      "El Gerente General",
+      "La Junta de Socios",
+      "El Administrador único",
+      "El Consejo Directivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de los 'socios comanditarios' en una sociedad en comandita?",
+    "opciones": [
+      "Administran la sociedad de forma exclusiva",
+      "Su responsabilidad se limita al capital aportado o comprometido",
+      "Responden solidaria e ilimitadamente con sus bienes",
+      "Son los únicos que aportan trabajo personal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede con la administración de un socio en el pacto social si no hay una causa justificada para su remoción?",
+    "opciones": [
+      "Puede ser revocado en cualquier momento por voto simple",
+      "No puede ser revocado si fue nombrado como condición del pacto social",
+      "La administración pasa automáticamente al socio con más capital",
+      "El socio debe renunciar obligatoriamente cada año"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es un requisito indispensable para la extinción definitiva de una sociedad en registros públicos?",
+    "opciones": [
+      "Que los socios hayan decidido cambiar de rubro",
+      "Que se hayan pagado los créditos de todos los acreedores",
+      "Que la empresa haya funcionado por más de 10 años",
+      "Que se haya cambiado la razón social"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de tres abogados decide formar un estudio jurídico para ofrecer servicios de consultoría legal. Eligen una estructura donde su pericia personal sea lo más importante. Según el video, ¿qué tipo de sociedad es la más adecuada para este fin?",
+    "opciones": [
+      "Sociedad Anónima Abierta",
+      "Sociedad Civil",
+      "Sociedad en Comandita por Acciones",
+      "Empresa Individual de Responsabilidad Limitada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una Sociedad Civil Ordinaria de contadores, la empresa adquiere una deuda de 100,000 soles que no puede pagar con sus activos. Un acreedor intenta embargar directamente la casa de uno de los socios. ¿Qué recurso legal tiene el socio según lo explicado sobre el Código Civil?",
+    "opciones": [
+      "Solicitar la disolución inmediata de la sociedad",
+      "Invocar el beneficio de excusión para que primero se agoten los bienes de la sociedad",
+      "Transferir su participación a un tercero",
+      "Negar que es socio de la empresa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una S. Civil de R. L. cuenta actualmente con 30 socios y desea incorporar a un nuevo profesional de gran prestigio. ¿Qué impedimento legal enfrentaría la sociedad según la Ley General de Sociedades?",
+    "opciones": [
+      "El nuevo socio no puede ser profesional",
+      "No puede exceder el límite máximo de 30 integrantes establecido para este tipo de sociedad",
+      "Los socios actuales deben renunciar a sus utilidades",
+      "La razón social debe cambiar a Sociedad Anónima"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un administrador de una sociedad civil es removido de su cargo sin que se presente una falta grave o incumplimiento, a pesar de que su nombramiento fue una condición del pacto social. ¿Es válida esta revocación?",
+    "opciones": [
+      "Sí, porque la Junta de Socios es soberana",
+      "No, la administración condicionada al pacto social solo se revoca por causa justificada",
+      "Sí, siempre que se le pague una indemnización",
+      "No, los administradores son vitalicios por ley"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Dos médicos tienen un consultorio como sociedad civil. Uno de ellos fallece y deja su participación a sus hijos mediante testamento. La socia sobreviviente no responde a las notificaciones para formalizar la transferencia. ¿Qué causal de disolución podría evitarse si se inscriben a los herederos, según el caso resuelto por el Tribunal Registral?",
+    "opciones": [
+      "Vencimiento del plazo de duración",
+      "Pérdida de la pluralidad de socios (al quedar solo uno)",
+      "Conclusión del objeto social",
+      "Inactividad de la junta general"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una sociedad en comandita simple, un socio colectivo aporta su trabajo y conocimiento, mientras que un socio comanditario solo aporta capital. Si la empresa quiebra, ¿cuál es la diferencia clave en su responsabilidad?",
+    "opciones": [
+      "Ambos pierden exactamente lo mismo",
+      "El socio colectivo responde ilimitadamente incluso con sus bienes personales; el comanditario solo hasta su aporte",
+      "El comanditario debe asumir la administración de la quiebra",
+      "El socio colectivo no pierde nada por haber aportado trabajo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una sociedad civil decide implementar el llevado de libros y registros de manera electrónica. Según el video, ¿cuál es el beneficio principal de esta transición además del ahorro de costos?",
+    "opciones": [
+      "Permite ocultar información a la SUNAT",
+      "Contribuye a la protección del medio ambiente al reducir el uso de papel",
+      "Evita que los socios vean las cuentas",
+      "Aumenta el número de socios permitidos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una sociedad civil cumple con el objetivo para el cual fue creada (por ejemplo, terminar una consultoría específica) y ya no tiene más proyectos, ¿qué proceso debe iniciar según el artículo 407?",
+    "opciones": [
+      "Cambio de razón social",
+      "Disolución por conclusión del objeto social",
+      "Fusión con otra empresa",
+      "Aumento de capital"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un estudio jurídico y contable constituido como sociedad civil, un abogado intenta realizar las funciones de auditoría contable de su socio. ¿Por qué el video menciona que esto está prohibido?",
+    "opciones": [
+      "Porque el abogado no tiene tiempo",
+      "Porque no se puede sustituir el desempeño de la profesión u oficio que corresponde a cada socio según el objeto social",
+      "Porque el contador gana más dinero",
+      "Porque la SUNAT no permite la doble profesión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante el proceso de liquidación de una sociedad civil, se nombra a un grupo de personas para realizar los activos y pagar los pasivos. ¿Cómo se denominan estas personas y qué pasa con la representación de los antiguos gerentes?",
+    "opciones": [
+      "Se llaman árbitros y los gerentes siguen al mando",
+      "Se llaman liquidadores y cesa la representación de directores y gerentes",
+      "Se llaman auditores y trabajan junto a los administradores",
+      "Se llaman promotores y no tienen facultades legales"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "2.3 LA CIUDADANÍA - EDUCACIÓN CÍVICA",
+          "youtube_id": "xS_UnDsHjJI",
+          "pdf_link": "https://drive.google.com/file/d/1Xcy6xkrdjccFUis17m2fYbmy7kB_mgXt/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A qué edad se adquiere legalmente la ciudadanía en el Perú?",
+    "opciones": [
+      "A los 16 años",
+      "Al nacer en territorio nacional",
+      "A los 18 años",
+      "A los 21 años"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Según el video, ¿cuál es la diferencia entre nacionalidad y ciudadanía?",
+    "opciones": [
+      "No existe diferencia, son términos sinónimos",
+      "La nacionalidad refiere al lugar de nacimiento y la ciudadanía al ejercicio de derechos políticos",
+      "La ciudadanía se hereda y la nacionalidad se compra",
+      "La nacionalidad es para adultos y la ciudadanía para niños"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué mecanismo permite al pueblo aprobar o desaprobar la reforma total o parcial de la Constitución?",
+    "opciones": [
+      "Revocatoria",
+      "Referéndum",
+      "Rendición de cuentas",
+      "Remoción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje de firmas de la población electoral se requiere para una iniciativa de reforma constitucional?",
+    "opciones": [
+      "10%",
+      "25%",
+      "0.3%",
+      "50%"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué autoridades se les aplica específicamente el mecanismo de 'Revocatoria'?",
+    "opciones": [
+      "Presidente y Congresistas",
+      "Autoridades de confianza designadas",
+      "Alcaldes, regidores y autoridades elegidas por voto popular",
+      "Únicamente a los ministros de Estado"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la entidad que reemplazó al Consejo Nacional de la Magistratura para elegir jueces y fiscales?",
+    "opciones": [
+      "Jurado Nacional de Elecciones",
+      "Tribunal Constitucional",
+      "Junta Nacional de Justicia",
+      "Ministerio Público"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué mecanismo se utiliza para destituir a autoridades que NO provienen de elección popular?",
+    "opciones": [
+      "Revocatoria",
+      "Remoción",
+      "Referéndum",
+      "Iniciativa legislativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tratado internacional fundamenta el derecho a la Consulta Previa?",
+    "opciones": [
+      "Convenio 169 de la OIT",
+      "Pacto de San José",
+      "Tratado de Versalles",
+      "Declaración de París"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se denomina a la facultad ciudadana de ser informado sobre el manejo de fondos de una autoridad?",
+    "opciones": [
+      "Presupuesto participativo",
+      "Demanda de rendición de cuentas",
+      "Consulta vecinal",
+      "Acción de amparo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué situación se suspende el ejercicio de la ciudadanía según el video?",
+    "opciones": [
+      "Por no pagar multas electorales",
+      "Por viaje al extranjero",
+      "Por sentencia con pena privativa de la libertad o interdicción civil",
+      "Por pérdida del DNI físico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un ciudadano de 19 años es sentenciado a prisión por un robo. Según las normas de ciudadanía explicadas, ¿cuál es su estatus legal respecto a sus derechos políticos?",
+    "opciones": [
+      "Pierde su nacionalidad para siempre",
+      "Mantiene el derecho a votar desde la cárcel",
+      "Sus derechos ciudadanos quedan suspendidos mientras dure la condena",
+      "Sigue siendo ciudadano activo pero no puede viajar"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un candidato al Congreso propone en su campaña que, de ser elegido, someterá a referéndum la reducción del IGV del 18% al 10%. Según las restricciones del referéndum, esta propuesta es:",
+    "opciones": [
+      "Viable, porque el pueblo es soberano",
+      "Inviable, porque no se pueden someter a referéndum normas de carácter tributario o presupuestal",
+      "Viable, siempre que recolecte el 0.3% de firmas",
+      "Inviable, porque solo el presidente puede cambiar impuestos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de vecinos desea que el alcalde de su distrito explique detalladamente en qué se gastó el presupuesto destinado a la seguridad ciudadana el año pasado. El mecanismo adecuado es:",
+    "opciones": [
+      "Iniciativa legislativa",
+      "Demanda de rendición de cuentas",
+      "Revocatoria de autoridades",
+      "Consulta previa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una comunidad nativa de la selva, el Estado planea otorgar una concesión minera. Los pobladores exigen ser escuchados antes de que se inicie el proyecto. ¿Qué derecho están invocando?",
+    "opciones": [
+      "Presupuesto participativo",
+      "Revocatoria de funcionarios",
+      "Consulta previa",
+      "Referéndum constitucional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Se descubre que un gerente municipal, nombrado por el alcalde, ha cometido actos de negligencia. La ciudadanía desea retirarlo del cargo. El término legal correcto para este proceso es:",
+    "opciones": [
+      "Revocatoria",
+      "Remoción",
+      "Interdicción",
+      "Iniciativa de formación de ley"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de jóvenes de 17 años quiere participar en una marcha para proponer una nueva ley de empleo juvenil. Aunque pueden expresarse, legalmente no pueden presentar el proyecto de ley a la ONPE porque:",
+    "opciones": [
+      "No tienen dinero para las firmas",
+      "Aún no gozan de la capacidad jurídica de ejercicio que otorga la ciudadanía a los 18 años",
+      "Las leyes solo las hacen los congresistas",
+      "Su nacionalidad no es reconocida"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un juez declara 'interdicción civil' a una persona con una enfermedad mental grave que le impide valerse por sí misma. Según el video, ¿qué consecuencia tiene esto en su ciudadanía?",
+    "opciones": [
+      "Se le anula la nacionalidad peruana",
+      "Se suspende el ejercicio de sus derechos ciudadanos",
+      "Debe pagar una multa al Estado",
+      "Puede votar pero no puede ser elegido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante el referéndum de 2018, se consultó sobre la reelección de congresistas. La población marcó mayoritariamente 'SÍ' a la no reelección inmediata. Esto significa que los congresistas actuales:",
+    "opciones": [
+      "Pueden postular de nuevo si cambian de partido",
+      "No pueden ejercer el cargo para el periodo siguiente inmediato",
+      "Deben renunciar antes de terminar su mandato",
+      "Son ciudadanos de segunda categoría"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Los representantes de un barrio se reúnen con el alcalde para decidir qué obras (parques, pistas o iluminación) son prioritarias para invertir los fondos del próximo año. Este proceso se llama:",
+    "opciones": [
+      "Presupuesto participativo",
+      "Iniciativa legislativa",
+      "Rendición de cuentas",
+      "Referéndum regional"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un ciudadano desea proponer una ley que obligue a los colegios a enseñar educación financiera. Para iniciar este trámite ante el Congreso, ¿cuál es el primer paso según los mecanismos de participación?",
+    "opciones": [
+      "Solicitar un referéndum nacional",
+      "Recolectar firmas equivalentes al 0.3% de la población electoral",
+      "Pedir la revocatoria del Ministro de Educación",
+      "Esperar a cumplir 70 años para que el voto sea opcional"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Problemas de convivencia en el Perú",
+      "videos": [
+        {
+          "titulo": "3.1 Convivencia Democrática",
+          "youtube_id": "tVQGtL3jBFs",
+          "pdf_link": "https://drive.google.com/file/d/1hfl3AH9kA6OeKrunhXUc87pc2zArisco/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿En qué consiste esencialmente la convivencia democrática según el video?",
+    "opciones": [
+      "Vivir en armonía solo con quienes comparten nuestra cultura e ideas",
+      "Vivir en armonía con el que piensa igual y, sobre todo, con el que piensa diferente",
+      "Imponer el pensamiento de la mayoría sobre las minorías para evitar conflictos",
+      "Evitar cualquier tipo de contacto con personas de diferente religión"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la definición de conflicto planteada por el profesor Manuel Delgado?",
+    "opciones": [
+      "Una forma irracional y violenta de destruir al oponente",
+      "Una situación donde las partes perciben que sus intereses u objetivos son contradictorios",
+      "Un delito tipificado en el Código Penal que siempre termina en cárcel",
+      "La ausencia total de diálogo entre las autoridades y el pueblo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza al mecanismo de resolución de conflictos llamado 'Mediación'?",
+    "opciones": [
+      "Las partes resuelven el problema solas sin intervención de nadie",
+      "Un tercero facilita el diálogo pero NO ofrece alternativas de solución",
+      "Un juez dicta una sentencia obligatoria para ambas partes",
+      "Un tercero acreditado por el Ministerio de Justicia impone un acuerdo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia principal de la 'Conciliación' frente a la 'Mediación'?",
+    "opciones": [
+      "En la conciliación el tercero sí ofrece alternativas de solución",
+      "La conciliación es un proceso violento e irracional",
+      "La mediación requiere obligatoriamente el uso de abogados",
+      "No existe diferencia, ambos términos son sinónimos legales"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cómo se define el delito de 'Peculado'?",
+    "opciones": [
+      "Contratar a familiares en cargos públicos",
+      "El mal uso o apropiación parcial de los recursos públicos para fines personales",
+      "Llegar a un acuerdo bajo la mesa con una empresa para ganar una obra",
+      "Ofrecer dinero a un policía para evitar una multa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste la 'Malversación de fondos'?",
+    "opciones": [
+      "Quedarse con el dinero del Estado y fugar del país",
+      "Dar a los recursos públicos un uso o destino definitivo diferente al que estaba asignado",
+      "Cobrara un ciudadano por un trámite que por ley es gratuito",
+      "Pedir donaciones a empresas privadas para la campaña electoral"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el 'Nepotismo' según la clase de cívica?",
+    "opciones": [
+      "Cuando un funcionario recibe un soborno de un empresario",
+      "Cuando amigos o familiares de una autoridad ocupan puestos públicos sin merecerlo",
+      "Un acuerdo ilegal para perjudicar económicamente al Estado",
+      "El incremento injustificado del patrimonio de un ministro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre 'Cohecho Activo' y 'Cohecho Pasivo'?",
+    "opciones": [
+      "El activo es por violencia y el pasivo es por omisión",
+      "El activo lo comete quien ofrece el soborno; el pasivo, el funcionario que lo acepta",
+      "El activo es un delito contra el patrimonio y el pasivo contra la libertad",
+      "El activo solo ocurre en el Congreso y el pasivo en las municipalidades"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la 'Concusión' en el ámbito de la corrupción pública?",
+    "opciones": [
+      "El desbalance patrimonial de una autoridad",
+      "Cuando una autoridad abusa de sus funciones para obligar o inducir a alguien a dar un beneficio",
+      "El asesinato de una mujer por su condición de tal",
+      "Invertir dinero del Estado en la bolsa de valores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define la discriminación étnica mencionada en el video?",
+    "opciones": [
+      "Trato diferenciado por el nivel de ingresos económicos",
+      "Desvalorización hacia una cultura, manifestada en el desprecio a su vestimenta, lengua o tradiciones",
+      "No contratar a personas mayores de 50 años",
+      "Impedir el voto a personas con discapacidad física"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de vecinos tiene un conflicto con la municipalidad por el ruido de una obra. El alcalde y los dirigentes vecinales se reúnen en una mesa de trabajo para conversar y llegan a un acuerdo por sí mismos, sin intermediarios. Este mecanismo es:",
+    "opciones": [
+      "Mediación",
+      "Negociación (Trato directo)",
+      "Conciliación",
+      "Arbitraje de derecho"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un conflicto minero, la empresa y la comunidad no pueden comunicarse. Invitan al párroco del pueblo para que sirva de puente, garantice que ambas partes se escuchen y mantenga el orden en la reunión, aclarando que él no propondrá soluciones. El párroco actúa como:",
+    "opciones": [
+      "Conciliador extrajudicial",
+      "Mediador",
+      "Juez de paz no letrado",
+      "Corruptor activo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una pareja decide separarse y acude a un centro acreditado por el Ministerio de Justicia. El especialista los escucha y les propone una fórmula de reparto de bienes y pensión alimenticia que ambos aceptan. Este proceso es:",
+    "opciones": [
+      "Negociación directa",
+      "Conciliación",
+      "Juicio penal por alimentos",
+      "Malversación de sentimientos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un funcionario de una municipalidad es captado usando la camioneta oficial de serenazgo para trasladar a su familia a una fiesta en la playa el domingo. Según las modalidades de corrupción, este acto se tipifica como:",
+    "opciones": [
+      "Malversación de fondos",
+      "Peculado",
+      "Tráfico de influencias",
+      "Cohecho pasivo propio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un gobernador regional recibe un presupuesto destinado exclusivamente para construir un hospital de emergencia. Sin embargo, decide utilizar todo ese dinero para remodelar el estadio de fútbol de la ciudad. Este delito es:",
+    "opciones": [
+      "Enriquecimiento ilícito",
+      "Malversación de fondos",
+      "Nepotismo",
+      "Colusión agravada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El gerente de una empresa estatal de agua utiliza el dinero de la 'caja chica' (destinado a útiles de oficina) para pagar sus almuerzos en restaurantes de lujo. Este uso indebido de recursos públicos es:",
+    "opciones": [
+      "Concusión",
+      "Peculado",
+      "Cohecho activo",
+      "Discriminación social"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un alcalde contrata a su sobrino y a la hermana de su esposa como jefes de áreas administrativas, a pesar de que no tienen la formación requerida. Este acto atenta contra la meritocracia y se denomina:",
+    "opciones": [
+      "Tráfico de influencias",
+      "Nepotismo",
+      "Cobro indebido",
+      "Causa falsa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano le dice a un conocido que tiene 'llegada' con un juez y le pide 5,000 soles asegurándole que, a cambio de ese pago, el juez fallará a su favor en un juicio. Sea cierta o no la relación, este delito es:",
+    "opciones": [
+      "Cohecho pasivo",
+      "Tráfico de influencias",
+      "Peculado doloso",
+      "Discriminación ideológica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un policía detiene a un conductor por pasarse una luz roja. El conductor le entrega 50 soles 'para el café' y el policía los guarda en su bolsillo dejando ir al infractor. En este escenario, el conductor ha cometido:",
+    "opciones": [
+      "Cohecho pasivo",
+      "Cohecho activo",
+      "Concusión",
+      "Malversación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una enfermera en un hospital público graba tiktoks bailando con insumos médicos y equipos de reanimación en horas de trabajo, descuidando a los pacientes. Según el video, se le podría abrir un proceso por:",
+    "opciones": [
+      "Negociación incompatible",
+      "Peculado (mal uso de recursos públicos)",
+      "Enriquecimiento ilícito",
+      "Discriminación religiosa"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.2 Mecanismo Democrático y Resolución de Conflictos",
+          "youtube_id": "4k4_sGBdVO4",
+          "pdf_link": "https://drive.google.com/file/d/1hfl3AH9kA6OeKrunhXUc87pc2zArisco/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué es un conflicto según la definición brindada en el video?",
+    "opciones": [
+      "Un proceso donde una autoridad impone su voluntad por la fuerza",
+      "Un proceso que se inicia cuando una parte percibe que la otra violenta sus derechos",
+      "Una etapa de abundancia económica sin desacuerdos",
+      "Una ley aprobada por el Congreso para evitar huelgas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la característica principal de la 'negociación' como mecanismo de resolución?",
+    "opciones": [
+      "Interviene un juez para dictar sentencia",
+      "Se resuelve únicamente entre las dos partes implicadas sin terceros",
+      "Un mediador propone la solución definitiva",
+      "Es obligatoria por mandato del Tribunal Constitucional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elementos deben imponerse en una resolución democrática de conflictos?",
+    "opciones": [
+      "La fuerza y el poder económico",
+      "La razón, las leyes y el diálogo",
+      "La voluntad del más fuerte y la censura",
+      "El sabotaje y el boicot"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define el 'Estado de Derecho' en el contexto de la clase?",
+    "opciones": [
+      "Un estado donde la autoridad manda por encima de la ley",
+      "Un sistema donde la ley se impone y la Constitución prevalece",
+      "Un periodo de escasez económica y huelgas",
+      "Un mecanismo donde solo el presidente toma decisiones"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el mecanismo de 'mediación', ¿cuál es el rol fundamental del tercero?",
+    "opciones": [
+      "Resolver el problema dictando una fórmula de solución",
+      "Orientar, conducir y facilitar el diálogo entre las partes",
+      "Actuar como abogado de la parte más débil",
+      "Imponer multas a quienes no lleguen a un acuerdo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuáles son los cuatro mecanismos de resolución de conflictos mencionados?",
+    "opciones": [
+      "Huelga, Paro, Boicot y Sabotaje",
+      "Negociación, Mediación, Conciliación y Arbitraje",
+      "Razón, Diálogo, Ley y Fuerza",
+      "Democracia, Dictadura, Monarquía y República"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿por qué la Organización de las Naciones Unidas (ONU) no usa armas para buscar la paz?",
+    "opciones": [
+      "Porque no tiene presupuesto para comprarlas",
+      "Porque la paz se debe buscar en base al diálogo, no con violencia",
+      "Porque las leyes internacionales prohíben el uso de tanques",
+      "Porque los países miembros no se ponen de acuerdo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En una negociación exitosa, ¿cuál debe ser el resultado para las partes?",
+    "opciones": [
+      "Uno debe ganar todo y el otro perder",
+      "Ambas partes deben salir beneficiadas y cubrir sus expectativas",
+      "Ambos deben ignorar el problema inicial",
+      "La autoridad debe decidir quién tiene la razón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa que el mediador NO provea 'fórmulas de solución'?",
+    "opciones": [
+      "Que no sabe cómo resolver el conflicto",
+      "Que solo guía el diálogo y deja que las partes encuentren la solución",
+      "Que su única función es cobrar por sus servicios",
+      "Que está prohibido por el Código Penal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere el video cuando habla de 'evolución no pacífica' de la sociedad?",
+    "opciones": [
+      "A que el hombre siempre busca la guerra por instinto",
+      "A que el progreso social incluye etapas de abundancia, escasez y conflictos",
+      "A que la tecnología destruye los valores humanos",
+      "A que los golpes de estado son necesarios para crecer"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de trabajadores de una fábrica textil reclama que no se les pagan las horas extras. El gerente se reúne con el sindicato en una mesa privada para discutir el pliego de reclamos sin ayuda de nadie externo. Este escenario es un ejemplo de:",
+    "opciones": [
+      "Arbitraje institucional",
+      "Negociación o trato directo",
+      "Mediación eclesiástica",
+      "Conciliación extrajudicial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un conflicto electoral entre dos candidatos que se insultan públicamente, el Cardenal de la ciudad ofrece la Catedral como un espacio neutral para que ambos se sienten a conversar, aclarando que él no intervendrá en sus propuestas. El Cardenal actúa como:",
+    "opciones": [
+      "Un negociador",
+      "Un mediador",
+      "Un árbitro",
+      "Un juez de paz"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si en un conflicto salarial la empresa impone una reducción de sueldos sin consultar a los trabajadores, rompiendo el diálogo y la ley, se dice que hemos pasado de un Estado de Derecho a un:",
+    "opciones": [
+      "Estado democrático",
+      "Estado de Hecho",
+      "Estado de conciliación",
+      "Estado de bienestar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Pedro y María tienen un conflicto por la división de unos terrenos. Al no ponerse de acuerdo solos, deciden buscar a un tercero que no solo los escuche, sino que les proponga una solución técnica para que ellos decidan si la aceptan. Este paso siguiente a la mediación sería la:",
+    "opciones": [
+      "Negociación",
+      "Conciliación",
+      "Huelga de hambre",
+      "Xenofobia social"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano peruano se siente discriminado en un establecimiento público por su origen étnico. Según el video, este tipo de conflicto social debe ser resuelto mediante mecanismos democráticos porque:",
+    "opciones": [
+      "El racismo es una opinión válida en democracia",
+      "La ley y la Constitución deben prevalecer sobre la exclusión",
+      "La fuerza es la única forma de detener el racismo",
+      "La evolución de las personas es siempre lineal y pacífica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona el conflicto de Chicago en 1886 por las 8 horas de trabajo. Este hecho histórico se utiliza para ejemplificar que los conflictos:",
+    "opciones": [
+      "Son siempre malos y deben evitarse",
+      "Pueden ser motores de cambio para conquistar derechos sociales",
+      "Solo ocurren en países desarrollados",
+      "Se solucionan mejor con el uso de armas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una negociación entre un empleador y un empleado, el empleador cede en el aumento de sueldo pero el empleado acepta trabajar una hora más los sábados. Al final, ambos están conformes. Se ha cumplido el principio de que:",
+    "opciones": [
+      "El jefe siempre tiene la razón",
+      "Ambos deben salir beneficiados y encontrar sus expectativas",
+      "La ley no importa si hay acuerdo",
+      "Uno debe perder para que el otro gane"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un conflicto entre dos países vecinos por límites territoriales es llevado ante una organización internacional que actúa como orientadora, facilitando que los cancilleres hablen en una sala neutral. Esto corresponde a la etapa de:",
+    "opciones": [
+      "Negociación directa",
+      "Mediación",
+      "Golpe de estado",
+      "Resolución por la fuerza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un joven decide realizar un 'sabotaje' a las computadoras de su oficina porque no está de acuerdo con su jefe. Según la teoría de cívica, esta acción es incorrecta porque:",
+    "opciones": [
+      "Es una forma irracional y violenta de abordar el conflicto",
+      "Es una técnica de negociación muy avanzada",
+      "El diálogo es solo para los dueños de la empresa",
+      "La mediación no acepta el uso de tecnología"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: ¿Qué sucede si en una mesa de diálogo una de las partes se niega rotundamente a ceder o escuchar razones? Según lo explicado sobre la negociación:",
+    "opciones": [
+      "El conflicto se resuelve automáticamente",
+      "El conflicto continuará y se requerirá un mecanismo con mayor intervención de terceros",
+      "La parte que no cede gana por State of Law",
+      "Se debe aplicar la fuerza física inmediatamente"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.3 Convivencia democrática",
+          "youtube_id": "rU4--pDY3Ng",
+          "pdf_link": "https://drive.google.com/file/d/1hfl3AH9kA6OeKrunhXUc87pc2zArisco/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué institución es la encargada de conducir la investigación de un delito desde su inicio en el Perú?",
+    "opciones": [
+      "El Poder Judicial",
+      "El Ministerio Público",
+      "La Policía Nacional del Perú",
+      "El Tribunal Constitucional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del Ministerio Público cuando decide ejercer la 'acción penal'?",
+    "opciones": [
+      "Dictar una sentencia definitiva",
+      "Realizar la denuncia correspondiente ante el juez",
+      "Perdonar al delincuente si se arrepiente",
+      "Administrar las cárceles del país"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿qué porcentaje de homicidios a nivel mundial ocurren en Latinoamérica, a pesar de tener solo el 8% de la población?",
+    "opciones": [
+      "8%",
+      "20%",
+      "33%",
+      "50%"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define la 'violencia directa' según la clase?",
+    "opciones": [
+      "Aquella que es visible, como homicidios, robos y secuestros",
+      "La falta de hospitales en zonas rurales",
+      "La desigualdad de oportunidades en el empleo",
+      "El cobro de impuestos excesivos por el Estado"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué nombre recibe la violencia que se manifiesta a través de la exclusión, marginación y falta de servicios básicos?",
+    "opciones": [
+      "Violencia directa",
+      "Violencia estructural",
+      "Violencia psicológica",
+      "Violencia verbal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa buscar una 'paz negativa'?",
+    "opciones": [
+      "Eliminar la pobreza extrema para siempre",
+      "Atacar solo la violencia directa (detener delincuentes) sin resolver los problemas de fondo",
+      "Promover el diálogo entre los países en guerra",
+      "Aumentar el presupuesto de los colegios nacionales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el índice de democracia mencionado, ¿en qué categoría se ubica el Perú con una puntuación de 6.53?",
+    "opciones": [
+      "Democracia plena",
+      "Democracia imperfecta o defectuosa",
+      "Régimen híbrido",
+      "Régimen autoritario"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de delito de corrupción comete el funcionario público que acepta o recibe una coima para incumplir sus funciones?",
+    "opciones": [
+      "Cohecho pasivo propio",
+      "Cohecho pasivo impropio",
+      "Cohecho activo genérico",
+      "Peculado culposo"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué consiste el delito de 'malversación de fondos'?",
+    "opciones": [
+      "Robar el dinero del Estado para beneficio personal",
+      "Dar al dinero público un destino definitivo diferente al que estaba legalmente asignado",
+      "Contratar a un familiar directo en una municipalidad",
+      "Cobrar por un trámite que es gratuito por ley"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la Defensoría del Pueblo citada en el video, ¿cuál es una característica de un acto discriminatorio?",
+    "opciones": [
+      "Ser una opinión basada en la ciencia",
+      "Ser arbitrario y buscar el menoscabo de un derecho",
+      "Ocurrir únicamente en empresas privadas",
+      "Ser legal si lo aprueba el Congreso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de vecinos de una zona alejada no puede acceder a un hospital cercano y debe esperar un bus que pasa una vez a la semana. Si un vecino fallece por falta de atención oportuna, este escenario es un ejemplo de:",
+    "opciones": [
+      "Paz positiva lograda por el Estado",
+      "Violencia directa por homicidio",
+      "Violencia estructural producto de la exclusión y marginación",
+      "Homicidio calificado por omisión"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Durante un incendio en un taller clandestino, se descubre que varios jóvenes trabajaban encerrados bajo llave por un sueldo ínfimo. Según la clasificación del video, esto constituye:",
+    "opciones": [
+      "Crecimiento económico sostenible",
+      "Violencia estructural bajo la forma de explotación",
+      "Falta de cultura política",
+      "Democracia plena en el sector privado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un alcalde decide usar el dinero destinado a la construcción de un centro para el adulto mayor para comprar camionetas de serenazgo sin autorización legal previa, está cometiendo el delito de:",
+    "opciones": [
+      "Peculado doloso",
+      "Malversación de fondos",
+      "Enriquecimiento ilícito",
+      "Cohecho pasivo propio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un policía detiene a un conductor que se pasó una luz roja. El conductor le entrega 50 soles para que no le ponga la multa y el policía los acepta. En este caso, ¿qué delito específico cometió el policía?",
+    "opciones": [
+      "Cohecho activo genérico",
+      "Cohecho pasivo propio (recibir para incumplir su deber)",
+      "Cohecho pasivo impropio",
+      "Peculado culposo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que en Nicaragua y Venezuela existen procesos de votación, pero los competidores son eliminados por el gobierno actual. Esto demuestra que:",
+    "opciones": [
+      "Las elecciones son un instrumento exclusivo de la democracia",
+      "Tener elecciones no garantiza que un país sea democrático",
+      "Nicaragua es una democracia plena según el índice de Reino Unido",
+      "La participación política es del 100% en esos países"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un funcionario encargado de las finanzas municipales olvida cerrar la caja fuerte y se pierde una gran suma de dinero. Él no se lo robó, pero el dinero se perdió bajo su cuidado. Este acto se tipifica como:",
+    "opciones": [
+      "Peculado doloso",
+      "Peculado culposo",
+      "Colusión agravada",
+      "Tráfico de influencias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Dos ancianos indigentes son impedidos de entrar a un centro comercial debido a su vestimenta descuidada. Según las casuísticas de San Marcos analizadas en el video, estamos ante un caso de:",
+    "opciones": [
+      "Discriminación de corte económico",
+      "Discriminación por opción sexual",
+      "Violencia directa por lesiones",
+      "Ejercicio legal del derecho de admisión"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Al comparar a Noruega con el Perú, el video destaca que el país europeo tiene el Índice de Desarrollo Humano (IDH) más alto. Utilizando la metáfora del profesor, un IDH alto representa:",
+    "opciones": [
+      "Una persona que es una semilla de mala calidad",
+      "Una tierra fértil y clima adecuado para que cualquier persona se desarrolle",
+      "Un desierto donde no hay agua para las personas",
+      "Un sistema donde solo ganan los más fuertes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video explica que el precio de un kilo de coca sube de 1,200 dólares en Colombia hasta 100,000 dólares si llega a Asia. Esta enorme ganancia ilegal explica:",
+    "opciones": [
+      "El éxito del libre mercado en Latinoamérica",
+      "La violencia extrema de las mafias que se disputan ese mercado millonario",
+      "La desaparición de la pobreza absoluta en los puertos de salida",
+      "El fortalecimiento de la democracia en la región"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un país solo se dedica a encarcelar delincuentes pero no mejora la educación ni reduce la pobreza, el video indica que ese país está construyendo una:",
+    "opciones": [
+      "Paz positiva",
+      "Paz negativa (ataca el síntoma, no la causa estructural)",
+      "Cultura de paz inclusiva",
+      "Democracia plena e irrefutable"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "3.4 Civica Convivencia Democrática",
+          "youtube_id": "1c5zqosKufU",
+          "pdf_link": "https://drive.google.com/file/d/1hfl3AH9kA6OeKrunhXUc87pc2zArisco/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es el objetivo principal de la Educación Cívica según el video?",
+    "opciones": [
+      "Memorizar las leyes del Estado",
+      "Formar valores y actitudes en las personas",
+      "Aprender geografía nacional",
+      "Estudiar la economía de los países"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo define el video el concepto de 'Nación'?",
+    "opciones": [
+      "Un territorio geográfico con fronteras definidas",
+      "Un grupo de personas con un mismo pasado y origen común",
+      "El conjunto de leyes de un país",
+      "La organización política del Estado"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué valor fundamental persigue la convivencia democrática para tratar con quienes piensan distinto?",
+    "opciones": [
+      "La obediencia",
+      "La tolerancia",
+      "La competencia",
+      "La indiferencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué año se permitió por primera vez el voto de la mujer en el Perú?",
+    "opciones": [
+      "1945",
+      "1955",
+      "1965",
+      "1975"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es el personaje histórico mencionado que pronunció el discurso 'Yo tengo un sueño'?",
+    "opciones": [
+      "Rosa Parks",
+      "Martin Luther King",
+      "Nelson Mandela",
+      "Franklin Roosevelt"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad principal de la creación de la ONU en 1945?",
+    "opciones": [
+      "Controlar el comercio mundial",
+      "Buscar la paz mundial y promover el desarrollo de los países miembros",
+      "Establecer una sola religión global",
+      "Eliminar las fronteras de todos los países"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fecha declaró la ONU como el Día Internacional de la Eliminación de la Discriminación Racial?",
+    "opciones": [
+      "10 de diciembre",
+      "21 de marzo",
+      "28 de julio",
+      "1 de mayo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede con el desarrollo de un grupo social cuando no existe una buena convivencia democrática?",
+    "opciones": [
+      "El desarrollo se acelera",
+      "El temor paraliza a las personas y merma el crecimiento",
+      "No afecta en nada a la economía",
+      "Las leyes se vuelven más justas automáticamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere el término 'Aisthesis' mencionado indirectamente como origen de la sensibilidad en convivencia?",
+    "opciones": [
+      "A la razón pura",
+      "A la actividad sensorial o sensibilidad",
+      "Al castigo físico",
+      "Al derecho de propiedad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿qué debe prevalecer en un Estado de Derecho?",
+    "opciones": [
+      "La voluntad del gobernante",
+      "La imposición de la ley y la Constitución",
+      "La fuerza de los militares",
+      "La opinión de los más ricos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano peruano afirma que las personas de la costa piensan mejor que las de la sierra. Según el video, este pensamiento es un obstáculo para la convivencia democrática porque:",
+    "opciones": [
+      "Es una verdad científica",
+      "Menosprecia a las personas y rompe la armonía social",
+      "Fomenta el crecimiento económico",
+      "Ayuda a identificar a los mejores líderes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En 1955, una mujer peruana acude por primera vez a las urnas para elegir a sus representantes. Este hecho histórico representa un avance en la convivencia democrática porque:",
+    "opciones": [
+      "Aumentó la cantidad de candidatos hombres",
+      "Eliminó la exclusión y reconoció la igualdad de derechos políticos",
+      "Hizo que las elecciones fueran más costosas",
+      "Permitió que solo los hombres descansaran ese día"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Rosa Parks se negó a ceder su asiento en un bus en 1955, desafiando leyes segregacionistas. Su acto es un ejemplo de lucha por la convivencia democrática porque:",
+    "opciones": [
+      "Quería causar un accidente de tránsito",
+      "Buscaba el respeto a la dignidad y la igualdad frente a leyes injustas",
+      "No tenía dinero para pagar otro pasaje",
+      "Era una experta en leyes de transporte"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un debate escolar, un alumno escucha con respeto una opinión religiosa totalmente opuesta a la suya. Este comportamiento ejemplifica:",
+    "opciones": [
+      "Debilidad de carácter",
+      "Tolerancia y empatía, bases de la convivencia democrática",
+      "Falta de conocimiento del tema",
+      "Desinterés por sus propias creencias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una comunidad nativa en la selva protege sus costumbres ancestrales frente a la modernidad. El video sugiere que el Estado debe:",
+    "opciones": [
+      "Obligarlos a cambiar sus costumbres",
+      "Proteger y amparar su cultura porque enriquece a la nación",
+      "Ignorar su existencia por ser pocos habitantes",
+      "Denigrar su folclor por ser antiguo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un gerente decide no contratar a una mujer por considerarla el 'sexo débil', está vulnerando la convivencia democrática. El profesor del video refuta esta idea afirmando que:",
+    "opciones": [
+      "Las mujeres son físicamente idénticas a los hombres",
+      "La fortaleza intelectual de la mujer es igual o superior a la del hombre",
+      "Las mujeres trabajan por menos sueldo",
+      "El Estado obliga a contratar a cualquier persona sin perfil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En un barrio conviven personas que bailan salsa y otras que bailan huayno. Si ambos grupos se respetan y valoran la música del otro, están practicando:",
+    "opciones": [
+      "Una mezcla cultural confusa",
+      "Cultura de paz y reconocimiento de la diversidad",
+      "Un gasto innecesario de energía",
+      "Una competencia por quién es mejor"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un país atraviesa una crisis donde los derechos de las minorías son pisoteados por el gobierno de turno. Según la ONU (1945), esta situación requiere intervención porque:",
+    "opciones": [
+      "Afecta el precio del petróleo",
+      "Vulnera la paz y el desarrollo humano que la organización debe promover",
+      "La ONU solo interviene en países ricos",
+      "La discriminación es un asunto interno de cada país"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de jóvenes se burla de un compañero por su forma de hablar (mote). Según la Educación Cívica, estos jóvenes fallan en:",
+    "opciones": [
+      "Sus exámenes de lenguaje",
+      "La puesta en práctica de valores como el respeto y la empatía",
+      "Su capacidad de ahorro económico",
+      "La memorización de las capitales del mundo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se afirma que 'el temor paraliza a las personas'. En una sociedad con alta discriminación, esto se traduce en que:",
+    "opciones": [
+      "La gente corre más rápido",
+      "Se frena el desarrollo económico y el bienestar general",
+      "Hay más puestos de trabajo para todos",
+      "Las personas se vuelven más valientes automáticamente"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Identidad e Interculturalidad",
+      "videos": [
+        {
+          "titulo": "4.1 Diversidad cultural en el Perú",
+          "youtube_id": "73CgH8zkw84",
+          "pdf_link": "https://drive.google.com/file/d/1UV2GBghLbljCPlUFKkBbhIlBfknl8mz6/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A qué hace referencia el término 'cultura' según la explicación de la profesora?",
+    "opciones": [
+      "Únicamente a los monumentos arqueológicos antiguos",
+      "A las diversas manifestaciones del ser humano transmitidas por tradición",
+      "Al grado de instrucción académica de una persona",
+      "A la acumulación de bienes materiales de un pueblo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre multiculturalidad y pluriculturalidad mencionada en el video?",
+    "opciones": [
+      "No existe diferencia, son términos sinónimos",
+      "Multiculturalidad es la existencia de etnias y pluriculturalidad implica que están registradas y han interactuado con la cultura occidental",
+      "La multiculturalidad es solo para la selva y la pluriculturalidad para la sierra",
+      "La pluriculturalidad prohíbe el contacto entre diferentes grupos étnicos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué define a la 'interculturalidad'?",
+    "opciones": [
+      "La imposición de una cultura sobre otra por la fuerza",
+      "La relación entre etnias o culturas basada en el diálogo y el respeto",
+      "La pérdida total de las costumbres originales",
+      "El aislamiento de las comunidades nativas para que no cambien"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la transculturalidad?",
+    "opciones": [
+      "La copia voluntaria de una cultura extranjera",
+      "El rechazo a cualquier manifestación cultural foránea",
+      "La nueva cultura que nace producto del mestizaje cultural",
+      "La desaparición de las lenguas originarias"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo se define la 'alienación' cultural en el video?",
+    "opciones": [
+      "La imposición forzada de costumbres por un grupo dominante",
+      "La copia voluntaria y muchas veces inconsciente de términos o festividades foráneas",
+      "El estudio profundo de las tradiciones de un pueblo",
+      "La recuperación de lenguas que estaban a punto de extinguirse"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fecha ha establecido la UNESCO como el Día de la Diversidad Cultural y Lingüística?",
+    "opciones": [
+      "28 de julio",
+      "21 de mayo",
+      "12 de octubre",
+      "24 de junio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "En el Perú, ¿a qué áreas geográficas se asocian las comunidades nativas y las comunidades campesinas?",
+    "opciones": [
+      "Nativas a la costa y campesinas a la selva",
+      "Ambas pertenecen exclusivamente a la zona andina",
+      "Nativas a los grupos amazónicos y campesinas al área andina",
+      "Nativas a las ciudades y campesinas a los pueblos remotos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es el número total de lenguas originarias en el Perú mencionado en la clase?",
+    "opciones": [
+      "24 lenguas",
+      "48 lenguas (44 nativas y 4 campesinas)",
+      "12 lenguas amazónicas",
+      "Solo el quechua y el aimara"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué diferencia a un 'acto enculturado' de uno 'aculturado'?",
+    "opciones": [
+      "El enculturado es biológico y el aculturado es social",
+      "El enculturado está rodeado de cultura/tradición y el aculturado es un acto neutro o biológico",
+      "No hay diferencia, ambos son actos culturales",
+      "El aculturado es obligatorio y el enculturado es opcional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la etnia nativa amazónica con mayor presencia en el Perú según el video?",
+    "opciones": [
+      "Shipibo-Konibo",
+      "Awajún",
+      "Asháninka",
+      "Uros"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un joven peruano prefiere celebrar Halloween en lugar del Día de la Canción Criolla y utiliza constantemente expresiones en inglés al hablar con sus amigos. Según el video, este es un caso de:",
+    "opciones": [
+      "Enajenación cultural",
+      "Interculturalidad crítica",
+      "Alienación cultural",
+      "Transculturalidad exitosa"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Durante la época de la colonia, los españoles impusieron la religión católica en los Andes. Hoy vemos procesiones donde se mezclan santos católicos con danzas típicas andinas. ¿A qué proceso histórico forzado hace referencia este ejemplo?",
+    "opciones": [
+      "Interculturalidad de respeto",
+      "Enajenación cultural",
+      "Aislamiento voluntario",
+      "Multilingüismo estatal"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El hijo de un inmigrante japonés y una mujer quechua de Cusco crece practicando las tradiciones de ambos padres y hablando ambos idiomas. Este fenómeno de nacimiento de una nueva identidad se denomina:",
+    "opciones": [
+      "Enajenación",
+      "Múltiple nacionalidad",
+      "Transculturalidad",
+      "Pluriculturalidad estática"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Si una persona desayuna todos los días simplemente para saciar su hambre, realiza un acto biológico. Pero si desayuna 'Adobo' todos los domingos por tradición familiar, está realizando un:",
+    "opciones": [
+      "Acto aculturado",
+      "Acto enculturado",
+      "Acto irracional",
+      "Acto de enajenación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En el Alto Purús existen comunidades que no tienen contacto con la civilización occidental y el Estado protege su territorio para evitar que enfermedades externas los afecten. Estas comunidades son consideradas:",
+    "opciones": [
+      "Sujetos de derecho con personería jurídica",
+      "Comunidades campesinas registradas",
+      "Comunidades nativas no contactadas o aisladas",
+      "Grupos étnicos en proceso de alienación"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: El Ministerio de Educación ahora diseña libros con dibujos y lenguas específicas para cada pueblo originario, en lugar de usar un formato estándar para todo el país. Este cambio de enfoque representa la aplicación de la:",
+    "opciones": [
+      "Multiculturalidad pasiva",
+      "Interculturalidad",
+      "Globalización lingüística",
+      "Enajenación educativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una comunidad campesina en Puno firma un contrato de alquiler de tierras con una empresa privada de forma legal. Esto es posible porque, a diferencia de algunas comunidades aisladas, ellos son:",
+    "opciones": [
+      "Sujetos de derecho con personería jurídica",
+      "Sujetos únicamente de protección",
+      "Ciudadanos alienados",
+      "Grupos tribales sin registro"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: En una región del Perú conviven quechuas, aimaras y descendientes de europeos. Si todos ellos mantienen un vínculo de respeto y diálogo sobre sus costumbres sin que una se considere superior, se vive un escenario de:",
+    "opciones": [
+      "Etnocentrismo",
+      "Interculturalidad",
+      "Transculturalidad",
+      "Enajenación masiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: La lengua Jakaru estuvo a punto de desaparecer porque solo quedaban unos pocos ancianos que la hablaban. El esfuerzo por registrar y proteger este idioma responde a que la diversidad cultural es considerada por la UNESCO como:",
+    "opciones": [
+      "Un gasto innecesario para el Estado",
+      "Un patrimonio cultural de la humanidad",
+      "Un acto de aculturación",
+      "Una manifestación de alienación inconsciente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una persona utiliza el término 'multicultural' para describir al Perú, ¿qué está afirmando exactamente según la terminología del video?",
+    "opciones": [
+      "Que el Perú es un país donde todos hablan inglés",
+      "Que existen diversos grupos étnicos en el territorio",
+      "Que las culturas se han mezclado para formar una sola",
+      "Que no hay respeto entre las diferentes razas"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "4.2 Identidad e Interculturalidad",
+          "youtube_id": "MVBo_JIRjeI",
+          "pdf_link": "https://drive.google.com/file/d/1UV2GBghLbljCPlUFKkBbhIlBfknl8mz6/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo define el video el concepto de 'cultura' en términos de identidad?",
+    "opciones": [
+      "Únicamente el conocimiento académico obtenido en la escuela",
+      "Conjunto de rasgos, características o cualidades que se transmiten a través del tiempo",
+      "La antigüedad de los monumentos arqueológicos de un país",
+      "Las leyes que rigen a una nación moderna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa tener 'identidad cultural' según lo explicado?",
+    "opciones": [
+      "Hablar varios idiomas extranjeros para viajar",
+      "Identificarse con su cultura, defenderla, promoverla y darla a conocer",
+      "Copiar las costumbres de los países más desarrollados",
+      "Vivir en un territorio geográfico sin conocer su historia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la razón principal por la que una persona no defiende su cultura según el profesor?",
+    "opciones": [
+      "Porque la cultura es aburrida",
+      "Porque no la conoce; lo que no se conoce no se defiende",
+      "Porque prefiere la tecnología moderna",
+      "Porque no tiene dinero para viajar por su país"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué organismo internacional declaró a la gastronomía peruana como la número uno?",
+    "opciones": [
+      "La OMS",
+      "La UNESCO",
+      "La FAO",
+      "La OEA"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué año se creó la Organización de las Naciones Unidas (ONU)?",
+    "opciones": [
+      "1914",
+      "1939",
+      "1945",
+      "1965"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué afirma la UNESCO respecto a las razas humanas?",
+    "opciones": [
+      "Que existen razas superiores e inferiores",
+      "Que en el mundo no existen razas, solamente existen culturas",
+      "Que la raza blanca es la encargada de la educación",
+      "Que cada país debe tener su propia raza oficial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué implica que un lugar como Machu Picchu sea 'Patrimonio Cultural de la Humanidad'?",
+    "opciones": [
+      "Que solo los peruanos pueden visitarlo",
+      "Que ya no le pertenece solo a un país, sino al mundo entero",
+      "Que el Estado peruano puede venderlo si lo desea",
+      "Que la UNESCO es la dueña legal del terreno"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define la 'Pluriculturalidad'?",
+    "opciones": [
+      "La existencia de una sola cultura dominante",
+      "La existencia de diversas culturas dentro de una misma nación",
+      "El rechazo a las culturas extranjeras",
+      "La prohibición de hablar lenguas nativas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué caracteriza a la 'Multiculturalidad' frente a otros conceptos?",
+    "opciones": [
+      "Las culturas coexisten e intercambian sin que una ejerza influencia dominante sobre otra",
+      "Las culturas se fusionan para crear una raza única",
+      "Se prohíbe el comercio entre grupos étnicos distintos",
+      "Solo se da en países de Europa y Asia"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué define a la 'Interculturalidad' según el video?",
+    "opciones": [
+      "Vivir en el mismo barrio pero sin hablarse",
+      "Relaciones de afectividad, matrimonio y respeto en condiciones de igualdad entre culturas",
+      "La imposición de la cultura occidental sobre la amazónica",
+      "El estudio de la historia antigua sin contacto con el presente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un joven peruano prefiere comer siempre en cadenas internacionales de comida rápida y afirma que la comida típica de la sierra le da 'asco'. Según el video, esta actitud demuestra:",
+    "opciones": [
+      "Un alto nivel de cultura global",
+      "Falta de conocimiento e identificación con su propia identidad cultural",
+      "Que es una persona con gustos refinados",
+      "Una excelente adaptación a la multiculturalidad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En el siglo XX, Rosa Parks se negó a ceder su asiento en un bus en EE.UU., lo que llevó a una lucha por la convivencia. Este ejemplo se usa en clase para ilustrar:",
+    "opciones": [
+      "Que el transporte público siempre ha tenido problemas",
+      "La importancia de la convivencia democrática y el respeto al que es diferente",
+      "Que las mujeres no deben viajar solas",
+      "La superioridad de la cultura blanca en esa época"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si en un mismo distrito conviven descendientes africanos en Chincha, alemanes en Oxapampa y quechuas en la sierra, compartiendo el mismo territorio nacional, estamos ante una sociedad:",
+    "opciones": [
+      "Monocultural",
+      "Pluricultural",
+      "Globalizada",
+      "Alienigena"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al entrar al 'Barrio Chino' de Lima, un ciudadano compra productos importados y paga el precio establecido sin que el comerciante cambie su forma de vida ni el comprador la suya. Este intercambio comercial sin influencia mutua es un ejemplo de:",
+    "opciones": [
+      "Interculturalidad profunda",
+      "Multiculturalidad",
+      "Enajenación mental",
+      "Patrimonio inmaterial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El hijo de un inmigrante japonés se casa con una joven de una comunidad Asháninka, forman una empresa juntos y celebran las tradiciones de ambas familias. Este vínculo de igualdad y afectividad representa la:",
+    "opciones": [
+      "Pluriculturalidad básica",
+      "Interculturalidad",
+      "Aculturación forzada",
+      "Discriminación positiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de turistas visita las Líneas de Nazca. El guía explica que la UNESCO ayuda a proteger este sitio porque es valioso para todos los seres humanos. Esto se debe a su condición de:",
+    "opciones": [
+      "Propiedad privada del Estado",
+      "Patrimonio Cultural de la Humanidad",
+      "Monocultura arqueológica",
+      "Recurso económico no renovable"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una persona afirma que las personas de la costa tienen una 'raza' superior a las de la sierra. Según la postura de la UNESCO explicada en el video, esta afirmación es incorrecta porque:",
+    "opciones": [
+      "La costa tiene más dinero",
+      "No existen razas, solo existen diversas culturas",
+      "La sierra tiene más historia que la costa",
+      "Todas las razas deben competir entre sí"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que antiguamente los peruanos sentían vergüenza de su identidad. El profesor propone que para cambiar esto y progresar como nación debemos:",
+    "opciones": [
+      "Olvidar el pasado incaico",
+      "Revalorizar nuestra cultura y compartirla de manera recíproca",
+      "Imitar la vestimenta de los extranjeros",
+      "Prohibir la entrada de otras culturas al país"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un ciudadano defiende el uso de la Pollera y el toque de la Quena en espacios públicos como un derecho a expresar su origen, está ejerciendo su:",
+    "opciones": [
+      "Derecho a la educación privada",
+      "Identidad cultural",
+      "Capacidad de multiculturalidad pasiva",
+      "Patrimonio genético"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: La ONU fue creada tras la Segunda Guerra Mundial. Según el video, su visión de 'Paz' no es solo la ausencia de guerra, sino:",
+    "opciones": [
+      "Tener un ejército mundial poderoso",
+      "Contar con las condiciones necesarias para que la persona se desarrolle",
+      "Que todos los países hablen un solo idioma",
+      "Eliminar las fronteras geográficas de los países"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "4.3 IDENTIDAD CULTURAL",
+          "youtube_id": "mPS2Ne99vQw",
+          "pdf_link": "https://drive.google.com/file/d/1UV2GBghLbljCPlUFKkBbhIlBfknl8mz6/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo define la Convención de la UNESCO la diversidad cultural según el video?",
+    "opciones": [
+      "Es la acumulación de bienes materiales antiguos",
+      "Es la multiplicidad de formas que expresan las culturas de los grupos y sociedades",
+      "Es únicamente la clasificación de las lenguas nativas",
+      "Es el estudio biológico de las diferentes razas humanas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo se origina la diversidad cultural en el Perú según la explicación histórica brindada?",
+    "opciones": [
+      "Con la llegada de los españoles en la Colonia",
+      "En la época de la Independencia",
+      "Desde las culturas preíncas",
+      "A partir de la globalización en el siglo XX"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué el Parque Nacional del Manu NO es parte de la diversidad cultural?",
+    "opciones": [
+      "Porque no es propiedad del Estado peruano",
+      "Porque no ha sido creado por el ser humano, sino por la naturaleza",
+      "Porque la UNESCO aún no lo ha reconocido",
+      "Porque se encuentra ubicado en una zona aislada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué entidad en el Perú es la encargada de preservar las áreas naturales protegidas?",
+    "opciones": [
+      "Ministerio de Cultura",
+      "SERNANP (Servicio Nacional de Áreas Naturales Protegidas)",
+      "UNESCO",
+      "Dirección General de Museos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fecha decretó el Ministerio de Cultura para celebrar el Día Nacional de la Diversidad Cultural?",
+    "opciones": [
+      "28 de julio",
+      "10 de diciembre",
+      "21 de mayo",
+      "24 de junio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo define el video una 'etnia'?",
+    "opciones": [
+      "Un grupo de personas que viven en el mismo distrito limeño",
+      "Un conjunto de personas con elementos comunes como lengua, vestimenta y vínculos históricos",
+      "Personas que han nacido en el extranjero y viven en Perú",
+      "Ciudadanos que solo hablan castellano por tradición"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según la Constitución, ¿cuándo una lengua aborigen adquiere el carácter de 'idioma oficial'?",
+    "opciones": [
+      "En todo el territorio nacional de forma obligatoria",
+      "Solo en los documentos que se envían al extranjero",
+      "Donde predomine o haya una gran cantidad de población que la hable",
+      "Únicamente en los libros de comunicación del colegio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué se denomina 'patrimonio arqueológico' según la clasificación por épocas?",
+    "opciones": [
+      "A los bienes creados durante la Colonia española",
+      "A los bienes de la época republicana",
+      "A los bienes de la época prehispánica (antes de la invasión española)",
+      "A las máquinas industriales del siglo XIX"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre patrimonio documental y patrimonio bibliográfico?",
+    "opciones": [
+      "El documental es digital y el bibliográfico es impreso",
+      "El documental es hecho a mano y el bibliográfico es impreso",
+      "El documental es oficial y el bibliográfico es literario",
+      "No existe diferencia, son sinónimos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa la 'transculturación' según el término aclarado al final del video?",
+    "opciones": [
+      "Perder la cultura propia por vergüenza",
+      "Adquirir e integrar elementos de culturas de otros países",
+      "Prohibir la entrada de extranjeros al país",
+      "Vivir aislado en una comunidad nativa"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Una pareja quechua-hablante de Cusco desea realizar su ceremonia de matrimonio civil en su lengua materna ante un representante de la municipalidad. Según lo explicado sobre el idioma oficial, esto es posible porque:",
+    "opciones": [
+      "El quechua es idioma oficial en todo el Perú sin restricciones",
+      "En Cusco predomina esta lengua y la ley ampara su uso oficial en esa zona",
+      "Los novios no saben hablar castellano",
+      "El representante del alcalde es pariente de los novios"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de arqueólogos descubre vasijas de la cultura Moche. Según la clasificación del patrimonio por su naturaleza y época, este hallazgo se tipifica como:",
+    "opciones": [
+      "Patrimonio Histórico Inmueble",
+      "Patrimonio Arqueológico Mueble",
+      "Patrimonio Industrial Material",
+      "Patrimonio Inmaterial Vivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si un ciudadano peruano prefiere celebrar Halloween en lugar del Día de la Canción Criolla por una copia voluntaria e inconsciente de modas foráneas, el video identifica este fenómeno como:",
+    "opciones": [
+      "Interculturalidad",
+      "Alienación cultural",
+      "Identidad nacional sólida",
+      "Patrimonio documental"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: La comunidad nativa de Cantagallo en el Rímac mantiene la lengua y vestimenta Shipibo-Konibo. El Estado les otorga terrenos para el usufructo y promueve su turismo. Esto responde a que ellos son sujetos de:",
+    "opciones": [
+      "Propiedad privada exclusiva",
+      "Protección para mantener la cultura viva",
+      "Enajenación por parte de la municipalidad",
+      "Extinción lingüística inmediata"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar el Santuario Histórico de Machu Picchu, el video aclara que es patrimonio de la humanidad según la UNESCO. Esto implica que:",
+    "opciones": [
+      "Ya no es territorio peruano",
+      "Su importancia trasciende fronteras y el mundo entero vela por su conservación",
+      "Cualquier país puede extraer sus piedras para museos",
+      "Solo la ONU puede cobrar las entradas al sitio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un chef peruano crea un plato que fusiona técnicas chinas con ingredientes amazónicos (aeropuerto con cecina). Este proceso de interacción y enriquecimiento mutuo entre culturas se denomina:",
+    "opciones": [
+      "Monoculturalidad",
+      "Interculturalidad",
+      "Discriminación gastronómica",
+      "Aislamiento étnico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El video menciona que 'lo que no se conoce no se defiende'. Si un estudiante ignora la riqueza de los postres limeños del siglo XIX, es más probable que sienta:",
+    "opciones": [
+      "Orgullo por su identidad",
+      "Vergüenza o indiferencia hacia su patrimonio cultural",
+      "Ganas de estudiar arqueología subacuática",
+      "Respeto por la diversidad étnica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se encuentran restos de un antiguo galeón español hundido en la costa de Pisco. Este patrimonio es custodiado por la Marina de Guerra porque se clasifica como:",
+    "opciones": [
+      "Patrimonio Bibliográfico",
+      "Patrimonio Subacuático",
+      "Patrimonio Natural Protegido",
+      "Patrimonio Industrial Contemporáneo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un anciano de la comunidad Jakaru es el último en hablar su lengua materna. Según la UNESCO, si este idioma desaparece, se pierde un:",
+    "opciones": [
+      "Patrimonio Natural Inmueble",
+      "Patrimonio Inmaterial de la Humanidad",
+      "Documento escrito a mano",
+      "Valor del mercado bursátil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si una municipalidad decide derribar una casona de la época de la República para construir un centro comercial, estaría atentando contra el:",
+    "opciones": [
+      "Patrimonio Arqueológico",
+      "Patrimonio Histórico Inmueble",
+      "Patrimonio Subacuático",
+      "Patrimonio Natural"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Estructura y funciones del Estado",
+      "videos": [
+        {
+          "titulo": "5.1 Estructura del estado peruano",
+          "youtube_id": "8_0TirxkzgU",
+          "pdf_link": "https://drive.google.com/file/d/1STNLNS3LROrsjrBVv4sYOOlwQ4SLbX1x/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué término se utiliza en el video para definir el conjunto de leyes e instituciones que conducen los destinos de una nación?",
+    "opciones": [
+      "País",
+      "Estado",
+      "Gobierno",
+      "Territorio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es el autor de la obra 'El espíritu de las leyes' que propuso la división del Estado en tres poderes?",
+    "opciones": [
+      "René Descartes",
+      "Barón de Montesquieu",
+      "Jean-Jacques Rousseau",
+      "Franklin Roosevelt"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función principal del Poder Legislativo según la estructura clásica explicada?",
+    "opciones": [
+      "Administrar justicia y castigar",
+      "Conducir los destinos de la nación",
+      "Legislar y crear leyes",
+      "Diseñar proyectos de inversión"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Para ganar la presidencia en primera vuelta en el Perú, ¿qué porcentaje de votos válidos se requiere?",
+    "opciones": [
+      "30% más uno",
+      "40% más uno",
+      "50% más uno",
+      "Mayoría simple"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué plazo máximo debe convocarse a la segunda vuelta electoral tras finalizar la primera?",
+    "opciones": [
+      "15 días",
+      "30 días",
+      "60 días",
+      "90 días"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué autoridad asume la presidencia si el presidente y los dos vicepresidentes no pueden ejercer el cargo?",
+    "opciones": [
+      "El Presidente del Poder Judicial",
+      "El Presidente del Congreso",
+      "El Ministro de Defensa",
+      "El Jefe del Comando Conjunto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una causal de vacancia presidencial mencionada en el video?",
+    "opciones": [
+      "Por desaprobar una ley en el Congreso",
+      "Por salir del país sin permiso del Congreso",
+      "Por desacuerdo con el Poder Judicial",
+      "Por perder la mayoría parlamentaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién es el responsable de convocar oficialmente a elecciones para presidente, congresistas y alcaldes?",
+    "opciones": [
+      "El Jurado Nacional de Elecciones",
+      "La ONPE",
+      "El Presidente de la República",
+      "El Defensor del Pueblo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué institución tiene la facultad de otorgar indultos y conmutar penas?",
+    "opciones": [
+      "El Poder Judicial",
+      "El Congreso de la República",
+      "El Presidente de la República",
+      "El Ministerio Público"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué institución debe pedir permiso el presidente de la República para poder salir del territorio nacional?",
+    "opciones": [
+      "A las Fuerzas Armadas",
+      "Al Tribunal Constitucional",
+      "Al Congreso de la República",
+      "A su Consejo de Ministros"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Durante un estado de emergencia, el presidente emite una norma para restringir el tránsito nocturno debido a una crisis sanitaria. Según el video, esta facultad corresponde a:",
+    "opciones": [
+      "Un acto del Poder Judicial para castigar",
+      "La emisión de decretos de urgencia por el Ejecutivo",
+      "Una iniciativa legislativa del Congreso",
+      "Una sentencia de la Corte Suprema"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si el PBI de un país aumenta significativamente en un año, pero la tasa de mortalidad infantil se mantiene alta y la educación no mejora, el video indicaría que hubo:",
+    "opciones": [
+      "Crecimiento económico pero no desarrollo económico",
+      "Desarrollo económico pero no crecimiento",
+      "Bienestar general de la población",
+      "Un correcto diseño del proyecto de país"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un presidente asume el poder mediante un golpe de estado, ignorando lo que dicta la Constitución y gobernando mediante la fuerza. Este tipo de mandato se define como:",
+    "opciones": [
+      "Gobierno de derecho",
+      "Gobierno de facto o de hecho",
+      "Gobierno constitucional",
+      "República democrática"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Ante una amenaza de guerra externa, el presidente del Perú se moviliza como la máxima autoridad de las fuerzas armadas para proteger el territorio. Esta figura se debe a que:",
+    "opciones": [
+      "Es el jefe supremo del Estado y personifica a la nación",
+      "Es el presidente del Congreso por derecho",
+      "La ley de leyes lo autoriza a legislar en guerra",
+      "El Poder Judicial le ha cedido sus funciones temporalmente"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un ciudadano es sentenciado a 20 años de prisión, pero tras demostrar buena conducta y realizar labores sociales, el presidente decide reducir su pena a 10 años. Este acto se conoce como:",
+    "opciones": [
+      "Amnistía política",
+      "Conmutación de pena",
+      "Vacancia por incapacidad",
+      "Interdicción civil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si el presidente viaja a una cumbre en el extranjero por 5 días, pero decide quedarse 15 días sin haber avisado previamente al parlamento, ¿qué situación jurídica se podría generar según el video?",
+    "opciones": [
+      "El Congreso debe aprobar su nueva política",
+      "Se configura una causal de vacancia presidencial",
+      "El Poder Judicial lo debe arrestar inmediatamente",
+      "Los vicepresidentes deben renunciar por solidaridad"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de personas vive en un territorio peruano, comparten un pasado histórico común y tradiciones similares. En términos de cívica, este grupo humano representa a:",
+    "opciones": [
+      "El Estado",
+      "La Nación",
+      "El Gobierno",
+      "La Constitución"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: En una entrevista, un analista afirma que 'el presidente no puede mandar a los jueces ni crear leyes'. Esta afirmación se basa en el principio de Montesquieu para:",
+    "opciones": [
+      "Evitar que se ejerza excesivo poder en una sola institución",
+      "Permitir que el presidente viaje sin permiso",
+      "Garantizar que no existan tratados internacionales",
+      "Aumentar los gastos de representación del Estado"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un presidente decide aplicar una política económica proteccionista, priorizando el consumo nacional sobre el importado. Según el video, esto es posible porque el Ejecutivo tiene la atribución de:",
+    "opciones": [
+      "Dirigir la política general del gobierno",
+      "Castigar a los empresarios que importan",
+      "Modificar la Constitución a su voluntad",
+      "Declarar la guerra a los países exportadores"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Un presidente de la República sufre una enfermedad mental irreversible que le impide gobernar. El órgano encargado de declarar oficialmente su incapacidad y la vacancia del cargo es:",
+    "opciones": [
+      "El Ministerio de Salud",
+      "El Congreso de la República",
+      "El Jurado Nacional de Elecciones",
+      "Las Fuerzas Armadas"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "5.2 Estructura del estado peruano2",
+          "youtube_id": "XBwjALDFQ6k",
+          "pdf_link": "https://drive.google.com/file/d/1STNLNS3LROrsjrBVv4sYOOlwQ4SLbX1x/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuáles son los cuatro elementos que constituyen el Estado según lo explicado en el video?",
+    "opciones": [
+      "Pueblo, Ejército, Leyes y Presidente",
+      "Nación, Territorio, Normas Jurídicas y Soberanía (Gobierno)",
+      "Congreso, Poder Judicial, ONPE y RENIEC",
+      "Democracia, Libertad, Justicia y Territorio"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué funciones principales desempeña el Poder Legislativo?",
+    "opciones": [
+      "Administrar justicia y sancionar delitos",
+      "Dirigir la política general del gobierno y nombrar embajadores",
+      "Dar, modificar, interpretar y derogar leyes",
+      "Ejecutar el presupuesto y administrar la Hacienda Pública"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la edad mínima requerida para ser elegido congresista de la República?",
+    "opciones": [
+      "18 años",
+      "25 años",
+      "35 años",
+      "45 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos miembros integran el Poder Ejecutivo en el formato estándar mencionado?",
+    "opciones": [
+      "130 personas",
+      "18 personas",
+      "20 personas (Presidente + 18 ministros + 1 Premier)",
+      "15 personas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Quién asume la presidencia en caso de ausencia definitiva del Presidente y de ambos Vicepresidentes?",
+    "opciones": [
+      "El Presidente de la Corte Suprema",
+      "El Presidente del Tribunal Constitucional",
+      "El Presidente del Congreso",
+      "El Comandante General de las Fuerzas Armadas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué órgano se encarga de legislar cuando el Congreso entra en receso o no hay legislatura?",
+    "opciones": [
+      "La Junta de Portavoces",
+      "La Comisión Permanente",
+      "El Consejo de Ministros",
+      "La Mesa Directiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué instancia del Poder Judicial funciona a nivel de capitales de provincia?",
+    "opciones": [
+      "Juzgados de Paz Letrados",
+      "Cortes Superiores",
+      "Juzgados Mixtos Especializados",
+      "Corte Suprema"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de estos organismos pertenece al bloque económico de los OCA (Órganos Constitucionales Autónomos)?",
+    "opciones": [
+      "Defensoría del Pueblo",
+      "Tribunal Constitucional",
+      "Banco Central de Reserva (BCR)",
+      "Junta Nacional de Justicia"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué fecha se inicia nominalmente la primera legislatura ordinaria del Congreso?",
+    "opciones": [
+      "1 de enero",
+      "1 de marzo",
+      "27 de julio",
+      "28 de julio"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la sanción disciplinaria máxima (suspensión) que el Congreso puede imponer a uno de sus miembros?",
+    "opciones": [
+      "30 días",
+      "90 días",
+      "120 días",
+      "180 días"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Tras la renuncia de un presidente y la posterior renuncia de sus vicepresidentes por crisis política, el presidente del Congreso asume el mando. Según la Constitución, ¿cuál es su obligación inmediata?",
+    "opciones": [
+      "Gobernar los 5 años restantes del periodo",
+      "Disolver el Congreso y llamar a una Asamblea Constituyente",
+      "Convocar a elecciones generales de manera inmediata",
+      "Nombrar a un nuevo Consejo de Ministros y continuar el plan de gobierno previo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un grupo de ciudadanos desea proponer una ley para reformar el sistema de pensiones. Para que su iniciativa sea admitida en mesa de partes del Congreso, deben recolectar firmas equivalentes al:",
+    "opciones": [
+      "0.1% de la población total",
+      "0.3% de la población electoral vigente",
+      "10% de los ciudadanos inscritos",
+      "25% del padrón electoral nacional"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El Congreso aprueba una ley que el Presidente de la República considera técnica y económicamente inviable. El Presidente decide no firmarla y la devuelve al parlamento. Este acto se conoce como:",
+    "opciones": [
+      "Derogación de la ley",
+      "Observación de la ley",
+      "Interpelación del proyecto",
+      "Promulgación por insistencia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante la pandemia, el Ejecutivo emitió normas para restringir el tránsito y gestionar recursos sanitarios de emergencia. Esta facultad legislativa extraordinaria del Presidente se manifiesta mediante:",
+    "opciones": [
+      "Resoluciones Supremas",
+      "Decretos de Urgencia",
+      "Ordenanzas Municipales",
+      "Tratados Internacionales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se descubre que un juez ha sentenciado a un inocente alterando deliberadamente las pruebas presentadas durante el juicio. Este delito cometido por el magistrado se denomina:",
+    "opciones": [
+      "Nepotismo judicial",
+      "Prevaricato",
+      "Incapacidad moral",
+      "Amnistía improcedente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El Presidente de la República desea viajar a una cumbre internacional en Europa durante el mes de enero. Dado que el Congreso está en receso legislativo, ¿ante quién debe tramitar su permiso de salida?",
+    "opciones": [
+      "La Junta Nacional de Justicia",
+      "La Comisión Permanente",
+      "El Tribunal Constitucional",
+      "El Ministerio de Relaciones Exteriores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ex-presidente es procesado por delitos políticos cometidos durante su gestión. El Congreso decide otorgarle el perdón del delito para que recupere su libertad y borre sus antecedentes. Este derecho se llama:",
+    "opciones": [
+      "Indulto humanitario",
+      "Conmutación de pena",
+      "Amnistía",
+      "Suspensión de derechos"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: El Congreso convoca al Ministro del Interior para que responda sobre el aumento de la inseguridad ciudadana. Si tras las respuestas el parlamento no queda conforme, puede votar para obligar al ministro a renunciar mediante la:",
+    "opciones": [
+      "Interpelación",
+      "Censura",
+      "Cuestión de confianza",
+      "Vacancia ministerial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si existiera una contradicción entre lo que dicta una ley aprobada por el Congreso y lo que establece la Constitución Política, un juez debe preferir siempre la norma constitucional. Este principio se basa en la:",
+    "opciones": [
+      "Jerarquía normativa (Pirámide de Kelsen)",
+      "Autonomía del Poder Judicial",
+      "Inmunidad parlamentaria",
+      "Soberanía popular"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "DECO: Al analizar el sistema electoral peruano, una persona nota que el órgano encargado de fiscalizar la legalidad del sufragio y proclamar a los ganadores es independiente del que elabora el padrón. El órgano fiscalizador es el:",
+    "opciones": [
+      "RENIEC",
+      "ONPE",
+      "Jurado Nacional de Elecciones (JNE)",
+      "Poder Judicial"
+    ],
+    "correcta": 2
+  }
+]
+        },
+        {
+          "titulo": "5.3 El poder legislativo",
+          "youtube_id": "yX7Z-_tVw0U",
+          "pdf_link": "https://drive.google.com/file/d/1STNLNS3LROrsjrBVv4sYOOlwQ4SLbX1x/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuáles son las tres funciones básicas del Poder Legislativo mencionadas en el video?",
+    "opciones": [
+      "Gobernar, administrar justicia y sancionar",
+      "Legislar, fiscalizar y representar",
+      "Recaudar impuestos, vigilar fronteras y legislar",
+      "Interpretar la Constitución, elegir jueces y gobernar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién convoca las legislaturas ordinarias del Congreso?",
+    "opciones": [
+      "El Presidente de la República",
+      "El Presidente del Congreso",
+      "El Tribunal Constitucional",
+      "La Comisión Permanente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué fecha inicia y termina nominalmente la primera legislatura ordinaria según el video?",
+    "opciones": [
+      "Inicia el 1 de enero y termina el 15 de marzo",
+      "Inicia el 28 de julio y termina el 15 de diciembre",
+      "Inicia el 1 de marzo y termina el 15 de junio",
+      "Inicia el 28 de julio y es permanente todo el año"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje del número total de congresistas conforma la Comisión Permanente?",
+    "opciones": [
+      "El 10%",
+      "El 25%",
+      "El 50%",
+      "El 75%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Quién tiene la facultad de convocar a una legislatura extraordinaria?",
+    "opciones": [
+      "El Presidente del Congreso",
+      "El Presidente de la República",
+      "El Defensor del Pueblo",
+      "El Contralor General"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el plazo máximo de duración de una legislatura extraordinaria?",
+    "opciones": [
+      "7 días",
+      "15 días",
+      "30 días",
+      "Todo el periodo de vacaciones parlamentarias"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué significa la función de 'legislar' según la explicación brindada?",
+    "opciones": [
+      "Viajar por el país para escuchar a los ciudadanos",
+      "Aprobar, desaprobar, modificar o regular las leyes",
+      "Investigar a los delincuentes comunes",
+      "Nombrar a los directores de los hospitales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Cuando un ministro es censurado por el Congreso, ¿en qué plazo máximo está obligado a presentar su renuncia?",
+    "opciones": [
+      "Inmediatamente (en la misma sesión)",
+      "A las 24 horas",
+      "A las 72 horas",
+      "Al final del mes legislativo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué organismo se encarga de controlar que las leyes dadas por el Congreso se enmarquen dentro de la Constitución?",
+    "opciones": [
+      "El Poder Judicial",
+      "El Tribunal Constitucional",
+      "El Ministerio Público",
+      "La Junta Nacional de Justicia"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se refiere la función de 'representar' del congresista?",
+    "opciones": [
+      "A actuar bajo órdenes directas del Presidente",
+      "A hacer cosas que la población necesita porque han sido elegidos por ellos",
+      "A representar a las empresas privadas que financiaron su campaña",
+      "A tener inmunidad para no ser juzgados por delitos comunes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante el mes de enero, el Ejecutivo necesita que se apruebe de urgencia un tratado con la Unión Europea, pero el Congreso está en receso. Según el video, ¿qué acción debe tomar el Presidente de la República?",
+    "opciones": [
+      "Aprobar el tratado por decreto supremo sin consultar al Congreso",
+      "Convocar a una legislatura extraordinaria para tratar ese tema específico",
+      "Esperar hasta marzo que inicie la siguiente legislatura ordinaria",
+      "Pedir permiso únicamente a la Comisión Permanente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un grupo de ciudadanos reclama que una ley aprobada recientemente solo beneficia a los propios congresistas y no atiende ninguna necesidad social. Según la teoría de las funciones legislativas, ¿qué función estaría siendo cuestionada en este caso?",
+    "opciones": [
+      "La función de legislar",
+      "La función de representar",
+      "La función de fiscalizar",
+      "La función de interpelar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se descubre que un ministro de Estado ha realizado gastos excesivos e injustificados en su cartera. El Congreso decide llamarlo para que rinda cuentas de manera obligatoria. ¿Cómo se denomina este procedimiento?",
+    "opciones": [
+      "Censura ministerial",
+      "Interpelación",
+      "Representación parlamentaria",
+      "Legislatura extraordinaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ministro es sometido a un cuestionario en el pleno del Congreso y sus respuestas no convencen a la mayoría de los parlamentarios, quienes consideran que debe dejar el cargo. El paso siguiente para forzar su salida es:",
+    "opciones": [
+      "La interpelación",
+      "La censura",
+      "El antejuicio político",
+      "La revocatoria popular"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Es el 20 de enero y surge un problema administrativo menor en una entidad del Estado que requiere una regulación legal rápida. Dado que el pleno no está reunido, el órgano que se queda a cargo de estas funciones es:",
+    "opciones": [
+      "El Consejo de Ministros",
+      "La Comisión Permanente",
+      "La Mesa Directiva",
+      "La Junta de Portavoces"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un congresista afirma que no irá a votar una ley porque prefiere quedarse en su región atendiendo negocios personales. El profesor del video critica esta actitud porque el congresista es un:",
+    "opciones": [
+      "Funcionario designado por el dedo",
+      "Padre de la patria que debe legislar por necesidad social y no personal",
+      "Empleado del Poder Ejecutivo con sueldo fijo",
+      "Juez que debe sancionar a los infractores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Si el Congreso aprueba una ley que prohíbe la libertad de expresión, contraviniendo la Constitución, ¿qué sucede con esa norma según el video?",
+    "opciones": [
+      "Se aplica normalmente porque el Congreso es el primer poder",
+      "El Tribunal Constitucional debe intervenir para anularla o regularla",
+      "El Poder Judicial debe meter presos a los congresistas inmediatamente",
+      "La población debe votar en referéndum para validarla"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Al analizar el funcionamiento del gobierno, el profesor menciona que el Congreso tiene la atribución de supervisar a los funcionarios públicos. Si el Congreso no tuviera esta facultad, ¿qué riesgo se correría?",
+    "opciones": [
+      "Que no existan leyes en el país",
+      "Que los funcionarios manejen recursos públicos sin control ni transparencia",
+      "Que el Poder Judicial deje de existir",
+      "Que los ciudadanos no puedan votar"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un ciudadano le pregunta a un congresista por qué no ha propuesto una ley sobre salud en su distrito. El congresista responde que 'solo le interesa sacar leyes para sus amigos'. Según el video, esta respuesta vulnera la esencia de:",
+    "opciones": [
+      "La fiscalización estratégica",
+      "La representación (actuar por necesidad social)",
+      "La legislatura extraordinaria",
+      "El marco jurídico del Poder Judicial"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: La distinción entre las fechas de las legislaturas ordinarias es importante para saber cuándo el Congreso tiene 'vacaciones'. Durante ese periodo de receso, ¿qué afirmación es correcta?",
+    "opciones": [
+      "El país se queda sin leyes hasta que vuelvan",
+      "Solo funciona la Comisión Permanente conformada por el 25% del total",
+      "El Presidente del Congreso asume el mando de todo el Estado",
+      "El Poder Judicial asume la función de sacar leyes"
+    ],
+    "correcta": 1
+  }
+]
+        },
+        {
+          "titulo": "5.4 Seguridad y defensa nacional ED CÍVICA",
+          "youtube_id": "_0Sjo5k-pYo",
+          "pdf_link": "https://drive.google.com/file/d/1STNLNS3LROrsjrBVv4sYOOlwQ4SLbX1x/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Quién ejerce la jefatura suprema de las Fuerzas Armadas y de la Policía Nacional en el Perú?",
+    "opciones": [
+      "El Ministro de Defensa",
+      "El Presidente de la República",
+      "El Jefe del Comando Conjunto",
+      "El Director General de la Policía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Según el video, ¿cuáles son las dos características principales de la Defensa Nacional?",
+    "opciones": [
+      "Temporal y selectiva",
+      "Integral y permanente",
+      "Militarizada y secreta",
+      "Exclusiva y fronteriza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima establecida para el Estado de Emergencia?",
+    "opciones": [
+      "30 días",
+      "45 días",
+      "60 días",
+      "90 días"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima establecida para el Estado de Sitio?",
+    "opciones": [
+      "30 días",
+      "45 días",
+      "60 días",
+      "15 días"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué entidad es la encargada legalmente de vigilar las fronteras y solicitar documentos para salir del país?",
+    "opciones": [
+      "El Ejército del Perú",
+      "La Marina de Guerra",
+      "La Policía Nacional",
+      "La Defensoría del Pueblo"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Quién otorga los ascensos a los grados de generales y almirantes?",
+    "opciones": [
+      "El Congreso de la República",
+      "El Presidente de la República",
+      "La Junta Nacional de Justicia",
+      "El Ministerio del Interior"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se define un 'delito de función'?",
+    "opciones": [
+      "Cualquier robo cometido por un militar",
+      "Un delito cometido en actividad que atenta contra un bien jurídico exclusivo de las FF.AA. o PNP",
+      "Un asesinato cometido por un policía franco de servicio",
+      "No pagar tributos siendo funcionario público"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué fuero se juzgan exclusivamente los delitos de función?",
+    "opciones": [
+      "Fuero Civil",
+      "Poder Judicial ordinario",
+      "Fuero Militar Policial",
+      "Tribunal Constitucional"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A quién pertenecen legalmente todas las armas de guerra que ingresan al territorio nacional?",
+    "opciones": [
+      "A las empresas importadoras",
+      "Al Estado peruano",
+      "A los generales de turno",
+      "A las Naciones Unidas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sucede con los derechos de un miembro de las FF.AA. o PNP para ser sancionado?",
+    "opciones": [
+      "Se pierden por orden del jefe directo",
+      "Solo se pierden por sentencia judicial",
+      "Se suspenden automáticamente al cumplir 20 años de servicio",
+      "No tienen derechos constitucionales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Ante una crisis sanitaria global como la COVID-19, el gobierno peruano decretó el Estado de Emergencia. Según el video, ¿en qué causal del artículo 137 de la Constitución encajó esta medida?",
+    "opciones": [
+      "Invasión extranjera",
+      "Guerra civil inminente",
+      "Grave alteración del orden público",
+      "Aprobación de la Ley de Presupuesto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "DECO: Un empresario desea invertir 10 millones de dólares en una zona donde impera el narcotráfico y no hay presencia policial. Según el video, ¿por qué la seguridad es clave para el desarrollo económico?",
+    "opciones": [
+      "Porque los policías cobran impuestos",
+      "Porque sin seguridad el inversor no arriesga su capital ante posibles robos o extorsiones",
+      "Porque el ejército construye las fábricas",
+      "Porque la seguridad garantiza que no existan sindicatos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un oficial del ejército desobedece una orden directa de su superior jerárquico durante un operativo, rompiendo la cadena de mando. ¿Ante qué instancia debe ser procesado este hecho?",
+    "opciones": [
+      "Ante un juzgado civil por desacato",
+      "Ante el fuero militar por ser un delito de función",
+      "Ante el Congreso de la República",
+      "Ante la comisaría del sector"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Durante un Estado de Sitio por guerra exterior, el Ejecutivo desea prorrogar la medida más allá de los 45 días iniciales. Según la norma, ¿qué requisito adicional es indispensable?",
+    "opciones": [
+      "La aprobación de las Naciones Unidas",
+      "La aprobación del Congreso de la República",
+      "La firma de todos los generales",
+      "Una consulta popular (Referéndum)"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un policía, estando de franco (en su día libre), tiene una pelea vecinal y causa lesiones graves a un civil. ¿Este hecho se considera un delito de función?",
+    "opciones": [
+      "Sí, porque siempre es policía las 24 horas",
+      "No, es un delito común que debe juzgarse en el fuero civil",
+      "Sí, porque usó su uniforme",
+      "No, porque los policías tienen inmunidad total"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El Estado encuentra a un ciudadano civil portando una ametralladora de uso exclusivo militar sin autorización. ¿Qué acción legal corresponde según la propiedad de las armas?",
+    "opciones": [
+      "Dejar que se la quede si tiene licencia de caza",
+      "Recoger el arma por ser propiedad exclusiva del Estado y abrir proceso por tráfico o apología",
+      "Venderle el arma legalmente",
+      "Pedirle que la guarde en su casa hasta que haya guerra"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Las Fuerzas Armadas son llamadas para ayudar en el rescate de víctimas tras un terremoto de gran magnitud. Esta acción se fundamenta en que:",
+    "opciones": [
+      "Están aburridos en los cuarteles",
+      "Participan en la defensa civil conforme a ley",
+      "Solo el ejército sabe manejar ambulancias",
+      "Es una orden del Ministerio de Economía"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Un suboficial de la policía desea ascender al grado inmediato superior. A diferencia de un General, su ascenso no lo firma el Presidente, sino que:",
+    "opciones": [
+      "Se lo otorga el alcalde de su ciudad",
+      "Se lo otorga la propia institución según la tabla de equivalencias y méritos",
+      "Debe ganar una elección por voto popular",
+      "Se lo otorga el Presidente del Congreso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: Se afirma que las Fuerzas Armadas y la PNP 'no son deliberantes'. Esto significa que en una crisis política, estas instituciones:",
+    "opciones": [
+      "Pueden votar para decidir quién es el presidente",
+      "Están subordinadas al poder constitucional y no toman posición política",
+      "Deben cerrar el Congreso si no están de acuerdo con una ley",
+      "Tienen derecho a huelga si no les aumentan el sueldo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "DECO: El material logístico (tanques, patrulleros, municiones) de las fuerzas del orden tiene un alto costo. ¿Cómo garantiza el Estado el financiamiento de estos recursos?",
+    "opciones": [
+      "Mediante donaciones de países vecinos",
+      "A través de la asignación de recursos en la Ley del Presupuesto",
+      "Haciendo colectas públicas anuales",
+      "Permitiendo que los militares vendan combustible"
+    ],
+    "correcta": 1
+  }
+]
+        }
+      ]
+    }
+  ]
+}

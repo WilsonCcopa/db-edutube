@@ -1,0 +1,4400 @@
+{
+  "curso": "Trigonometría",
+  "temas": [
+    {
+      "titulo": "Tema 1: Sistema de medidas angulares",
+      "videos": [
+        {
+          "titulo": "1.1 Sistema de medición de ángulos sexagesimal",
+          "youtube_id": "YHA1dvZ7Huw",
+          "pdf_link": "https://drive.google.com/file/d/154l03OZg4YsZyI1I1MOCa3Kj-ghcM8KZ/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A cuántos grados sexagesimales ($^{\\circ}$) equivale una vuelta completa en una circunferencia?",
+    "opciones": ["$180^{\\circ}$", "$360^{\\circ}$", "$400^{\\circ}$", "$90^{\\circ}$"],
+    "correcta": 1,
+    "resolucion": "En el sistema sexagesimal o inglés, la circunferencia se divide en 360 partes iguales, por lo que una vuelta completa mide $360^{\\circ}$."
+  },
+  {
+    "pregunta": "¿A cuántos grados centesimales ($^{g}$) equivale una vuelta completa según el sistema francés?",
+    "opciones": ["$360^{g}$", "$100^{g}$", "$400^{g}$", "$200^{g}$"],
+    "correcta": 2,
+    "resolucion": "El sistema centesimal divide la vuelta completa en 400 grados centesimales ($400^{g}$)."
+  },
+  {
+    "pregunta": "¿Cuál es la medida de una vuelta completa en el sistema radial o internacional?",
+    "opciones": ["$1 \\text{ rad}$", "$\\pi \\text{ rad}$", "$2\\pi \\text{ rad}$", "$\\frac{\\pi}{2} \\text{ rad}$"],
+    "correcta": 2,
+    "resolucion": "Por definición, el sistema radial asigna el valor de $2\\pi$ radianes a la medida de una vuelta completa."
+  },
+  {
+    "pregunta": "¿Cuál es la relación de conversión simplificada entre los grados sexagesimales (S) y centesimales (C)?",
+    "opciones": ["$\\frac{S}{10} = \\frac{C}{9}$", "$\\frac{S}{9} = \\frac{C}{10}$", "$\\frac{S}{180} = \\frac{C}{400}$", "$\\frac{S}{10} = \\frac{C}{20}$"],
+    "correcta": 1,
+    "resolucion": "Partiendo de $\\frac{S}{360} = \\frac{C}{400}$ y simplificando (sacando cuarentava), se llega a la proporción fundamental $\\frac{S}{9} = \\frac{C}{10}$."
+  },
+  {
+    "pregunta": "¿A cuántos minutos sexagesimales ($'$) equivale un grado sexagesimal ($1^{\\circ}$)?",
+    "opciones": ["$100'$", "$60'$", "$3600'$", "$10'$"],
+    "correcta": 1,
+    "resolucion": "En el sistema sexagesimal, cada grado se subdivide en 60 minutos."
+  },
+  {
+    "pregunta": "¿A cuántos segundos centesimales ($^{s}$) equivale un minuto centesimal ($1^{m}$)?",
+    "opciones": ["$60^{s}$", "$10^{s}$", "$100^{s}$", "$1000^{s}$"],
+    "correcta": 2,
+    "resolucion": "En el sistema centesimal, un minuto se divide en 100 segundos centesimales."
+  },
+  {
+    "pregunta": "¿Qué valor numérico tiene un ángulo de $\\frac{\\pi}{9} \\text{ rad}$ expresado en grados sexagesimales?",
+    "opciones": ["$10^{\\circ}$", "$20^{\\circ}$", "$18^{\\circ}$", "$9^{\\circ}$"],
+    "correcta": 1,
+    "resolucion": "Usando la equivalencia $\\pi \\text{ rad} = 180^{\\circ}$, dividimos $180 / 9 = 20^{\\circ}$."
+  },
+  {
+    "pregunta": "¿Cuál es el factor de conversión para pasar de grados centesimales (C) a radianes (R)?",
+    "opciones": ["$\\frac{C}{200} = \\frac{R}{\\pi}$", "$\\frac{C}{10} = \\frac{R}{\\pi}$", "$\\frac{C}{400} = \\frac{R}{2\\pi}$", "$\\frac{C}{180} = \\frac{R}{\\pi}$"],
+    "correcta": 0,
+    "resolucion": "La relación general es $\\frac{C}{400} = \\frac{R}{2\\pi}$. Al simplificar sacando mitad a los denominadores, queda $\\frac{C}{200} = \\frac{R}{\\pi}$."
+  },
+  {
+    "pregunta": "Si un ángulo mide $27^{\\circ}$, ¿cuál es su medida equivalente en grados centesimales?",
+    "opciones": ["$24^{g}$", "$30^{g}$", "$33^{g}$", "$40^{g}$"],
+    "correcta": 1,
+    "resolucion": "Usamos $\\frac{S}{9} = \\frac{C}{10}$. Sustituyendo: $\\frac{27}{9} = \\frac{C}{10} \\Rightarrow 3 = \\frac{C}{10} \\Rightarrow C = 30^{g}$."
+  },
+  {
+    "pregunta": "En trigonometría, ¿qué signo se le asigna a un ángulo que gira en sentido horario?",
+    "opciones": ["Positivo ($+$)", "Neutro ($0$)", "Negativo ($-$)", "No tiene signo"],
+    "correcta": 2,
+    "resolucion": "Por convención, los ángulos generados en sentido horario (como las manecillas del reloj) se consideran negativos."
+  },
+  {
+    "pregunta": "¿Qué signo se le asigna a un ángulo que gira en sentido antihorario?",
+    "opciones": ["Negativo ($-$)", "Positivo ($+$)", "Imaginario", "Nulo"],
+    "correcta": 1,
+    "resolucion": "Los ángulos que giran en sentido contrario a las manecillas del reloj se consideran positivos."
+  },
+  {
+    "pregunta": "Simplifique la expresión $E = \\frac{30^{g} + 24^{\\circ}}{\\frac{\\pi}{60} \\text{ rad}}$.",
+    "opciones": ["$15$", "$17$", "$20$", "$51$"],
+    "correcta": 1,
+    "resolucion": "Convertimos todo a sexagesimales: $30^{g} = 27^{\\circ}$ y $\\frac{\\pi}{60} \\text{ rad} = 3^{\\circ}$. Luego: $E = \\frac{27 + 24}{3} = \\frac{51}{3} = 17$."
+  },
+  {
+    "pregunta": "¿A cuántos segundos sexagesimales ($''$) equivale un grado sexagesimal ($1^{\\circ}$)?",
+    "opciones": ["$60''$", "$100''$", "$3600''$", "$1000''$"],
+    "correcta": 2,
+    "resolucion": "$1^{\\circ} = 60'$ y $1' = 60''$. Por lo tanto, $1^{\\circ} = 60 \\cdot 60 = 3600''$."
+  },
+  {
+    "pregunta": "Si un ángulo tiene una medida de $5y$ grados centesimales, ¿a cuánto equivale en grados sexagesimales?",
+    "opciones": ["$\\frac{9y}{2}$", "$10y$", "$9y$", "$\\frac{5y}{9}$"],
+    "correcta": 0,
+    "resolucion": "Usando $\\frac{S}{9} = \\frac{C}{10}$ y reemplazando $C = 5y$: $\\frac{S}{9} = \\frac{5y}{10} \\Rightarrow S = 9 \\cdot \\frac{1}{2}y = \\frac{9y}{2}$."
+  },
+  {
+    "pregunta": "Dos ángulos son suplementarios si su suma es:",
+    "opciones": ["$90^{\\circ}$", "$180^{\\circ}$", "$360^{\\circ}$", "$270^{\\circ}$"],
+    "correcta": 1,
+    "resolucion": "Por definición geométrica, los ángulos suplementarios son aquellos cuya suma total es igual a un ángulo llano ($180^{\\circ}$)."
+  },
+  {
+    "pregunta": "Al igualar $\\frac{\\pi}{9} \\text{ rad}$ con $(7x + 6)^{\\circ}$, ¿cuál es el valor de $x$?",
+    "opciones": ["$1$", "$2$", "$3$", "$4$"],
+    "correcta": 1,
+    "resolucion": "Convertimos $\\frac{\\pi}{9} \\text{ rad} = 20^{\\circ}$. Entonces $20 = 7x + 6 \\Rightarrow 14 = 7x \\Rightarrow x = 2$."
+  },
+  {
+    "pregunta": "¿Cuántos grados centesimales tiene un ángulo recto?",
+    "opciones": ["$90^{g}$", "$100^{g}$", "$200^{g}$", "$400^{g}$"],
+    "correcta": 1,
+    "resolucion": "Un ángulo recto es un cuarto de vuelta. Como la vuelta completa es $400^{g}$, un cuarto es $100^{g}$."
+  },
+  {
+    "pregunta": "¿Cuál es la medida de un grado centesimal ($1^{g}$) en segundos centesimales ($^{s}$)?",
+    "opciones": ["$100^{s}$", "$1000^{s}$", "$10000^{s}$", "$3600^{s}$"],
+    "correcta": 2,
+    "resolucion": "$1^{g} = 100^{m}$ y $1^{m} = 100^{s}$. Por lo tanto, $1^{g} = 100 \\cdot 100 = 10000^{s}$."
+  },
+  {
+    "pregunta": "Si un ángulo de $5y$ grados centesimales y un ángulo de $3x$ grados sexagesimales (en sentido horario) son suplementarios, ¿cuál es la ecuación correcta?",
+    "opciones": ["$\\frac{9y}{2} + 3x = 180$", "$\\frac{9y}{2} - 3x = 180$", "$5y + 3x = 180$", "$5y - 3x = 90$"],
+    "correcta": 1,
+    "resolucion": "Convertimos $5y^{g}$ a sexagesimal: $\\frac{9y}{2}$. Como $3x$ es horario, se resta: $-3x$. La suma es $180$: $\\frac{9y}{2} - 3x = 180$."
+  },
+  {
+    "pregunta": "¿Cuál es la medida de media vuelta en el sistema radial?",
+    "opciones": ["$2\\pi \\text{ rad}$", "$\\pi \\text{ rad}$", "$\\frac{\\pi}{2} \\text{ rad}$", "$180 \\text{ rad}$"],
+    "correcta": 1,
+    "resolucion": "Si una vuelta completa es $2\\pi$ radianes, media vuelta es exactamente $\\pi$ radianes."
+  }
+]
+        },
+        {
+          "titulo": "1.2 Sector circular",
+          "youtube_id": "orjObKL0OVA",
+          "pdf_link": "https://drive.google.com/file/d/154l03OZg4YsZyI1I1MOCa3Kj-ghcM8KZ/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo se define matemáticamente la longitud de arco '$L$' en un sector circular?",
+    "opciones": ["$L = \\theta / R$", "$L = \\theta \\cdot R$", "$L = \\theta \\cdot R^2$", "$L = 2\\pi \\cdot R$"],
+    "correcta": 1,
+    "resolucion": "La longitud de arco de un sector circular se obtiene multiplicando la medida del ángulo central '$\\theta$' (expresado en radianes) por la longitud del radio '$R$'."
+  },
+  {
+    "pregunta": "Para que las fórmulas del sector circular sean válidas, ¿en qué sistema de medida angular debe estar expresado el ángulo central '$\\theta$'?",
+    "opciones": ["Sexagesimal", "Centesimal", "Radial", "Cualquiera de los anteriores"],
+    "correcta": 2,
+    "resolucion": "Es un requisito técnico fundamental que el ángulo central esté en radianes. Si se encuentra en otro sistema, debe realizarse la conversión previa."
+  },
+  {
+    "pregunta": "¿Cuál es la restricción o intervalo de variación para el valor numérico del ángulo central '$\\theta$' en un sector circular?",
+    "opciones": ["$0 < \\theta \\leq \\pi$", "$0 < \\theta < 2\\pi$", "$0 < \\theta \\leq 360^\\circ$", "$\\theta > 0$"],
+    "correcta": 1,
+    "resolucion": "El ángulo central debe ser mayor que cero y menor que una vuelta completa ($2\\pi$ radianes) para que la figura se considere un sector circular."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes es una fórmula válida para calcular el área '$S$' de un sector circular?",
+    "opciones": ["$S = \\frac{L \\cdot R}{2}$", "$S = L \\cdot R$", "$S = \\theta \\cdot R$", "$S = \\frac{\\theta^2 \\cdot R}{2}$"],
+    "correcta": 0,
+    "resolucion": "Existen tres fórmulas para el área; una de ellas es el producto de la longitud de arco por el radio dividido entre dos."
+  },
+  {
+    "pregunta": "Si se conoce el ángulo central '$\\theta$' y el radio '$R$', ¿qué fórmula permite hallar el área del sector circular?",
+    "opciones": ["$S = \\theta \\cdot R^2$", "$S = \\frac{1}{2} \\theta \\cdot R^2$", "$S = \\frac{1}{2} \\theta^2 \\cdot R$", "$S = \\theta \\cdot R$"],
+    "correcta": 1,
+    "resolucion": "La fórmula principal relaciona la mitad del ángulo central por el cuadrado del radio: $S = \\frac{1}{2} \\theta R^2$."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el área de un sector circular si solo se dispone de la longitud de arco '$L$' y el ángulo central '$\\theta$'?",
+    "opciones": ["$S = \\frac{L^2}{\\theta}$", "$S = \\frac{L^2}{2\\theta}$", "$S = \\frac{2L^2}{\\theta}$", "$S = L \\cdot \\theta$"],
+    "correcta": 1,
+    "resolucion": "La tercera variante de la fórmula del área es el cuadrado de la longitud de arco dividido entre el doble del ángulo central."
+  },
+  {
+    "pregunta": "¿Qué es un 'trapecio circular'?",
+    "opciones": ["Una parte del círculo limitada por dos cuerdas paralelas", "La región circular limitada por dos radios y un arco", "La región comprendida entre dos arcos de sectores circulares concéntricos", "Cualquier cuadrilátero inscrito en una circunferencia"],
+    "correcta": 2,
+    "resolucion": "Se define como la franja o región delimitada por dos arcos de sectores que comparten el mismo centro (concéntricos) y tienen diferentes radios."
+  },
+  {
+    "pregunta": "En un trapecio circular, ¿cómo se calcula el valor del ángulo central '$\\theta$' a partir de sus longitudes de arco ($L_{mayor}, L_{menor}$) y la distancia '$d$' entre ellas?",
+    "opciones": ["$\\theta = (L_{mayor} + L_{menor}) / d$", "$\\theta = L_{mayor} \\cdot L_{menor} / d$", "$\\theta = (L_{mayor} - L_{menor}) / d$", "$\\theta = d / (L_{mayor} - L_{menor})$"],
+    "correcta": 2,
+    "resolucion": "El ángulo central es igual a la diferencia de las longitudes de los arcos (bases) dividida por la distancia que los separa."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para hallar el área de un trapecio circular usando sus arcos y la distancia entre ellos?",
+    "opciones": ["$A = \\frac{L_{mayor} - L_{menor}}{2} \\cdot d$", "$A = \\frac{L_{mayor} + L_{menor}}{2} \\cdot d$", "$A = (L_{mayor} + L_{menor}) \\cdot d$", "$A = \\frac{L_{mayor} \\cdot L_{menor}}{2} \\cdot d$"],
+    "correcta": 1,
+    "resolucion": "Similar al área de un trapecio lineal, es la semisuma de las bases (arcos) multiplicada por la distancia (separación)."
+  },
+  {
+    "pregunta": "Si un sector circular tiene su radio dividido en 'n' segmentos iguales, ¿qué progresión siguen las longitudes de los arcos generados de adentro hacia afuera?",
+    "opciones": ["$L, L^2, L^3, \\dots$", "$L, 3L, 5L, \\dots$", "$L, 2L, 3L, \\dots$", "$L, 4L, 9L, \\dots$"],
+    "correcta": 2,
+    "resolucion": "Al ser el radio proporcional a la longitud de arco ($L = \\theta R$), si el radio aumenta como $1R, 2R, 3R$, las longitudes crecen linealmente como $L, 2L, 3L, \\dots$."
+  },
+  {
+    "pregunta": "Cuando el radio de un sector se divide en partes iguales, ¿qué secuencia numérica siguen las áreas de las regiones (franjas) que se forman?",
+    "opciones": ["$S, 2S, 3S, 4S, \\dots$", "$S, 3S, 5S, 7S, \\dots$", "$S, 4S, 9S, 16S, \\dots$", "$S, S+2, S+4, \\dots$"],
+    "correcta": 1,
+    "resolucion": "Las áreas de las regiones sucesivas (trapecios y el sector inicial) crecen según los números impares: $1S, 3S, 5S, \\dots$ siempre que los segmentos del radio sean iguales."
+  },
+  {
+    "pregunta": "¿Qué relación se cumple para dos sectores circulares que tienen el mismo radio?",
+    "opciones": ["Sus áreas son inversamente proporcionales a sus ángulos", "Sus longitudes de arco son iguales independientemente del ángulo", "Sus áreas, arcos y ángulos centrales están en la misma proporción", "La suma de sus ángulos debe ser $2\\pi$"],
+    "correcta": 2,
+    "resolucion": "Si el radio es constante, la longitud de arco y el área dependen linealmente del ángulo, manteniendo una relación de proporcionalidad directa entre ellos."
+  },
+  {
+    "pregunta": "¿Qué significa que un ángulo central sea de '1 radián'?",
+    "opciones": ["Que el arco mide $\\pi$ veces el radio", "Que la longitud del arco es igual a la longitud del radio", "Que el ángulo mide exactamente $60^\\circ$", "Que el área del sector es igual al radio"],
+    "correcta": 1,
+    "resolucion": "Por definición, un radián es el ángulo central que subtiende un arco cuya longitud es igual al radio de la circunferencia ($L = R$)."
+  },
+  {
+    "pregunta": "¿Cuál es el factor de conversión para transformar un ángulo de grados sexagesimales ($A^\\circ$) a radianes?",
+    "opciones": ["$A \\cdot \\frac{180}{\\pi}$", "$A \\cdot \\frac{\\pi}{180}$", "$A \\cdot \\frac{\\pi}{200}$", "$A \\cdot \\frac{200}{\\pi}$"],
+    "correcta": 1,
+    "resolucion": "Para convertir de sexagesimal a radial, se multiplica el valor del ángulo por el factor $\\pi / 180$."
+  },
+  {
+    "pregunta": "Determine la longitud de arco de un sector circular cuyo ángulo central es $135^\\circ$ y su radio mide 6 metros.",
+    "opciones": ["$4.5\\pi \\text{ m}$", "$9\\pi \\text{ m}$", "$3\\pi \\text{ m}$", "$18\\pi \\text{ m}$"],
+    "correcta": 0,
+    "resolucion": "Convertimos $135^\\circ$ a rad: $135 \\cdot (\\pi/180) = 3\\pi/4$. Luego $L = (3\\pi/4) \\cdot 6 = 18\\pi/4 = 4.5\\pi \\text{ m}$."
+  },
+  {
+    "pregunta": "Calcule el área de un sector circular si su ángulo central es $2x$ radianes y su radio es $(x + 3)$ metros, sabiendo que su longitud de arco es $(2x^2 + 18)$ metros.",
+    "opciones": ["$54 \\text{ m}^2$", "$108 \\text{ m}^2$", "$216 \\text{ m}^2$", "$100 \\text{ m}^2$"],
+    "correcta": 1,
+    "resolucion": "Usamos $L = \\theta R$: $2x(x+3) = 2x^2+18 \\implies 2x^2+6x = 2x^2+18 \\implies 6x=18 \\implies x=3$. Radio=6, Ángulo=6 rad. Área = $(1/2) \\cdot 6 \\cdot 6^2 = 3 \\cdot 36 = 108$."
+  },
+  {
+    "pregunta": "En un trapecio circular de arcos $2\\pi$ y $6\\pi$ y ángulo central $\\theta$, si la distancia entre arcos es '$d$', ¿cuál es el valor del radio mayor '$R$' si el radio menor es '$r$'?",
+    "opciones": ["$R = r + d$", "$R = r - d$", "$R = d - r$", "$R = r \\cdot d$"],
+    "correcta": 0,
+    "resolucion": "Geométricamente, el radio mayor es la suma del radio menor más la separación o distancia entre las curvaturas de los arcos."
+  },
+  {
+    "pregunta": "Si un sector circular triplica su radio y duplica su ángulo central, ¿qué sucede con su área original '$S$'?",
+    "opciones": ["Se multiplica por 6", "Se multiplica por 9", "Se multiplica por 18", "Se multiplica por 12"],
+    "correcta": 2,
+    "resolucion": "Nueva área $S' = \\frac{1}{2} (2\\theta) (3R)^2 = \\frac{1}{2} (2\\theta) (9R^2) = 18 \\cdot (\\frac{1}{2} \\theta R^2) = 18S$."
+  },
+  {
+    "pregunta": "¿A qué es igual el área de un círculo completo en términos de radio?",
+    "opciones": ["$2\\pi R$", "$\\pi R^2$", "$2\\pi R^2$", "$\\pi R$"],
+    "correcta": 1,
+    "resolucion": "El círculo es la región total encerrada por la circunferencia, y su área se calcula como el producto de $\\pi$ por el radio al cuadrado."
+  },
+  {
+    "pregunta": "Si en un sector circular la longitud del arco es igual a la mitad del radio, ¿cuánto mide el ángulo central en radianes?",
+    "opciones": ["2 rad", "1 rad", "0.5 rad", "$\\pi$ rad"],
+    "correcta": 2,
+    "resolucion": "$\\{L = R/2, \\theta = L/R\\} \\implies \\theta = (R/2) / R = 1/2 = 0.5 \\text{ rad}$."
+  }
+]
+        },
+        {
+          "titulo": "1.3 R.T. de ángulos agudos",
+          "youtube_id": "DJzy0Juodfc",
+          "pdf_link": "https://drive.google.com/file/d/154l03OZg4YsZyI1I1MOCa3Kj-ghcM8KZ/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "En un triángulo rectángulo, ¿cuál es la definición técnica de la razón trigonométrica seno de un ángulo agudo $\\theta$?",
+    "opciones": [
+      "Cateto adyacente sobre hipotenusa",
+      "Cateto opuesto sobre cateto adyacente",
+      "Cateto opuesto sobre hipotenusa",
+      "Hipotenusa sobre cateto opuesto"
+    ],
+    "correcta": 2,
+    "resolucion": "Por definición, el seno de un ángulo agudo en un triángulo rectángulo es la relación entre la longitud del cateto opuesto al ángulo y la longitud de la hipotenusa."
+  },
+  {
+    "pregunta": "Si en un triángulo rectángulo la hipotenusa mide 41 unidades y uno de los catetos mide 40 unidades, ¿cuál es la técnica rápida para hallar el otro cateto sin elevar al cuadrado directamente?",
+    "opciones": [
+      "Restar 41 - 40 y multiplicar por 2",
+      "Sumar 41 + 40 y extraer la raíz cuadrada",
+      "Multiplicar 41 por 40 y dividir por 2",
+      "Restar la raíz de 41 menos la raíz de 40"
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando la hipotenusa excede en una unidad a un cateto, el cuadrado del cateto faltante es la suma de los otros dos ($x^2 = 41^2 - 40^2 = (41+40)(41-40) = 81$). Por tanto, $x = \\sqrt{81} = 9$."
+  },
+  {
+    "pregunta": "¿A qué es igual el producto de las razones trigonométricas recíprocas $\\cos \\theta \\cdot \\sec \\theta$, asumiendo que $\\theta$ es un ángulo agudo?",
+    "opciones": [
+      "0",
+      "$\\tan \\theta$",
+      "1",
+      "$\\sin^2 \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Debido a que la secante es la inversa multiplicativa del coseno ($\\sec \\theta = H/CA$ y $\\cos \\theta = CA/H$), su producto siempre es igual a la unidad."
+  },
+  {
+    "pregunta": "Si se cumple que $\\text{sen}(2x - 10^\\circ) \\cdot \\csc(40^\\circ) = 1$, ¿cuál es el valor de $x$?",
+    "opciones": [
+      "$25^\\circ$",
+      "$30^\\circ$",
+      "$20^\\circ$",
+      "$15^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Para que el producto de seno y cosecante sea 1, los ángulos deben ser iguales: $2x - 10 = 40 \\rightarrow 2x = 50 \\rightarrow x = 25^\\circ$."
+  },
+  {
+    "pregunta": "De acuerdo con las propiedades de las co-razones trigonométricas, si $\\tan A = \\cot B$, ¿qué relación deben cumplir los ángulos $A$ y $B$?",
+    "opciones": [
+      "$A = B$",
+      "$A + B = 180^\\circ$",
+      "$A + B = 90^\\circ$",
+      "$A - B = 90^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Las razones trigonométricas de un ángulo son iguales a las co-razones de su complemento. Por tanto, la suma de los ángulos debe ser un ángulo recto ($90^\\circ$)."
+  },
+  {
+    "pregunta": "En el triángulo notable de $30^\\circ$ y $60^\\circ$, si la hipotenusa mide $2a$, ¿cuánto mide el cateto opuesto al ángulo de $30^\\circ$?",
+    "opciones": [
+      "$a \\sqrt{3}$",
+      "$a$",
+      "$a \\sqrt{2}$",
+      "$2a$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el triángulo de $30^\\circ$ y $60^\\circ$, el cateto opuesto a $30^\\circ$ es siempre la mitad de la longitud de la hipotenusa."
+  },
+  {
+    "pregunta": "Determine el valor de la expresión $E = \\frac{\\text{sen} 80^\\circ}{\\cos 10^\\circ} + \\frac{\\tan 40^\\circ}{\\cot 50^\\circ}$.",
+    "opciones": [
+      "1",
+      "0",
+      "2",
+      "4"
+    ],
+    "correcta": 2,
+    "resolucion": "Como $\\text{sen} 80^\\circ = \\cos 10^\\circ$ y $\\tan 40^\\circ = \\cot 50^\\circ$ por ser ángulos complementarios, la expresión simplificada es $1 + 1 = 2$."
+  },
+  {
+    "pregunta": "En el triángulo notable de $37^\\circ$ y $53^\\circ$, ¿cuál es el valor de la $\\cot 37^\\circ$?",
+    "opciones": [
+      "$3/4$",
+      "$4/3$",
+      "$3/5$",
+      "$4/5$"
+    ],
+    "correcta": 1,
+    "resolucion": "Los lados son proporcionales a $3$ ($opuesto$ a $37^\\circ$), $4$ ($adyacente$ a $37^\\circ$) y $5$ ($hipotenusa$). La cotangente es $CA/CO$, por lo que es $4/3$."
+  },
+  {
+    "pregunta": "¿Cómo se calcula el lado desconocido '$x$' de un triángulo rectángulo si se conoce un ángulo $\\theta$ y el lado adyacente '$m$'?",
+    "opciones": [
+      "$x = m \\cdot \\text{sen} \\theta$",
+      "$x = m \\cdot \\cos \\theta$",
+      "$x = m \\cdot \\tan \\theta$",
+      "$x = m / \\tan \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Usando la regla 'lo que quiero sobre lo que tengo': $x/m = \\text{cateto opuesto} / \\text{cateto adyacente} = \\tan \\theta$. Despejando, $x = m \\cdot \\tan \\theta$."
+  },
+  {
+    "pregunta": "Si un triángulo rectángulo tiene catetos que miden 1 unidad cada uno, ¿cuánto mide su hipotenusa?",
+    "opciones": [
+      "2",
+      "$\\sqrt{2}$",
+      "1",
+      "$\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando el Teorema de Pitágoras: $H^2 = 1^2 + 1^2 = 2$. Por lo tanto, $H = \\sqrt{2}$."
+  },
+  {
+    "pregunta": "Al simplificar la expresión $\\cos 20^\\circ \\cdot \\csc 70^\\circ$, el resultado es:",
+    "opciones": [
+      "1",
+      "$\\tan 20^\\circ$",
+      "0",
+      "$\\text{sen} 20^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Sabemos que $\\csc 70^\\circ = \\sec 20^\\circ$ (por co-razón). Entonces, $\\cos 20^\\circ \\cdot \\sec 20^\\circ = 1$ por ser razones recíprocas."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, si el ángulo $\\alpha$ se traslada de modo que $\\alpha + \\beta = 90^\\circ$, ¿cuál de las siguientes igualdades es correcta?",
+    "opciones": [
+      "$\\text{sen} \\alpha = \\text{sen} \\beta$",
+      "$\\tan \\alpha = \\cot \\beta$",
+      "$\\sec \\alpha = \\cos \\beta$",
+      "$\\text{sen} \\alpha = \\tan \\beta$"
+    ],
+    "correcta": 1,
+    "resolucion": "La tangente de un ángulo es igual a la cotangente de su complemento cuando ambos suman $90^\\circ$."
+  },
+  {
+    "pregunta": "Calcule la hipotenusa de un triángulo cuyos catetos son $8$ y $15$.",
+    "opciones": [
+      "16",
+      "17",
+      "19",
+      "23"
+    ],
+    "correcta": 1,
+    "resolucion": "Por Pitágoras: $H^2 = 8^2 + 15^2 = 64 + 225 = 289$. $\\sqrt{289} = 17$."
+  },
+  {
+    "pregunta": "Si $\\theta = 30^\\circ$, halle el valor de $\\sec^2 \\theta$.",
+    "opciones": [
+      "$4/3$",
+      "$3/4$",
+      "$2$",
+      "$\\sqrt{3}/2$"
+    ],
+    "correcta": 0,
+    "resolucion": "$\\cos 30^\\circ = \\sqrt{3}/2$, por lo que $\\sec 30^\\circ = 2/\\sqrt{3}$. Al elevar al cuadrado: $(2/\\sqrt{3})^2 = 4/3$."
+  },
+  {
+    "pregunta": "¿Qué razón trigonométrica representa la relación entre la hipotenusa y el cateto opuesto?",
+    "opciones": [
+      "Secante",
+      "Cosecante",
+      "Seno",
+      "Cotangente"
+    ],
+    "correcta": 1,
+    "resolucion": "La cosecante se define como el cociente de la longitud de la hipotenusa entre la longitud del cateto opuesto."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, si la mediana relativa a la hipotenusa mide 5 cm, ¿cuánto mide la hipotenusa?",
+    "opciones": [
+      "5 cm",
+      "2.5 cm",
+      "10 cm",
+      "7.5 cm"
+    ],
+    "correcta": 2,
+    "resolucion": "Por propiedad geométrica, en un triángulo rectángulo la mediana relativa a la hipotenusa mide la mitad de esta última. Por tanto, $H = 2 \\cdot 5 = 10$ cm."
+  },
+  {
+    "pregunta": "Determine el valor de $x$ si $\\text{sen}(x + 20^\\circ) = \\cos(x + 30^\\circ)$.",
+    "opciones": [
+      "$20^\\circ$",
+      "$25^\\circ$",
+      "$30^\\circ$",
+      "$40^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Por propiedad de co-razones: $(x + 20) + (x + 30) = 90 \\rightarrow 2x + 50 = 90 \\rightarrow 2x = 40 \\rightarrow x = 20^\\circ$."
+  },
+  {
+    "pregunta": "En el triángulo notable de $45^\\circ$, ¿cuál es el valor de la $\\sec 45^\\circ$?",
+    "opciones": [
+      "1",
+      "$\\sqrt{2}$",
+      "$\\sqrt{2}/2$",
+      "2"
+    ],
+    "correcta": 1,
+    "resolucion": "Los catetos miden $k$ y la hipotenusa $k\\sqrt{2}$. $\\sec 45^\\circ = H/CA = k\\sqrt{2}/k = \\sqrt{2}$."
+  },
+  {
+    "pregunta": "Si $\\text{sen} \\alpha = 1/3$ y $\\alpha$ es agudo, halle $\\cot \\alpha$.",
+    "opciones": [
+      "$2\\sqrt{2}$",
+      "$\\sqrt{2}/4$",
+      "3",
+      "$2$"
+    ],
+    "correcta": 0,
+    "resolucion": "CO = 1, H = 3. Por Pitágoras, $CA = \\sqrt{3^2 - 1^2} = \\sqrt{8} = 2\\sqrt{2}$. $\\cot \\alpha = CA/CO = 2\\sqrt{2}/1 = 2\\sqrt{2}$."
+  },
+  {
+    "pregunta": "¿Qué valor tiene la $\\tan 60^\\circ$?",
+    "opciones": [
+      "1",
+      "$\\sqrt{3}/3$",
+      "$\\sqrt{3}$",
+      "$1/2$"
+    ],
+    "correcta": 2,
+    "resolucion": "En el triángulo de $30^\\circ$ y $60^\\circ$, el cateto opuesto a $60^circ$ es $k\\sqrt{3}$ y el adyacente es $k$. La tangente es $CO/CA = k\\sqrt{3}/k = \\sqrt{3}$."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 2: Ángulo en posición normal",
+      "videos": [
+        {
+          "titulo": "2.1 Circunferencia trigonométrica",
+          "youtube_id": "Bo20VZg9C0E",
+          "pdf_link": "https://drive.google.com/file/d/1YLYoRBHBtSGx4yyZgz8TSvKx2dQmeHGT/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la propiedad fundamental del radio $R$ en una Circunferencia Trigonométrica (CT)?",
+    "opciones": [
+      "$R = 0$",
+      "$R = 1$",
+      "$R = \\pi$",
+      "$R = 2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, la circunferencia trigonométrica o unitaria es aquella cuyo centro coincide con el origen de coordenadas y su radio es igual a la unidad ($R = 1$)."
+  },
+  {
+    "pregunta": "¿Cuáles son las coordenadas del punto denominado 'Origen de Arcos' en la CT?",
+    "opciones": [
+      "$(0, 1)$",
+      "$(0, 0)$",
+      "$(1, 0)$",
+      "$(-1, 0)$"
+    ],
+    "correcta": 2,
+    "resolucion": "El 'Origen de Arcos' se ubica en la intersección de la circunferencia con el semieje positivo de las abscisas, teniendo como coordenadas $(1, 0)$."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe técnicamente el punto $B(0, 1)$ en la circunferencia trigonométrica?",
+    "opciones": [
+      "Origen de suplementos",
+      "Origen de arcos",
+      "Origen de coordenadas",
+      "Origen de complementos"
+    ],
+    "correcta": 3,
+    "resolucion": "El punto $(0, 1)$ se denomina 'Origen de complementos' porque el arco que termina en dicho punto mide $90^\\circ$ (o $\\pi/2$ radianes), valor asociado a la complementariedad angular."
+  },
+  {
+    "pregunta": "¿Cuál es la ecuación analítica o regla de formación de cualquier punto $(x, y)$ que pertenezca a la CT?",
+    "opciones": [
+      "$x + y = 1$",
+      "$x^{2} + y^{2} = 1$",
+      "$x^{2} - y^{2} = 1$",
+      "$y = x^{2} + 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Basándose en el teorema de Pitágoras y la definición de radio unitario, todo punto de la circunferencia satisface que la suma de los cuadrados de sus coordenadas es igual a 1 ($x^{2} + y^{2} = 1$)."
+  },
+  {
+    "pregunta": "Si un arco $\\theta$ termina en el segundo cuadrante, ¿qué signos tienen su línea seno y su línea coseno respectivamente?",
+    "opciones": [
+      "$(+, +)$",
+      "$(+, -)$",
+      "$(-, -)$",
+      "$(-, +)$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el segundo cuadrante, las ordenadas ($y$, asociadas al seno) son positivas, mientras que las abscisas ($x$, asociadas al coseno) son negativas."
+  },
+  {
+    "pregunta": "¿Cuál es la relación numérica entre la medida de un arco en posición normal y su ángulo central correspondiente en la CT?",
+    "opciones": [
+      "El arco es el doble del ángulo central.",
+      "El arco es la mitad del ángulo central.",
+      "Tienen el mismo valor numérico, pero el ángulo se expresa en radianes.",
+      "El arco siempre es $\\pi$ veces el ángulo central."
+    ],
+    "correcta": 2,
+    "resolucion": "Debido a que $L = \\theta \\cdot R$ y en la CT $R = 1$, la longitud del arco $L$ es numéricamente igual al ángulo $\\theta$ en radianes."
+  },
+  {
+    "pregunta": "¿En qué cuadrante se ubica el arco cuya medida es de 2 unidades reales? (Considere $\\pi \\approx 3.14$)",
+    "opciones": [
+      "I Cuadrante",
+      "II Cuadrante",
+      "III Cuadrante",
+      "IV Cuadrante"
+    ],
+    "correcta": 1,
+    "resolucion": "Los límites del segundo cuadrante son $\\pi/2 \\approx 1.57$ y $\\pi \\approx 3.14$. Como $1.57 < 2 < 3.14$, el arco se encuentra en el segundo cuadrante."
+  },
+  {
+    "pregunta": "¿Qué razón trigonométrica representa gráficamente la ordenada del extremo de un arco en la CT?",
+    "opciones": [
+      "Coseno",
+      "Tangente",
+      "Seno",
+      "Secante"
+    ],
+    "correcta": 2,
+    "resolucion": "Se ha demostrado que para cualquier arco $\\alpha$ en la CT, la ordenada ($y$) de su punto extremo es igual al $\\sin(\\alpha)$."
+  },
+  {
+    "pregunta": "¿Qué razón trigonométrica representa gráficamente la abscisa del extremo de un arco en la CT?",
+    "opciones": [
+      "Seno",
+      "Coseno",
+      "Cotangente",
+      "Cosecante"
+    ],
+    "correcta": 1,
+    "resolucion": "Se ha demostrado que para cualquier arco $\\alpha$ en la CT, la abscisa ($x$) de su punto extremo es igual al $\\cos(\\alpha)$."
+  },
+  {
+    "pregunta": "¿Cuál es la forma general de los arcos cuadrantales que terminan en el semieje negativo de las abscisas (Origen de suplementos)?",
+    "opciones": [
+      "$2n\\pi$",
+      "$(2n + 1)\\pi$",
+      "$(2n + 1)\\frac{\\pi}{2}$",
+      "$n\\pi$"
+    ],
+    "correcta": 1,
+    "resolucion": "Los arcos que caen en el lado izquierdo de la circunferencia son múltiplos impares de $\\pi$, representados por $(2n+1)\\pi$ con $n$ entero."
+  },
+  {
+    "pregunta": "Para que la línea tangente de un arco exista en la CT, ¿qué condición debe cumplir dicho arco?",
+    "opciones": [
+      "No debe terminar en el eje X.",
+      "No debe terminar en el eje Y.",
+      "Debe ser siempre positivo.",
+      "Debe ser menor a $2\\pi$."
+    ],
+    "correcta": 1,
+    "resolucion": "La línea tangente no existe para arcos cuyos radios son paralelos al eje de tangentes (recta vertical en $x=1$). Esto ocurre en los puntos $(2n+1)\\pi/2$ (eje Y)."
+  },
+  {
+    "pregunta": "¿Dónde se ubica el eje de cotangentes para representar gráficamente la línea cotangente en la CT?",
+    "opciones": [
+      "En la recta vertical $x = 1$.",
+      "En el eje de las abscisas.",
+      "En la recta horizontal $y = 1$.",
+      "En el origen de coordenadas."
+    ],
+    "correcta": 2,
+    "resolucion": "El eje de cotangentes es una recta numérica horizontal tangente a la circunferencia en el punto $(0, 1)$, conocido como el origen de complementos."
+  },
+  {
+    "pregunta": "¿Cuál es el signo del coseno para arcos ubicados en el tercer cuadrante?",
+    "opciones": [
+      "Positivo",
+      "Negativo",
+      "Cero",
+      "No está definido"
+    ],
+    "correcta": 1,
+    "resolucion": "Dado que el coseno se representa por la abscisa del punto extremo y en el tercer cuadrante las $x$ son negativas, el coseno es negativo."
+  },
+  {
+    "pregunta": "Identifique las coordenadas del extremo del arco $\\pi$ en la circunferencia trigonométrica.",
+    "opciones": [
+      "$(0, -1)$",
+      "$(1, 0)$",
+      "$(-1, 0)$",
+      "$(0, 1)$"
+    ],
+    "correcta": 2,
+    "resolucion": "El arco $\\pi$ (180 grados) termina en el lado izquierdo del eje X, donde el radio unitario corta en el punto $(-1, 0)$."
+  },
+  {
+    "pregunta": "¿En qué cuadrante se ubica un arco de 4 radianes?",
+    "opciones": [
+      "I Cuadrante",
+      "II Cuadrante",
+      "III Cuadrante",
+      "IV Cuadrante"
+    ],
+    "correcta": 2,
+    "resolucion": "Considerando $\\pi \\approx 3.14$ y $3\\pi/2 \\approx 4.71$, el valor 4 se encuentra entre estos dos límites, lo cual corresponde al tercer cuadrante."
+  },
+  {
+    "pregunta": "Si un arco $\\alpha$ cumple que $\\sin(\\alpha) < 0$ y $\\cos(\\alpha) > 0$, ¿en qué cuadrante se encuentra?",
+    "opciones": [
+      "I Cuadrante",
+      "II Cuadrante",
+      "III Cuadrante",
+      "IV Cuadrante"
+    ],
+    "correcta": 3,
+    "resolucion": "El seno negativo implica que el punto está debajo del eje X (III o IV cuadrante). El coseno positivo implica que el punto está a la derecha del eje Y (I o IV cuadrante). La intersección es el IV cuadrante."
+  },
+  {
+    "pregunta": "¿Cuál es el valor máximo que puede tomar la línea seno en la CT?",
+    "opciones": [
+      "0",
+      "1",
+      "$\\pi$",
+      "Infinito"
+    ],
+    "correcta": 1,
+    "resolucion": "Como el seno es la ordenada de puntos en una circunferencia de radio 1, el valor más alto posible es la coordenada superior $y = 1$."
+  },
+  {
+    "pregunta": "¿Cómo se representa geométricamente la línea tangente de un arco $\\alpha$?",
+    "opciones": [
+      "Es el segmento horizontal desde el eje Y al punto extremo.",
+      "Es el segmento vertical desde el eje X al punto extremo.",
+      "Es el segmento sobre la recta $x = 1$ desde el eje X hasta la intersección con la prolongación del radio.",
+      "Es el área del sector circular generado por $\\alpha$."
+    ],
+    "correcta": 2,
+    "resolucion": "La línea tangente se obtiene prolongando el radio que pasa por el extremo del arco hasta interceptar el eje vertical de tangentes ubicado en $x = 1$."
+  },
+  {
+    "pregunta": "Para un arco $\\theta$ en posición normal, ¿cuáles son las coordenadas del punto terminal $P$ en la CT?",
+    "opciones": [
+      "$(\\sin\\theta, \\cos\\theta)$",
+      "$(\\cos\\theta, \\sin\\theta)$",
+      "$(1, \\tan\\theta)$",
+      "$(\\theta, R)$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el análisis de la CT, se define la abscisa $x$ como el $\\cos\\theta$ y la ordenada $y$ como el $\\sin\\theta$, por lo que las coordenadas de cualquier punto terminal son $(\\cos\\theta, \\sin\\theta)$."
+  },
+  {
+    "pregunta": "¿Por qué se afirma que la cotangente no existe para los arcos de la forma $n\\pi$?",
+    "opciones": [
+      "Porque son paralelos al eje Y.",
+      "Porque la prolongación del radio es paralela al eje de cotangentes ($y=1$).",
+      "Porque se encuentran en el origen de coordenadas.",
+      "Porque el ángulo central es nulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Para arcos de $0, \\pi, 2\\pi$, etc., el radio es una línea horizontal. Al ser horizontal, es paralelo al eje de cotangentes ($y=1$) y nunca se interceptarán, imposibilitando la definición geométrica de la línea."
+  }
+]
+        },
+        {
+          "titulo": "2.2 RAZONES TRIGONOMÉTRICAS DE UN ÁNGULO EN POSICIÓN",
+          "youtube_id": "Dw-n6oC5V2w",
+          "pdf_link": "https://drive.google.com/file/d/1YLYoRBHBtSGx4yyZgz8TSvKx2dQmeHGT/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la condición fundamental que debe cumplir el vértice de un ángulo para ser considerado en 'posición normal'?",
+    "opciones": [
+      "Debe estar en cualquier punto del eje X.",
+      "Debe coincidir siempre con el origen de coordenadas $(0,0)$.",
+      "Debe ubicarse en el primer cuadrante.",
+      "Debe estar en el semieje Y positivo."
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, un ángulo en posición normal (o estándar) requiere que su vértice se ubique exactamente en el origen del sistema de coordenadas cartesianas."
+  },
+  {
+    "pregunta": "¿En qué parte del plano cartesiano debe ubicarse siempre el lado inicial de un ángulo en posición normal?",
+    "opciones": [
+      "En el semieje X positivo.",
+      "En el semieje X negativo.",
+      "En el semieje Y positivo.",
+      "Puede estar en cualquier semieje."
+    ],
+    "correcta": 0,
+    "resolucion": "Una característica particular del ángulo en posición normal es que su lado inicial está fijo en el semieje positivo de las abscisas (eje X)."
+  },
+  {
+    "pregunta": "Si un punto $P$ con coordenadas $(a, b)$ pertenece al lado terminal del ángulo $\\theta$, ¿cuál es la fórmula para calcular el radio vector '$r$'?",
+    "opciones": [
+      "$r = a + b$",
+      "$r = a^2 + b^2$",
+      "$r = \\sqrt{a^2 + b^2}$",
+      "$r = \\sqrt{a + b}$"
+    ],
+    "correcta": 2,
+    "resolucion": "El radio vector representa la distancia desde el origen hasta el punto $P(a, b)$, calculándose mediante el teorema de Pitágoras aplicado a las coordenadas: $r = \\sqrt{a^2 + b^2}$."
+  },
+  {
+    "pregunta": "¿Qué característica de signo presenta siempre el radio vector '$r$' en la trigonometría analítica?",
+    "opciones": [
+      "Depende del cuadrante donde esté el punto.",
+      "Siempre es positivo.",
+      "Puede ser negativo si el ángulo es horario.",
+      "Siempre es mayor que 1."
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser una distancia (o la raíz cuadrada principal de una suma de cuadrados), el radio vector es siempre una cantidad positiva."
+  },
+  {
+    "pregunta": "En el cálculo de razones trigonométricas de ángulos en posición normal, ¿con qué elemento del triángulo rectángulo se relaciona estratégicamente la 'abscisa'?",
+    "opciones": [
+      "Con el cateto opuesto.",
+      "Con la hipotenusa.",
+      "Con el cateto adyacente.",
+      "Con el radio vector."
+    ],
+    "correcta": 2,
+    "resolucion": "Para facilitar el aprendizaje, se asocia la abscisa '$x$' (distancia horizontal) con el cateto adyacente del triángulo rectángulo convencional."
+  },
+  {
+    "pregunta": "¿Cuál es la definición del seno de un ángulo $\\theta$ en posición normal?",
+    "opciones": [
+      "$\\text{sen} \\theta = \\frac{\\text{ordenada}}{\\text{radio vector}}$",
+      "$\\text{sen} \\theta = \\frac{\\text{abscisa}}{\\text{radio vector}}$",
+      "$\\text{sen} \\theta = \\frac{\\text{radio vector}}{\\text{ordenada}}$",
+      "$\\text{sen} \\theta = \\frac{\\text{ordenada}}{\\text{abscisa}}$"
+    ],
+    "correcta": 0,
+    "resolucion": "El seno se define como la razón entre la ordenada '$y$' del punto en el lado terminal y la longitud del radio vector '$r$'."
+  },
+  {
+    "pregunta": "¿Cómo se define el coseno de un ángulo $\\theta$ en posición normal utilizando las coordenadas de un punto en su lado final?",
+    "opciones": [
+      "$\\cos \\theta = \\frac{b}{r}$",
+      "$\\cos \\theta = \\frac{a}{r}$",
+      "$\\cos \\theta = \\frac{b}{a}$",
+      "$\\cos \\theta = \\frac{r}{a}$"
+    ],
+    "correcta": 1,
+    "resolucion": "El coseno es el equivalente al cateto adyacente sobre la hipotenusa, lo que en posición normal corresponde a la abscisa '$a$' sobre el radio vector '$r$'."
+  },
+  {
+    "pregunta": "¿A qué razón trigonométrica equivale la división de la 'ordenada' entre la 'abscisa'?",
+    "opciones": [
+      "Coseno",
+      "Tangente",
+      "Cotangente",
+      "Seno"
+    ],
+    "correcta": 1,
+    "resolucion": "La tangente se relaciona con el cateto opuesto sobre el adyacente, por lo tanto, es la razón de la ordenada '$y$' entre la abscisa '$x$'."
+  },
+  {
+    "pregunta": "Dada la definición de secante para un ángulo en posición normal, ¿cuál es la expresión correcta?",
+    "opciones": [
+      "$\\sec \\theta = \\frac{r}{a}$",
+      "$\\sec \\theta = \\frac{r}{b}$",
+      "$\\sec \\theta = \\frac{a}{r}$",
+      "$\\sec \\theta = \\frac{a}{b}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La secante es la recíproca del coseno; si el coseno es $a/r$, la secante es el radio vector entre la abscisa ($r/a$)."
+  },
+  {
+    "pregunta": "Si un punto $P(-3, -4)$ pertenece al lado terminal del ángulo $\\theta$, calcule el valor del radio vector.",
+    "opciones": [
+      "5",
+      "7",
+      "25",
+      "$\\sqrt{7}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicando la fórmula $r = \\sqrt{(-3)^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+  },
+  {
+    "pregunta": "Para el punto $P(-3, -4)$ mencionado, determine el valor de $\\text{sen} \\theta$.",
+    "opciones": [
+      "$-3/5$",
+      "$-4/5$",
+      "$4/5$",
+      "$-5/4$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando $\\text{sen} \\theta = \\frac{y}{r}$, sustituimos la ordenada $-4$ y el radio vector $5$, obteniendo $-4/5$."
+  },
+  {
+    "pregunta": "Halle el valor de $\\cos \\theta$ si el lado terminal pasa por el punto $(-3, -4)$.",
+    "opciones": [
+      "$-4/5$",
+      "$3/5$",
+      "$-3/5$",
+      "$4/3$"
+    ],
+    "correcta": 2,
+    "resolucion": "Usando $\\cos \\theta = \\frac{x}{r}$, sustituimos la abscisa $-3$ y el radio vector $5$, obteniendo $-3/5$."
+  },
+  {
+    "pregunta": "Determine la $\\tan \\theta$ para un ángulo cuyo lado terminal contiene al punto $(-3, -4)$.",
+    "opciones": [
+      "$-4/3$",
+      "$4/3$",
+      "$-3/4$",
+      "$3/4$"
+    ],
+    "correcta": 1,
+    "resolucion": "La tangente es ordenada/abscisa: $(-4) / (-3)$. Al dividir signos negativos, el resultado es positivo: $4/3$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de la cosecante para el ángulo $\\theta$ si el punto de referencia es $(-3, -4)$?",
+    "opciones": [
+      "$-5/4$",
+      "$-5/3$",
+      "$5/4$",
+      "$3/4$"
+    ],
+    "correcta": 0,
+    "resolucion": "La cosecante es radio vector/ordenada: $5 / (-4) = -5/4$."
+  },
+  {
+    "pregunta": "Calcule la $\\sec \\theta$ si el punto en el lado terminal es $(-3, -4)$.",
+    "opciones": [
+      "$-5/4$",
+      "$-5/3$",
+      "$5/3$",
+      "$3/5$"
+    ],
+    "correcta": 1,
+    "resolucion": "La secante es radio vector/abscisa: $5 / (-3) = -5/3$."
+  },
+  {
+    "pregunta": "¿Qué cuadrante ocupa el ángulo $\\theta$ si su lado terminal pasa por el punto $P(-3, -4)$?",
+    "opciones": [
+      "Segundo cuadrante.",
+      "Tercer cuadrante.",
+      "Cuarto cuadrante.",
+      "Primer cuadrante."
+    ],
+    "correcta": 1,
+    "resolucion": "Un punto con abscisa negativa y ordenada negativa se ubica en la región inferior izquierda del plano, correspondiente al tercer cuadrante."
+  },
+  {
+    "pregunta": "Estratégicamente, ¿con qué parte del triángulo rectángulo se asocia la 'ordenada' de un punto?",
+    "opciones": [
+      "Con la hipotenusa.",
+      "Con el cateto adyacente.",
+      "Con el cateto opuesto.",
+      "Con el ángulo recto."
+    ],
+    "correcta": 2,
+    "resolucion": "La ordenada representa la altura vertical, la cual cumple el rol del cateto opuesto al ángulo central en la analogía del triángulo rectángulo."
+  },
+  {
+    "pregunta": "Si un ángulo en posición normal tiene su lado terminal sobre el semieje Y negativo, ¿cuál de las siguientes opciones es posible para un punto en dicho lado?",
+    "opciones": [
+      "$(2, 0)$",
+      "$(0, 3)$",
+      "$(0, -5)$",
+      "$(-4, 0)$"
+    ],
+    "correcta": 2,
+    "resolucion": "El semieje Y negativo contiene puntos donde la abscisa es cero y la ordenada es un valor negativo, como $(0, -5)$."
+  },
+  {
+    "pregunta": "¿Cuál es la expresión para la cotangente de un ángulo $\\theta$ en posición normal?",
+    "opciones": [
+      "$\\cot \\theta = \\frac{a}{b}$",
+      "$\\cot \\theta = \\frac{b}{a}$",
+      "$\\cot \\theta = \\frac{r}{a}$",
+      "$\\cot \\theta = \\frac{r}{b}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La cotangente es la recíproca de la tangente; se calcula dividiendo la abscisa '$a$' entre la ordenada '$b$'."
+  },
+  {
+    "pregunta": "En un par ordenado $(x, y)$, ¿qué componente representa la 'ordenada'?",
+    "opciones": [
+      "La primera componente.",
+      "La suma de ambas componentes.",
+      "La segunda componente.",
+      "La distancia al origen."
+    ],
+    "correcta": 2,
+    "resolucion": "En la notación de pares ordenados, la primera componente es la abscisa (eje X) y la segunda componente es la ordenada (eje Y)."
+  }
+]
+        },
+        {
+          "titulo": "2.3 Trig. de angulos en posición normal",
+          "youtube_id": "yH0bCp_zpaw",
+          "pdf_link": "https://drive.google.com/file/d/1YLYoRBHBtSGx4yyZgz8TSvKx2dQmeHGT/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la condición fundamental del lado inicial para que un ángulo esté en posición normal o estándar?",
+    "opciones": [
+      "Debe coincidir con el semieje Y positivo.",
+      "Debe coincidir con el semieje X positivo.",
+      "Debe estar ubicado en el origen de coordenadas.",
+      "Debe coincidir con el semieje X negativo."
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, un ángulo en posición normal (también llamado canónico o estándar) debe tener su vértice en el origen de coordenadas y su lado inicial sobre el semieje positivo de las abscisas (eje X)."
+  },
+  {
+    "pregunta": "Si un punto $P(x, y)$ pertenece al lado terminal de un ángulo $\\theta$ en posición normal, ¿cuál es la fórmula para calcular la longitud del radio vector '$r$'?",
+    "opciones": [
+      "$r = x + y$",
+      "$r = x^2 + y^2$",
+      "$r = \\sqrt{x^2 + y^2}$",
+      "$r = \\sqrt{x + y}$"
+    ],
+    "correcta": 2,
+    "resolucion": "El radio vector representa la distancia desde el origen hasta el punto $P$, y se calcula aplicando el teorema de Pitágoras a las coordenadas del punto: $r = \\sqrt{x^2 + y^2}$."
+  },
+  {
+    "pregunta": "¿Qué característica de signo presenta siempre el radio vector '$r$' en el plano cartesiano?",
+    "opciones": [
+      "Siempre es positivo.",
+      "Es negativo en el tercer y cuarto cuadrante.",
+      "Su signo depende de la abscisa.",
+      "Es negativo si el ángulo gira en sentido horario."
+    ],
+    "correcta": 0,
+    "resolucion": "Al ser una distancia euclidiana (la raíz cuadrada principal de una suma de cuadrados), el radio vector es por definición siempre una cantidad positiva."
+  },
+  {
+    "pregunta": "¿Cómo se define técnicamente la razón trigonométrica seno para un ángulo $\\theta$ en posición normal?",
+    "opciones": [
+      "Abscisa sobre radio vector ($x/r$).",
+      "Ordenada sobre radio vector ($y/r$).",
+      "Ordenada sobre abscisa ($y/x$).",
+      "Radio vector sobre ordenada ($r/y$)."
+    ],
+    "correcta": 1,
+    "resolucion": "En el sistema de coordenadas, el seno de un ángulo en posición normal se define como la razón entre la ordenada ($y$) del punto en su lado final y la longitud del radio vector ($r$)."
+  },
+  {
+    "pregunta": "¿Cuál es la definición de la razón trigonométrica tangente para un ángulo en posición canónica?",
+    "opciones": [
+      "$\\tan\\theta = x/y$",
+      "$\\tan\\theta = y/r$",
+      "$\\tan\\theta = y/x$",
+      "$\\tan\\theta = r/x$"
+    ],
+    "correcta": 2,
+    "resolucion": "La tangente se define como la relación entre la ordenada ($y$) y la abscisa ($x$) del punto ubicado en el lado terminal del ángulo, siempre que $x \\neq 0$."
+  },
+  {
+    "pregunta": "Si el lado terminal de un ángulo $\\theta$ en posición normal pasa por el punto $P(-3, 4)$, determine el valor de $\\cos\\theta$.",
+    "opciones": [
+      "$-3/5$",
+      "$4/5$",
+      "$3/5$",
+      "$-4/5$"
+    ],
+    "correcta": 0,
+    "resolucion": "Primero hallamos el radio vector $r = \\sqrt{(-3)^2 + 4^2} = \\sqrt{25} = 5$. Luego, aplicamos la definición del coseno: $\\cos\\theta = x/r = -3/5$."
+  },
+  {
+    "pregunta": "¿En qué cuadrantes del plano cartesiano la razón trigonométrica seno es positiva?",
+    "opciones": [
+      "I y III cuadrante.",
+      "I y II cuadrante.",
+      "II y III cuadrante.",
+      "I y IV cuadrante."
+    ],
+    "correcta": 1,
+    "resolucion": "El seno depende de la ordenada ($y$), la cual es positiva en los cuadrantes superiores del plano (I y II). Por tanto, el seno es positivo en dichos cuadrantes."
+  },
+  {
+    "pregunta": "Determine el signo de la tangente en el cuarto cuadrante.",
+    "opciones": [
+      "Positivo.",
+      "Nulo.",
+      "Negativo.",
+      "No existe."
+    ],
+    "correcta": 2,
+    "resolucion": "En el cuarto cuadrante, la ordenada ($y$) es negativa y la abscisa ($x$) es positiva. Al ser $\\tan\\theta = y/x$, el resultado de la división es negativo."
+  },
+  {
+    "pregunta": "Si un ángulo $\\theta$ cumple simultáneamente que $\\sin\\theta < 0$ y $\\cos\\theta > 0$, ¿en qué cuadrante se ubica?",
+    "opciones": [
+      "II Cuadrante.",
+      "III Cuadrante.",
+      "IV Cuadrante.",
+      "I Cuadrante."
+    ],
+    "correcta": 2,
+    "resolucion": "$\\sin\\theta < 0$ ocurre en los cuadrantes III y IV. $\\cos\\theta > 0$ ocurre en los cuadrantes I y IV. El único cuadrante que cumple ambas condiciones es el IV."
+  },
+  {
+    "pregunta": "¿Cuál es el valor resultante de calcular $\\csc(90^\\circ)$ según la regla de los ángulos cuadrantales?",
+    "opciones": [
+      "0",
+      "$-1$",
+      "1",
+      "No existe."
+    ],
+    "correcta": 2,
+    "resolucion": "Para $90^\\circ$, el punto en el eje Y es $(0, 1)$ con $r = 1$. La cosecante se define como $r/y = 1/1 = 1$."
+  },
+  {
+    "pregunta": "Determine el valor numérico de $\\tan(180^\\circ)$.",
+    "opciones": [
+      "1",
+      "$-1$",
+      "0",
+      "No existe."
+    ],
+    "correcta": 2,
+    "resolucion": "En el ángulo de $180^\\circ$, el punto terminal se encuentra en el semieje X negativo, por ejemplo $(-1, 0)$. Como $\\tan\\theta = y/x$, tenemos $0/(-1) = 0$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor del $\\cos(270^\\circ)$?",
+    "opciones": [
+      "$-1$",
+      "0",
+      "1",
+      "No existe."
+    ],
+    "correcta": 1,
+    "resolucion": "Para $270^\\circ$, el punto es $(0, -1)$ con $r = 1$. La definición del coseno es $\\cos\\theta = x/r$, por lo que $0/1 = 0$."
+  },
+  {
+    "pregunta": "¿Qué razón trigonométrica no está definida para los ángulos cuadrantales de $90^\\circ$ y $270^\\circ$?",
+    "opciones": [
+      "Seno.",
+      "Secante.",
+      "Cosecante.",
+      "Tangente."
+    ],
+    "correcta": 3,
+    "resolucion": "La tangente se define como $y/x$. En $90^\\circ$ y $270^\\circ$ la abscisa ($x$) es cero, lo que genera una división por cero que no existe en los reales."
+  },
+  {
+    "pregunta": "¿Qué condición geométrica define a dos ángulos como coterminales?",
+    "opciones": [
+      "Sus medidas suman $360^\\circ$.",
+      "Tienen el mismo vértice y comparten los mismos lados inicial y final.",
+      "Están ubicados en el mismo cuadrante.",
+      "Tienen el mismo valor absoluto pero sentidos opuestos."
+    ],
+    "correcta": 1,
+    "resolucion": "Dos ángulos son coterminales si poseen los mismos elementos geométricos (vértice, lado inicial y lado final) independientemente de su magnitud o sentido de giro."
+  },
+  {
+    "pregunta": "Si $\\alpha$ y $\\beta$ son ángulos coterminales, ¿qué resultado debe arrojar necesariamente su diferencia $(\\alpha - \\beta)$?",
+    "opciones": [
+      "Un múltiplo de $90^\\circ$.",
+      "Un número entero de vueltas ($360^\\circ \\cdot k$).",
+      "Siempre un valor de $0^\\circ$.",
+      "Un múltiplo de $180^\\circ$."
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad fundamental de los ángulos coterminales establece que su diferencia es siempre un número entero de revoluciones o vueltas completas."
+  },
+  {
+    "pregunta": "¿Cuál es la relación entre las razones trigonométricas (RT) de dos ángulos coterminales?",
+    "opciones": [
+      "$RT(\\alpha) = RT(\\beta)$",
+      "$RT(\\alpha) = -RT(\\beta)$",
+      "$RT(\\alpha) \\cdot RT(\\beta) = 1$",
+      "Son complementarias."
+    ],
+    "correcta": 0,
+    "resolucion": "Como los ángulos coterminales comparten el mismo lado terminal, utilizan el mismo punto $(x, y)$ y el mismo radio vector para sus definiciones, por lo que sus razones trigonométricas son idénticas."
+  },
+  {
+    "pregunta": "Si un ángulo $\\theta$ mide $100^\\circ$, halle un ángulo coterminal con él.",
+    "opciones": [
+      "$200^\\circ$",
+      "$260^\\circ$",
+      "$460^\\circ$",
+      "$80^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para hallar un ángulo coterminal se suma o resta un número entero de vueltas. En este caso: $100^\\circ + 360^\\circ = 460^\\circ$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de la $\\sec(360^\\circ)$?",
+    "opciones": [
+      "0",
+      "1",
+      "$-1$",
+      "No existe."
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo de $360^\\circ$ termina en el punto $(1, 0)$ con $r = 1$. La secante es $r/x = 1/1 = 1$."
+  },
+  {
+    "pregunta": "En el tercer cuadrante, ¿qué razones trigonométricas tienen signo positivo?",
+    "opciones": [
+      "Seno y Cosecante.",
+      "Coseno y Secante.",
+      "Tangente y Cotangente.",
+      "Ninguna razón es positiva."
+    ],
+    "correcta": 2,
+    "resolucion": "En el tercer cuadrante, tanto $x$ como $y$ son negativos. Dado que la tangente ($y/x$) y la cotangente ($x/y$) resultan de la división de dos negativos, sus valores son positivos."
+  },
+  {
+    "pregunta": "¿A qué razón trigonométrica equivale la expresión 'radio vector sobre ordenada' ($r/y$)?",
+    "opciones": [
+      "Secante.",
+      "Seno.",
+      "Cosecante.",
+      "Cotangente."
+    ],
+    "correcta": 2,
+    "resolucion": "La definición de la cosecante en el plano coordenado es la relación entre el radio vector '$r$' y la ordenada '$y$' del punto terminal."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 3: Identidades trigonométricas",
+      "videos": [
+        {
+          "titulo": "3.1 Identidades trigonométricas de ángulos compuestos",
+          "youtube_id": "GSaxuHtF8gg",
+          "pdf_link": "https://drive.google.com/file/d/1P8Ni9TR6KQ0qr9b7EU14OR_H8j2q_dxh/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿A qué es equivalente la expresión $\\sin(180^\\circ + x)$ aplicando las reglas de reducción?",
+    "opciones": [
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo $180^\\circ + x$ pertenece al tercer cuadrante, donde el seno es negativo. Al usar el ángulo de referencia del eje horizontal ($180^\\circ$), la razón trigonométrica no cambia. Por lo tanto, el resultado es $-\\sin x$."
+  },
+  {
+    "pregunta": "Simplifique la siguiente expresión trigonométrica: $\\cos(270^\\circ + x)$.",
+    "opciones": [
+      "$\\cos x$",
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo $270^\\circ + x$ se ubica en el cuarto cuadrante, donde el coseno es positivo. Debido a que se utiliza el eje vertical ($270^\\circ$), la razón debe cambiar a su co-razón (seno). El resultado es $\\sin x$."
+  },
+  {
+    "pregunta": "Calcule el valor exacto de $\\sin(150^\\circ)$.",
+    "opciones": [
+      "$\\frac{1}{2}$",
+      "$-\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$-\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Reducimos al primer cuadrante: $\\sin(150^\\circ) = \\sin(180^\\circ - 30^\\circ)$. Como $150^\\circ$ está en el segundo cuadrante, el seno es positivo. La razón se mantiene igual por usar $180^\\circ$. Así, $\\sin(30^\\circ) = \\frac{1}{2}$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor numérico de $\\cos(240^\\circ)$?",
+    "opciones": [
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$-\\frac{1}{2}$",
+      "$-\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo $240^\\circ$ está en el tercer cuadrante, donde el coseno es negativo. Aplicando la reducción: $\\cos(180^\\circ + 60^\\circ) = -\\cos(60^\\circ) = -\\frac{1}{2}$."
+  },
+  {
+    "pregunta": "Determine la equivalencia de la tangente para un ángulo negativo: $\\tan(-x)$.",
+    "opciones": [
+      "$\\tan x$",
+      "$-\\tan x$",
+      "$\\cot x$",
+      "$-\\cot x$"
+    ],
+    "correcta": 1,
+    "resolucion": "La tangente es una función impar, lo que significa que el signo negativo del argumento 'sale' de la función: $\\tan(-x) = -\\tan x$."
+  },
+  {
+    "pregunta": "De acuerdo con las propiedades de ángulos negativos, ¿a qué es igual $\\cos(-x)$?",
+    "opciones": [
+      "$\\cos x$",
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$"
+    ],
+    "correcta": 0,
+    "resolucion": "El coseno es una función par, por lo tanto, 'absorbe' el signo negativo del ángulo: $\\cos(-x) = \\cos x$."
+  },
+  {
+    "pregunta": "Calcule el valor de $\\tan(315^\\circ)$ mediante reducción al primer cuadrante.",
+    "opciones": [
+      "1",
+      "-1",
+      "$\\sqrt{3}$",
+      "$-\\sqrt{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo $315^\\circ$ se encuentra en el cuarto cuadrante (tangente negativa). Podemos escribirlo como $360^\\circ - 45^\\circ$. Entonces, $\\tan(315^\\circ) = -\\tan(45^\\circ) = -1$."
+  },
+  {
+    "pregunta": "Simplifique la expresión: $\\sec(180^\\circ + x)$.",
+    "opciones": [
+      "$\\sec x$",
+      "$-\\sec x$",
+      "$\\csc x$",
+      "$-\\csc x$"
+    ],
+    "correcta": 1,
+    "resolucion": "$180^\\circ + x$ está en el tercer cuadrante. En este cuadrante, la secante es negativa. Al usar el eje horizontal ($180^\\circ$), la razón se mantiene. El resultado es $-\\sec x$."
+  },
+  {
+    "pregunta": "Calcule el valor de $\\sin(750^\\circ)$ reduciendo el ángulo a su mínima expresión positiva.",
+    "opciones": [
+      "1",
+      "0",
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para ángulos mayores a una vuelta ($360^\\circ$), dividimos entre 360 y tomamos el residuo: $750 / 360$ da un cociente de 2 y un residuo de $30^\\circ$. Por lo tanto, $\\sin(750^\\circ) = \\sin(30^\\circ) = \\frac{1}{2}$."
+  },
+  {
+    "pregunta": "Determine el valor de $\\cos(1140^\\circ)$.",
+    "opciones": [
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$-\\frac{1}{2}$",
+      "$-\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Dividimos $1140 / 360$, lo cual da un cociente de 3 y un residuo de $60^\\circ$. Por lo tanto, $\\cos(1140^\\circ) = \\cos(60^\\circ) = \\frac{1}{2}$."
+  },
+  {
+    "pregunta": "¿En qué cuadrantes la razón trigonométrica seno es positiva?",
+    "opciones": [
+      "I y III",
+      "I y II",
+      "II y III",
+      "I y IV"
+    ],
+    "correcta": 1,
+    "resolucion": "Por la regla de signos en el plano cartesiano, el seno (ordenada) es positivo en el primer cuadrante (donde todos son positivos) y en el segundo cuadrante."
+  },
+  {
+    "pregunta": "Reduzca al primer cuadrante: $\\cot(270^\\circ - x)$.",
+    "opciones": [
+      "$\\cot x$",
+      "$-\\cot x$",
+      "$\\tan x$",
+      "$-\\tan x$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo $270^\\circ - x$ está en el tercer cuadrante, donde la cotangente es positiva. Al usar el eje vertical ($270^\\circ$), cambiamos la razón a su co-razón (tangente). El resultado es $\\tan x$."
+  },
+  {
+    "pregunta": "Reduzca la expresión utilizando radianes: $\\cos(\\pi + x)$.",
+    "opciones": [
+      "$\\cos x$",
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$"
+    ],
+    "correcta": 1,
+    "resolucion": "Sabemos que $\\pi = 180^\\circ$. El ángulo se ubica en el tercer cuadrante (coseno negativo). Al ser un múltiplo de $\\pi$ (eje horizontal), la razón no cambia. Resulta en $-\\cos x$."
+  },
+  {
+    "pregunta": "Halle la equivalencia de $\\tan(\\frac{3\\pi}{2} + x)$.",
+    "opciones": [
+      "$\\tan x$",
+      "$-\\tan x$",
+      "$\\cot x$",
+      "$-\\cot x$"
+    ],
+    "correcta": 3,
+    "resolucion": "El ángulo $\\frac{3\\pi}{2} + x$ corresponde a $270^\\circ + x$, situado en el cuarto cuadrante (tangente negativa). Al usar el eje vertical, cambiamos a la co-razón. El resultado es $-\\cot x$."
+  },
+  {
+    "pregunta": "Calcule el valor de $\\sin(210^\\circ)$.",
+    "opciones": [
+      "$\\frac{1}{2}$",
+      "$-\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$-\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "$210^\\circ$ está en el tercer cuadrante (seno negativo). Reducción: $\\sin(180^\\circ + 30^\\circ) = -\\sin(30^\\circ) = -\\frac{1}{2}$."
+  },
+  {
+    "pregunta": "Simplifique el cociente: $K = \\frac{\\sin(180^\\circ - x)}{\\sin x}$.",
+    "opciones": [
+      "1",
+      "-1",
+      "$\\tan x$",
+      "$\\cot x$"
+    ],
+    "correcta": 0,
+    "resolucion": "En el segundo cuadrante, el seno es positivo y la razón se mantiene igual al usar $180^\\circ$. Entonces, $\\sin(180^\\circ - x) = \\sin x$. El cociente es $\\frac{\\sin x}{\\sin x} = 1$."
+  },
+  {
+    "pregunta": "¿A qué es equivalente $\\cos(360^\\circ - x)$?",
+    "opciones": [
+      "$\\cos x$",
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$"
+    ],
+    "correcta": 0,
+    "resolucion": "$360^\\circ - x$ está en el cuarto cuadrante, donde el coseno es positivo. Al usar el eje horizontal ($360^\\circ$), la razón se mantiene. El resultado es $\\cos x$."
+  },
+  {
+    "pregunta": "Calcule el valor de $\\tan(-120^\\circ)$.",
+    "opciones": [
+      "$\\sqrt{3}$",
+      "$-\\sqrt{3}$",
+      "$\\frac{\\sqrt{3}}{3}$",
+      "$-\\frac{\\sqrt{3}}{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Primero, $\\tan(-120^\\circ) = -\\tan(120^\\circ)$. Luego, reducimos $120^\\circ$ (segundo cuadrante, tangente negativa): $\\tan(120^\\circ) = \\tan(180^\\circ - 60^\\circ) = -\\tan(60^\\circ) = -\\sqrt{3}$. Finalmente: $-(-\\sqrt{3}) = \\sqrt{3}$."
+  },
+  {
+    "pregunta": "Determine la reducción de la cosecante para un ángulo negativo: $\\csc(-x)$.",
+    "opciones": [
+      "$\\csc x$",
+      "$-\\csc x$",
+      "$\\sec x$",
+      "$-\\sec x$"
+    ],
+    "correcta": 1,
+    "resolucion": "La cosecante es una función impar (recíproca del seno), por lo que $\\csc(-x) = -\\csc x$."
+  },
+  {
+    "pregunta": "Simplifique: $\\sin(90^\\circ - x)$.",
+    "opciones": [
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo está en el primer cuadrante (todos son positivos). Debido al uso del eje vertical ($90^\\circ$), la razón cambia a su co-razón. El resultado es $\\cos x$."
+  }
+]
+        },
+        {
+          "titulo": "3.2 Ángulos múltiples",
+          "youtube_id": "3rMF49xQ9i8",
+          "pdf_link": "https://drive.google.com/file/d/1P8Ni9TR6KQ0qr9b7EU14OR_H8j2q_dxh/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la identidad pitagórica fundamental que relaciona el seno y el coseno para cualquier ángulo real $x$?",
+    "opciones": [
+      "$\\sin^{2} x - \\cos^{2} x = 1$",
+      "$\\sin x + \\cos x = 1$",
+      "$\\sin^{2} x + \\cos^{2} x = 1$",
+      "$\\sin^{2} x + \\cos^{2} x = 0$"
+    ],
+    "correcta": 2,
+    "resolucion": "La identidad pitagórica fundamental establece que para cualquier ángulo $x$, la suma de los cuadrados del seno y el coseno es siempre igual a la unidad."
+  },
+  {
+    "pregunta": "¿A qué es equivalente la expresión $\\tan x + \\cot x$ según las identidades auxiliares?",
+    "opciones": [
+      "$\\sin x \\cdot \\cos x$",
+      "$\\sec x \\cdot \\csc x$",
+      "$\\sec x + \\csc x$",
+      "$1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al convertir a senos y cosenos: $\\frac{\\sin x}{\\cos x} + \\frac{\\cos x}{\\sin x} = \\frac{\\sin^{2} x + \\cos^{2} x}{\\sin x \\cos x} = \\frac{1}{\\sin x \\cos x} = \\sec x \\csc x$."
+  },
+  {
+    "pregunta": "Según las identidades trigonométricas recíprocas, ¿cuál es el resultado de multiplicar $\\cos x \\cdot \\sec x$?",
+    "opciones": [
+      "$\\tan x$",
+      "$0$",
+      "$-1$",
+      "$1$"
+    ],
+    "correcta": 3,
+    "resolucion": "La secante es la razón recíproca del coseno ($\\\\sec x = 1/\\\\cos x$), por lo tanto, su producto siempre es igual a 1."
+  },
+  {
+    "pregunta": "¿Cuál es la expresión simplificada de la identidad auxiliar $\\sin^{4} x + \\cos^{4} x$?",
+    "opciones": [
+      "$1 - 2\\sin^{2} x \\cos^{2} x$",
+      "$1 - 3\\sin^{2} x \\cos^{2} x$",
+      "$1 + 2\\sin^{2} x \\cos^{2} x$",
+      "$\\sin^{2} x \\cos^{2} x$"
+    ],
+    "correcta": 0,
+    "resolucion": "Esta identidad se deriva del binomio al cuadrado $(\\\\sin^{2} x + \\\\cos^{2} x)^{2} = 1^{2}$, restando el término del doble producto."
+  },
+  {
+    "pregunta": "De acuerdo con las identidades pitagóricas, ¿a qué es equivalente $1 + \\tan^{2} x$?",
+    "opciones": [
+      "$\\csc^{2} x$",
+      "$\\cot^{2} x$",
+      "$\\sec^{2} x$",
+      "$\\sin^{2} x$"
+    ],
+    "correcta": 2,
+    "resolucion": "Dividiendo la identidad fundamental por $\\\\cos^{2} x$, se obtiene la relación pitagórica entre la tangente y la secante: $1 + \\\\tan^{2} x = \\\\sec^{2} x$."
+  },
+  {
+    "pregunta": "Simplifique la siguiente expresión: $\\sin^{6} x + \\cos^{6} x$.",
+    "opciones": [
+      "$1 - 2\\sin^{2} x \\cos^{2} x$",
+      "$1 - 3\\sin^{2} x \\cos^{2} x$",
+      "$1 - \\sin^{2} x \\cos^{2} x$",
+      "$3\\sin^{2} x \\cos^{2} x - 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Utilizando la identidad de suma de cubos sobre $(\\\\sin^{2} x)^{3} + (\\\\cos^{2} x)^{3}$, se obtiene la forma simplificada $1 - 3\\\\sin^{2} x \\\\cos^{2} x$."
+  },
+  {
+    "pregunta": "¿Cuál es la identidad por cociente que define a la tangente de $x$?",
+    "opciones": [
+      "$\\tan x = \\frac{\\cos x}{\\sin x}$",
+      "$\\tan x = \\frac{\\sec x}{\\csc x}$",
+      "$\\tan x = \\frac{\\sin x}{\\cos x}$",
+      "$\\tan x = \\sin x \\cdot \\cos x$"
+    ],
+    "correcta": 2,
+    "resolucion": "La tangente se define como la razón entre el seno y el coseno del mismo ángulo."
+  },
+  {
+    "pregunta": "Indique la relación correcta para la suma de cuadrados de secante y cosecante: $\\sec^{2} x + \\csc^{2} x$.",
+    "opciones": [
+      "$\\sec^{2} x \\cdot \\csc^{2} x$",
+      "$\\sec^{2} x - \\csc^{2} x$",
+      "$1$",
+      "$\\tan^{2} x + \\cot^{2} x$"
+    ],
+    "correcta": 0,
+    "resolucion": "Es una identidad auxiliar donde la suma de los cuadrados de estas funciones es numéricamente igual a su producto."
+  },
+  {
+    "pregunta": "¿Cuál es el valor numérico de la expresión $M = \\csc^{2} 40^\\circ - \\cot^{2} 40^\\circ$?",
+    "opciones": [
+      "$0$",
+      "$-1$",
+      "$1$",
+      "$\\sin^{2} 40^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "De la identidad pitagórica $1 + \\\\cot^{2} x = \\\\csc^{2} x$, despejamos $\\\\csc^{2} x - \\\\cot^{2} x = 1$."
+  },
+  {
+    "pregunta": "Reduzca la expresión $E = \\frac{\\\\sin x}{\\\\tan x}$.",
+    "opciones": [
+      "$\\cos x$",
+      "$\\sec x$",
+      "$\\sin^{2} x$",
+      "$\\csc x$"
+    ],
+    "correcta": 0,
+    "resolucion": "Reemplazando $\\\\tan x$ por $\\\\sin x / \\\\cos x$, se tiene $\\\\sin x / (\\\\sin x / \\\\cos x) = \\\\cos x$."
+  },
+  {
+    "pregunta": "Si $\\sin x + \\cos x = n$, determine el equivalente de $2\\sin x \\cos x$.",
+    "opciones": [
+      "$n - 1$",
+      "$n^{2} + 1$",
+      "$n^{2} - 1$",
+      "$1 - n^{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Elevando al cuadrado la condición: $(\\\\sin x + \\\\cos x)^{2} = n^{2} \\\\implies \\\\sin^{2} x + \\\\cos^{2} x + 2\\\\sin x \\\\cos x = n^{2} \\\\implies 1 + 2\\\\sin x \\\\cos x = n^{2} \\\\implies 2\\\\sin x \\\\cos x = n^{2} - 1$."
+  },
+  {
+    "pregunta": "Halle el desarrollo simplificado de la identidad auxiliar $(1 + \\sin x + \\cos x)^{2}$.",
+    "opciones": [
+      "$2(1 + \\sin x)(1 + \\cos x)$",
+      "$2(1 - \\sin x)(1 - \\cos x)$",
+      "$(1 + \\sin x)(1 + \\cos x)$",
+      "$1 + \\sin x \\cos x$"
+    ],
+    "correcta": 0,
+    "resolucion": "Esta identidad auxiliar permite factorizar el trinomio al cuadrado como el doble producto de los binomios $(1 + \\\\sin x)$ y $(1 + \\\\cos x)$."
+  },
+  {
+    "pregunta": "Simplifique la expresión $P = \\sin x \\cdot \\cot x$.",
+    "opciones": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$\\tan x$",
+      "$1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Sustituyendo $\\\\cot x = \\\\cos x / \\\\sin x$, la expresión resulta en $\\\\sin x \\\\cdot (\\\\cos x / \\\\sin x) = \\\\cos x$."
+  },
+  {
+    "pregunta": "Determine el valor de $K = (\\sec x - \\tan x)(\\sec x + \\tan x)$.",
+    "opciones": [
+      "$0$",
+      "$\\sec^{2} x$",
+      "$1$",
+      "$-1$"
+    ],
+    "correcta": 2,
+    "resolucion": "Por diferencia de cuadrados, la expresión es $\\\\sec^{2} x - \\\\tan^{2} x$, lo cual es igual a 1 por identidad pitagórica."
+  },
+  {
+    "pregunta": "¿A qué es igual la expresión $L = \\tan x \\cdot \\cos x + \\sin x$?",
+    "opciones": [
+      "$2\\sin x$",
+      "$\\cos x$",
+      "$1$",
+      "$2\\cos x$"
+    ],
+    "correcta": 0,
+    "resolucion": "$\\\\tan x \\\\cdot \\\\cos x = \\\\sin x$. Entonces, $\\\\sin x + \\\\sin x = 2\\\\sin x$."
+  },
+  {
+    "pregunta": "Si $\\tan x \\cdot \\cot x = 1$, halle el valor de $x$ en: $\\tan(x + 20^\\circ) \\cot(50^\\circ) = 1$.",
+    "opciones": [
+      "$20^\\circ$",
+      "$30^\\circ$",
+      "$50^\\circ$",
+      "$70^\\circ$"
+    ],
+    "correcta": 1,
+    "resolucion": "Para que el producto de tangente y cotangente sea 1, los ángulos deben ser iguales: $x + 20^\\circ = 50^\\circ \\\\implies x = 30^\\circ$."
+  },
+  {
+    "pregunta": "Reduzca la expresión $H = (\\sin x + \\cos x)^{2} - 1$.",
+    "opciones": [
+      "$0$",
+      "$\\sin x \\cos x$",
+      "$2\\sin x \\cos x$",
+      "$1$"
+    ],
+    "correcta": 2,
+    "resolucion": "Desarrollando el binomio: $\\\\sin^{2} x + \\\\cos^{2} x + 2\\\\sin x \\\\cos x - 1 = 1 + 2\\\\sin x \\\\cos x - 1 = 2\\\\sin x \\\\cos x$."
+  },
+  {
+    "pregunta": "Simplifique la expresión $Q = \\sec x - \\tan x \\cdot \\sin x$.",
+    "opciones": [
+      "$\\sin x$",
+      "$\\cos x$",
+      "$\\sec x$",
+      "$\\tan x$"
+    ],
+    "correcta": 1,
+    "resolucion": "$\\\\frac{1}{\\\\cos x} - \\\\frac{\\\\sin x}{\\\\cos x} \\\\cdot \\\\sin x = \\\\frac{1 - \\\\sin^{2} x}{\\\\cos x} = \\\\frac{\\\\cos^{2} x}{\\\\cos x} = \\\\cos x$."
+  },
+  {
+    "pregunta": "¿Qué expresión se obtiene al simplificar $1 - \\cos^{2} x$?",
+    "opciones": [
+      "$\\sin^{2} x$",
+      "$\\cos x$",
+      "$1$",
+      "$\\tan^{2} x$"
+    ],
+    "correcta": 0,
+    "resolucion": "De la identidad $\\\\sin^{2} x + \\\\cos^{2} x = 1$, al trasponer el término del coseno obtenemos el seno al cuadrado."
+  },
+  {
+    "pregunta": "Calcule el valor de la expresión $J = (\\sin x \\cdot \\csc x) + (\\tan x \\cdot \\cot x)$.",
+    "opciones": [
+      "$1$",
+      "$0$",
+      "$2$",
+      "$\\sec x \\csc x$"
+    ],
+    "correcta": 2,
+    "resolucion": "Cada paréntesis contiene un producto de razones recíprocas, los cuales valen 1 cada uno: $1 + 1 = 2$."
+  }
+]
+        },
+        {
+          "titulo": "3.3 Transformaciones Trigonométricas",
+          "youtube_id": "53Ft90cDXjY",
+          "pdf_link": "https://drive.google.com/file/d/1P8Ni9TR6KQ0qr9b7EU14OR_H8j2q_dxh/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la expresión correcta para transformar la suma de senos $\\sin A + \\sin B$ en un producto?",
+    "opciones": [
+      "$2 \\sin(\\frac{A+B}{2}) \\cos(\\frac{A-B}{2})$",
+      "$2 \\cos(\\frac{A+B}{2}) \\sin(\\frac{A-B}{2})$",
+      "$2 \\cos(\\frac{A+B}{2}) \\cos(\\frac{A-B}{2})$",
+      "$-2 \\sin(\\frac{A+B}{2}) \\sin(\\frac{A-B}{2})$"
+    ],
+    "correcta": 0,
+    "resolucion": "Por identidad de transformación de suma a producto, $\\sin A + \\sin B = 2 \\sin(\\text{semisuma}) \\cos(\\text{semidiferencia})$."
+  },
+  {
+    "pregunta": "¿A qué es equivalente la diferencia de cosenos $\\cos A - \\cos B$ según las identidades de transformación?",
+    "opciones": [
+      "$2 \\sin(\\frac{A+B}{2}) \\sin(\\frac{B-A}{2})$",
+      "$-2 \\sin(\\frac{A+B}{2}) \\sin(\\frac{A-B}{2})$",
+      "$2 \\cos(\\frac{A+B}{2}) \\cos(\\frac{A-B}{2})$",
+      "Ambas opciones A y B son correctas"
+    ],
+    "correcta": 3,
+    "resolucion": "La fórmula estándar es $-2 \\sin(\\frac{A+B}{2}) \\sin(\\frac{A-B}{2})$. Debido a que $\\sin(-x) = -\\sin x$, esto equivale a $2 \\sin(\\frac{A+B}{2}) \\sin(\\frac{B-A}{2})$."
+  },
+  {
+    "pregunta": "Simplifique la expresión: $E = \\frac{\\sin 5x + \\sin x}{\\cos 5x + \\cos x}$.",
+    "opciones": [
+      "$\\tan 2x$",
+      "$\\tan 3x$",
+      "$\\cot 3x$",
+      "$\\tan 4x$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando transformaciones: $\\frac{2 \\sin 3x \\cos 2x}{2 \\cos 3x \\cos 2x} = \\frac{\\sin 3x}{\\cos 3x} = \\tan 3x$."
+  },
+  {
+    "pregunta": "En un triángulo $ABC$, ¿a qué es equivalente la suma $\\sin 2A + \\sin 2B + \\sin 2C$?",
+    "opciones": [
+      "$4 \\sin A \\sin B \\sin C$",
+      "$4 \\cos A \\cos B \\cos C$",
+      "$2 \\sin A \\sin B \\sin C$",
+      "$1 + 4 \\sin A \\sin B \\sin C$"
+    ],
+    "correcta": 0,
+    "resolucion": "Es una identidad condicional derivada de las transformaciones: en todo triángulo, la suma de senos de los ángulos dobles es el cuádruple del producto de los senos de los ángulos simples."
+  },
+  {
+    "pregunta": "Calcule el valor simplificado de $M = \\sin 40^\\circ + \\sin 20^\\circ$.",
+    "opciones": [
+      "$\\cos 10^\\circ$",
+      "$\\sin 10^\\circ$",
+      "$\\sqrt{3} \\cos 10^\\circ$",
+      "$\\frac{1}{2} \\cos 10^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "Transformando a producto: $2 \\sin 30^\\circ \\cos 10^\\circ = 2 (\\frac{1}{2}) \\cos 10^\\circ = \\cos 10^\\circ$."
+  },
+  {
+    "pregunta": "¿Cuál es la degradación trigonométrica de $2 \\sin^2 x$ utilizada para simplificar expresiones?",
+    "opciones": [
+      "$1 + \\cos 2x$",
+      "$1 - \\cos 2x$",
+      "$1 - \\sin 2x$",
+      "$\\cos 2x - 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por la identidad del ángulo doble para el coseno: $\\cos 2x = 1 - 2 \\sin^2 x$, por lo tanto $2 \\sin^2 x = 1 - \\cos 2x$."
+  },
+  {
+    "pregunta": "Determine el valor de la suma: $S = \\sin x + \\sin(x + 120^\\circ) + \\sin(x + 240^\\circ)$.",
+    "opciones": [
+      "$3 \\sin x$",
+      "$\\sin 3x$",
+      "$0$",
+      "$1$"
+    ],
+    "correcta": 2,
+    "resolucion": "Transformando los dos últimos términos: $\\sin(x+120^\\circ) + \\sin(x+240^\\circ) = 2 \\sin(x+180^\\circ) \\cos(60^\\circ) = 2 (-\\sin x) (\\frac{1}{2}) = -\\sin x$. Entonces $\\sin x - \\sin x = 0$."
+  },
+  {
+    "pregunta": "Si $\\cos A + \\cos B = m$ y $\\sin A + \\sin B = n$, halle $\\tan(\\frac{A+B}{2})$.",
+    "opciones": [
+      "$\\frac{m}{n}$",
+      "$\\frac{n}{m}$",
+      "$mn$",
+      "$\\frac{1}{mn}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Dividiendo las transformaciones: $\\frac{2 \\sin(\\frac{A+B}{2}) \\cos(\\frac{A-B}{2})}{2 \\cos(\\frac{A+B}{2}) \\cos(\\frac{A-B}{2})} = \\frac{n}{m} \\Rightarrow \\tan(\\frac{A+B}{2}) = \\frac{n}{m}$."
+  },
+  {
+    "pregunta": "¿Qué valor numérico tiene $\\cos 120^\\circ$, frecuentemente utilizado en simplificaciones trigonométricas?",
+    "opciones": [
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{3}}{2}$",
+      "$-\\frac{1}{2}$",
+      "$-\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "$\\cos 120^\\circ = \\cos(180^\\circ - 60^\\circ) = -\\cos 60^\\circ = -\\frac{1}{2}$."
+  },
+  {
+    "pregunta": "Al transformar $\\cos 80^\\circ + \\cos 40^\\circ$, se obtiene:",
+    "opciones": [
+      "$\\cos 20^\\circ$",
+      "$\\sin 20^\\circ$",
+      "$\\sqrt{3} \\cos 20^\\circ$",
+      "$\\frac{1}{2} \\cos 20^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "$2 \\cos 60^\\circ \\cos 20^\\circ = 2 (\\frac{1}{2}) \\cos 20^\\circ = \\cos 20^\\circ$."
+  },
+  {
+    "pregunta": "Según la identidad de Euler, ¿cómo se expresa $e^{ix}$ en términos de razones trigonométricas?",
+    "opciones": [
+      "$\\sin x + i \\cos x$",
+      "$\\cos x + i \\sin x$",
+      "$\\cos x - i \\sin x$",
+      "$\\sin x - i \\cos x$"
+    ],
+    "correcta": 1,
+    "resolucion": "La identidad de Euler establece que $e^{ix} = \\cos x + i \\sin x$, donde $i$ es la unidad imaginaria."
+  },
+  {
+    "pregunta": "Simplifique la expresión: $K = \\frac{\\sin 70^\\circ - \\sin 10^\\circ}{\\cos 40^\\circ}$.",
+    "opciones": [
+      "$1$",
+      "$\\sqrt{3}$",
+      "$\\frac{1}{2}$",
+      "$2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Transformando el numerador: $2 \\cos 40^\\circ \\sin 30^\\circ = 2 \\cos 40^\\circ (\\frac{1}{2}) = \\cos 40^\\circ$. El cociente es $\\frac{\\cos 40^\\circ}{\\cos 40^\\circ} = 1$."
+  },
+  {
+    "pregunta": "¿A qué es igual la suma de cosenos de ángulos en progresión aritmética $\\cos x + \\cos(x + 120^\\circ) + \\cos(x + 240^\\circ)$?",
+    "opciones": [
+      "$0$",
+      "$\\cos 3x$",
+      "$1$",
+      "$\\frac{3}{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Similar a la suma de senos, $\\cos(x+120^\\circ) + \\cos(x+240^\\circ) = 2 \\cos(x+180^\\circ) \\cos(60^\\circ) = -\\cos x$. La suma total es $0$."
+  },
+  {
+    "pregunta": "Transforme a producto la expresión: $\\sin 3x - \\sin x$.",
+    "opciones": [
+      "$2 \\sin x \\cos 2x$",
+      "$2 \\cos 2x \\sin x$",
+      "$2 \\cos 3x \\sin x$",
+      "$2 \\cos 2x \\cos x$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando la fórmula de resta de senos: $2 \\cos(\\frac{3x+x}{2}) \\sin(\\frac{3x-x}{2}) = 2 \\cos 2x \\sin x$."
+  },
+  {
+    "pregunta": "Determine el valor de $\\cos 36^\\circ - \\cos 72^\\circ$.",
+    "opciones": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{\\sqrt{5}}{4}$",
+      "$1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando valores notables: $\\frac{\\sqrt{5}+1}{4} - \\frac{\\sqrt{5}-1}{4} = \\frac{2}{4} = \\frac{1}{2}$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor del producto $4 \\sin 18^\\circ \\cos 36^\\circ$?",
+    "opciones": [
+      "$\\sqrt{5}$",
+      "$1$",
+      "$\\frac{1}{2}$",
+      "$2$"
+    ],
+    "correcta": 1,
+    "resolucion": "$\\sin 18^\\circ = \\frac{\\sqrt{5}-1}{4}$ y $\\cos 36^\\circ = \\frac{\\sqrt{5}+1}{4}$. Multiplicando: $4 \\frac{(\\sqrt{5}-1)(\\sqrt{5}+1)}{16} = 4 \\frac{5-1}{16} = 1$."
+  },
+  {
+    "pregunta": "Al degradar la potencia cuarta $8 \\sin^4 x$, ¿cuál es el término independiente en la expresión resultante?",
+    "opciones": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$4$"
+    ],
+    "correcta": 2,
+    "resolucion": "La fórmula de degradación es $8 \\sin^4 x = 3 - 4 \\cos 2x + \\cos 4x$. El término independiente es $3$."
+  },
+  {
+    "pregunta": "Halle el equivalente de $\\sin^2 x + \\sin^2(x + 120^\\circ) + \\sin^2(x + 240^\\circ)$.",
+    "opciones": [
+      "$1$",
+      "$\\frac{3}{2}$",
+      "$2$",
+      "$\\frac{1}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Degradando: $\\frac{1-\\cos 2x}{2} + \\frac{1-\\cos(2x+240^\\circ)}{2} + \\frac{1-\\cos(2x+480^\\circ)}{2} = \\frac{3}{2} - \\frac{1}{2}[\\cos 2x + \\cos(2x+240^\\circ) + \\cos(2x+120^\\circ)] = \\frac{3}{2} - 0 = \\frac{3}{2}$."
+  },
+  {
+    "pregunta": "Simplifique la expresión: $P = \\frac{\\cos 10^\\circ - \\cos 50^\\circ}{\\sin 20^\\circ}$.",
+    "opciones": [
+      "$\\sin 30^\\circ$",
+      "$1$",
+      "$\\sqrt{3}$",
+      "$\\frac{1}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Transformando el numerador: $-2 \\sin 30^\\circ \\sin(-20^\\circ) = 2 (\\frac{1}{2}) \\sin 20^\\circ = \\sin 20^\\circ$. El cociente es $1$."
+  },
+  {
+    "pregunta": "¿Qué par de ángulos cumple que $\\sin A + \\sin B = 2 \\sin 45^\\circ \\cos 15^\\circ$?",
+    "opciones": [
+      "$30^\\circ$ y $60^\\circ$",
+      "$45^\\circ$ y $15^\\circ$",
+      "$60^\\circ$ y $30^\\circ$",
+      "Ninguna de las anteriores"
+    ],
+    "correcta": 0,
+    "resolucion": "Si $A=60^\\circ$ y $B=30^\\circ$, la semisuma es $45^\\circ$ y la semidiferencia es $15^\\circ$."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 4: Ecuaciones trigonométricas",
+      "videos": [
+        {
+          "titulo": "4.1 Ecuaciones trigonométricas",
+          "youtube_id": "-_5iHdfcTuk",
+          "pdf_link": "https://drive.google.com/file/d/1o6iP6FBVooirzenW_cdo-s9YJ8oLiiti/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Determine el conjunto solución de la inecuación lineal $5x - 15 \\geq 0$.",
+    "opciones": [
+      "$(-\\infty, 3]$",
+      "$[3, +\\infty)$",
+      "$(3, +\\infty)$",
+      "$(-\\infty, -3]$"
+    ],
+    "correcta": 1,
+    "resolucion": "Transponiendo términos: $5x \\geq 15$. Al dividir por 5 (positivo), el sentido de la desigualdad se mantiene: $x \\geq 3$. En notación de intervalos es $[3, +\\infty)$."
+  },
+  {
+    "pregunta": "¿Qué ocurre con el sentido de una desigualdad si ambos miembros se multiplican o dividen por una cantidad real negativa?",
+    "opciones": [
+      "El sentido de la desigualdad se mantiene igual.",
+      "La desigualdad se convierte automáticamente en una igualdad.",
+      "El sentido de la desigualdad se invierte.",
+      "La expresión resultante siempre es igual a cero."
+    ],
+    "correcta": 2,
+    "resolucion": "Es una propiedad fundamental de las desigualdades: al multiplicar o dividir por una constante negativa, el sentido del símbolo de desigualdad cambia (por ejemplo, de '>' a '<')."
+  },
+  {
+    "pregunta": "Halle los puntos críticos del trinomio cuadrático $P(x) = x^{2} - 7x + 12$.",
+    "opciones": [
+      "$\\{7, 12\\}$",
+      "$\\{3, 4\\}$",
+      "$\\{-3, -4\\}$",
+      "$\\{1, 12\\}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Factorizamos el trinomio por el método del aspa simple: $(x - 3)(x - 4)$. Los puntos críticos se obtienen igualando cada factor a cero: $x - 3 = 0 \\Rightarrow x = 3$ y $x - 4 = 0 \\Rightarrow x = 4$."
+  },
+  {
+    "pregunta": "Determine el conjunto solución de la inecuación cuadrática $x^{2} - 16 \\leq 0$.",
+    "opciones": [
+      "$(-\\infty, -4] \\cup [4, +\\infty)$",
+      "$(-4, 4)$",
+      "$[-4, 4]$",
+      "$\\emptyset$"
+    ],
+    "correcta": 2,
+    "resolucion": "Factorizamos como diferencia de cuadrados: $(x - 4)(x + 4) \\leq 0$. Puntos críticos: $-4$ y $4$. Aplicando el método de los signos (+, -, +), el intervalo negativo (incluyendo extremos por el símbolo $\\leq$) es el central: $[-4, 4]$."
+  },
+  {
+    "pregunta": "Calcule el valor del discriminante ($\\Delta$) de la expresión $x^{2} + 2x + 5$.",
+    "opciones": [
+      "24",
+      "16",
+      "-16",
+      "0"
+    ],
+    "correcta": 2,
+    "resolucion": "Usamos la fórmula $\\Delta = b^{2} - 4ac$. Con $a=1, b=2, c=5$: $\\Delta = (2)^{2} - 4(1)(5) = 4 - 20 = -16$."
+  },
+  {
+    "pregunta": "Según el 'Teorema del Trinomio Positivo', si en $ax^{2} + bx + c$ se cumple que $a > 0$ y $\\Delta < 0$, ¿cuál es su conjunto solución para la inecuación $> 0$?",
+    "opciones": [
+      "$\\emptyset$",
+      "$\\mathbb{R}$ (Todos los reales)",
+      "$\\{0\\}$",
+      "$(0, +\\infty)$"
+    ],
+    "correcta": 1,
+    "resolucion": "Si el coeficiente principal es positivo y el discriminante es negativo, la parábola no corta el eje $x$ y se ubica totalmente por encima de él, cumpliéndose para cualquier valor real de $x$."
+  },
+  {
+    "pregunta": "Resuelva la inecuación lineal $3(x - 1) < 2x + 4$.",
+    "opciones": [
+      "$x < 7$",
+      "$x > 7$",
+      "$x < 5$",
+      "$x > 1$"
+    ],
+    "correcta": 0,
+    "resolucion": "Distribuimos: $3x - 3 < 2x + 4$. Agrupamos términos: $3x - 2x < 4 + 3$, lo que resulta en $x < 7$."
+  },
+  {
+    "pregunta": "¿Cuál es el conjunto solución de la inecuación $x^{2} + 25 < 0$?",
+    "opciones": [
+      "$[-5, 5]$",
+      "$(-5, 5)$",
+      "$\\emptyset$ (Vacío)",
+      "$\\mathbb{R}$"
+    ],
+    "correcta": 2,
+    "resolucion": "La suma de un cuadrado ($x^{2} \\geq 0$) y un número positivo (25) siempre será mayor o igual a 25. Por lo tanto, nunca podrá ser menor que cero en el conjunto de los números reales."
+  },
+  {
+    "pregunta": "Halle el conjunto solución de $x^{2} - 6x + 9 > 0$.",
+    "opciones": [
+      "$\\mathbb{R}$",
+      "$\\mathbb{R} - \\{3\\}$",
+      "$(3, +\\infty)$",
+      "$\\{3\\}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Factorizando el trinomio cuadrado perfecto: $(x - 3)^{2} > 0$. Un número al cuadrado es positivo para todo valor excepto cuando su base es cero. La base es cero en $x = 3$, por lo que la solución es $\\mathbb{R} - \\{3\\}$."
+  },
+  {
+    "pregunta": "Determine la única solución real de la inecuación $(x - 5)^{2} \\leq 0$.",
+    "opciones": [
+      "$x = -5$",
+      "$x = 0$",
+      "$x = 5$",
+      "$\\emptyset$"
+    ],
+    "correcta": 2,
+    "resolucion": "Un cuadrado perfecto no puede ser negativo; solo puede ser igual a cero. Esto ocurre cuando la base se anula: $x - 5 = 0 \\Rightarrow x = 5$."
+  },
+  {
+    "pregunta": "Halle la intersección de los intervalos $A = [-2, 5]$ y $B = (3, 8)$.",
+    "opciones": [
+      "$(3, 5]$",
+      "$[-2, 8)$",
+      "$[3, 5]$",
+      "$(5, 8)$"
+    ],
+    "correcta": 0,
+    "resolucion": "La intersección comprende los valores comunes. El límite inferior común empieza después de 3 (abierto en B) y el límite superior común termina en 5 (cerrado en A). El resultado es $(3, 5]$."
+  },
+  {
+    "pregunta": "Resuelva: $\\frac{x}{3} - 1 > 2$.",
+    "opciones": [
+      "$x > 1$",
+      "$x > 9$",
+      "$x < 9$",
+      "$x > 3$"
+    ],
+    "correcta": 1,
+    "resolucion": "Sumamos 1 a ambos lados: $\\frac{x}{3} > 3$. Multiplicamos por 3: $x > 9$."
+  },
+  {
+    "pregunta": "Determine el conjunto solución de $x^{2} - 5x + 4 > 0$.",
+    "opciones": [
+      "$(1, 4)$",
+      "$[1, 4]$",
+      "$(-\\infty, 1) \\cup (4, +\\infty)$",
+      "$(-\\infty, 1] \\cup [4, +\\infty)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Factorizamos: $(x - 1)(x - 4) > 0$. Puntos críticos: 1 y 4. Por el método de los signos, seleccionamos las zonas positivas (extremos): $(-\\infty, 1) \\cup (4, +\\infty)$."
+  },
+  {
+    "pregunta": "Halle el conjunto solución de $x^{2} - 2x - 8 \\leq 0$.",
+    "opciones": [
+      "$(-2, 4)$",
+      "$[-2, 4]$",
+      "$(-\\infty, -2] \\cup [4, +\\infty)$",
+      "$\\emptyset$"
+    ],
+    "correcta": 1,
+    "resolucion": "Factorizamos: $(x - 4)(x + 2) \\leq 0$. Puntos críticos: $-2$ y $4$. Al ser $\\leq 0$, tomamos el intervalo cerrado central: $[-2, 4]$."
+  },
+  {
+    "pregunta": "Determine cuántos números enteros satisfacen la inecuación: $1 < x \\leq 4$.",
+    "opciones": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "correcta": 2,
+    "resolucion": "Los valores enteros que cumplen la condición son: 2, 3 y 4 (el 1 no se incluye por ser intervalo abierto). En total son 3 números."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el valor que anula un factor lineal al resolver inecuaciones cuadráticas?",
+    "opciones": [
+      "Punto de inflexión.",
+      "Punto crítico.",
+      "Vértice.",
+      "Ordenada al origen."
+    ],
+    "correcta": 1,
+    "resolucion": "Los valores que hacen cero a los factores de un polinomio se denominan puntos críticos y sirven para dividir la recta real en tramos de signos constantes."
+  },
+  {
+    "pregunta": "Resuelva la inecuación: $10 - 2x < 4$.",
+    "opciones": [
+      "$x < 3$",
+      "$x > 3$",
+      "$x < -3$",
+      "$x > 7$"
+    ],
+    "correcta": 1,
+    "resolucion": "Restamos 10: $-2x < -6$. Al dividir por -2, el sentido de la desigualdad cambia: $x > \\frac{-6}{-2} \\Rightarrow x > 3$."
+  },
+  {
+    "pregunta": "Determine el conjunto solución de $x^{2} - x \\geq 0$.",
+    "opciones": [
+      "$[0, 1]$",
+      "$(0, 1)$",
+      "$(-\\infty, 0] \\cup [1, +\\infty)$",
+      "$(-\\infty, 0) \\cup (1, +\\infty)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Factorizamos por factor común: $x(x - 1) \\geq 0$. Puntos críticos: 0 y 1. Tomamos las zonas positivas de los extremos incluyendo los puntos críticos: $(-\\infty, 0] \\cup [1, +\\infty)$."
+  },
+  {
+    "pregunta": "Si un trinomio cuadrático tiene $\\Delta < 0$ y $a < 0$, ¿qué se puede afirmar sobre la inecuación $ax^{2} + bx + c < 0$?",
+    "opciones": [
+      "No tiene solución real.",
+      "Su solución son todos los números reales ($\\mathbb{R}$).",
+      "La solución es un único punto.",
+      "La solución es un intervalo abierto."
+    ],
+    "correcta": 1,
+    "resolucion": "Al ser $a < 0$ y $\\Delta < 0$, el trinomio es negativo para cualquier valor real de $x$. Por lo tanto, la inecuación 'menor que cero' se cumple en todo $\\mathbb{R}$."
+  },
+  {
+    "pregunta": "Al sumar una constante positiva a ambos lados de una desigualdad, ¿qué sucede con el sentido de la misma?",
+    "opciones": [
+      "Cambia si la constante es mayor a 10.",
+      "Se mantiene invariable.",
+      "Se invierte el sentido.",
+      "Se convierte en una inecuación cuadrática."
+    ],
+    "correcta": 1,
+    "resolucion": "La suma o resta de cualquier cantidad real en ambos miembros de una desigualdad no altera su sentido original."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 5: Resolución de triángulos oblicuángulos",
+      "videos": [
+        {
+          "titulo": "5.1 Resolución de triángulos rectángulos",
+          "youtube_id": "sKGGX3wAylI",
+          "pdf_link": "https://drive.google.com/file/d/1H3g140zYOwJGgyQUyt2NCqFBZFUHlVkZ/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Qué significa técnicamente 'resolver un triángulo rectángulo' en el contexto de la trigonometría?",
+    "opciones": [
+      "Calcular únicamente el valor de la hipotenusa usando el Teorema de Pitágoras.",
+      "Determinar las longitudes de sus tres lados y la medida de sus ángulos agudos.",
+      "Hallar el área y el perímetro de la figura geométrica.",
+      "Demostrar que la suma de sus ángulos internos es 180^\\circ."
+    ],
+    "correcta": 1,
+    "resolucion": "Resolver un triángulo consiste en hallar todos sus elementos desconocidos (lados y ángulos) a partir de los datos proporcionados."
+  },
+  {
+    "pregunta": "¿Cuál es la relación fundamental utilizada para calcular un lado desconocido en un triángulo rectángulo cuando se conoce un ángulo agudo y un lado?",
+    "opciones": [
+      "$\\frac{\\text{Lo que tengo}}{\\text{Lo que quiero}} = \\text{Razón Trigonométrica}$",
+      "$\\text{Cateto Opuesto} + \\text{Cateto Adyacente} = \\text{Hipotenusa}$",
+      "$\\frac{\\text{Lo que quiero}}{\\text{Lo que tengo}} = \\text{Razón Trigonométrica}$",
+      "$\\text{Área} = \\frac{\\text{Base} \\times \\text{Altura}}{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "La regla mnemotécnica establece que al dividir el lado que deseamos hallar entre el lado que ya conocemos como dato, obtenemos la razón trigonométrica correspondiente al ángulo de referencia."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, si la hipotenusa mide $a$ y el ángulo agudo es $\\alpha$, ¿cuál es la expresión para el cateto opuesto a dicho ángulo?",
+    "opciones": [
+      "$a \\cos \\alpha$",
+      "$a \\tan \\alpha$",
+      "$a \\sin \\alpha$",
+      "$a \\sec \\alpha$"
+    ],
+    "correcta": 2,
+    "resolucion": "Aplicando la regla: $x/a = \\sin \\alpha$, por lo tanto $x = a \\sin \\alpha$."
+  },
+  {
+    "pregunta": "Si se conoce el cateto adyacente $b$ y el ángulo agudo $\\theta$, ¿cuál es la longitud de la hipotenusa?",
+    "opciones": [
+      "$b \\cos \\theta$",
+      "$b \\sec \\theta$",
+      "$b \\csc \\theta$",
+      "$b \\tan \\theta$"
+    ],
+    "correcta": 1,
+    "resolucion": "Lo que quiero (Hipotenusa) sobre lo que tengo (Cateto Adyacente) es la secante del ángulo. Entonces, $H = b \\sec \\theta$."
+  },
+  {
+    "pregunta": "Dado un triángulo rectángulo con un cateto opuesto de longitud $m$ respecto al ángulo $\\beta$, determine la longitud del cateto adyacente.",
+    "opciones": [
+      "$m \\cot \\beta$",
+      "$m \\tan \\beta$",
+      "$m \\sin \\beta$",
+      "$m \\cos \\beta$"
+    ],
+    "correcta": 0,
+    "resolucion": "Cateto Adyacente / Cateto Opuesto es la definición de cotangente. Por lo tanto, el lado buscado es $m \\cot \\beta$."
+  },
+  {
+    "pregunta": "Calcule el área de un triángulo rectángulo cuya hipotenusa mide $L$ y posee un ángulo agudo $\\theta$.",
+    "opciones": [
+      "$\\frac{1}{2} L^{2} \\sin \\theta$",
+      "$L^{2} \\sin \\theta \\cos \\theta$",
+      "$\\frac{1}{2} L^{2} \\sin \\theta \\cos \\theta$",
+      "$\\frac{1}{2} L^{2} \\tan \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Los catetos son $L \\sin \\theta$ y $L \\cos \\theta$. El área es $\\frac{\\text{producto de catetos}}{2} = \\frac{(L \\sin \\theta)(L \\cos \\theta)}{2}$."
+  },
+  {
+    "pregunta": "¿A qué razón trigonométrica equivale la expresión $\\frac{\\text{Hipotenusa}}{\\text{Cateto Opuesto}}$?",
+    "opciones": [
+      "Secante",
+      "Cosecante",
+      "Cotangente",
+      "Seno"
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, la cosecante es la razón recíproca del seno, relacionando la hipotenusa sobre el cateto opuesto."
+  },
+  {
+    "pregunta": "Si un triángulo tiene un cateto adyacente $d$ y un ángulo $\\alpha$, ¿cuál es el cateto opuesto?",
+    "opciones": [
+      "$d \\tan \\alpha$",
+      "$d \\cot \\alpha$",
+      "$d \\sin \\alpha$",
+      "$d \\cos \\alpha$"
+    ],
+    "correcta": 0,
+    "resolucion": "Opuesto / Adyacente es tangente. Por tanto, el lado es $d \\tan \\alpha$."
+  },
+  {
+    "pregunta": "En el caso donde se conoce el cateto opuesto $k$ y el ángulo $\\theta$, ¿cuál es la expresión para la hipotenusa?",
+    "opciones": [
+      "$k \\sin \\theta$",
+      "$k \\sec \\theta$",
+      "$k \\csc \\theta$",
+      "$k \\cos \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Hipotenusa / Opuesto es cosecante. Entonces, $H = k \\csc \\theta$."
+  },
+  {
+    "pregunta": "Determine el área de un triángulo rectángulo si su altura es $m$ y el ángulo opuesto a la base es $\\theta$.",
+    "opciones": [
+      "$\\frac{1}{2} m^{2} \\tan \\theta$",
+      "$\\frac{1}{2} m^{2} \\cot \\theta$",
+      "$m^{2} \\sin \\theta$",
+      "$\\frac{1}{2} m^{2} \\sin \\theta$"
+    ],
+    "correcta": 0,
+    "resolucion": "Si la altura es $m$, la base (adyacente al ángulo complementario o usando el ángulo dado) se calcula. Si $\\theta$ es el ángulo opuesto a la base, entonces la base es $m \\tan \\theta$. El área es $\\frac{1}{2} m(m \\tan \\theta)$."
+  },
+  {
+    "pregunta": "¿Qué valor resulta de simplificar $\\frac{1}{2}$ en la expresión del área de un triángulo si se escribe como decimal?",
+    "opciones": [
+      "0,2",
+      "0,5",
+      "1,2",
+      "0,75"
+    ],
+    "correcta": 1,
+    "resolucion": "La fracción $1/2$ es equivalente a $0,5$ en notación decimal."
+  },
+  {
+    "pregunta": "Si en un triángulo rectángulo la hipotenusa es $1$ y el ángulo es $\\theta$, ¿cuál es el valor del cateto adyacente?",
+    "opciones": [
+      "$\\sin \\theta$",
+      "$\\tan \\theta$",
+      "$\\cos \\theta$",
+      "$\\sec \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Como el dato es $1$, el cateto adyacente es $1 \\cdot \\cos \\theta$."
+  },
+  {
+    "pregunta": "En un sistema de dos triángulos rectángulos compartiendo un lado, si el primer triángulo tiene hipotenusa $m$ y ángulo $\\alpha$, y el lado compartido es el opuesto a $\\alpha$, ¿cuánto vale dicho lado?",
+    "opciones": [
+      "$m \\cos \\alpha$",
+      "$m \\tan \\alpha$",
+      "$m \\sin \\alpha$",
+      "$m \\sec \\alpha$"
+    ],
+    "correcta": 2,
+    "resolucion": "El cateto opuesto se halla multiplicando la hipotenusa por el seno del ángulo."
+  },
+  {
+    "pregunta": "Si tenemos un segmento de longitud $n$ que es la hipotenusa de un triángulo con ángulo $\\beta$, y queremos hallar el cateto adyacente, ¿qué usamos?",
+    "opciones": [
+      "$n \\sin \\beta$",
+      "$n \\cos \\beta$",
+      "$n \\cot \\beta$",
+      "$n \\csc \\beta$"
+    ],
+    "correcta": 1,
+    "resolucion": "El cateto adyacente es igual a la hipotenusa por el coseno del ángulo."
+  },
+  {
+    "pregunta": "En un triángulo notable de 45^\\circ, si un cateto mide $m \\sin \\theta$, ¿cuánto mide el otro cateto?",
+    "opciones": [
+      "$m \\cos \\theta$",
+      "$m \\sin \\theta$",
+      "$m \\tan \\theta$",
+      "$m \\cot \\theta$"
+    ],
+    "correcta": 1,
+    "resolucion": "En un triángulo de 45^\\circ, los catetos son de igual longitud."
+  },
+  {
+    "pregunta": "Para trasladar un ángulo $\\theta$ dentro de una figura con líneas paralelas y perpendiculares, si el ángulo es el complemento de un ángulo $\\beta$, y $\\beta$ es el complemento de $\\alpha$, ¿qué relación tienen $\\theta$ y $\\alpha$?",
+    "opciones": [
+      "Son suplementarios.",
+      "Son iguales.",
+      "Suman 45^\\circ.",
+      "No tienen relación."
+    ],
+    "correcta": 1,
+    "resolucion": "Por transitividad de complementos en geometría, los ángulos resultan ser iguales."
+  },
+  {
+    "pregunta": "Si un lado mide $n - m \\cos \\theta$ y es el cateto opuesto de un triángulo con ángulo $\\theta$, ¿cuál es la expresión de la hipotenusa $x$?",
+    "opciones": [
+      "$(n - m \\cos \\theta) \\sin \\theta$",
+      "$(n - m \\cos \\theta) \\csc \\theta$",
+      "$(n - m \\cos \\theta) \\sec \\theta$",
+      "$(n - m \\cos \\theta) \\tan \\theta$"
+    ],
+    "correcta": 1,
+    "resolucion": "Hipotenusa = Cateto Opuesto $\\times \\csc \\theta$."
+  },
+  {
+    "pregunta": "En una semicircunferencia de radio $r$, si trazamos un radio al punto de tangencia formando un ángulo $\\theta$ con la base, ¿cuál es la longitud de la proyección horizontal del radio?",
+    "opciones": [
+      "$r \\sin \\theta$",
+      "$r \\tan \\theta$",
+      "$r \\cos \\theta$",
+      "$r \\sec \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "La proyección horizontal es el cateto adyacente del radio, calculada como $r \\cos \\theta$."
+  },
+  {
+    "pregunta": "Si un cateto es $3r \\cos \\theta$ y el segmento total es $4r \\cos \\theta$, ¿cuánto mide el segmento restante?",
+    "opciones": [
+      "$7r \\cos \\theta$",
+      "$r \\sin \\theta$",
+      "$r \\cos \\theta$",
+      "$12r \\cos \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se realiza la resta simple de las magnitudes: $4r \\cos \\theta - 3r \\cos \\theta = r \\cos \\theta$."
+  },
+  {
+    "pregunta": "Determine la cosecante de un ángulo si se conoce que la hipotenusa es $x$ y el cateto opuesto es $n - m \\cos \\theta$.",
+    "opciones": [
+      "$\\frac{x}{n - m \\cos \\theta}$",
+      "$\\frac{n - m \\cos \\theta}{x}$",
+      "$\\frac{x}{\\sin \\theta}$",
+      "$\\frac{\\cos \\theta}{x}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La cosecante se define como la hipotenusa entre el cateto opuesto."
+  }
+]
+        },
+        {
+          "titulo": "5.2 Resolución de triángulos y ángulos verticales",
+          "youtube_id": "pjfbJOiCkWU",
+          "pdf_link": "https://drive.google.com/file/d/1H3g140zYOwJGgyQUyt2NCqFBZFUHlVkZ/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Qué se entiende técnicamente por 'resolver un triángulo rectángulo'?",
+    "opciones": [
+      "Calcular únicamente el área y el perímetro de la figura.",
+      "Calcular las longitudes de sus lados y la medida de sus ángulos agudos.",
+      "Determinar la suma de los ángulos internos igual a 180^\\circ.",
+      "Demostrar el Teorema de Pitágoras en dicho triángulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Resolver un triángulo rectángulo implica hallar todos sus elementos desconocidos (lados y ángulos agudos) a partir de los datos proporcionados."
+  },
+  {
+    "pregunta": "¿Cuál es la relación fundamental utilizada para hallar un lado desconocido en función de un ángulo y un lado conocido?",
+    "opciones": [
+      "$\\frac{\\text{Lo que tengo}}{\\text{Lo que quiero}} = \\text{Razón Trigonométrica}$",
+      "$\\text{Hipotenusa}^{2} = \\text{Cateto}^{2} + \\text{Cateto}^{2}$",
+      "$\\frac{\\text{Lo que quiero}}{\\text{Lo que tengo}} = \\text{Razón Trigonométrica}$",
+      "$\\text{Razón Trigonométrica} = \\frac{\\text{Adyacente}}{\\text{Opuesto}}$"
+    ],
+    "correcta": 2,
+    "resolucion": "La regla práctica establece que el cociente entre el lado que se desea calcular y el lado que se tiene como dato es igual a la razón trigonométrica del ángulo dado."
+  },
+  {
+    "pregunta": "Si en un triángulo rectángulo conocemos la hipotenusa '$a$' y un ángulo agudo '$\\theta$', ¿cuál es la medida del cateto opuesto a dicho ángulo?",
+    "opciones": [
+      "$a \\cos \\theta$",
+      "$a \\sin \\theta$",
+      "$a \\tan \\theta$",
+      "$a \\sec \\theta$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando la relación: $\\text{Opuesto} = \\text{Hipotenusa} \\cdot \\sin \\theta$, por lo tanto es $a \\sin \\theta$."
+  },
+  {
+    "pregunta": "Dado un triángulo rectángulo con un cateto adyacente '$b$' respecto al ángulo '$\\alpha$', ¿cuál es la longitud de la hipotenusa?",
+    "opciones": [
+      "$b \\sin \\alpha$",
+      "$b \\cos \\alpha$",
+      "$b \\sec \\alpha$",
+      "$b \\csc \\alpha$"
+    ],
+    "correcta": 2,
+    "resolucion": "Como $\\frac{\\text{Hipotenusa}}{\\text{Adyacente}} = \\sec \\alpha$, la hipotenusa es igual al dato multiplicado por la secante: $b \\sec \\alpha$."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo, si el cateto opuesto al ángulo '$\\beta$' mide '$m$', ¿cuánto mide el cateto adyacente?",
+    "opciones": [
+      "$m \\tan \\beta$",
+      "$m \\cot \\beta$",
+      "$m \\sin \\beta$",
+      "$m \\sec \\beta$"
+    ],
+    "correcta": 1,
+    "resolucion": "La relación $\\frac{\\text{Adyacente}}{\\text{Opuesto}}$ define la cotangente. Por ello, el cateto adyacente es $m \\cot \\beta$."
+  },
+  {
+    "pregunta": "¿Qué es una línea visual en el contexto de los ángulos verticales?",
+    "opciones": [
+      "Una recta paralela al suelo que pasa por los ojos del observador.",
+      "Una recta imaginaria que une el ojo del observador con el objeto observado.",
+      "La altura del observador medida desde el suelo.",
+      "La distancia horizontal entre el observador y la base de un objeto."
+    ],
+    "correcta": 1,
+    "resolucion": "La línea visual es el rayo imaginario que parte de la vista del observador hacia un punto específico del objeto de estudio."
+  },
+  {
+    "pregunta": "¿Cómo se define el ángulo de elevación?",
+    "opciones": [
+      "Es el ángulo formado por la horizontal y la línea visual cuando el objeto está debajo del observador.",
+      "Es el ángulo formado por dos líneas visuales hacia un mismo objeto.",
+      "Es el ángulo formado por la horizontal y la línea visual cuando el objeto está por encima de la horizontal.",
+      "Es el ángulo que mide la estatura del observador."
+    ],
+    "correcta": 2,
+    "resolucion": "El ángulo de elevación se genera cuando el objeto observado se encuentra en un nivel superior al nivel de la vista (línea horizontal) del observador."
+  },
+  {
+    "pregunta": "Si un observador ve un punto en el suelo con un ángulo de 'depresión', ¿dónde se sitúa la línea visual respecto a la horizontal?",
+    "opciones": [
+      "Por encima de la horizontal.",
+      "Por debajo de la horizontal.",
+      "Exactamente sobre la horizontal.",
+      "Perpendicular a la horizontal."
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo de depresión se forma entre la línea horizontal de la vista y la línea visual dirigida hacia abajo."
+  },
+  {
+    "pregunta": "En un cuadrado de lado '$L$', si se traza una línea desde un vértice formando un ángulo '$\\theta$' con un lado, ¿cuál es la proyección de esa línea sobre el lado opuesto?",
+    "opciones": [
+      "$L \\sin \\theta$",
+      "$L \\cos \\theta$",
+      "$L \\tan \\theta$",
+      "$L \\cot \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "Si consideramos el triángulo rectángulo formado, la longitud buscada es el cateto opuesto al ángulo, calculado como $L \\tan \\theta$."
+  },
+  {
+    "pregunta": "Si la estatura de un observador es '$h$' y observa la parte superior de un poste con un ángulo de elevación '$\\alpha$', ¿a qué altura se encuentra el punto observado respecto al suelo si está a una distancia '$D$' del poste?",
+    "opciones": [
+      "$D \\tan \\alpha$",
+      "$h + D \\tan \\alpha$",
+      "$h - D \\tan \\alpha$",
+      "$D \\cot \\alpha$"
+    ],
+    "correcta": 1,
+    "resolucion": "La altura total es la suma de la estatura del observador '$h$' más la altura calculada desde su nivel de vista ($D \\tan \\alpha$)."
+  },
+  {
+    "pregunta": "¿Cuál es el equivalente de la expresión 'cosecante' en términos de los lados de un triángulo rectángulo?",
+    "opciones": [
+      "$\\frac{\\text{Cateto Adyacente}}{\\text{Hipotenusa}}$",
+      "$\\frac{\\text{Hipotenusa}}{\\text{Cateto Opuesto}}$",
+      "$\\frac{\\text{Cateto Opuesto}}{\\text{Cateto Adyacente}}$",
+      "$\\frac{\\text{Hipotenusa}}{\\text{Cateto Adyacente}}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, la cosecante es la razón recíproca del seno: hipotenusa dividida entre el cateto opuesto."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo de ángulo '$\\beta$', si conocemos la hipotenusa '$R$', ¿cuánto mide el cateto adyacente?",
+    "opciones": [
+      "$R \\sin \\beta$",
+      "$R \\cos \\beta$",
+      "$R \\sec \\beta$",
+      "$R \\tan \\beta$"
+    ],
+    "correcta": 1,
+    "resolucion": "Utilizando la resolución de triángulos: $\\text{Adyacente} = \\text{Hipotenusa} \\cdot \\cos \\beta$."
+  },
+  {
+    "pregunta": "Cuando se habla de un 'ángulo de observación', ¿a qué se refiere?",
+    "opciones": [
+      "Al ángulo formado por la horizontal y la visual.",
+      "Al ángulo comprendido entre dos líneas visuales.",
+      "Al ángulo de 90^\\circ en un triángulo rectángulo.",
+      "A la inclinación del terreno."
+    ],
+    "correcta": 1,
+    "resolucion": "El ángulo de observación es el ángulo subtendido por el objeto, formado por las líneas visuales que van hacia los extremos de dicho objeto."
+  },
+  {
+    "pregunta": "Si un móvil se desplaza a una velocidad '$V$' durante un tiempo '$t$', ¿cómo se calcula la distancia recorrida en un problema de ángulos verticales?",
+    "opciones": [
+      "$d = V / t$",
+      "$d = V \\cdot t$",
+      "$d = t / V$",
+      "$d = V^{2} \\cdot t$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se aplica la fórmula básica del Movimiento Rectilíneo Uniforme (MRU): distancia es igual a velocidad por tiempo."
+  },
+  {
+    "pregunta": "¿Qué relación trigonométrica se obtiene al dividir el cateto adyacente entre el cateto opuesto?",
+    "opciones": [
+      "Tangente",
+      "Cotangente",
+      "Secante",
+      "Seno"
+    ],
+    "correcta": 1,
+    "resolucion": "La definición de cotangente para un ángulo agudo es la razón entre el cateto adyacente y el cateto opuesto."
+  },
+  {
+    "pregunta": "En un triángulo rectángulo isósceles (ángulos de 45^\\circ), si un cateto mide '$k \\tan \\theta$', ¿cuánto mide la hipotenusa?",
+    "opciones": [
+      "$k \\tan \\theta \\cdot \\sqrt{2}$",
+      "$k \\tan \\theta$",
+      "$k \\cot \\theta$",
+      "$k \\sec \\theta$"
+    ],
+    "correcta": 0,
+    "resolucion": "En el triángulo notable de 45^\\circ, la hipotenusa es igual al cateto multiplicado por $\\sqrt{2}$."
+  },
+  {
+    "pregunta": "Al simplificar la expresión $\\frac{h \\cot \\phi \\cdot \\tan \\beta + h}{h}$, el resultado es:",
+    "opciones": [
+      "$\\cot \\phi \\tan \\beta$",
+      "$\\cot \\phi + \\tan \\beta$",
+      "$\\cot \\phi \\tan \\beta + 1$",
+      "$h(\\cot \\phi \\tan \\beta + 1)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se factoriza '$h$' en el numerador y se cancela con el denominador, quedando $\\cot \\phi \\tan \\beta + 1$."
+  },
+  {
+    "pregunta": "Si un ángulo de elevación es '$\\alpha$', ¿cuánto mide su ángulo complementario en un triángulo rectángulo?",
+    "opciones": [
+      "180^\\circ - \\alpha",
+      "90^\\circ - \\alpha",
+      "\\alpha",
+      "45^\\circ"
+    ],
+    "correcta": 1,
+    "resolucion": "En cualquier triángulo rectángulo, los dos ángulos agudos deben sumar 90^\\circ para completar los 180^\\circ internos."
+  },
+  {
+    "pregunta": "¿Qué ocurre con el ángulo de elevación conforme un observador se acerca a un objeto vertical (como una torre)?",
+    "opciones": [
+      "El ángulo disminuye.",
+      "El ángulo aumenta.",
+      "El ángulo se mantiene constante.",
+      "El ángulo se vuelve nulo."
+    ],
+    "correcta": 1,
+    "resolucion": "Al disminuir la distancia horizontal (cateto adyacente) manteniendo la altura constante (cateto opuesto), la tangente del ángulo aumenta, y por ende el ángulo de elevación también."
+  },
+  {
+    "pregunta": "En un problema donde no se especifica la estatura del observador, ¿qué suposición técnica se suele realizar?",
+    "opciones": [
+      "Se asume que mide 1.70 metros.",
+      "Se considera como un punto en el plano (estatura nula).",
+      "Se debe inventar una variable '$H$'.",
+      "El problema no tiene solución."
+    ],
+    "correcta": 1,
+    "resolucion": "Si las dimensiones del observador no son mencionadas ni requeridas, se idealiza al observador como un punto matemático sobre el nivel del suelo."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 6: Funciones trigonométricas",
+      "videos": [
+        {
+          "titulo": "6.1 Funciones Trigonométricas",
+          "youtube_id": "vNrJorj2X0U",
+          "pdf_link": "https://drive.google.com/file/d/1gEcqWztVIDGCnZUUimF6XNv4MY6Xa_Fa/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "Simplifique la expresión $E = \\frac{\\sin(x + y) - \\sin y \\cos x}{\\cos y}$ utilizando las identidades de ángulos compuestos.",
+    "opciones": [
+      "$\\cos x$",
+      "$\\sin x$",
+      "$\\tan x$",
+      "$\\sin(x + y)$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al desarrollar el numerador: $\\sin(x + y) = \\sin x \\cos y + \\cos x \\sin y$. Al restar $\\sin y \\cos x$ (que es lo mismo que $\\cos x \\sin y$), obtenemos $\\sin x \\cos y$. Finalmente, al dividir por $\\cos y$, el resultado es $\\sin x$."
+  },
+  {
+    "pregunta": "Calcule el valor exacto de $\\cos 75^\\circ$ empleando la identidad del coseno de una suma.",
+    "opciones": [
+      "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+      "$\\frac{\\sqrt{6} - \\sqrt{2}}{4}$",
+      "$\\frac{\\sqrt{3} + 1}{4}$",
+      "$\\frac{\\sqrt{2} - 1}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando $\\cos(45^\\circ + 30^\\circ) = \\cos 45^\\circ \\cos 30^\\circ - \\sin 45^\\circ \\sin 30^\\circ = (\\frac{\\sqrt{2}}{2})(\\frac{\\sqrt{3}}{2}) - (\\frac{\\sqrt{2}}{2})(\\frac{1}{2}) = \\frac{\\sqrt{6} - \\sqrt{2}}{4}$."
+  },
+  {
+    "pregunta": "Determine el valor de $\\tan 8^\\circ$ expresado como una fracción.",
+    "opciones": [
+      "$1/2$",
+      "$1/3$",
+      "$1/7$",
+      "$3/4$"
+    ],
+    "correcta": 2,
+    "resolucion": "Se puede expresar como $\\tan(45^\\circ - 37^\\circ) = \\frac{\\tan 45^\\circ - \\tan 37^\\circ}{1 + \\tan 45^\\circ \\tan 37^\\circ}$. Sustituyendo los valores notables: $\\frac{1 - 3/4}{1 + (1)(3/4)} = \\frac{1/4}{7/4} = 1/7$."
+  },
+  {
+    "pregunta": "Dada la identidad $\\tan(A + B) = \\frac{\\tan A + \\tan B}{1 - \\tan A \\tan B}$, simplifique la expresión $P = \\frac{\\tan A + \\tan B}{\\tan(A + B)} + \\tan A \\tan B$.",
+    "opciones": [
+      "$0$",
+      "$1$",
+      "$\\tan A \\tan B$",
+      "$\\sec(A + B)$"
+    ],
+    "correcta": 1,
+    "resolucion": "De la identidad original despejamos $1 - \\tan A \\tan B = \\frac{\\tan A + \\tan B}{\\tan(A + B)}$. Al sustituir esto en la expresión $P$, tenemos $(1 - \\tan A \\tan B) + \\tan A \\tan B = 1$."
+  },
+  {
+    "pregunta": "Determine el valor máximo que puede tomar la función trigonométrica $f(x) = 3 \\sin x + 4 \\cos x$.",
+    "opciones": [
+      "$7$",
+      "$5$",
+      "$1$",
+      "$12$"
+    ],
+    "correcta": 1,
+    "resolucion": "Para una expresión de la forma $a \\sin x + b \\cos x$, el valor máximo es $\\sqrt{a^{2} + b^{2}}$. En este caso, $\\sqrt{3^{2} + 4^{2}} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+  },
+  {
+    "pregunta": "Si $\\tan \\alpha = 2$ y $\\tan \\beta = 3$, halle el valor de $\\tan(\\alpha + \\beta)$.",
+    "opciones": [
+      "$5$",
+      "$-1$",
+      "$1$",
+      "$-5/6$"
+    ],
+    "correcta": 1,
+    "resolucion": "Aplicando la fórmula de la tangente de una suma: $\\frac{2 + 3}{1 - (2)(3)} = \\frac{5}{1 - 6} = \\frac{5}{-5} = -1$."
+  },
+  {
+    "pregunta": "Simplifique la expresión $M = \\sin(x + y) \\sin(x - y) + \\sin^{2} y$ usando identidades auxiliares.",
+    "opciones": [
+      "$\\sin^{2} x$",
+      "$\\cos^{2} x$",
+      "$1$",
+      "$\\sin^{2}(x + y)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Utilizando la identidad auxiliar $\\sin(A + B) \\sin(A - B) = \\sin^{2} A - \\sin^{2} B$, la expresión se convierte en $(\\sin^{2} x - \\sin^{2} y) + \\sin^{2} y = \\sin^{2} x$."
+  },
+  {
+    "pregunta": "Calcule el valor de la expresión $E = \\cos 80^\\circ \\cos 20^\\circ + \\sin 80^\\circ \\sin 20^\\circ$.",
+    "opciones": [
+      "$1/2$",
+      "$\\sqrt{3}/2$",
+      "$1$",
+      "$\\sin 100^\\circ$"
+    ],
+    "correcta": 0,
+    "resolucion": "La expresión corresponde a la identidad del coseno de una diferencia: $\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B$. Por lo tanto, $E = \\cos(80^\\circ - 20^\\circ) = \\cos 60^\\circ = 1/2$."
+  },
+  {
+    "pregunta": "En un triángulo $ABC$, si $\\tan A = 1$ y $\\tan B = 2$, ¿cuál es el valor de $\\tan C$?",
+    "opciones": [
+      "$1$",
+      "$2$",
+      "$3$",
+      "$1/3$"
+    ],
+    "correcta": 2,
+    "resolucion": "En cualquier triángulo se cumple la propiedad $\\tan A + \\tan B + \\tan C = \\tan A \\tan B \\tan C$. Sustituyendo: $1 + 2 + \\tan C = (1)(2) \\tan C \\Rightarrow 3 + \\tan C = 2 \\tan C \\Rightarrow \\tan C = 3$."
+  },
+  {
+    "pregunta": "Reduzca la expresión $Q = \\frac{\\sin(A - B)}{\\cos A \\cos B} + \\frac{\\sin(B - C)}{\\cos B \\cos C} + \\frac{\\sin(C - A)}{\\cos C \\cos A}$.",
+    "opciones": [
+      "$\\tan A + \\tan B + \\tan C$",
+      "$1$",
+      "$0$",
+      "$\\tan(A + B + C)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Cada término de la suma es una identidad auxiliar equivalente a la diferencia de tangentes: $(\\tan A - \\tan B) + (\\tan B - \\tan C) + (\\tan C - \\tan A)$. Al sumar todos los términos, el resultado es 0."
+  },
+  {
+    "pregunta": "Determine el valor de $\\sin 16^\\circ$ utilizando la diferencia de dos ángulos conocidos.",
+    "opciones": [
+      "$7/25$",
+      "$24/25$",
+      "$3/5$",
+      "$4/5$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando $\\sin(53^\\circ - 37^\\circ) = \\sin 53^\\circ \\cos 37^\\circ - \\cos 53^\\circ \\sin 37^\\circ = (4/5)(4/5) - (3/5)(3/5) = 16/25 - 9/25 = 7/25$."
+  },
+  {
+    "pregunta": "Simplifique la expresión $L = \\sin 20^\\circ \\cos 40^\\circ + \\cos 20^\\circ \\sin 40^\\circ$.",
+    "opciones": [
+      "$\\sin 20^\\circ$",
+      "$\\cos 60^\\circ$",
+      "$\\sqrt{3}/2$",
+      "$1/2$"
+    ],
+    "correcta": 2,
+    "resolucion": "La expresión es el desarrollo de la suma de ángulos para el seno: $\\sin(A + B)$. Por lo tanto, $L = \\sin(20^\\circ + 40^\\circ) = \\sin 60^\\circ = \\sqrt{3}/2$."
+  },
+  {
+    "pregunta": "Calcule el valor de la expresión $K = \\frac{\\cos(x - y) - \\cos(x + y)}{\\sin x \\sin y}$.",
+    "opciones": [
+      "$1$",
+      "$2$",
+      "$\\tan x \\tan y$",
+      "$0$"
+    ],
+    "correcta": 1,
+    "resolucion": "Expandiendo los cosenos: $[(\\cos x \\cos y + \\sin x \\sin y) - (\\cos x \\cos y - \\sin x \\sin y)] / (\\sin x \\sin y) = (2 \\sin x \\sin y) / (\\sin x \\sin y) = 2$."
+  },
+  {
+    "pregunta": "Si se sabe que $\\alpha + \\beta = 45^\\circ$, ¿cuál es el valor de $(1 + \\tan \\alpha)(1 + \\tan \\beta)$?",
+    "opciones": [
+      "$1$",
+      "$2$",
+      "$\\sqrt{2}$",
+      "$1/2$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al desarrollar el producto: $1 + \\tan \\alpha + \\tan \\beta + \\tan \\alpha \\tan \\beta$. De la identidad $\\tan(\\alpha + \\beta) = 1$, se sabe que $\\tan \\alpha + \\tan \\beta = 1 - \\tan \\alpha \\tan \\beta$. Sustituyendo: $1 + (1 - \\tan \\alpha \\tan \\beta) + \\tan \\alpha \\tan \\beta = 2$."
+  },
+  {
+    "pregunta": "¿A qué es equivalente la expresión $\\cos(x + y) \\cos(x - y) + \\sin^{2} y$?",
+    "opciones": [
+      "$\\cos^{2} x$",
+      "$\\sin^{2} x$",
+      "$\\cos^{2} y$",
+      "$1$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando la identidad auxiliar $\\cos(A + B) \\cos(A - B) = \\cos^{2} A - \\sin^{2} B$, tenemos $(\\cos^{2} x - \\sin^{2} y) + \\sin^{2} y = \\cos^{2} x$."
+  },
+  {
+    "pregunta": "Halle la forma reducida de $\\sqrt{3} \\sin x + \\cos x$ como una sola razón trigonométrica.",
+    "opciones": [
+      "$2 \\sin(x + 60^\\circ)$",
+      "$\\sin(x + 30^\\circ)$",
+      "$2 \\sin(x + 30^\\circ)$",
+      "$\\sqrt{2} \\sin(x + 45^\\circ)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Factorizamos $\\sqrt{(\\sqrt{3})^{2} + 1^{2}} = 2$. Queda $2(\\frac{\\sqrt{3}}{2} \\sin x + \\frac{1}{2} \\cos x) = 2(\\cos 30^\\circ \\sin x + \\sin 30^\\circ \\cos x) = 2 \\sin(x + 30^\\circ)$."
+  },
+  {
+    "pregunta": "Si $\\sin A \\cos B = 0.6$ y $\\cos A \\sin B = 0.2$, halle el valor de $\\sin(A - B)$.",
+    "opciones": [
+      "$0.8$",
+      "$0.4$",
+      "$0.12$",
+      "$3$"
+    ],
+    "correcta": 1,
+    "resolucion": "La identidad de la diferencia para el seno es $\\sin(A - B) = \\sin A \\cos B - \\cos A \\sin B$. Sustituyendo los datos: $0.6 - 0.2 = 0.4$."
+  },
+  {
+    "pregunta": "Determine el valor exacto de $\\tan 75^\\circ$ mediante ángulos compuestos.",
+    "opciones": [
+      "$2 + \\sqrt{3}$",
+      "$2 - \\sqrt{3}$",
+      "$\\sqrt{3} + 1$",
+      "$\\frac{\\sqrt{3} + 1}{\\sqrt{3} - 1}$"
+    ],
+    "correcta": 0,
+    "resolucion": "$\\tan(45^\\circ + 30^\\circ) = \\frac{\\tan 45^\\circ + \\tan 30^\\circ}{1 - \\tan 45^\\circ \\tan 30^\\circ} = \\frac{1 + \\sqrt{3}/3}{1 - (1)(\\sqrt{3}/3)} = \\frac{3 + \\sqrt{3}}{3 - \\sqrt{3}}$. Al racionalizar, se obtiene $2 + \\sqrt{3}$."
+  },
+  {
+    "pregunta": "Reduzca la expresión $H = \\frac{\\sin(x + y)}{\\cos x \\cos y}$.",
+    "opciones": [
+      "$\\tan x + \\tan y$",
+      "$\\tan x - \\tan y$",
+      "$\\cot x + \\cot y$",
+      "$\\sec x \\sec y$"
+    ],
+    "correcta": 0,
+    "resolucion": "Expandiendo el seno de la suma: $\\frac{\\sin x \\cos y + \\cos x \\sin y}{\\cos x \\cos y} = \\frac{\\sin x \\cos y}{\\cos x \\cos y} + \\frac{\\cos x \\sin y}{\\cos x \\cos y} = \\tan x + \\tan y$."
+  },
+  {
+    "pregunta": "Calcule el valor de $J = \\frac{\\tan 20^\\circ + \\tan 25^\\circ}{1 - \\tan 20^\\circ \\tan 25^\\circ}$.",
+    "opciones": [
+      "$\\tan 5^\\circ$",
+      "$1$",
+      "$\\sqrt{3}/3$",
+      "$0$"
+    ],
+    "correcta": 1,
+    "resolucion": "La estructura corresponde exactamente a la fórmula de la tangente de una suma $\\tan(A + B)$, donde $A = 20^\\circ$ y $B = 25^\\circ$. El resultado es $\\tan(45^\\circ) = 1$."
+  }
+]
+        },
+        {
+          "titulo": "6.2 Derivada de las funciones Trigonométricas Inversas",
+          "youtube_id": "aNASRj9zLAA",
+          "pdf_link": "https://drive.google.com/file/d/1gEcqWztVIDGCnZUUimF6XNv4MY6Xa_Fa/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la regla de derivación para la función $f(x) = \\arcsin(u)$?",
+    "opciones": [
+      "$f'(x) = \\frac{u'}{\\sqrt{1-u^{2}}}$",
+      "$f'(x) = -\\frac{u'}{\\sqrt{1-u^{2}}}$",
+      "$f'(x) = \\frac{u'}{1+u^{2}}$",
+      "$f'(x) = \\frac{u'}{|u|\\sqrt{u^{2}-1}}$"
+    ],
+    "correcta": 0,
+    "resolucion": "La derivada del arco seno de una función $u$ es la derivada de $u$ dividida entre la raíz cuadrada de uno menos $u$ al cuadrado."
+  },
+  {
+    "pregunta": "Identifique la diferencia principal entre las fórmulas de la derivada de $\\arcsin(u)$ y $\\arccos(u)$.",
+    "opciones": [
+      "Tienen denominadores distintos.",
+      "La derivada del $\\arccos(u)$ tiene signo negativo en el numerador.",
+      "La derivada del $\\arcsin(u)$ no utiliza raíz cuadrada.",
+      "Son funciones que no se pueden derivar."
+    ],
+    "correcta": 1,
+    "resolucion": "Ambas fórmulas comparten el mismo denominador $\\sqrt{1-u^{2}}$, pero la derivada de las funciones 'co' (como el arco coseno) siempre lleva un signo negativo en el numerador."
+  },
+  {
+    "pregunta": "¿Cuál es la derivada de la función $y = \\arctan(x)$?",
+    "opciones": [
+      "$y' = \\frac{1}{\\sqrt{1-x^{2}}}$",
+      "$y' = \\frac{1}{1+x^{2}}$",
+      "$y' = -\\frac{1}{1+x^{2}}$",
+      "$y' = \\frac{1}{x^{2}-1}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La derivada de la función arco tangente de $x$ es una de las más comunes y se define como $1$ sobre $(1 + x^{2})$."
+  },
+  {
+    "pregunta": "Si $y = \\arctan(u)$, ¿cuál es la expresión correcta para su derivada según la regla de la cadena?",
+    "opciones": [
+      "$y' = \\frac{u'}{1-u^{2}}$",
+      "$y' = \\frac{u'}{\\sqrt{1+u^{2}}}$",
+      "$y' = \\frac{u'}{1+u^{2}}$",
+      "$y' = -\\frac{u'}{1+u^{2}}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Al aplicar la regla de la cadena a la arco tangente, el numerador debe contener la derivada de la función interna $u$."
+  },
+  {
+    "pregunta": "Halle la derivada de la función $g(x) = \\arcsin(2x)$.",
+    "opciones": [
+      "$g'(x) = \\frac{2}{\\sqrt{1-2x^{2}}}$",
+      "$g'(x) = \\frac{2}{\\sqrt{1-4x^{2}}}$",
+      "$g'(x) = \\frac{1}{\\sqrt{1-4x^{2}}}$",
+      "$g'(x) = \\frac{2}{1+4x^{2}}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Siguiendo la fórmula $\\frac{u'}{\\sqrt{1-u^{2}}}$, donde $u=2x$ y $u'=2$, obtenemos $\\frac{2}{\\sqrt{1-(2x)^{2}}} = \\frac{2}{\\sqrt{1-4x^{2}}}$."
+  },
+  {
+    "pregunta": "¿Cuál es la derivada de la función arco cotangente, $f(x) = \\text{arccot}(u)$?",
+    "opciones": [
+      "$f'(x) = \\frac{u'}{1+u^{2}}$",
+      "$f'(x) = -\\frac{u'}{1+u^{2}}$",
+      "$f'(x) = -\\frac{u'}{\\sqrt{1-u^{2}}}$",
+      "$f'(x) = \\frac{-1}{1+x^{2}}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La derivada del arco cotangente es idéntica a la del arco tangente pero con signo negativo: $-u' / (1 + u^{2})$."
+  },
+  {
+    "pregunta": "Derive la función $y = \\text{arcsec}(u)$.",
+    "opciones": [
+      "$y' = \\frac{u'}{u\\sqrt{u^{2}-1}}$",
+      "$y' = \\frac{u'}{|u|\\sqrt{u^{2}-1}}$",
+      "$y' = -\\frac{u'}{|u|\\sqrt{u^{2}-1}}$",
+      "$y' = \\frac{1}{u^{2}+1}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La derivada del arco secante incluye el valor absoluto de $u$ en el denominador multiplicado por la raíz de $u^{2}-1$."
+  },
+  {
+    "pregunta": "¿Qué notación es equivalente a $\\arcsin(x)$?",
+    "opciones": [
+      "$\\sin^{-1}(x)$",
+      "$\\frac{1}{\\sin(x)}$",
+      "$\\csc(x)$",
+      "$\\sin(x^{-1})$"
+    ],
+    "correcta": 0,
+    "resolucion": "En cálculo, el exponente $-1$ sobre el nombre de la función ($\\\\sin^{-1}$) denota la función inversa (arco), no el recíproco multiplicativo."
+  },
+  {
+    "pregunta": "Calcule la derivada de $y = \\arctan(5x^{2})$.",
+    "opciones": [
+      "$y' = \\frac{10x}{1+5x^{2}}$",
+      "$y' = \\frac{10x}{1+25x^{2}}$",
+      "$y' = \\frac{10x}{1+25x^{4}}$",
+      "$y' = \\frac{5x}{1+25x^{4}}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Aquí $u=5x^{2}$ y $u'=10x$. Elevando $u$ al cuadrado: $(5x^{2})^{2} = 25x^{4}$. Aplicando la fórmula: $10x / (1 + 25x^{4})$."
+  },
+  {
+    "pregunta": "Determine la derivada de $h(x) = 5 \\arccos(x^{5})$.",
+    "opciones": [
+      "$h'(x) = -\\frac{25x^{4}}{\\sqrt{1-x^{10}}}$",
+      "$h'(x) = \\frac{25x^{4}}{\\sqrt{1-x^{10}}}$",
+      "$h'(x) = -\\frac{5x^{4}}{\\sqrt{1-x^{25}}}$",
+      "$h'(x) = -\\frac{25x^{4}}{1+x^{10}}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Mantenemos la constante 5. La derivada de $\\arccos(x^{5})$ es $-5x^{4} / \\sqrt{1-(x^{5})^{2}}$. Multiplicando: $-25x^{4} / \\sqrt{1-x^{10}}$."
+  },
+  {
+    "pregunta": "¿Cuál es la derivada de $y = \\text{arccsc}(5x^{3})$?",
+    "opciones": [
+      "$y' = -\\frac{15x^{2}}{5x^{3}\\sqrt{25x^{6}-1}}$",
+      "$y' = -\\frac{3}{x\\sqrt{25x^{6}-1}}$",
+      "$y' = \\frac{15x^{2}}{5x^{3}\\sqrt{25x^{6}-1}}$",
+      "$y' = -\\frac{15x^{2}}{5x^{3}\\sqrt{5x^{6}-1}}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Derivada: $-15x^{2} / (5x^{3} \\sqrt{(5x^{3})^{2}-1})$. Simplificando $15/5$ y $x^{2}/x^{3}$, resulta $-3 / (x \\sqrt{25x^{6}-1})$."
+  },
+  {
+    "pregunta": "Calcule la derivada de $f(x) = \\arcsin(x) + \\arccos(x)$.",
+    "opciones": [
+      "$f'(x) = 0$",
+      "$f'(x) = 1$",
+      "$f'(x) = \\frac{2}{\\sqrt{1-x^{2}}}$",
+      "$f'(x) = \\pi/2$"
+    ],
+    "correcta": 0,
+    "resolucion": "La suma de $\\arcsin(x)$ y $\\arccos(x)$ es una constante $(\\pi/2)$. La derivada de cualquier constante es siempre cero."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de la derivada de $\\arctan(x)$ cuando $x = 1$?",
+    "opciones": [
+      "$1/2$",
+      "$1$",
+      "$\\pi/4$",
+      "$0$"
+    ],
+    "correcta": 0,
+    "resolucion": "La derivada es $1 / (1 + x^{2})$. Sustituyendo $x=1$: $1 / (1 + 1^{2}) = 1/2$."
+  },
+  {
+    "pregunta": "Si tenemos $y = \\text{arcsec}(x+3)$, ¿cuál es su derivada?",
+    "opciones": [
+      "$y' = \\frac{1}{|x+3|\\sqrt{(x+3)^{2}-1}}$",
+      "$y' = \\frac{1}{\\sqrt{(x+3)^{2}-1}}$",
+      "$y' = -\\frac{1}{|x+3|\\sqrt{(x+3)^{2}-1}}$",
+      "$y' = \\frac{1}{x^{2}+6x+8}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Aplicamos la fórmula del arco secante con $u = x+3$. Como la derivada de $x+3$ es 1, el numerador es 1."
+  },
+  {
+    "pregunta": "Halle la derivada de $y = \\arctan(x) + x^{2}$.",
+    "opciones": [
+      "$y' = \\frac{1}{1+x^{2}} + 2x$",
+      "$y' = \\frac{2x}{1+x^{2}}$",
+      "$y' = \\frac{1+2x+2x^{3}}{1+x^{2}}$",
+      "Las opciones A y C son equivalentes."
+    ],
+    "correcta": 3,
+    "resolucion": "La derivada de la suma es la suma de las derivadas: $1/(1+x^{2}) + 2x$. Al sumar las fracciones: $(1 + 2x(1+x^{2}))/(1+x^{2}) = (1 + 2x + 2x^{3})/(1+x^{2})$."
+  },
+  {
+    "pregunta": "Al derivar $y = \\text{arccsc}(u)$, ¿qué signo precede a la fracción?",
+    "opciones": [
+      "Positivo",
+      "Negativo",
+      "Depende del cuadrante de $u$",
+      "No lleva signo"
+    ],
+    "correcta": 1,
+    "resolucion": "Todas las funciones trigonométricas inversas que comienzan con 'arco co-' (arco coseno, arco cotangente, arco cosecante) tienen derivadas con signo negativo."
+  },
+  {
+    "pregunta": "¿Qué expresión aparece dentro de la raíz en la derivada del $\\arcsin(u)$?",
+    "opciones": [
+      "$u^{2}-1$",
+      "$1+u^{2}$",
+      "$1-u^{2}$",
+      "$u^{2}+1$"
+    ],
+    "correcta": 2,
+    "resolucion": "La estructura del denominador para el arco seno es $\\sqrt{1-u^{2}}$."
+  },
+  {
+    "pregunta": "Derive $f(x) = \\arctan(\\sqrt{x})$.",
+    "opciones": [
+      "$f'(x) = \\frac{1}{2\\sqrt{x}(1+x)}$",
+      "$f'(x) = \\frac{1}{1+x}$",
+      "$f'(x) = \\frac{1}{2(1+x)}$",
+      "$f'(x) = \\frac{\\sqrt{x}}{1+x}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Si $u = \\sqrt{x}$, entonces $u' = 1/(2\\sqrt{x})$ y $u^{2} = x$. La fórmula da $(1/(2\\sqrt{x})) / (1+x)$, que es $1 / (2\\sqrt{x}(1+x))$."
+  },
+  {
+    "pregunta": "¿Cuál es la derivada de $y = \\text{arccot}(2x)$?",
+    "opciones": [
+      "$y' = -\\frac{2}{1+4x^{2}}$",
+      "$y' = \\frac{2}{1+4x^{2}}$",
+      "$y' = -\\frac{2}{1+2x^{2}}$",
+      "$y' = -\\frac{1}{1+4x^{2}}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usando $-u' / (1+u^{2})$ con $u=2x$ y $u'=2$, obtenemos $-2 / (1+(2x)^{2}) = -2 / (1+4x^{2})$."
+  },
+  {
+    "pregunta": "En las seis fórmulas de derivadas de funciones trigonométricas inversas, ¿qué elemento es constante en todos los numeradores?",
+    "opciones": [
+      "El número 1",
+      "La derivada del ángulo ($u'$)",
+      "La función original",
+      "El signo negativo"
+    ],
+    "correcta": 1,
+    "resolucion": "Todas las reglas de derivación para estas funciones sitúan la derivada del argumento ($u'$) en el numerador."
+  }
+]
+        },
+        {
+          "titulo": "6.3 Funciones Trigonométricas",
+          "youtube_id": "IwY33ULCpGU",
+          "pdf_link": "https://drive.google.com/file/d/1gEcqWztVIDGCnZUUimF6XNv4MY6Xa_Fa/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "Determine el rango de la función definida por $f(x) = 4\\sin(x) + 3$ en el conjunto de los números reales.",
+    "opciones": [
+      "$[-1, 4]$",
+      "$[-1, 7]$",
+      "$[3, 7]$",
+      "$[-4, 4]$"
+    ],
+    "correcta": 1,
+    "resolucion": "Sabemos que $-1 \\leq \\sin(x) \\leq 1$. Multiplicando por 4, se tiene $-4 \\leq 4\\sin(x) \\leq 4$. Sumando 3 a toda la desigualdad, obtenemos $-1 \\leq 4\\sin(x) + 3 \\leq 7$. Por lo tanto, el rango es $[-1, 7]$."
+  },
+  {
+    "pregunta": "¿Cuál es el dominio de la función real $g(x) = \\frac{1}{\\cos(x)}$?",
+    "opciones": [
+      "$\\mathbb{R} - \\{n\\pi; n \\in \\mathbb{Z}\\}$",
+      "$\\mathbb{R}$",
+      "$\\mathbb{R} - \\{(2n+1)\\frac{\\pi}{2}; n \\in \\mathbb{Z}\\}$",
+      "$\\mathbb{R} - \\{0\\}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para que la función esté definida, el denominador debe ser diferente de cero: $\\cos(x) \\neq 0$. Los valores que hacen que el coseno sea cero son los múltiplos impares de $\\pi/2$, es decir, $x \\neq (2n+1)\\frac{\\pi}{2}$."
+  },
+  {
+    "pregunta": "Calcule el valor máximo que puede alcanzar la función $h(x) = 5\\sin(x) + 12\\cos(x)$.",
+    "opciones": [
+      "13",
+      "17",
+      "7",
+      "12"
+    ],
+    "correcta": 0,
+    "resolucion": "Para una función de la forma $f(x) = a\\sin(x) + b\\cos(x)$, el valor máximo es $\\sqrt{a^{2} + b^{2}}$. Aquí, $\\sqrt{5^{2} + 12^{2}} = \\sqrt{25 + 144} = \\sqrt{169} = 13$."
+  },
+  {
+    "pregunta": "Si $x \\in [0, \\frac{\\pi}{2}]$, determine el rango de la función $f(x) = \\sin(2x)$.",
+    "opciones": [
+      "$[0, 1/2]$",
+      "$[0, 1]$",
+      "$[-1, 1]$",
+      "$[0, \\pi]$"
+    ],
+    "correcta": 1,
+    "resolucion": "Si $0 \\leq x \\leq \\pi/2$, entonces al multiplicar por 2 tenemos $0 \\leq 2x \\leq \\pi$. En este intervalo (primer y segundo cuadrante), la función seno varía desde su valor mínimo 0 (en 0 y $\\pi$) hasta su valor máximo 1 (en $\\pi/2$)."
+  },
+  {
+    "pregunta": "Determine el periodo fundamental de la función trigonométrica $f(x) = \\cos(6x)$.",
+    "opciones": [
+      "$\\frac{\\pi}{3}$",
+      "$\\frac{\\pi}{6}$",
+      "$2\\pi$",
+      "$\\frac{2\\pi}{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "El periodo $T$ de una función $\\cos(kx)$ se calcula como $T = \\frac{2\\pi}{|k|}$. En este caso, $T = \\frac{2\\pi}{6} = \\frac{\\pi}{3}$."
+  },
+  {
+    "pregunta": "En la circunferencia trigonométrica (CT), si un arco termina en el segundo cuadrante, ¿cuál es el signo de su seno y de su coseno?",
+    "opciones": [
+      "Seno (+), Coseno (-)",
+      "Seno (-), Coseno (+)",
+      "Seno (+), Coseno (+)",
+      "Seno (-), Coseno (-)"
+    ],
+    "correcta": 0,
+    "resolucion": "En el segundo cuadrante, las ordenadas (eje Y, asociadas al seno) son positivas, mientras que las abscisas (eje X, asociadas al coseno) son negativas."
+  },
+  {
+    "pregunta": "Halle el valor mínimo de la función $f(x) = \\sin^{2}(x) - 4\\sin(x) + 5$.",
+    "opciones": [
+      "1",
+      "5",
+      "2",
+      "0"
+    ],
+    "correcta": 2,
+    "resolucion": "Completamos cuadrados: $f(x) = (\\sin(x) - 2)^{2} + 1$. Como el rango de $\\sin(x)$ es $[-1, 1]$, la expresión $(\\sin(x) - 2)$ varía entre $-3$ y $-1$. Al elevar al cuadrado, el valor mínimo de $(\\sin(x) - 2)^{2}$ ocurre cuando $\\sin(x) = 1$, dando $(-1)^{2} = 1$. Entonces, el valor mínimo de $f(x)$ es $1 + 1 = 2$."
+  },
+  {
+    "pregunta": "Simplifique la expresión trigonométrica $E = \\frac{\\sin(3x) + \\sin(x)}{\\cos(x)}$.",
+    "opciones": [
+      "$\\sin(2x)$",
+      "$2\\sin(2x)$",
+      "$2\\sin(x)$",
+      "$\\cos(2x)$"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la fórmula de transformación de suma a producto: $\\sin(3x) + \\sin(x) = 2\\sin(\\frac{3x+x}{2})\\cos(\\frac{3x-x}{2}) = 2\\sin(2x)\\cos(x)$. Al dividir por $\\cos(x)$, obtenemos $2\\sin(2x)$."
+  },
+  {
+    "pregunta": "Determine el rango de la función $f(x) = |\\sin(x)| + 2$.",
+    "opciones": [
+      "$[2, 3]$",
+      "$[0, 1]$",
+      "$[1, 3]$",
+      "$[2, +\\infty)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Sabemos que para cualquier $x$ real, $0 \\leq |\\sin(x)| \\leq 1$. Sumando 2 a la desigualdad, tenemos $2 \\leq |\\sin(x)| + 2 \\leq 3$. El rango es $[2, 3]$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de la función $f(x) = \\cos(x - \\frac{\\pi}{3})$ cuando el arco $x$ es igual a $\\frac{\\pi}{3}$?",
+    "opciones": [
+      "1",
+      "0",
+      "$1/2$",
+      "$\\frac{\\sqrt{3}}{2}$"
+    ],
+    "correcta": 0,
+    "resolucion": "Sustituyendo $x = \\pi/3$ en la función: $f(\\pi/3) = \\cos(\\pi/3 - \\pi/3) = \\cos(0)$. El valor del coseno de 0 es 1."
+  },
+  {
+    "pregunta": "Si $x \\in [\\frac{\\pi}{4}, \\frac{3\\pi}{4}]$, ¿cuál es el valor máximo de la función $f(x) = \\cos(x)$?",
+    "opciones": [
+      "1",
+      "0",
+      "$\\frac{\\sqrt{2}}{2}$",
+      "$-\\frac{\\sqrt{2}}{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "En el intervalo $[\\pi/4, 3\\pi/4]$, la función coseno es decreciente. Su valor máximo se alcanza en el extremo izquierdo: $\\cos(\\pi/4) = \\sqrt{2}/2$."
+  },
+  {
+    "pregunta": "Determine la amplitud de la función trigonométrica definida por $f(x) = -3\\sin(2x + \\frac{\\pi}{4})$.",
+    "opciones": [
+      "-3",
+      "2",
+      "3",
+      "$\\pi/4$"
+    ],
+    "correcta": 2,
+    "resolucion": "La amplitud de una función de la forma $A\\sin(kx + C)$ es el valor absoluto del coeficiente $A$, es decir, $|A|$. En este caso, $|-3| = 3$."
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes funciones trigonométricas tiene la propiedad de ser una función impar?",
+    "opciones": [
+      "$f(x) = \\sin(x)$",
+      "$f(x) = \\cos(x)$",
+      "$f(x) = |\\sin(x)|$",
+      "$f(x) = \\cos^{2}(x)$"
+    ],
+    "correcta": 0,
+    "resolucion": "Una función es impar si $f(-x) = -f(x)$. Para el seno, $\\sin(-x) = -\\sin(x)$. El coseno es una función par ya que $\\cos(-x) = \\cos(x)$."
+  },
+  {
+    "pregunta": "Determine el rango de la función $f(x) = 3 - 2\\sin^{2}(x)$.",
+    "opciones": [
+      "$[1, 5]$",
+      "$[1, 3]$",
+      "$[3, 5]$",
+      "$[-2, 3]$"
+    ],
+    "correcta": 1,
+    "resolucion": "Como $0 \\leq \\sin^{2}(x) \\leq 1$, multiplicamos por -2: $-2 \\leq -2\\sin^{2}(x) \\leq 0$. Sumando 3, resulta $1 \\leq 3 - 2\\sin^{2}(x) \\leq 3$. El rango es $[1, 3]$."
+  },
+  {
+    "pregunta": "Si el arco $x$ pertenece al tercer cuadrante, determine el intervalo de variación de la función $f(x) = 2\\cos(x) + 1$.",
+    "opciones": [
+      "$[-1, 1]$",
+      "$(-1, 1)$",
+      "$[-2, 1]$",
+      "$(-3, 1)$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el tercer cuadrante, $-1 < \\cos(x) < 0$. Multiplicando por 2, tenemos $-2 < 2\\cos(x) < 0$. Sumando 1, obtenemos $-1 < 2\\cos(x) + 1 < 1$."
+  },
+  {
+    "pregunta": "Determine el dominio de la función real $f(x) = \\sqrt{\\sin(x) - 1}$.",
+    "opciones": [
+      "$\\mathbb{R}$",
+      "$\\emptyset$",
+      "$\\{n\\pi; n \\in \\mathbb{Z}\\}$",
+      "$\\{\\frac{\\pi}{2} + 2n\\pi; n \\in \\mathbb{Z}\\}$"
+    ],
+    "correcta": 3,
+    "resolucion": "Para que la raíz cuadrada esté definida, el radicando debe ser mayor o igual a cero: $\\sin(x) - 1 \\geq 0$, lo que implica $\\sin(x) \\geq 1$. Dado que el valor máximo del seno es 1, la única posibilidad es $\\sin(x) = 1$, lo cual ocurre en $x = \\frac{\\pi}{2} + 2n\\pi$."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de $\\cos(2x)$ si se sabe que $\\sin(x) = 1/3$?",
+    "opciones": [
+      "$7/9$",
+      "$8/9$",
+      "$1/9$",
+      "$2/3$"
+    ],
+    "correcta": 0,
+    "resolucion": "Usamos la identidad del ángulo doble: $\\cos(2x) = 1 - 2\\sin^{2}(x)$. Sustituyendo el valor dado: $\\cos(2x) = 1 - 2(1/3)^{2} = 1 - 2(1/9) = 1 - 2/9 = 7/9$."
+  },
+  {
+    "pregunta": "Determine el rango de la función $f(x) = \\frac{2\\sin(x) + 3}{\\sin(x) + 2}$.",
+    "opciones": [
+      "$[1, 5/3]$",
+      "$[1, 2]$",
+      "$[0, 1]$",
+      "$[1/2, 3/2]$"
+    ],
+    "correcta": 0,
+    "resolucion": "Reescribimos la función: $f(x) = \\frac{2(\\sin(x) + 2) - 1}{\\sin(x) + 2} = 2 - \\frac{1}{\\sin(x) + 2}$. Como $-1 \\leq \\sin(x) \\leq 1$, entonces $1 \\leq \\sin(x) + 2 \\leq 3$. Invirtiendo, $1/3 \\leq 1/(\\sin(x) + 2) \\leq 1$. Multiplicando por -1 y sumando 2: $2 - 1 \\leq f(x) \\leq 2 - 1/3$, es decir, $1 \\leq f(x) \\leq 5/3$."
+  },
+  {
+    "pregunta": "Si $x \\in [-\\frac{\\pi}{6}, \\frac{\\pi}{6}]$, determine el rango de la función $f(x) = \\cos(x)$.",
+    "opciones": [
+      "$[1/2, 1]$",
+      "$[\\frac{\\sqrt{3}}{2}, 1]$",
+      "$[-1, 1]$",
+      "$[0, \\frac{\\sqrt{3}}{2}]$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el intervalo $[-\\pi/6, \\pi/6]$, la función coseno alcanza su máximo valor en $x=0$, donde $\\cos(0)=1$. El valor mínimo se alcanza en los extremos, donde $\\cos(-\\pi/6) = \\cos(\\pi/6) = \\sqrt{3}/2$."
+  },
+  {
+    "pregunta": "¿Cuál es el punto de intersección con el eje Y de la función trigonométrica $f(x) = 2\\sin(x + \\frac{\\pi}{6})$?",
+    "opciones": [
+      "1",
+      "2",
+      "0",
+      "$\\sqrt{3}$"
+    ],
+    "correcta": 0,
+    "resolucion": "El corte con el eje Y ocurre cuando $x=0$. Evaluamos: $f(0) = 2\\sin(0 + \\pi/6) = 2\\sin(\\pi/6) = 2(1/2) = 1$."
+  }
+]
+        }
+      ]
+    },
+    {
+      "titulo": "Tema 7: Geometría Analítica",
+      "videos": [
+        {
+          "titulo": "7.1 Distancia entre dos puntos",
+          "youtube_id": "HPS7B57keEE",
+          "pdf_link": "https://drive.google.com/file/d/1KQvkSjrlYSZR4iyN2oQFuAIrG1DvMkTe/view",
+          "gratis": true,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la distancia entre los puntos $A(1, 7)$ y $B(4, 3)$?",
+    "opciones": [
+      "3 unidades",
+      "4 unidades",
+      "5 unidades",
+      "25 unidades"
+    ],
+    "correcta": 2,
+    "resolucion": "Se aplica la fórmula de distancia: $d = \\sqrt{(4-1)^2 + (3-7)^2} = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+  },
+  {
+    "pregunta": "Calcule la distancia entre los puntos $P(-5, 2)$ y $Q(0, -4)$.",
+    "opciones": [
+      "$\\sqrt{11}$",
+      "$\\sqrt{61}$",
+      "11",
+      "7"
+    ],
+    "correcta": 1,
+    "resolucion": "Sustituyendo en la fórmula: $d = \\sqrt{(0 - (-5))^2 + (-4 - 2)^2} = \\sqrt{5^2 + (-6)^2} = \\sqrt{25 + 36} = \\sqrt{61}$."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula general para hallar la distancia '$d$' entre dos puntos $(x_{1}, y_{1})$ y $(x_{2}, y_{2})$?",
+    "opciones": [
+      "$d = (x_{2}-x_{1})^2 + (y_{2}-y_{1})^2$",
+      "$d = \\sqrt{(x_{2}+x_{1})^2 + (y_{2}+y_{1})^2}$",
+      "$d = \\sqrt{(x_{2}-x_{1})^2 + (y_{2}-y_{1})^2}$",
+      "$d = \\sqrt{(x_{2}-x_{1}) + (y_{2}-y_{1})}$"
+    ],
+    "correcta": 2,
+    "resolucion": "La fórmula se deriva del Teorema de Pitágoras, donde la distancia es la hipotenusa de un triángulo formado por las diferencias de las coordenadas."
+  },
+  {
+    "pregunta": "Determine la distancia desde el origen de coordenadas $(0, 0)$ hasta el punto $M(3, 4)$.",
+    "opciones": [
+      "7",
+      "5",
+      "$\\sqrt{7}$",
+      "25"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la fórmula: $d = \\sqrt{(3-0)^2 + (4-0)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
+  },
+  {
+    "pregunta": "Al elevar una diferencia negativa al cuadrado dentro de la fórmula de distancia, como $(-6)^2$, el resultado es:",
+    "opciones": [
+      "-36",
+      "12",
+      "36",
+      "-12"
+    ],
+    "correcta": 2,
+    "resolucion": "Cualquier número real (positivo o negativo) elevado a un exponente par resulta en un valor positivo. $(-6) \\times (-6) = 36$."
+  },
+  {
+    "pregunta": "¿Por qué el resultado de una distancia entre dos puntos siempre se expresa como un valor positivo?",
+    "opciones": [
+      "Porque las coordenadas siempre son positivas",
+      "Porque se trata de una longitud física y es el resultado de una raíz cuadrada principal",
+      "Porque la fórmula suma las coordenadas antes de elevarlas",
+      "Porque el plano cartesiano no admite valores negativos"
+    ],
+    "correcta": 1,
+    "resolucion": "Geométricamente, una distancia representa una magnitud de extensión, la cual no puede ser negativa."
+  },
+  {
+    "pregunta": "Calcule la distancia entre los puntos $R(2, -3)$ y $S(2, 5)$.",
+    "opciones": [
+      "2",
+      "8",
+      "$\\sqrt{8}$",
+      "64"
+    ],
+    "correcta": 1,
+    "resolucion": "Al tener la misma abscisa ($x=2$), la distancia es la diferencia absoluta de las ordenadas: $|5 - (-3)| = 8$."
+  },
+  {
+    "pregunta": "Si la distancia entre $(0, 0)$ y $(x, 0)$ es 10, ¿cuáles son los posibles valores de '$x$'?",
+    "opciones": [
+      "Solo 10",
+      "Solo -10",
+      "10 y -10",
+      "0 y 10"
+    ],
+    "correcta": 2,
+    "resolucion": "$\\sqrt{(x-0)^2 + (0-0)^2} = 10 \\Rightarrow \\sqrt{x^2} = 10 \\Rightarrow |x| = 10$. Por lo tanto, $x$ puede ser $10$ o $-10$."
+  },
+  {
+    "pregunta": "Halle el perímetro de un triángulo cuyos vértices son $A(0, 0)$, $B(3, 0)$ y $C(0, 4)$.",
+    "opciones": [
+      "7 unidades",
+      "10 unidades",
+      "12 unidades",
+      "14 unidades"
+    ],
+    "correcta": 2,
+    "resolucion": "Lado AB = 3, Lado AC = 4, Lado BC = $\\sqrt{3^2+4^2} = 5$. Perímetro: $3 + 4 + 5 = 12$."
+  },
+  {
+    "pregunta": "Simplifique la expresión de la distancia $\\sqrt{50}$ obtenida entre dos puntos.",
+    "opciones": [
+      "$5\\sqrt{2}$",
+      "$2\\sqrt{5}$",
+      "$25\\sqrt{2}$",
+      "$10\\sqrt{5}$"
+    ],
+    "correcta": 0,
+    "resolucion": "$\\sqrt{50} = \\sqrt{25 \\times 2} = \\sqrt{25} \\times \\sqrt{2} = 5\\sqrt{2}$."
+  },
+  {
+    "pregunta": "Determine la distancia entre los puntos $K(-1, -1)$ y $L(2, 2)$.",
+    "opciones": [
+      "3",
+      "$\\sqrt{18}$",
+      "18",
+      "6"
+    ],
+    "correcta": 1,
+    "resolucion": "$d = \\sqrt{(2 - (-1))^2 + (2 - (-1))^2} = \\sqrt{3^2 + 3^2} = \\sqrt{9 + 9} = \\sqrt{18}$."
+  },
+  {
+    "pregunta": "En la fórmula de distancia, ¿afecta el resultado si se intercambia el orden de los puntos (es decir, usar el punto 1 como punto 2)?",
+    "opciones": [
+      "Sí, el resultado cambia de signo",
+      "Sí, la distancia se vuelve negativa",
+      "No, el resultado es el mismo debido a que las diferencias se elevan al cuadrado",
+      "No, pero solo si las coordenadas son positivas"
+    ],
+    "correcta": 2,
+    "resolucion": "Al elevar al cuadrado, $(x_{2}-x_{1})^2$ es idéntico a $(x_{1}-x_{2})^2$."
+  },
+  {
+    "pregunta": "Halle la distancia entre los puntos $C(4, 10)$ y $D(9, 10)$.",
+    "opciones": [
+      "5",
+      "$\\sqrt{5}$",
+      "10",
+      "13"
+    ],
+    "correcta": 0,
+    "resolucion": "Como las ordenadas son iguales ($y=10$), la distancia es horizontal: $|9 - 4| = 5$."
+  },
+  {
+    "pregunta": "Calcule la distancia entre $A(-3, 4)$ y $B(3, -4)$.",
+    "opciones": [
+      "10",
+      "$\\sqrt{14}$",
+      "0",
+      "$\\sqrt{52}$"
+    ],
+    "correcta": 0,
+    "resolucion": "$d = \\sqrt{(3 - (-3))^2 + (-4 - 4)^2} = \\sqrt{6^2 + (-8)^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$."
+  },
+  {
+    "pregunta": "Si un segmento tiene un extremo en $(2, 3)$ y su longitud es 5, ¿cuál podría ser el otro extremo si se encuentra sobre el eje X?",
+    "opciones": [
+      "$(6, 0)$",
+      "$(2, 0)$",
+      "$(4, 0)$ y $(-4, 0)$",
+      "$(6, 0)$ y $(-2, 0)$"
+    ],
+    "correcta": 3,
+    "resolucion": "Punto $(x, 0)$: $\\sqrt{(x-2)^2 + (0-3)^2} = 5 \\Rightarrow (x-2)^2 + 9 = 25 \\Rightarrow (x-2)^2 = 16 \\Rightarrow x-2 = \\pm 4$. Entonces $x=6$ o $x=-2$."
+  },
+  {
+    "pregunta": "¿Qué nombre recibe el sistema donde se representan los puntos para calcular su distancia?",
+    "opciones": [
+      "Plano Euclidiano",
+      "Plano Cartesiano",
+      "Recta Numérica",
+      "Espacio Vectorial"
+    ],
+    "correcta": 1,
+    "resolucion": "El sistema de ejes coordenados perpendiculares se conoce como plano cartesiano."
+  },
+  {
+    "pregunta": "Determine la distancia entre $M(1, \\sqrt{2})$ y $N(4, \\sqrt{2})$.",
+    "opciones": [
+      "$\\sqrt{3}$",
+      "3",
+      "$\\sqrt{2}$",
+      "5"
+    ],
+    "correcta": 1,
+    "resolucion": "Diferencia de abscisas: $|4 - 1| = 3$. Las ordenadas se anulan en la resta."
+  },
+  {
+    "pregunta": "Calcule la distancia entre los puntos $P(7, 8)$ y $Q(7, 2)$.",
+    "opciones": [
+      "6",
+      "10",
+      "$\\sqrt{6}$",
+      "14"
+    ],
+    "correcta": 0,
+    "resolucion": "$d = \\sqrt{(7-7)^2 + (2-8)^2} = \\sqrt{0^2 + (-6)^2} = \\sqrt{36} = 6$."
+  },
+  {
+    "pregunta": "Si los puntos son $A(x_{1}, y_{1})$ y $B(x_{2}, y_{2})$, el término $(y_{2}-y_{1})$ en la fórmula representa:",
+    "opciones": [
+      "El desplazamiento horizontal",
+      "El desplazamiento vertical",
+      "La pendiente de la recta",
+      "El punto medio"
+    ],
+    "correcta": 1,
+    "resolucion": "La diferencia de las ordenadas '$y$' indica la longitud del cateto vertical del triángulo de referencia."
+  },
+  {
+    "pregunta": "Halle la distancia entre el punto $A(0, 0)$ y el punto $B(-6, -8)$.",
+    "opciones": [
+      "14",
+      "10",
+      "2",
+      "$\\sqrt{28}$"
+    ],
+    "correcta": 1,
+    "resolucion": "$d = \\sqrt{(-6-0)^2 + (-8-0)^2} = \\sqrt{36 + 64} = 10$."
+  }
+]
+        },
+        {
+          "titulo": "7.2 GEOMETRÍA ANALÍTICA - LA RECTA",
+          "youtube_id": "LWTtn3kfA8U",
+          "pdf_link": "https://drive.google.com/file/d/1KQvkSjrlYSZR4iyN2oQFuAIrG1DvMkTe/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cómo se define técnicamente la pendiente $m$ de una recta en función de su ángulo de inclinación $\\theta$?",
+    "opciones": [
+      "$m = \\sin \\theta$",
+      "$m = \\cos \\theta$",
+      "$m = \\tan \\theta$",
+      "$m = \\sec \\theta$"
+    ],
+    "correcta": 2,
+    "resolucion": "La pendiente de una recta se define como la razón trigonométrica tangente de su ángulo de inclinación medido desde el semieje positivo de las abscisas."
+  },
+  {
+    "pregunta": "Determine la pendiente $m$ de la recta que pasa por los puntos $A(2, 5)$ y $B(5, 7)$.",
+    "opciones": [
+      "$m = \\frac{3}{2}$",
+      "$m = \\frac{2}{3}$",
+      "$m = \\frac{12}{7}$",
+      "$m = 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Se utiliza la fórmula $m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}$. Sustituyendo: $m = \\frac{7 - 5}{5 - 2} = \\frac{2}{3}$."
+  },
+  {
+    "pregunta": "¿Cuál es la expresión general de la ecuación de la recta en su forma punto-pendiente?",
+    "opciones": [
+      "$Ax + By + C = 0$",
+      "$y = mx + b$",
+      "$y - y_{0} = m(x - x_{0})$",
+      "$\\frac{x}{a} + \\frac{y}{b} = 1$"
+    ],
+    "correcta": 2,
+    "resolucion": "La ecuación punto-pendiente relaciona un punto conocido $(x_{0}, y_{0})$ y la inclinación $m$ mediante la igualdad $y - y_{0} = m(x - x_{0})$."
+  },
+  {
+    "pregunta": "Dada la ecuación general $2x - 3y + 11 = 0$, determine la pendiente de la recta.",
+    "opciones": [
+      "$m = \\frac{2}{3}$",
+      "$m = -\\frac{2}{3}$",
+      "$m = \\frac{3}{2}$",
+      "$m = 2$"
+    ],
+    "correcta": 0,
+    "resolucion": "Despejando $y$: $3y = 2x + 11 \\Rightarrow y = \\frac{2}{3}x + \\frac{11}{3}$. El coeficiente de $x$ es la pendiente $m = \\frac{2}{3}$."
+  },
+  {
+    "pregunta": "Calcule el intercepto con el eje $X$ de la recta cuya ecuación es $5x - 2y + 10 = 0$.",
+    "opciones": [
+      "$x = 2$",
+      "$x = -2$",
+      "$x = 5$",
+      "$x = 0$"
+    ],
+    "correcta": 1,
+    "resolucion": "Para hallar el intercepto con el eje $X$, se establece $y = 0$. Entonces: $5x + 10 = 0 \\Rightarrow 5x = -10 \\Rightarrow x = -2$."
+  },
+  {
+    "pregunta": "¿Qué valor toma la pendiente $m$ de una recta que es completamente horizontal?",
+    "opciones": [
+      "$m = 1$",
+      "No existe",
+      "$m = 0$",
+      "$m = \\infty$"
+    ],
+    "correcta": 2,
+    "resolucion": "Una recta horizontal no tiene inclinación respecto al eje $X$ (ángulo de $0^\\circ$), por lo que $\\tan(0^\\circ) = 0$."
+  },
+  {
+    "pregunta": "Si dos rectas $L_{1}$ y $L_{2}$ son paralelas, ¿cuál es la relación entre sus pendientes $m_{1}$ y $m_{2}$?",
+    "opciones": [
+      "$m_{1} \\cdot m_{2} = -1$",
+      "$m_{1} = m_{2}$",
+      "$m_{1} + m_{2} = 0$",
+      "$m_{1} = -m_{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Geométricamente, las rectas paralelas mantienen el mismo ángulo de inclinación, por lo tanto, sus pendientes deben ser iguales."
+  },
+  {
+    "pregunta": "Halle el intercepto con el eje $Y$ de la recta definida por $5x + 2y - 10 = 0$.",
+    "opciones": [
+      "$y = -5$",
+      "$y = 2$",
+      "$y = 5$",
+      "$y = 10$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para el intercepto con el eje $Y$, se hace $x = 0$. La ecuación queda: $2y - 10 = 0 \\Rightarrow 2y = 10 \\Rightarrow y = 5$."
+  },
+  {
+    "pregunta": "¿Cuál es la condición para que dos rectas sean perpendiculares entre sí?",
+    "opciones": [
+      "Sus pendientes son iguales.",
+      "La suma de sus pendientes es 1.",
+      "El producto de sus pendientes es $-1$.",
+      "Una pendiente es el doble de la otra."
+    ],
+    "correcta": 2,
+    "resolucion": "Dos rectas son perpendiculares si y solo si el producto de sus pendientes es igual a $-1$ ($m_{1} \\cdot m_{2} = -1$)."
+  },
+  {
+    "pregunta": "Si la pendiente de una recta es $m = \\frac{5}{3}$, determine la pendiente de cualquier recta perpendicular a ella.",
+    "opciones": [
+      "$m = \\frac{3}{5}$",
+      "$m = -\\frac{3}{5}$",
+      "$m = -\\frac{5}{3}$",
+      "$m = -1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Para que el producto sea $-1$, se invierte la fracción y se cambia el signo: $m_{\\perp} = -\\frac{1}{5/3} = -\\frac{3}{5}$."
+  },
+  {
+    "pregunta": "¿Cómo se representa la ecuación de una recta vertical que pasa por el punto $(a, b)$?",
+    "opciones": [
+      "$y = b$",
+      "$x = a$",
+      "$y = mx + b$",
+      "$x + y = a + b$"
+    ],
+    "correcta": 1,
+    "resolucion": "En una recta vertical, todos los puntos comparten la misma abscisa, por lo que su ecuación es de la forma $x = \\text{constante}$."
+  },
+  {
+    "pregunta": "Determine la ecuación general de la recta que pasa por el punto $B(7, 8)$ y es paralela al segmento que une $A(2, 3)$ y $C(7, 5)$.",
+    "opciones": [
+      "$2x - 5y + 26 = 0$",
+      "$5x - 2y + 11 = 0$",
+      "$2x - 5y + 30 = 0$",
+      "$2x + 5y - 54 = 0$"
+    ],
+    "correcta": 0,
+    "resolucion": "Pendiente del segmento $AC$: $m = \\frac{5-3}{7-2} = \\frac{2}{5}$. Usando punto-pendiente con $B(7,8)$: $y-8 = \\frac{2}{5}(x-7) \\Rightarrow 5y-40 = 2x-14 \\Rightarrow 2x-5y+26 = 0$."
+  },
+  {
+    "pregunta": "Al simplificar la expresión $y - 5 = -\\frac{3}{5}(x - 7)$, ¿cuál es la ecuación general resultante?",
+    "opciones": [
+      "$3x + 5y - 46 = 0$",
+      "$3x - 5y + 4 = 0$",
+      "$5x + 3y - 50 = 0$",
+      "$3x + 5y + 46 = 0$"
+    ],
+    "correcta": 0,
+    "resolucion": "Multiplicando por 5: $5y - 25 = -3(x - 7) \\Rightarrow 5y - 25 = -3x + 21 \\Rightarrow 3x + 5y - 46 = 0$."
+  },
+  {
+    "pregunta": "Si una recta tiene una pendiente negativa ($m < 0$), ¿qué se puede afirmar sobre su gráfica?",
+    "opciones": [
+      "Es una recta horizontal.",
+      "La recta es creciente (sube de izquierda a derecha).",
+      "La recta es decreciente (baja de izquierda a derecha).",
+      "Es una recta que no pasa por el origen."
+    ],
+    "correcta": 2,
+    "resolucion": "Una pendiente negativa indica que a medida que $x$ aumenta, $y$ disminuye, lo que visualmente representa una recta descendente."
+  },
+  {
+    "pregunta": "¿Qué ocurre con la pendiente de una recta cuando su ángulo de inclinación es de $90^\\circ$?",
+    "opciones": [
+      "La pendiente es 1.",
+      "La pendiente es 0.",
+      "La pendiente no está definida (tiende a infinito).",
+      "La pendiente es $-1$."
+    ],
+    "correcta": 2,
+    "resolucion": "La pendiente es $\\tan(90^\\circ)$. Como el coseno de $90^\\circ$ es 0, la división por cero no está definida en los reales."
+  },
+  {
+    "pregunta": "Halle la pendiente de la recta perpendicular al lado $AB$ de un triángulo, donde $A(2, 3)$ y $B(5, 8)$.",
+    "opciones": [
+      "$m = \\frac{5}{3}$",
+      "$m = -\\frac{3}{5}$",
+      "$m = \\frac{3}{5}$",
+      "$m = -\\frac{5}{3}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Pendiente $AB$: $m_{AB} = \\frac{8-3}{5-2} = \\frac{5}{3}$. La pendiente perpendicular es su recíproca negativa: $-\\frac{3}{5}$."
+  },
+  {
+    "pregunta": "En la ecuación general $Ax + By + C = 0$, ¿cuál es la fórmula para calcular la pendiente $m$ directamente?",
+    "opciones": [
+      "$m = \\frac{A}{B}$",
+      "$m = -\\frac{A}{B}$",
+      "$m = -\\frac{B}{A}$",
+      "$m = -\\frac{C}{A}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al despejar $y$ de la ecuación general, obtenemos $By = -Ax - C \\Rightarrow y = (-\\frac{A}{B})x - \\frac{C}{B}$."
+  },
+  {
+    "pregunta": "Calcule la pendiente de una recta que pasa por los puntos $(0, 5)$ y $(-2, 0)$.",
+    "opciones": [
+      "$2.5$",
+      "$-2.5$",
+      "$0.4$",
+      "$2$"
+    ],
+    "correcta": 0,
+    "resolucion": "$m = \\frac{0 - 5}{-2 - 0} = \\frac{-5}{-2} = 2.5$."
+  },
+  {
+    "pregunta": "¿Cuál es la ecuación de la recta que coincide con el eje $X$?",
+    "opciones": [
+      "$x = 0$",
+      "$y = 0$",
+      "$y = x$",
+      "$x + y = 0$"
+    ],
+    "correcta": 1,
+    "resolucion": "En el eje $X$, todos los puntos tienen una ordenada igual a cero, por lo tanto, su ecuación es $y = 0$."
+  },
+  {
+    "pregunta": "Determine la ecuación de una recta horizontal que pasa por el punto $(4, -8)$.",
+    "opciones": [
+      "$x = 4$",
+      "$y = 4$",
+      "$y = -8$",
+      "$x = -8$"
+    ],
+    "correcta": 2,
+    "resolucion": "Una recta horizontal tiene la forma $y = k$. Como pasa por $(4, -8)$, el valor de $y$ siempre debe ser $-8$."
+  }
+]
+        },
+        {
+          "titulo": "7.3 PERPENDICULARES FUNCIÓN LINEA",
+          "youtube_id": "KmqeuA7w9gs",
+          "pdf_link": "https://drive.google.com/file/d/1KQvkSjrlYSZR4iyN2oQFuAIrG1DvMkTe/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la forma general de la ecuación de la recta analizada para determinar su pendiente y ordenada al origen?",
+    "opciones": [
+      "$y = mx + b$",
+      "$Ax + By + C = 0$",
+      "$\\frac{x}{a} + \\frac{y}{b} = 1$",
+      "$y - y_{1} = m(x - x_{1})$"
+    ],
+    "correcta": 0,
+    "resolucion": "La forma explícita o de pendiente-ordenada al origen $y = mx + b$ permite identificar directamente la pendiente $m$ y el punto de corte con el eje vertical $b$."
+  },
+  {
+    "pregunta": "Dadas dos rectas con pendientes $m_{1}$ y $m_{2}$, ¿qué condición matemática deben cumplir para ser paralelas?",
+    "opciones": [
+      "$m_{1} \\cdot m_{2} = -1$",
+      "$m_{1} = m_{2}$",
+      "$m_{1} + m_{2} = 0$",
+      "$m_{1} = -m_{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Dos rectas son paralelas si y solo si tienen la misma inclinación respecto al eje de las abscisas, lo que implica que sus pendientes son iguales."
+  },
+  {
+    "pregunta": "¿Cuál es la relación necesaria entre las pendientes $m_{1}$ y $m_{2}$ para que dos rectas sean perpendiculares?",
+    "opciones": [
+      "$m_{1} = m_{2}$",
+      "$m_{1} \\cdot m_{2} = 1$",
+      "$m_{1} \\cdot m_{2} = -1$",
+      "$m_{1} - m_{2} = 90^\\circ$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para que dos rectas sean perpendiculares (formen un ángulo de $90^\\circ$), sus pendientes deben ser inversas y de signo contrario, es decir, su producto es $-1$."
+  },
+  {
+    "pregunta": "Identifique la pendiente de la recta cuya ecuación es $y = \\frac{1}{4}x + 2$.",
+    "opciones": [
+      "$2$",
+      "$4$",
+      "$\\frac{1}{4}$",
+      "$1$"
+    ],
+    "correcta": 2,
+    "resolucion": "En la ecuación $y = mx + b$, el coeficiente que acompaña a la variable independiente $x$ es la pendiente. Por lo tanto, $m = \\frac{1}{4}$."
+  },
+  {
+    "pregunta": "Si una recta $L_{1}$ tiene una pendiente $m_{1} = 5$, ¿cuál debe ser la pendiente de una recta $L_{2}$ perpendicular a ella?",
+    "opciones": [
+      "$5$",
+      "$-5$",
+      "$\\frac{1}{5}$",
+      "$-\\frac{1}{5}$"
+    ],
+    "correcta": 3,
+    "resolucion": "Utilizando la propiedad $m_{1} \\cdot m_{2} = -1$, despejamos $m_{2} = -\\frac{1}{m_{1}}$. Sustituyendo, obtenemos $m_{2} = -\\frac{1}{5}$."
+  },
+  {
+    "pregunta": "¿Qué representa el término independiente $b$ en la función lineal $y = mx + b$?",
+    "opciones": [
+      "La pendiente.",
+      "El intercepto con el eje X.",
+      "La ordenada al origen (corte con el eje Y).",
+      "El desplazamiento horizontal."
+    ],
+    "correcta": 2,
+    "resolucion": "El valor $b$ indica la coordenada en el eje $Y$ por donde pasa la recta cuando $x = 0$."
+  },
+  {
+    "pregunta": "Al graficar una recta con pendiente $m = \\frac{1}{4}$ partiendo desde la ordenada al origen, ¿cuál es el desplazamiento horizontal para hallar el segundo punto?",
+    "opciones": [
+      "$1$ unidad hacia arriba.",
+      "$4$ unidades hacia la derecha.",
+      "$1$ unidad hacia la derecha.",
+      "$4$ unidades hacia arriba."
+    ],
+    "correcta": 1,
+    "resolucion": "En la pendiente expresada como fracción, el denominador indica las unidades de desplazamiento en el eje $X$ (derecha)."
+  },
+  {
+    "pregunta": "Si se tiene la ecuación $-\\frac{1}{4}x + y = -3$, ¿cuál es su pendiente tras despejar la variable $y$?",
+    "opciones": [
+      "$-\\frac{1}{4}$",
+      "$-3$",
+      "$4$",
+      "$\\frac{1}{4}$"
+    ],
+    "correcta": 3,
+    "resolucion": "Al despejar $y$, el término $-\\frac{1}{4}x$ pasa al segundo miembro con signo positivo: $y = \\frac{1}{4}x - 3$. La pendiente es $\\frac{1}{4}$."
+  },
+  {
+    "pregunta": "Determine el tipo de relación entre las rectas $y = -\\frac{1}{5}x + 3$ y $y = -\\frac{1}{5}x + 5$.",
+    "opciones": [
+      "Perpendiculares.",
+      "Paralelas.",
+      "Secantes no perpendiculares.",
+      "Coincidentes."
+    ],
+    "correcta": 1,
+    "resolucion": "Ambas ecuaciones presentan la misma pendiente ($m = -\\frac{1}{5}$), lo que las define como rectas paralelas."
+  },
+  {
+    "pregunta": "¿Cuál es el valor de la pendiente para una recta que es paralela al eje de las abscisas?",
+    "opciones": [
+      "$0$",
+      "$1$",
+      "No está definida.",
+      "$-1$"
+    ],
+    "correcta": 0,
+    "resolucion": "Una recta paralela al eje $X$ es horizontal, por lo que no tiene inclinación y su pendiente es nula ($m = 0$)."
+  },
+  {
+    "pregunta": "Si la pendiente de una recta es $m = -\\frac{1}{5}$, ¿cómo se interpreta gráficamente el desplazamiento vertical?",
+    "opciones": [
+      "$1$ unidad hacia arriba.",
+      "$5$ unidades hacia abajo.",
+      "$1$ unidad hacia abajo.",
+      "$5$ unidades hacia la izquierda."
+    ],
+    "correcta": 2,
+    "resolucion": "El signo negativo en el numerador de la pendiente indica un descenso de una unidad en el eje vertical $Y$."
+  },
+  {
+    "pregunta": "Halle la pendiente de una recta perpendicular a $y = -\\frac{1}{5}x + 5$.",
+    "opciones": [
+      "$\\frac{1}{5}$",
+      "$5$",
+      "$-5$",
+      "$-\\frac{1}{5}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La recíproca negativa de $-\\frac{1}{5}$ es $5$, ya que $(-\\frac{1}{5}) \\cdot (5) = -1$."
+  },
+  {
+    "pregunta": "Para la recta $y = 5x - 1$, ¿cuál es el punto de inicio en el eje $Y$ para realizar la gráfica?",
+    "opciones": [
+      "$(5, 0)$",
+      "$(0, 5)$",
+      "$(0, -1)$",
+      "$(-1, 0)$"
+    ],
+    "correcta": 2,
+    "resolucion": "El punto inicial es la ordenada al origen $(0, b)$. Dado que $b = -1$, el punto es $(0, -1)$."
+  },
+  {
+    "pregunta": "Si el producto de las pendientes de dos rectas es igual a $1$, ¿qué se puede afirmar?",
+    "opciones": [
+      "Son perpendiculares.",
+      "Son paralelas.",
+      "No son perpendiculares (debería ser $-1$).",
+      "Son la misma recta."
+    ],
+    "correcta": 2,
+    "resolucion": "La condición de perpendicularidad exige específicamente que el producto sea $-1$. Un producto de $1$ no tiene una interpretación geométrica especial de este tipo."
+  },
+  {
+    "pregunta": "Dada la pendiente $m = 5$, ¿cómo se expresa en forma de fracción para facilitar su representación gráfica?",
+    "opciones": [
+      "$\\frac{1}{5}$",
+      "$\\frac{5}{5}$",
+      "$\\frac{5}{1}$",
+      "$\\frac{5}{0}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Cualquier número entero puede expresarse como una fracción con denominador $1$, indicando que sube $5$ unidades por cada $1$ que avanza a la derecha."
+  },
+  {
+    "pregunta": "¿Qué ocurre con la gráfica de una función lineal si cambiamos únicamente el valor de $b$ pero mantenemos $m$ constante?",
+    "opciones": [
+      "La recta cambia de inclinación.",
+      "Se obtiene una familia de rectas perpendiculares.",
+      "La recta se desplaza verticalmente generando rectas paralelas.",
+      "La recta se vuelve curva."
+    ],
+    "correcta": 2,
+    "resolucion": "Al mantener la misma pendiente, las rectas conservan su ángulo de inclinación, resultando paralelas entre sí en distintas alturas del eje $Y$."
+  },
+  {
+    "pregunta": "¿Cuál es la pendiente de una recta perpendicular a una recta horizontal?",
+    "opciones": [
+      "$0$",
+      "$1$",
+      "No está definida (recta vertical).",
+      "$-1$"
+    ],
+    "correcta": 2,
+    "resolucion": "La perpendicular a una recta horizontal ($m=0$) es una recta vertical, cuya pendiente no está definida en el conjunto de los números reales."
+  },
+  {
+    "pregunta": "Identifique la ordenada al origen de la recta cuya gráfica pasa por $(0, 3)$ y tiene pendiente $m = -\\frac{1}{4}$.",
+    "opciones": [
+      "$0$",
+      "$3$",
+      "$-3$",
+      "$-\\frac{1}{4}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Puesto que el punto $(0, 3)$ se encuentra sobre el eje $Y$, el valor de su ordenada es directamente el valor de $b$."
+  },
+  {
+    "pregunta": "Si dos rectas son perpendiculares y una de ellas tiene pendiente positiva, ¿cómo debe ser la pendiente de la otra?",
+    "opciones": [
+      "Igual y positiva.",
+      "Negativa.",
+      "Cero.",
+      "Mayor que $1$."
+    ],
+    "correcta": 1,
+    "resolucion": "Para que el producto de dos números sea $-1$, obligatoriamente deben tener signos opuestos."
+  },
+  {
+    "pregunta": "¿En qué cuadrantes se ubica principalmente una recta con $m > 0$ y $b = 0$?",
+    "opciones": [
+      "I y III.",
+      "II y IV.",
+      "Solo en el I.",
+      "I y II."
+    ],
+    "correcta": 0,
+    "resolucion": "Al pasar por el origen ($b=0$) y tener pendiente positiva, la recta cruza el primer cuadrante (valores positivos de $x, y$) y el tercer cuadrante (valores negativos de $x, y$)."
+  }
+]
+        },
+	{
+          "titulo": "7.4 Ángulos entre dos rectas paralelas",
+          "youtube_id": "nalz6-ye08M",
+          "pdf_link": "https://drive.google.com/file/d/1KQvkSjrlYSZR4iyN2oQFuAIrG1DvMkTe/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la condición necesaria para que dos rectas en un mismo plano sean consideradas paralelas?",
+    "opciones": [
+      "Su intersección debe ser un punto.",
+      "Su intersección debe ser el conjunto vacío.",
+      "Deben formar un ángulo de 90^\\circ.",
+      "Deben ser perpendiculares a una tercera recta."
+    ],
+    "correcta": 1,
+    "resolucion": "Dos rectas coplanares son paralelas si no tienen ningún punto en común, es decir, su intersección es el vacío ($L_{1} \\cap L_{2} = \\emptyset$)."
+  },
+  {
+    "pregunta": "Si dos rectas paralelas son cortadas por una secante, ¿qué relación guardan los ángulos correspondientes?",
+    "opciones": [
+      "Son suplementarios (suman 180^\\circ).",
+      "Son complementarios (suman 90^\\circ).",
+      "Son iguales en medida.",
+      "Su suma es igual a 360^\\circ."
+    ],
+    "correcta": 2,
+    "resolucion": "Por propiedad fundamental de las paralelas, los ángulos que ocupan la misma posición relativa respecto a la secante (correspondientes) tienen la misma medida."
+  },
+  {
+    "pregunta": "En la propiedad de los ángulos alternos internos (conocida como la 'Z'), ¿cómo son las medidas de los ángulos involucrados si las rectas son paralelas?",
+    "opciones": [
+      "Uno es el doble del otro.",
+      "Suman 180^\\circ.",
+      "Son iguales.",
+      "Dependen de la inclinación de la secante."
+    ],
+    "correcta": 2,
+    "resolucion": "Los ángulos alternos internos se encuentran a lados opuestos de la secante y entre las paralelas; si las rectas son paralelas, estos ángulos son iguales."
+  },
+  {
+    "pregunta": "¿Qué nombre reciben los ángulos situados entre dos rectas paralelas y al mismo lado de la secante, cuya suma es 180^\\circ?",
+    "opciones": [
+      "Ángulos conjugados internos.",
+      "Ángulos alternos externos.",
+      "Ángulos correspondientes.",
+      "Ángulos opuestos por el vértice."
+    ],
+    "correcta": 0,
+    "resolucion": "Los ángulos conjugados internos (propiedad de la 'C') son aquellos que se encuentran en la región interna de las paralelas y del mismo lado de la secante; su suma siempre es 180^\\circ."
+  },
+  {
+    "pregunta": "Según la propiedad de la letra 'M' entre dos rectas paralelas, si se forma un ángulo central $x$ mediante dos rayos, ¿a qué es igual su medida?",
+    "opciones": [
+      "A la diferencia de los ángulos laterales.",
+      "A la suma de los ángulos laterales que apuntan en sentido opuesto.",
+      "Siempre es 90^\\circ.",
+      "A la mitad de la suma de los ángulos internos."
+    ],
+    "correcta": 1,
+    "resolucion": "La propiedad establece que el ángulo $x$ formado entre las paralelas es igual a la suma de los dos ángulos interiores que 'miran' hacia el lado contrario ($x = \\alpha + \\beta$)."
+  },
+  {
+    "pregunta": "En la propiedad del 'Serrucho' o zigzag, ¿cuál es la relación entre los ángulos que apuntan hacia la izquierda y los que apuntan hacia la derecha?",
+    "opciones": [
+      "La suma de los de la izquierda es igual a la suma de los de la derecha.",
+      "Los de la izquierda son el doble de los de la derecha.",
+      "Suman 180^\\circ entre todos.",
+      "La suma de todos los ángulos es 360^\\circ."
+    ],
+    "correcta": 0,
+    "resolucion": "Para cualquier número de segmentos en zigzag entre paralelas, se cumple que la suma de las medidas de los ángulos que apuntan hacia un lado es igual a la suma de las medidas de los que apuntan al lado opuesto."
+  },
+  {
+    "pregunta": "En una estructura de ángulos en escalera entre paralelas, si los ángulos internos sucesivos son $\\alpha, \\beta, \\theta$ y $\\gamma$, ¿cuánto suma el conjunto total de estos ángulos internos?",
+    "opciones": [
+      "90^\\circ",
+      "180^\\circ",
+      "270^\\circ",
+      "360^\\circ"
+    ],
+    "correcta": 1,
+    "resolucion": "Cuando se tienen ángulos internos sucesivos que van 'cerrando' el camino entre dos paralelas, la suma de todos ellos es igual a 180^\\circ."
+  },
+  {
+    "pregunta": "Para determinar la medida del ángulo entre dos rectas cualesquiera que no se intersecan en el papel, ¿qué procedimiento técnico se recomienda?",
+    "opciones": [
+      "Medir la distancia entre ellas.",
+      "Trazar una paralela a una de las rectas desde un punto de la otra.",
+      "Asumir que son perpendiculares.",
+      "Prolongarlas hasta el infinito."
+    ],
+    "correcta": 1,
+    "resolucion": "Se debe desplazar una de las rectas paralelamente hasta que interseque a la otra; el ángulo formado en ese punto es la medida del ángulo entre las dos rectas originales."
+  },
+  {
+    "pregunta": "¿Qué símbolo se utiliza para indicar que la recta $L_{1}$ es perpendicular a la recta $L_{2}$?",
+    "opciones": [
+      "$L_{1} \\parallel L_{2}$",
+      "$L_{1} = L_{2}$",
+      "$L_{1} \\perp L_{2}$",
+      "$L_{1} \\angle L_{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "La perpendicularidad se representa con una 'T' invertida ($ \\perp $), indicando que las rectas forman un ángulo de 90^\\circ."
+  },
+  {
+    "pregunta": "Utilizando el concepto de rectas paralelas, ¿cómo se demuestra que la suma de los ángulos internos de un triángulo es 180^\\circ?",
+    "opciones": [
+      "Trazando una paralela a uno de los lados por el vértice opuesto.",
+      "Dividiendo el triángulo en dos ángulos rectos.",
+      "Midiendo con un transportador.",
+      "Inscribiendo el triángulo en una circunferencia."
+    ],
+    "correcta": 0,
+    "resolucion": "Al trazar una paralela a la base por el vértice superior, los ángulos internos se trasladan por alternos internos, completando un ángulo llano (180^\\circ) sobre la paralela."
+  },
+  {
+    "pregunta": "En una figura de cuadrilátero cóncavo (tipo 'boomerang') con ángulos internos $A, B$ y $C$, ¿cuál es la medida del ángulo exterior opuesto $x$?",
+    "opciones": [
+      "$x = A + B - C$",
+      "$x = A + B + C$",
+      "$x = 180^\\circ - (A+B+C)$",
+      "$x = \\frac{A+B+C}{2}$"
+    ],
+    "correcta": 1,
+    "resolucion": "Por propiedad deducida mediante paralelas, el ángulo exterior $x$ es igual a la suma de los tres ángulos internos no adyacentes."
+  },
+  {
+    "pregunta": "Si en un gráfico de paralelas con propiedad de la 'M', el ángulo central mide 60^\\circ y uno de los ángulos laterales mide 20^\\circ, ¿cuánto mide el otro ángulo lateral?",
+    "opciones": [
+      "80^\\circ",
+      "30^\\circ",
+      "40^\\circ",
+      "20^\\circ"
+    ],
+    "correcta": 2,
+    "resolucion": "Si $x = \\alpha + \\beta$, entonces $60^\\circ = 20^\\circ + \\beta$, lo que resulta en $\\beta = 40^\\circ$."
+  },
+  {
+    "pregunta": "Si las rectas $L_{1}$ y $L_{2}$ son paralelas y se tiene un sistema de ángulos conjugados internos donde un ángulo mide $\\alpha$ y el otro mide $2\\alpha$, ¿cuál es el valor de $\\alpha$?",
+    "opciones": [
+      "30^\\circ",
+      "45^\\circ",
+      "60^\\circ",
+      "90^\\circ"
+    ],
+    "correcta": 2,
+    "resolucion": "Los conjugados internos suman 180^\\circ. Entonces $\\alpha + 2\\alpha = 180^\\circ \\Rightarrow 3\\alpha = 180^\\circ \\Rightarrow \\alpha = 60^\\circ$."
+  },
+  {
+    "pregunta": "¿Qué ocurre si en un plano dos rectas no son paralelas?",
+    "opciones": [
+      "Nunca se cruzan.",
+      "Deben ser secantes (se intersecan en un punto).",
+      "Son necesariamente perpendiculares.",
+      "Están en planos diferentes."
+    ],
+    "correcta": 1,
+    "resolucion": "En geometría plana, las posiciones de dos rectas son excluyentes: o son paralelas (no se intersecan) o son secantes (se cortan en un punto)."
+  },
+  {
+    "pregunta": "Si dos ángulos son suplementarios, ¿cuál es su suma en grados sexagesimales?",
+    "opciones": [
+      "90^\\circ",
+      "180^\\circ",
+      "270^\\circ",
+      "360^\\circ"
+    ],
+    "correcta": 1,
+    "resolucion": "Dos ángulos se definen como suplementarios cuando la suma de sus medidas es exactamente 180^\\circ."
+  },
+  {
+    "pregunta": "En la propiedad del 'Serrucho', si hacia la derecha apuntan ángulos de 40^\\circ, 50^\\circ y 20^\\circ, y hacia la izquierda apuntan $x$ y 90^\\circ, ¿cuánto vale $x$?",
+    "opciones": [
+      "10^\\circ",
+      "20^\\circ",
+      "30^\\circ",
+      "40^\\circ"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma izquierda = Suma derecha: $x + 90^\\circ = 40^\\circ + 50^\\circ + 20^\\circ \\Rightarrow x + 90^\\circ = 110^\\circ \\Rightarrow x = 20^\\circ$."
+  },
+  {
+    "pregunta": "Si $\\alpha$ y $\\beta$ son ángulos suplementarios y aparecen en un sistema de paralelas como parte de un zigzag, ¿cómo se traslada la medida si se conoce que $\\alpha + \\beta = 180^\\circ$?",
+    "opciones": [
+      "$\\beta$ es igual al ángulo opuesto por el vértice de $\\alpha$.",
+      "$\\alpha$ y $\\beta$ pueden ser considerados como el mismo ángulo trasladado.",
+      "Se pueden usar para completar ángulos llanos de 180^\\circ.",
+      "No tienen relación con el sistema de paralelas."
+    ],
+    "correcta": 2,
+    "resolucion": "El dato de suplementariedad permite completar líneas rectas o identificar ángulos sobre una misma línea secante para aplicar las propiedades de correspondencia o alternos."
+  },
+  {
+    "pregunta": "Al trazar una paralela auxiliar en un problema de geometría, ¿qué beneficio principal se obtiene?",
+    "opciones": [
+      "Dividir la figura en dos partes iguales.",
+      "Trasladar ángulos de una región a otra mediante propiedades de paralelas.",
+      "Aumentar el número de vértices.",
+      "Cambiar el tipo de polígono."
+    ],
+    "correcta": 1,
+    "resolucion": "Las paralelas auxiliares permiten 'conectar' ángulos distantes aplicando reglas de alternos, correspondientes o conjugados, facilitando la resolución de ecuaciones angulares."
+  },
+  {
+    "pregunta": "¿Qué se cumple en un sistema donde una recta secante es perpendicular a una de dos rectas paralelas?",
+    "opciones": [
+      "Es perpendicular también a la segunda paralela.",
+      "Es paralela a la segunda recta.",
+      "Forma un ángulo de 45^\\circ con la segunda.",
+      "No se puede determinar el ángulo con la segunda."
+    ],
+    "correcta": 0,
+    "resolucion": "Si una recta corta a una de dos paralelas formando 90^\\circ, por ángulos correspondientes también formará 90^\\circ con la otra paralela."
+  },
+  {
+    "pregunta": "En un zigzag entre paralelas donde los ángulos de un lado son $x, 60^\\circ, 30^\\circ$ y los del otro son $40^\\circ, 50^\\circ, 20^\\circ$, ¿cuál es el valor de $x$?",
+    "opciones": [
+      "10^\\circ",
+      "20^\\circ",
+      "30^\\circ",
+      "0^\\circ"
+    ],
+    "correcta": 1,
+    "resolucion": "Suma L = Suma R: $x + 60 + 30 = 40 + 50 + 20 \\Rightarrow x + 90 = 110 \\Rightarrow x = 20^\\circ$."
+  }
+]
+        },
+	{
+          "titulo": "7.5 Ecuaciones de elipse",
+          "youtube_id": "39LW5naN_Ao",
+          "pdf_link": "https://drive.google.com/file/d/1KQvkSjrlYSZR4iyN2oQFuAIrG1DvMkTe/view",
+          "gratis": false,
+          "preguntas": [
+{
+    "pregunta": "¿Cuál es la definición geométrica de una elipse según el lugar geométrico de sus puntos?",
+    "opciones": [
+      "Es el conjunto de puntos cuya distancia a un punto fijo es constante.",
+      "Es el conjunto de puntos cuya suma de distancias a dos puntos fijos llamados focos es constante.",
+      "Es el conjunto de puntos cuya diferencia de distancias a dos puntos fijos es constante.",
+      "Es el conjunto de puntos que equidistan de una recta y un punto fijo."
+    ],
+    "correcta": 1,
+    "resolucion": "Por definición, una elipse es el lugar geométrico de los puntos del plano tales que la suma de sus distancias a dos puntos fijos (foci) es una cantidad constante denominada $2a$."
+  },
+  {
+    "pregunta": "¿Cuál es la relación fundamental que vincula los parámetros $a$, $b$ y $c$ en una elipse?",
+    "opciones": [
+      "$c^{2} = a^{2} + b^{2}$",
+      "$a^{2} = b^{2} + c^{2}$",
+      "$b^{2} = a^{2} + c^{2}$",
+      "$a + b = c$"
+    ],
+    "correcta": 1,
+    "resolucion": "En la elipse, el semieje mayor $a$ es siempre la mayor de las tres cantidades, cumpliéndose la relación pitagórica $a^{2} = b^{2} + c^{2}$."
+  },
+  {
+    "pregunta": "En una elipse horizontal con centro en el origen $(0,0)$, ¿cuál es su ecuación canónica u ordinaria?",
+    "opciones": [
+      "$\\frac{x^{2}}{b^{2}} + \\frac{y^{2}}{a^{2}} = 1$",
+      "$\\frac{x^{2}}{a^{2}} - \\frac{y^{2}}{b^{2}} = 1$",
+      "$\\frac{x^{2}}{a^{2}} + \\frac{y^{2}}{b^{2}} = 1$",
+      "$x^{2} + y^{2} = r^{2}$"
+    ],
+    "correcta": 2,
+    "resolucion": "Para una elipse horizontal, el semieje mayor $a$ se encuentra bajo la variable $x$, resultando en $\\frac{x^{2}}{a^{2}} + \\frac{y^{2}}{b^{2}} = 1$."
+  },
+  {
+    "pregunta": "¿Cómo se define técnicamente la excentricidad $e$ de una elipse?",
+    "opciones": [
+      "$e = \\frac{a}{c}$",
+      "$e = \\frac{c}{a}$",
+      "$e = \\frac{b}{a}$",
+      "$e = \\sqrt{a^{2} - b^{2}}$"
+    ],
+    "correcta": 1,
+    "resolucion": "La excentricidad es la razón entre la distancia del centro al foco ($c$) y el semieje mayor ($a$), expresada como $e = \\frac{c}{a}$."
+  },
+  {
+    "pregunta": "¿Qué valor toma la excentricidad en una circunferencia, considerada un caso especial de elipse?",
+    "opciones": [
+      "$e = 1$",
+      "$e = 0.5$",
+      "$e = 0$",
+      "$e > 1$"
+    ],
+    "correcta": 2,
+    "resolucion": "En una circunferencia, los focos coinciden con el centro ($c = 0$), por lo que la excentricidad $e = \\frac{0}{a} = 0$."
+  },
+  {
+    "pregunta": "¿Cuál es la fórmula para calcular la longitud del 'lado recto' ($LR$) de una elipse?",
+    "opciones": [
+      "$LR = \\frac{b^{2}}{a}$",
+      "$LR = \\frac{2a^{2}}{b}$",
+      "$LR = \\frac{2b^{2}}{a}$",
+      "$LR = 2a$"
+    ],
+    "correcta": 2,
+    "resolucion": "El lado recto es el segmento perpendicular al eje focal que pasa por uno de los focos y sus extremos están en la elipse. Su longitud es $LR = \\frac{2b^{2}}{a}$."
+  },
+  {
+    "pregunta": "Si una elipse tiene semieje mayor $a = 5$ y semieje menor $b = 3$, ¿a qué distancia del centro se encuentran los focos?",
+    "opciones": [
+      "$2$ unidades",
+      "$4$ unidades",
+      "$\\sqrt{34}$ unidades",
+      "$16$ unidades"
+    ],
+    "correcta": 1,
+    "resolucion": "Usando la relación $c^{2} = a^{2} - b^{2}$, tenemos $c^{2} = 5^{2} - 3^{2} = 25 - 9 = 16$. Por lo tanto, $c = \\sqrt{16} = 4$."
+  },
+  {
+    "pregunta": "¿Qué representa la cantidad $2c$ en la geometría de la elipse?",
+    "opciones": [
+      "La longitud del eje mayor.",
+      "La longitud del eje menor.",
+      "La distancia focal (distancia entre ambos focos).",
+      "La excentricidad total."
+    ],
+    "correcta": 2,
+    "resolucion": "La distancia desde el centro a cada foco es $c$, por lo que la distancia total entre los dos focos es $2c$."
+  },
+  {
+    "pregunta": "Determine la ecuación de una elipse vertical centrada en el origen donde el semieje mayor es $a$.",
+    "opciones": [
+      "$\\frac{x^{2}}{a^{2}} + \\frac{y^{2}}{b^{2}} = 1$",
+      "$\\frac{x^{2}}{b^{2}} + \\frac{y^{2}}{a^{2}} = 1$",
+      "$\\frac{x^{2}}{b^{2}} - \\frac{y^{2}}{a^{2}} = 1$",
+      "$\\frac{x}{b} + \\frac{y}{a} = 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "En una elipse vertical, la longitud mayor $a$ se asocia al eje $Y$, por lo que $a^{2}$ debe estar como denominador de $y^{2}$."
+  },
+  {
+    "pregunta": "¿Cuál es la suma de las distancias de cualquier punto $P(x, y)$ de la elipse hacia sus dos focos?",
+    "opciones": [
+      "$2c$",
+      "$2b$",
+      "$2a$",
+      "$a + c$"
+    ],
+    "correcta": 2,
+    "resolucion": "De la definición de la elipse, la suma constante de las distancias de un punto a los focos es igual a la longitud del eje mayor, representada por $2a$."
+  },
+  {
+    "pregunta": "Si el centro de una elipse horizontal se encuentra en $(h, k)$, ¿cómo se modifica su ecuación ordinaria?",
+    "opciones": [
+      "$\\frac{(x+h)^{2}}{a^{2}} + \\frac{(y+k)^{2}}{b^{2}} = 1$",
+      "$\\frac{(x-h)^{2}}{a^{2}} + \\frac{(y-k)^{2}}{b^{2}} = 1$",
+      "$\\frac{(x-h)^{2}}{b^{2}} + \\frac{(y-k)^{2}}{a^{2}} = 1$",
+      "$\\frac{x-h}{a} + \\frac{y-k}{b} = 1$"
+    ],
+    "correcta": 1,
+    "resolucion": "Al trasladar el centro al punto $(h, k)$, las variables se transforman en $(x-h)$ y $(y-k)$ respectivamente en la ecuación ordinaria."
+  },
+  {
+    "pregunta": "¿Qué sucede con la forma de la elipse cuando la excentricidad $e$ se aproxima a $1$?",
+    "opciones": [
+      "La elipse se parece cada vez más a una circunferencia.",
+      "La elipse se vuelve más alargada y estrecha.",
+      "La elipse se convierte en una parábola.",
+      "Los focos se acercan al centro."
+    ],
+    "correcta": 1,
+    "resolucion": "A medida que $c$ se acerca a $a$ (haciendo que $e = c/a$ se acerque a 1), el semieje menor $b$ disminuye, provocando que la elipse se vea más 'aplastada' o alargada."
+  },
+  {
+    "pregunta": "En la ecuación general de la elipse $Ax^{2} + Cy^{2} + Dx + Ey + F = 0$, ¿qué condición deben cumplir los coeficientes $A$ y $C$?",
+    "opciones": [
+      "$A$ y $C$ deben tener signos opuestos.",
+      "$A$ debe ser igual a $C$.",
+      "$A$ y $C$ deben tener el mismo signo pero valores diferentes.",
+      "$A$ o $C$ deben ser cero."
+    ],
+    "correcta": 2,
+    "resolucion": "Para que la cónica sea una elipse, los coeficientes de los términos cuadráticos deben tener el mismo signo para asegurar una curva cerrada, y ser distintos para evitar que sea una circunferencia."
+  },
+  {
+    "pregunta": "¿Cuáles son las coordenadas de los vértices del eje mayor de una elipse horizontal centrada en el origen?",
+    "opciones": [
+      "$(0, \\pm a)$",
+      "$(\\pm c, 0)$",
+      "$(\\pm a, 0)$",
+      "$(\\pm b, 0)$"
+    ],
+    "correcta": 2,
+    "resolucion": "Los vértices principales de una elipse horizontal se ubican sobre el eje $X$ a una distancia $a$ del origen: $(a, 0)$ y $(-a, 0)$."
+  },
+  {
+    "pregunta": "¿Qué indica el término 'semieje' en el contexto de las secciones cónicas?",
+    "opciones": [
+      "La distancia total de un extremo a otro del eje.",
+      "La distancia desde el centro de la elipse hasta uno de sus vértices.",
+      "La mitad de la distancia focal.",
+      "El área de la mitad de la elipse."
+    ],
+    "correcta": 1,
+    "resolucion": "El semieje se refiere a la mitad de la longitud de un eje; es la distancia medida desde el centro hacia los extremos."
+  },
+  {
+    "pregunta": "Calcule el lado recto de una elipse donde $a = 5$ y $b = 3$.",
+    "opciones": [
+      "$1.8$ unidades",
+      "$3.6$ unidades",
+      "$5$ unidades",
+      "$18$ unidades"
+    ],
+    "correcta": 1,
+    "resolucion": "Utilizando $LR = \\frac{2b^{2}}{a}$, sustituimos: $LR = \\frac{2(3^{2})}{5} = \\frac{2(9)}{5} = \\frac{18}{5} = 3.6$."
+  },
+  {
+    "pregunta": "Si una elipse tiene su eje mayor sobre el eje $Y$, ¿dónde se ubican sus focos?",
+    "opciones": [
+      "En el eje $X$, en $(\\pm c, 0)$.",
+      "En el eje $Y$, en $(0, \\pm c)$.",
+      "En las rectas $y = a$ y $y = -a$.",
+      "En el centro $(0,0)$ únicamente."
+    ],
+    "correcta": 1,
+    "resolucion": "Los focos siempre se encuentran alineados sobre el eje mayor de la elipse. Si el eje mayor es vertical, los focos están en $(0, c)$ y $(0, -c)$."
+  },
+  {
+    "pregunta": "¿Cuál es la suma de los denominadores en la ecuación canónica $\\frac{x^{2}}{25} + \\frac{y^{2}}{9} = 1$?",
+    "opciones": [
+      "$34$",
+      "$16$",
+      "$8$",
+      "$64$"
+    ],
+    "correcta": 0,
+    "resolucion": "Los denominadores son $25$ y $9$. Su suma es $25 + 9 = 34$."
+  },
+  {
+    "pregunta": "En el proceso de pasar de la ecuación ordinaria a la general, ¿qué valor suele buscarse en el lado derecho de la igualdad antes de trasponer términos?",
+    "opciones": [
+      "El valor del radio.",
+      "El mínimo común múltiplo de los denominadores.",
+      "El número 0.",
+      "El valor de la excentricidad."
+    ],
+    "correcta": 1,
+    "resolucion": "Para eliminar las fracciones, se multiplica toda la ecuación por el MCM de los denominadores (o el producto $a^{2}b^{2}$), igualando temporalmente a dicho producto antes de igualar a cero."
+  },
+  {
+    "pregunta": "¿Cómo se denominan los puntos donde la elipse corta al eje menor?",
+    "opciones": [
+      "Focos.",
+      "Vértices secundarios o extremos del eje menor.",
+      "Lados rectos.",
+      "Radios vectores."
+    ],
+    "correcta": 1,
+    "resolucion": "Los puntos que delimitan el ancho de la elipse (eje menor) se conocen como vértices secundarios o simplemente extremos del eje menor, situados a distancia $b$ del centro."
+  }
+]
+        }
+      ]
+    }
+  ]
+}

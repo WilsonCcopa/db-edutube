@@ -210,7 +210,187 @@
     ],
     "correcta": 1
   }
-]
+],
+          "resumen": "La clase explica cómo identificar el tema de un texto, especialmente en preguntas de admisión. El tema no es un resumen ni una síntesis, sino el sujeto principal del que se habla. Debe expresarse como una frase nominal, sin verbo conjugado ni afirmaciones, y ser lo bastante general para abarcar todo el contenido. La técnica propuesta consiste en reconocer el sujeto de cada oración y seguir su presencia: si aparecen varios, se determina cuál predomina; si tienen igual importancia, se reúnen en una frase nominal. Un ejemplo sobre el racionalismo muestra cómo rastrear el sujeto a través de las oraciones. También se presentan formas habituales de preguntar por el tema y se advierte que las alternativas pueden expresarlo mediante paráfrasis o equivalentes.",
+          "puntos_clave": [
+            "El tema no resume ni cuenta la lectura: nombra el sujeto principal del que trata el texto.",
+            "El tema debe ser una frase nominal sin verbo conjugado ni afirmaciones o negaciones; su generalidad debe abarcar todo el contenido.",
+            "Para hallarlo, identifica el sujeto de cada oración y observa cuál se mantiene o predomina a lo largo del texto.",
+            "Si varios sujetos tienen igual importancia, se unen en una frase nominal que los incluya para formular el tema.",
+            "Las preguntas pueden usar expresiones como asunto, tópico o eje temático; las alternativas también pueden parafrasear al sujeto principal."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Distinguir el tema del resumen",
+              "texto": "La clase aclara que el tema no sintetiza ni relata el texto: consiste en nombrar el sujeto principal del que se habla.",
+              "segundos": 171,
+              "youtube_id": "JUcl3Wah9Jo",
+              "evidencia": {
+                "segmento_inicio": "s000074",
+                "segmento_fin": "s000078",
+                "cita": "El tema no es resumen, el tema no es síntesis, el tema no es contar la historia, el tema es simplemente nombrar de quién estamos hablando.",
+                "inicio_segundos": 171.04,
+                "fin_segundos": 180.84,
+                "segundos": 171,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Características de la frase nominal",
+              "texto": "El tema se formula como frase nominal, sin verbo conjugado ni afirmaciones; además, debe incluir todo el contenido sin excederlo.",
+              "segundos": 194,
+              "youtube_id": "JUcl3Wah9Jo",
+              "evidencia": {
+                "segmento_inicio": "s000085",
+                "segmento_fin": "s000089",
+                "cita": "el tema debe ser una frase nominal. Esa característica es muy importante, porque a la hora de elegir la respuesta a tu pregunta, debes cuidar que el tema no contenga un verbo",
+                "inicio_segundos": 194.48,
+                "fin_segundos": 209.959,
+                "segundos": 194,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Seguir el sujeto oración por oración",
+              "texto": "La técnica comienza al reconocer el sujeto desde la primera oración. Si hay varios, se compara su importancia y, si empatan, se combinan.",
+              "segundos": 314,
+              "youtube_id": "JUcl3Wah9Jo",
+              "evidencia": {
+                "segmento_inicio": "s000137",
+                "segmento_fin": "s000140",
+                "cita": "enfócate en cada oración del texto, desde la primera. ¿Y qué vas a hacer en esa primera oración? Reconocer el sujeto.",
+                "inicio_segundos": 314.52,
+                "fin_segundos": 324.72,
+                "segundos": 314,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Aplicación al texto sobre racionalismo",
+              "texto": "En el ejemplo, el racionalismo aparece como sujeto en varias oraciones; por su predominio, se determina que ese es el tema del texto.",
+              "segundos": 692,
+              "youtube_id": "JUcl3Wah9Jo",
+              "evidencia": {
+                "segmento_inicio": "s000302",
+                "segmento_fin": "s000306",
+                "cita": "Más allá del empirismo que se ha mencionado, más allá de Europa continental, más allá de René Descartes, el sujeto que predomina realmente dentro de esta lectura es el racionalismo",
+                "inicio_segundos": 692.4,
+                "fin_segundos": 706.52,
+                "segundos": 692,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Reconocer preguntas y paráfrasis",
+              "texto": "Se repasan preguntas sobre asunto, tópico y eje temático; la respuesta puede presentar al sujeto principal con equivalentes o paráfrasis.",
+              "segundos": 936,
+              "youtube_id": "JUcl3Wah9Jo",
+              "evidencia": {
+                "segmento_inicio": "s000408",
+                "segmento_fin": "s000410",
+                "cita": "reconocer equivalentes o paráfrasis del sujeto principal que has determinado dentro del texto.",
+                "inicio_segundos": 936.2,
+                "fin_segundos": 946.1999999999999,
+                "segundos": 936,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 1032,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:50.341Z",
+            "source_sha256": "6d4d5bb11fe8c53ffe4a6fb9330b94ca9013b8eb9903b351520d1a2811ffe7b7",
+            "request_sha256": "42814cf1c534441c03b76ef25b1d469cb01e19967c28dd5b19e719942a96a3ca",
+            "transcript_segments_sha256": "8d8182cf22ffe94535c8e7064a5df6c3937b6e7f179ffb110c01e9bce483cbac",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000074",
+                "segmento_fin": "s000078",
+                "cita": "El tema no es resumen, el tema no es síntesis, el tema no es contar la historia, el tema es simplemente nombrar de quién estamos hablando.",
+                "inicio_segundos": 171.04,
+                "fin_segundos": 180.84,
+                "segundos": 171,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000085",
+                "segmento_fin": "s000089",
+                "cita": "el tema debe ser una frase nominal. Esa característica es muy importante, porque a la hora de elegir la respuesta a tu pregunta, debes cuidar que el tema no contenga un verbo",
+                "inicio_segundos": 194.48,
+                "fin_segundos": 209.959,
+                "segundos": 194,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000137",
+                "segmento_fin": "s000140",
+                "cita": "enfócate en cada oración del texto, desde la primera. ¿Y qué vas a hacer en esa primera oración? Reconocer el sujeto.",
+                "inicio_segundos": 314.52,
+                "fin_segundos": 324.72,
+                "segundos": 314,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000175",
+                "segmento_fin": "s000178",
+                "cita": "Voy a unir a esos dos o más sujetos que tienen la misma importancia y la unión de ellos es lo que va a formar el tema del texto.",
+                "inicio_segundos": 399.16,
+                "fin_segundos": 409.11999999999995,
+                "segundos": 399,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000408",
+                "segmento_fin": "s000410",
+                "cita": "reconocer equivalentes o paráfrasis del sujeto principal que has determinado dentro del texto.",
+                "inicio_segundos": 936.2,
+                "fin_segundos": 946.1999999999999,
+                "segundos": 936,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
         {
           "titulo": "1.2 Tipología Textual según DECO",
@@ -418,7 +598,187 @@
     ],
     "correcta": 1
   }
-]
+],
+          "resumen": "La clase presenta la tipología textual vinculada con la comprensión lectora y distingue textos continuos y discontinuos. Los continuos se organizan en oraciones y párrafos; entre sus tipos se describen los narrativos, descriptivos, expositivos y argumentativos, según relaten hechos, caractericen algo, informen con objetividad o busquen convencer mediante argumentos. Los discontinuos rompen la secuencia lineal y exigen relacionar la información escrita con imágenes u otros elementos; se mencionan formularios, gráficas y textos con imágenes. También se explica el texto dialéctico, que presenta dos autores o fuentes en diálogo y contraste. Para leer estos materiales, se recomienda una lectura reflexiva, pausada y eficaz, que atienda a la relación entre texto e imagen y permita comprender antes que priorizar la velocidad.",
+          "puntos_clave": [
+            "Los textos continuos se componen de oraciones organizadas en párrafos y estructuras mayores; la clase menciona informes, cartas y reportajes como ejemplos.",
+            "El texto narrativo relata una historia situada en un periodo, una línea de tiempo y un lugar. Se citan fábulas, leyendas, relatos y cuentos.",
+            "El texto argumentativo busca convencer al lector mediante argumentos que sustentan una tesis.",
+            "Los textos discontinuos rompen la secuencia lineal y requieren cotejar las oraciones con imágenes u otros elementos para comprenderlos.",
+            "El texto dialéctico presenta dos autores o fuentes que contrastan o polemizan sobre un tema; la lectura recomendada es reflexiva y pausada."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Definición y estructura del texto continuo",
+              "texto": "La clase define el texto continuo por su organización en oraciones y párrafos, y explica cómo esas unidades forman estructuras mayores.",
+              "segundos": 115,
+              "youtube_id": "f5XP3F3nONw",
+              "evidencia": {
+                "segmento_inicio": "s000037",
+                "segmento_fin": "s000040",
+                "cita": "texto compuesto por oraciones organizadas en una estructura mayor denominada párrafos o párrafos sucesivos",
+                "inicio_segundos": 115.5,
+                "fin_segundos": 134.62,
+                "segundos": 115,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Narrar y describir: dos tipos de texto",
+              "texto": "Se distingue el texto narrativo, que cuenta una historia situada en tiempo y lugar, del descriptivo, que ofrece características de alguien o algo.",
+              "segundos": 268,
+              "youtube_id": "f5XP3F3nONw",
+              "evidencia": {
+                "segmento_inicio": "s000085",
+                "segmento_fin": "s000087",
+                "cita": "es el texto que narra una historia ocurrida en un periodo en una línea de tiempo y en un lugar",
+                "inicio_segundos": 268.72,
+                "fin_segundos": 284.81,
+                "segundos": 268,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "La finalidad del texto argumentativo",
+              "texto": "Se explica que el texto argumentativo intenta convencer al lector mediante argumentos que dan validez a una tesis.",
+              "segundos": 565,
+              "youtube_id": "f5XP3F3nONw",
+              "evidencia": {
+                "segmento_inicio": "s000176",
+                "segmento_fin": "s000179",
+                "cita": "lo que persigue es darle validez a la tesis todo desde aumentativo presentó una tesis sustentada a través de árbol",
+                "inicio_segundos": 565.379,
+                "fin_segundos": 581.34,
+                "segundos": 565,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Leer un texto discontinuo con imágenes",
+              "texto": "La comprensión requiere una lectura no lineal: hay que relacionar las oraciones con la imagen que complementa el texto.",
+              "segundos": 678,
+              "youtube_id": "f5XP3F3nONw",
+              "evidencia": {
+                "segmento_inicio": "s000212",
+                "segmento_fin": "s000214",
+                "cita": "va a tener que cotejar lo con la imagen con la imagen que va a complementar el texto",
+                "inicio_segundos": 678.2,
+                "fin_segundos": 687.97,
+                "segundos": 678,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Reconocer el diálogo dialéctico",
+              "texto": "La clase caracteriza el texto dialéctico por presentar dos autores o fuentes que se enfrentan, contrastan o polemizan sobre un tema.",
+              "segundos": 873,
+              "youtube_id": "f5XP3F3nONw",
+              "evidencia": {
+                "segmento_inicio": "s000276",
+                "segmento_fin": "s000280",
+                "cita": "se van a encontrar dos autores dos fuentes informativas que normalmente se van a enfrentar van a contrastar van a polemizar sobre un tema",
+                "inicio_segundos": 873.29,
+                "fin_segundos": 894.7199999999999,
+                "segundos": 873,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 1196,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:53.360Z",
+            "source_sha256": "95d3248493822f3b161d671a2e10932e258d829b50279a4a85abe74efc56aae8",
+            "request_sha256": "8a008dcc7062b10619bf29f293ad2461123886dc466912afb1cc1bcbd7965d8d",
+            "transcript_segments_sha256": "f5fd0a70183dc717386414aaf2bf03311229f5bdd6db694976fce1fe882d2060",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000037",
+                "segmento_fin": "s000040",
+                "cita": "texto compuesto por oraciones organizadas en una estructura mayor denominada párrafos o párrafos sucesivos",
+                "inicio_segundos": 115.5,
+                "fin_segundos": 134.62,
+                "segundos": 115,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000085",
+                "segmento_fin": "s000087",
+                "cita": "es el texto que narra una historia ocurrida en un periodo en una línea de tiempo y en un lugar",
+                "inicio_segundos": 268.72,
+                "fin_segundos": 284.81,
+                "segundos": 268,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000176",
+                "segmento_fin": "s000179",
+                "cita": "lo que persigue es darle validez a la tesis todo desde aumentativo presentó una tesis sustentada a través de árbol",
+                "inicio_segundos": 565.379,
+                "fin_segundos": 581.34,
+                "segundos": 565,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000212",
+                "segmento_fin": "s000214",
+                "cita": "va a tener que cotejar lo con la imagen con la imagen que va a complementar el texto",
+                "inicio_segundos": 678.2,
+                "fin_segundos": 687.97,
+                "segundos": 678,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000276",
+                "segmento_fin": "s000280",
+                "cita": "se van a encontrar dos autores dos fuentes informativas que normalmente se van a enfrentar van a contrastar van a polemizar sobre un tema",
+                "inicio_segundos": 873.29,
+                "fin_segundos": 894.7199999999999,
+                "segundos": 873,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
         {
           "titulo": "1.3 HB - Tipos de preguntas en la compre",
@@ -626,7 +986,196 @@
     ],
     "correcta": 1
   }
-]
+],
+          "resumen": "La clase presenta cinco tipos de preguntas de comprensión lectora: sentido contextual, compatibilidad e incompatibilidad, idea central, inferencia y extrapolación. Para el sentido contextual se reemplaza una palabra o expresión por otra equivalente según el entorno, no solo según el diccionario. La compatibilidad exige contrastar cada alternativa con el texto; la incompatibilidad puede contradecirlo, apartarse del tema o centrarse en un detalle irrelevante. La idea principal resume el planteamiento general y se distingue de los datos secundarios. Inferir consiste en obtener una conclusión implícita apoyada en datos del texto; extrapolar es proyectar posibilidades, sin perder el vínculo con esos datos. La práctica aplica estas pautas a textos sobre libros y lectura, carreras universitarias y refugiados, con atención al vocabulario, los cuantificadores y la revisión minuciosa de alternativas.",
+          "puntos_clave": [
+            "En el sentido contextual, sustituye la palabra o expresión por un equivalente que encaje con el entorno lingüístico; la definición del diccionario solo sirve de guía.",
+            "Una idea compatible se relaciona con el contenido del texto; una incompatible lo contradice, se aleja del tema o incorpora información impertinente.",
+            "La idea principal es general y abarcadora; las ideas secundarias son particulares y aportan detalles o evidencias de apoyo.",
+            "Inferir es derivar una conclusión implícita a partir de datos expuestos. No basta con repetir una información literal que ya aparece en el texto."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Sentido contextual: interpretar según el entorno",
+              "texto": "La clase explica cómo dar a una palabra o expresión un significado equivalente, atendiendo a las palabras que la rodean y no únicamente a la definición del diccionario.",
+              "segundos": 114,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s000042",
+                "segmento_fin": "s000045",
+                "cita": "Todas las palabras que rodean a la palabra resaltada, ¿no? El entorno lingüístico, ¿ya? Eso nos va a decir mucho",
+                "inicio_segundos": 114.6,
+                "fin_segundos": 129.75900000000001,
+                "segundos": 114,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Compatibilidad e incompatibilidad: contrastar las alternativas",
+              "texto": "Se distingue la idea que se vincula con el texto de la que lo niega, contradice o se desvía. La resolución requiere revisar cada alternativa y contrastarla con el pasaje.",
+              "segundos": 451,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s000163",
+                "segmento_fin": "s000165",
+                "cita": "Ir contrastando con lo que dice el texto, ¿no? Retornamos al texto, ¿ya? Y verificamos, a ver, esta información",
+                "inicio_segundos": 451.6,
+                "fin_segundos": 461.32,
+                "segundos": 451,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Idea central frente a información secundaria",
+              "texto": "La explicación diferencia el planteamiento general del autor de los detalles particulares. La idea principal integra el contenido y las secundarias funcionan como complemento.",
+              "segundos": 799,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s000294",
+                "segmento_fin": "s000297",
+                "cita": "Debemos distinguir la información esencial de la secundaria, ¿ya? Recordemos rápidamente que la idea esencial",
+                "inicio_segundos": 799.64,
+                "fin_segundos": 816.36,
+                "segundos": 799,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Inferencia: extraer una conclusión implícita",
+              "texto": "Inferir requiere apoyarse en pistas del texto para obtener algo que no está dicho literalmente; la clase ejemplifica cómo derivar cualidades a partir de datos presentados.",
+              "segundos": 1608,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s000591",
+                "segmento_fin": "s000593",
+                "cita": "Entonces, recuerda, ¿no? La inferencia es muy importante, nosotros eh, deberíamos siempre estar deduciendo",
+                "inicio_segundos": 1608.4,
+                "fin_segundos": 1619.0400000000002,
+                "segundos": 1608,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Extrapolación: proyectar sin romper el vínculo textual",
+              "texto": "La extrapolación plantea consecuencias probables o hipótesis sobre lo que podría ocurrir. Aunque va más allá del texto, debe conservar conexión con sus datos.",
+              "segundos": 1846,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s000675",
+                "segmento_fin": "s000677",
+                "cita": "pero no tanto, ¿no? Es decir, siempre debe haber una conexión, ya, con el dato con que está en el texto",
+                "inicio_segundos": 1846,
+                "fin_segundos": 1857.8799999999999,
+                "segundos": 1846,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Aplicación práctica: interpretar textos y alternativas",
+              "texto": "En los ejercicios se trabajan textos sobre lectura, universidades y refugiados. La resolución exige ubicar la idea central, justificar inferencias y vigilar términos absolutos como «todos».",
+              "segundos": 4872,
+              "youtube_id": "kplSWOUghmM",
+              "evidencia": {
+                "segmento_inicio": "s001815",
+                "segmento_fin": "s001819",
+                "cita": "la incompatible con respecto a estas universidades particulares, A, se han han ido incrementando de una forma desmedida en los últimos años",
+                "inicio_segundos": 4872.84,
+                "fin_segundos": 4885.84,
+                "segundos": 4872,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 6294,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:56.786Z",
+            "source_sha256": "a0a1b31091efa90855691085339c9a1344459b086e43b6a53982009a5534041a",
+            "request_sha256": "4301b92ba9f2195ccb444b81dcaedcd63525dab01b53900f5115600361f37d3b",
+            "transcript_segments_sha256": "223a442c214e355f8062a088f014513d1b579d4caffaeabd087b32cdad0619a2",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000058",
+                "segmento_fin": "s000062",
+                "cita": "lo que aquí prima es el contexto. Entonces, lo que tenemos que hacer es lo siguiente, mira, traducir, exacto, e interpretar un término",
+                "inicio_segundos": 157.52,
+                "fin_segundos": 176.32000000000002,
+                "segundos": 157,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000133",
+                "segmento_fin": "s000137",
+                "cita": "una idea incompatible es al revés, ¿no? Aquel que se aleja, ¿no? Idea ajena, ¿ya? Que eh puede ser que niegue, ¿ah? Que niegue el planteamiento",
+                "inicio_segundos": 362.76,
+                "fin_segundos": 384.12,
+                "segundos": 362,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000297",
+                "segmento_fin": "s000300",
+                "cita": "la idea principal, siempre es más amplia en su contenido, es general, ¿ya? Abarca todo el texto",
+                "inicio_segundos": 809.88,
+                "fin_segundos": 824.8,
+                "segundos": 809,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000591",
+                "segmento_fin": "s000595",
+                "cita": "la inferencia es muy importante, nosotros eh, deberíamos siempre estar deduciendo, yo creo que es un ejercicio mental primordial",
+                "inicio_segundos": 1608.4,
+                "fin_segundos": 1623.36,
+                "segundos": 1608,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
         {
           "titulo": "1.4 Relaciones semánticas en 5 minutos",
@@ -834,7 +1383,187 @@
     ],
     "correcta": 1
   }
-]
+],
+          "resumen": "La clase repasa relaciones entre significados de palabras y explica cómo distinguirlas mediante definiciones y ejemplos. La ambigüedad aparece cuando una expresión admite varios sentidos válidos; homonimia y polisemia se diferencian por el origen y los rasgos compartidos. También se presentan la paronimia, la antonimia en sus variantes, la sinonimia y las relaciones de inclusión, con los términos hipónimo, hiperónimo y cohiponimia. Los ejemplos ayudan a reconocer si las palabras coinciden en forma, se parecen, se oponen, tienen significados semejantes o se ordenan dentro de una categoría más amplia.",
+          "puntos_clave": [
+            "La ambigüedad ocurre cuando una expresión admite dos o más interpretaciones verdaderas, lo que puede causar confusión.",
+            "En la homonimia coinciden escritura y pronunciación, pero las palabras no comparten origen; en la polisemia una palabra tiene varios sentidos relacionados.",
+            "La paronimia reúne palabras de escritura y pronunciación parecidas, pero con significados distintos; la diferencia puede estar en una vocal o consonante.",
+            "La antonimia comprende significados opuestos y puede ser gramatical, complementaria, propia o recíproca, según su formación o relación.",
+            "La inclusión organiza palabras por amplitud: una puede ser hipónimo de una categoría más amplia, hiperónimo de otra o compartir género como cohipónimo."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Ambigüedad: varios sentidos válidos",
+              "texto": "La expresión «el burro de Juan murió» puede referirse al animal de Juan o calificar a Juan; las dos interpretaciones tienen sentido.",
+              "segundos": 48,
+              "youtube_id": "3ibL4xZWxDo",
+              "evidencia": {
+                "segmento_inicio": "s000018",
+                "segmento_fin": "s000019",
+                "cita": "podríamos entender que la mascota de Juan murió o que Juan es un burro.",
+                "inicio_segundos": 48.88,
+                "fin_segundos": 57.88,
+                "segundos": 48,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Diferencia entre homonimia y polisemia",
+              "texto": "La homonimia presenta palabras iguales en escritura y pronunciación sin origen común; la polisemia concentra varios significados relacionados en una sola palabra.",
+              "segundos": 80,
+              "youtube_id": "3ibL4xZWxDo",
+              "evidencia": {
+                "segmento_inicio": "s000031",
+                "segmento_fin": "s000033",
+                "cita": "En cambio, en la polisemia encontramos una única palabra que presenta varios significados.",
+                "inicio_segundos": 80.64,
+                "fin_segundos": 90.24000000000001,
+                "segundos": 80,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Tipos de antonimia",
+              "texto": "Se explican cuatro clases: la gramatical usa prefijos, la complementaria excluye la otra opción, la propia admite grados y la recíproca depende de otra palabra.",
+              "segundos": 238,
+              "youtube_id": "3ibL4xZWxDo",
+              "evidencia": {
+                "segmento_inicio": "s000100",
+                "segmento_fin": "s000102",
+                "cita": "En la antonimia complementaria, una palabra excluye la posibilidad de la existencia de la otra.",
+                "inicio_segundos": 238.96,
+                "fin_segundos": 247.32000000000002,
+                "segundos": 238,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Sinonimia y semejanza de significados",
+              "texto": "La sinonimia se reconoce cuando dos palabras tienen significados semejantes; se ilustra con «flaco» y «enjuto».",
+              "segundos": 275,
+              "youtube_id": "3ibL4xZWxDo",
+              "evidencia": {
+                "segmento_inicio": "s000116",
+                "segmento_fin": "s000118",
+                "cita": "Ocurre cuando significados de las palabras son semejantes, por ejemplo, flaco y enjuto.",
+                "inicio_segundos": 275.44,
+                "fin_segundos": 285.28000000000003,
+                "segundos": 275,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Inclusión: hipónimo, hiperónimo y cohiponimia",
+              "texto": "La manzana es hipónimo de fruta; fruta es hiperónimo de plátano, mientras manzana y plátano comparten la relación de cohiponimia.",
+              "segundos": 318,
+              "youtube_id": "3ibL4xZWxDo",
+              "evidencia": {
+                "segmento_inicio": "s000134",
+                "segmento_fin": "s000135",
+                "cita": "entre manzana y plátano existe una relación de cohiponimia.",
+                "inicio_segundos": 318.2,
+                "fin_segundos": 325,
+                "segundos": 318,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 333,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:54.508Z",
+            "source_sha256": "519664876670d26bb2bd25a7e4c98e68f8925c6a3b35675f635dbb44cb77356f",
+            "request_sha256": "0003f4c1891c6047c99d4053e4ee47eef57f5dee4cee8464d876a23b80cfd369",
+            "transcript_segments_sha256": "7b6eb91c95b70eea72e4678357167fc7f48201722beadd923ed2536d2a8c2200",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000011",
+                "segmento_fin": "s000015",
+                "cita": "palabras o expresiones que tienen dos o más sentidos, donde todos los significados son verdaderos, por lo cual genera mucha confusión.",
+                "inicio_segundos": 30.76,
+                "fin_segundos": 45.919999999999995,
+                "segundos": 30,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000037",
+                "segmento_fin": "s000039",
+                "cita": "En la homonimia no existe rasgo en común entre las palabras homónimas, pues no tienen un origen en común.",
+                "inicio_segundos": 95.72,
+                "fin_segundos": 105.12,
+                "segundos": 95,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000079",
+                "segmento_fin": "s000083",
+                "cita": "donde la escritura y pronunciación es parecida, pero tiene significados diferentes. Estos términos se diferencian en alguna vocal o consonante.",
+                "inicio_segundos": 193.2,
+                "fin_segundos": 205.36,
+                "segundos": 193,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000092",
+                "segmento_fin": "s000094",
+                "cita": "La antonimia se clasifica en antonimia gramatical, complementaria, propia y recíproca.",
+                "inicio_segundos": 219.76,
+                "fin_segundos": 228.76,
+                "segundos": 219,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000126",
+                "segmento_fin": "s000128",
+                "cita": "la manzana es un tipo de fruta, por lo cual la manzana es un hipónimo de fruta.",
+                "inicio_segundos": 300,
+                "fin_segundos": 308.72,
+                "segundos": 300,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
         {
           "titulo": "1.5 Sinonimia y antonimia contextual",
@@ -1042,7 +1771,197 @@
     ],
     "correcta": 1
   }
-]
+],
+          "resumen": "La clase desarrolla la sinonimia y la antonimia, con énfasis en resolver antónimos en contexto. Define la sinonimia como una relación entre palabras de significado semejante y de la misma clase formal; distingue la sinonimia conceptual de la contextual, donde una palabra puede reemplazar a otra sin cambiar el sentido de la oración. Presenta tres oposiciones antonímicas: contrariedad, con grados intermedios; complementariedad, donde afirmar un término niega el otro; y reciprocidad, cuyos términos se implican mutuamente. Finalmente, compara ejercicios tradicionales de vocabulario con los contextuales, que pueden aparecer con o sin rastros verbales. Recomienda consultar el diccionario y ampliar el vocabulario, pues conocer el significado de las palabras permite identificar el opuesto adecuado a partir del contexto.",
+          "puntos_clave": [
+            "La sinonimia relaciona palabras de significado semejante que pertenecen a la misma clase formal; por eso, sus equivalentes deben conservar también esa clase.",
+            "En la sinonimia conceptual coinciden los semas denotativos; se ofrecen como ejemplos de «morir» las palabras «fallecer» y «expirar».",
+            "La sinonimia contextual permite reemplazar un término por otro en la misma oración sin alterar su sentido; «frío» puede describir una actitud serena.",
+            "La antonimia de contrariedad admite gradación: entre los extremos pueden existir niveles, como en la escala de pésimo a óptimo.",
+            "La complementariedad se da cuando afirmar un término implica negar el otro; en la reciprocidad, cada término supone la participación del otro.",
+            "Los ejercicios contextuales pueden presentarse sin rastros verbales, por lo que el vocabulario ayuda a deducir el opuesto; con rastros, algunas palabras dan pistas."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Qué caracteriza a la sinonimia",
+              "texto": "Se define la sinonimia como una relación entre significados semejantes y se añade que las palabras deben compartir la misma clase formal.",
+              "segundos": 191,
+              "youtube_id": "4uxZeaefdGg",
+              "evidencia": {
+                "segmento_inicio": "s000083",
+                "segmento_fin": "s000091",
+                "cita": "con significados semejantes. ¿Está bien? Los significados son semejantes, afines, próximos, similares, análogos. Y que, y que pertenecen a la misma clase formal.",
+                "inicio_segundos": 191.36,
+                "fin_segundos": 217,
+                "segundos": 191,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Sinónimos conceptuales y contextuales",
+              "texto": "La clase distingue los tipos de sinonimia: en la conceptual coinciden semas denotativos; en la contextual, el reemplazo conserva el sentido del texto.",
+              "segundos": 448,
+              "youtube_id": "4uxZeaefdGg",
+              "evidencia": {
+                "segmento_inicio": "s000191",
+                "segmento_fin": "s000197",
+                "cita": "Cuando existe coincidencia, pero fíjate en dónde, en semas denotativos. O sea, en los semas, en las mínimas unidades de significado, objetivos primeros, originales.",
+                "inicio_segundos": 448.8,
+                "fin_segundos": 467.6,
+                "segundos": 448,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Tres formas de oposición antonímica",
+              "texto": "Se explican contrariedad, complementariedad y reciprocidad: la primera admite grados, la segunda opone términos excluyentes y la tercera implica ambos.",
+              "segundos": 857,
+              "youtube_id": "4uxZeaefdGg",
+              "evidencia": {
+                "segmento_inicio": "s000354",
+                "segmento_fin": "s000358",
+                "cita": "La afirmación de un término implica implica la negación del otro. Y viceversa.",
+                "inicio_segundos": 857.44,
+                "fin_segundos": 873.28,
+                "segundos": 857,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Ejercicio tradicional: persuadir",
+              "texto": "Para hallar el antónimo de «persuadir», primero hay que conocer su significado; la clase identifica «disuadir» como convencer a alguien para que deje de hacer algo.",
+              "segundos": 1083,
+              "youtube_id": "4uxZeaefdGg",
+              "evidencia": {
+                "segmento_inicio": "s000441",
+                "segmento_fin": "s000442",
+                "cita": "Persuadir es convencer a alguien para que haga algo.",
+                "inicio_segundos": 1083.76,
+                "fin_segundos": 1091.68,
+                "segundos": 1083,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Problemas contextuales con y sin pistas",
+              "texto": "Se comparan oraciones sin rastro verbal, como la de «orondo», y con rastro verbal, como la de operarios que construyen un edificio.",
+              "segundos": 1256,
+              "youtube_id": "4uxZeaefdGg",
+              "evidencia": {
+                "segmento_inicio": "s000513",
+                "segmento_fin": "s000517",
+                "cita": "Porque se entiende que estos rastros verbales van a ser palabras que te van a ayudar a deducir El término que tienes que buscarle su opuesto.",
+                "inicio_segundos": 1256.6,
+                "fin_segundos": 1270.8,
+                "segundos": 1256,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 1459,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:58.204Z",
+            "source_sha256": "5fb75d4c1b9340a277f3df95ff8a51c59945added38a4c0e2958d70381e25a64",
+            "request_sha256": "f42731d0560ec1514be84412017b80a35fe240ea3e60f44cbb64afee2124298d",
+            "transcript_segments_sha256": "20f1a015ec48fb0c20108d4df79b88515c40d7181c3484e6b709d96d3f746101",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000083",
+                "segmento_fin": "s000091",
+                "cita": "con significados semejantes. ¿Está bien? Los significados son semejantes, afines, próximos, similares, análogos. Y que, y que pertenecen a la misma clase formal.",
+                "inicio_segundos": 191.36,
+                "fin_segundos": 217,
+                "segundos": 191,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000191",
+                "segmento_fin": "s000197",
+                "cita": "Cuando existe coincidencia, pero fíjate en dónde, en semas denotativos. O sea, en los semas, en las mínimas unidades de significado, objetivos primeros, originales.",
+                "inicio_segundos": 448.8,
+                "fin_segundos": 467.6,
+                "segundos": 448,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000231",
+                "segmento_fin": "s000235",
+                "cita": "se pueden reemplazar, sí, se pueden reemplazar, en el mismo contexto, sin alterar el sentido del texto.",
+                "inicio_segundos": 548.96,
+                "fin_segundos": 564.68,
+                "segundos": 548,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000303",
+                "segmento_fin": "s000306",
+                "cita": "Porque entre estos dos términos, que va de polo a polo, también hay niveles en el medio, hay grados en el medio.",
+                "inicio_segundos": 750.36,
+                "fin_segundos": 761.56,
+                "segundos": 750,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000354",
+                "segmento_fin": "s000358",
+                "cita": "La afirmación de un término implica implica la negación del otro. Y viceversa.",
+                "inicio_segundos": 857.44,
+                "fin_segundos": 873.28,
+                "segundos": 857,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000513",
+                "segmento_fin": "s000517",
+                "cita": "Porque se entiende que estos rastros verbales van a ser palabras que te van a ayudar a deducir El término que tienes que buscarle su opuesto.",
+                "inicio_segundos": 1256.6,
+                "fin_segundos": 1270.8,
+                "segundos": 1256,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
         {
           "titulo": "1.6 Tipos de Inferencia",
@@ -1250,7 +2169,139 @@
     ],
     "correcta": 2
   }
-]
+],
+          "resumen": "La clase explica la inferencia como el proceso de llegar a una conclusión usando información disponible y distingue dos tipos: inducción y deducción. En la inducción se parte de datos particulares para formular una conclusión general; se ilustran patrones con ejemplos de aves y alumnos. En la deducción se parte de una afirmación general para obtener una conclusión particular, como aplicar una regla sobre las aves a un loro o un pato, y una generalización sobre vecinos de Comas a Laura. Al final, se practican ambas clasificaciones con los ejemplos de Juan y la mortalidad, y de tigres y leones con cuatro patas. La clave para reconocer cada tipo es observar si los datos van de casos específicos a una conclusión general o de una regla amplia a un caso particular.",
+          "puntos_clave": [
+            "Inferir es llegar a una conclusión a partir de la información o los datos disponibles, como deducir una situación observada.",
+            "En el ejemplo de las aves, observaciones sobre el águila y el loro conducen a proponer una conclusión general sobre las aves.",
+            "La deducción funciona en sentido contrario: toma una información general y llega a datos o conclusiones particulares.",
+            "Para clasificar un razonamiento, hay que fijarse en el paso entre premisas y conclusión: inducción va de lo particular a lo general; deducción, de lo general a lo particular."
+          ],
+          "momentos_clave": [
+            {
+              "titulo": "Otro ejemplo de inducción",
+              "texto": "Los datos sobre Laura y Roberto, alumnos de tercer año con buenas notas, se reúnen para formular una conclusión general sobre ese grupo.",
+              "segundos": 510,
+              "youtube_id": "l6OOq_PwLpA",
+              "evidencia": {
+                "segmento_inicio": "s000158",
+                "segmento_fin": "s000162",
+                "cita": "si la obra es alumna de tercer año y tiene buenas notas roberto es alumno de tercer año y tiene buenas notas conclusión general aplicado para todos",
+                "inicio_segundos": 510.43,
+                "fin_segundos": 529.68,
+                "segundos": 510,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "La deducción: de lo general a lo particular",
+              "texto": "La clase define la deducción como el recorrido inverso a la inducción y la aplica a una regla general sobre las aves para concluir algo sobre un ave concreta.",
+              "segundos": 576,
+              "youtube_id": "l6OOq_PwLpA",
+              "evidencia": {
+                "segmento_inicio": "s000179",
+                "segmento_fin": "s000181",
+                "cita": "de una información general llegamos a datos particulares es lo contrario a inducción",
+                "inicio_segundos": 576.399,
+                "fin_segundos": 592.62,
+                "segundos": 576,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Clasificar con ejemplos finales",
+              "texto": "Los casos de Juan y de tigres y leones sirven para reconocer deducción e inducción según la dirección entre datos particulares y conclusión general.",
+              "segundos": 989,
+              "youtube_id": "l6OOq_PwLpA",
+              "evidencia": {
+                "segmento_inicio": "s000301",
+                "segmento_fin": "s000304",
+                "cita": "dato particular dato particular dato particular dato particular y conclusión general conclusión general qué tipo de inferencia es inducción o deducción",
+                "inicio_segundos": 989.019,
+                "fin_segundos": 1002.4590000000001,
+                "segundos": 989,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            }
+          ],
+          "duracion_segundos": 1013,
+          "summary_provenance": {
+            "model": "gpt-6-luna",
+            "prompt_version": "edutube-class-summary-1-long-context",
+            "generated_at": "2026-10-29T19:16:59.836Z",
+            "source_sha256": "50b2e8a094dde878071c7c625256490fb2ded8d58619655b83ce9316cc851b69",
+            "request_sha256": "7d020078c5bf4463b2cbdff3300741ea518aa607d0ad6e4893909570b340e6b7",
+            "transcript_segments_sha256": "677507fb1a53da3e654bb3370ffd81d756c953389a5f1ee09437c81486e567e7",
+            "source_integrity": "exact_lesson_course_and_youtube_id",
+            "validation": "schema_plain_text_and_literal_segment_evidence",
+            "factual_review": "not_human_verified",
+            "playback": "not_verified",
+            "key_point_evidence": [
+              {
+                "segmento_inicio": "s000026",
+                "segmento_fin": "s000027",
+                "cita": "llegar a una conclusión en base a datos que yo puedo poseer previamente",
+                "inicio_segundos": 70.24,
+                "fin_segundos": 78.679,
+                "segundos": 70,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000121",
+                "segmento_fin": "s000123",
+                "cita": "el águila es un ave el águila se aparece en primavera el oro es un ave el oro se aparece en primavera conclusión general",
+                "inicio_segundos": 383.28,
+                "fin_segundos": 398.94,
+                "segundos": 383,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000179",
+                "segmento_fin": "s000181",
+                "cita": "de una información general llegamos a datos particulares es lo contrario a inducción",
+                "inicio_segundos": 576.399,
+                "fin_segundos": 592.62,
+                "segundos": 576,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000250",
+                "segmento_fin": "s000253",
+                "cita": "inducción datos particulares conclusión general deducción información general datos particulares",
+                "inicio_segundos": 810.25,
+                "fin_segundos": 832.509,
+                "segundos": 810,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              }
+            ],
+            "summary_origin": "per_video_grounded_EduTube_summary",
+            "transcript": {
+              "kind": "youtube_captions",
+              "provider": "TranscriptAPI",
+              "language": "asr-es",
+              "automatic_speech_recognition": true,
+              "human_review": "not_verified",
+              "playback": "not_verified"
+            },
+            "duration_validation": {
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
+              "playback": "not_verified"
+            },
+            "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
         },
 	{
           "titulo": "1.7 La extrapolación",
@@ -1458,7 +2509,139 @@
     ],
     "correcta": 1
 }
-]
+],
+          "resumen": "La clase explica la extrapolación como una inferencia que permite predecir la continuidad de un discurso a partir de la información comprendida en el texto. No consiste en adivinar sin base: el lector usa las ideas del autor para anticipar situaciones o ideas nuevas que no aparecen explícitamente. También se contrastan las ideas sustentadas por el autor con los conocimientos y opiniones del lector. Para reconocer preguntas de extrapolación, se mencionan formulaciones como “si se negara” o “si se invirtiera” una idea. En los ejercicios, se analiza un texto sobre romper la rutina y otro sobre el duelo y los vivos que parecen muertos; en ambos casos, las respuestas se deducen a partir de lo planteado por el autor.",
+          "puntos_clave": [
+                  "La predicción no es una adivinación sin fundamento: se apoya en información previa presentada por el texto.",
+                  "El lector aplica lo comprendido a situaciones nuevas que no están expresadas explícitamente en el texto.",
+                  "La extrapolación confronta las ideas del autor con los conocimientos y opiniones del lector.",
+                  "Algunas preguntas plantean negar o invertir una idea para deducir qué ocurriría en ese supuesto."
+          ],
+          "momentos_clave": [
+                  {
+                          "titulo": "Aplicar lo leído a casos nuevos",
+                          "texto": "El lector usa la condición descrita en el texto para inferir cómo se aplicaría a situaciones o problemas nuevos que no están incluidos explícitamente.",
+                          "segundos": 237,
+                          "youtube_id": "TNBTdLVgrw8",
+                          "evidencia": {
+                                  "segmento_inicio": "s000068",
+                                  "segmento_fin": "s000071",
+                                  "cita": "la condición descrita en el texto aplicadas situaciones o problemas nuevos claro acá ya te presentado el texto tú ya has comprendido",
+                                  "inicio_segundos": 237,
+                                  "fin_segundos": 259.09,
+                                  "segundos": 237,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          "verification": {
+                                  "transcript": "literal_quote_validated",
+                                  "playback": "not_verified"
+                          }
+                  },
+                  {
+                          "titulo": "Reconocer preguntas de extrapolación",
+                          "texto": "Se muestran formas de preguntar que proponen negar o invertir una idea para deducir la consecuencia correspondiente.",
+                          "segundos": 391,
+                          "youtube_id": "TNBTdLVgrw8",
+                          "evidencia": {
+                                  "segmento_inicio": "s000116",
+                                  "segmento_fin": "s000120",
+                                  "cita": "te puede venir este caso de extrapolación si se negara sucedería que otro no si se invirtiera la siguiente idea se pensaría que",
+                                  "inicio_segundos": 391.06,
+                                  "fin_segundos": 414.32000000000005,
+                                  "segundos": 391,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          "verification": {
+                                  "transcript": "literal_quote_validated",
+                                  "playback": "not_verified"
+                          }
+                  },
+                  {
+                          "titulo": "Ejercicio sobre salir de la rutina",
+                          "texto": "A partir del texto que propone romper la rutina, se deduce que actuar siempre de la misma manera impediría disfrutar de pequeñas experiencias.",
+                          "segundos": 560,
+                          "youtube_id": "TNBTdLVgrw8",
+                          "evidencia": {
+                                  "segmento_inicio": "s000168",
+                                  "segmento_fin": "s000171",
+                                  "cita": "siempre actuará muy rutinaria medio sea el de todos los días sin romper esos parámetros qué pasaría si sucedería",
+                                  "inicio_segundos": 560.209,
+                                  "fin_segundos": 579.1999999999999,
+                                  "segundos": 560,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          "verification": {
+                                  "transcript": "literal_quote_validated",
+                                  "playback": "not_verified"
+                          }
+                  }
+          ],
+          "duracion_segundos": 822,
+          "summary_provenance": {
+                  "model": "gpt-6-luna",
+                  "prompt_version": "edutube-class-summary-1-long-context",
+                  "generated_at": "2026-10-29T19:16:58.446Z",
+                  "source_sha256": "c4f8e617094d3d621b1816e75d8ce79dce3eb5ffec7a4fd71a17c5b4b5a4736e",
+                  "request_sha256": "98cb727870ea51509726d2e4ff1e71d91bb0f845489f3bcd74274e34cc69ed00",
+                  "transcript_segments_sha256": "ce15c207c561c1c01897aabcc9953586caaf173bec750e1b022b1efa75539aff",
+                  "source_integrity": "exact_lesson_course_and_youtube_id",
+                  "validation": "schema_plain_text_and_literal_segment_evidence",
+                  "factual_review": "not_human_verified",
+                  "playback": "not_verified",
+                  "key_point_evidence": [
+                          {
+                                  "segmento_inicio": "s000036",
+                                  "segmento_fin": "s000039",
+                                  "cita": "a partir de un de un conocimiento de la información que se te ha presentado en el texto pues el lector va a predecir",
+                                  "inicio_segundos": 120.159,
+                                  "fin_segundos": 137.27,
+                                  "segundos": 120,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          {
+                                  "segmento_inicio": "s000072",
+                                  "segmento_fin": "s000075",
+                                  "cita": "vas a apoyar a que las situaciones nuevas esos problemas que se presentan con la ayuda de que de esos conocimientos que tú has adquirido",
+                                  "inicio_segundos": 254.11,
+                                  "fin_segundos": 269.92,
+                                  "segundos": 254,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          {
+                                  "segmento_inicio": "s000100",
+                                  "segmento_fin": "s000103",
+                                  "cita": "a esa idea que tú tienes ya tú también puedes confrontarlo puedes indicar a ese autor si tiene razón con lo que yo pienso",
+                                  "inicio_segundos": 343.19,
+                                  "fin_segundos": 356.96,
+                                  "segundos": 343,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          },
+                          {
+                                  "segmento_inicio": "s000116",
+                                  "segmento_fin": "s000120",
+                                  "cita": "te puede venir este caso de extrapolación si se negara sucedería que otro no si se invirtiera la siguiente idea se pensaría que",
+                                  "inicio_segundos": 391.06,
+                                  "fin_segundos": 414.32000000000005,
+                                  "segundos": 391,
+                                  "validacion": "literal_quote_in_exact_transcript_segments"
+                          }
+                  ],
+                  "summary_origin": "per_video_grounded_EduTube_summary",
+                  "transcript": {
+                          "kind": "youtube_captions",
+                          "provider": "TranscriptAPI",
+                          "language": "asr-es",
+                          "automatic_speech_recognition": true,
+                          "human_review": "not_verified",
+                          "playback": "not_verified"
+                  },
+                  "duration_validation": {
+                          "source_duration_valid": true,
+                          "basis": "provider_duration_not_playback_verified",
+                          "playback": "not_verified"
+                  },
+                  "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"
+          }
   }
 ]
     }

@@ -8266,231 +8266,252 @@
         },
         {
           "titulo": "6.3 Tipos de Inversiones que existen",
-          "youtube_id": "VnQlMaTos4o",
+          "youtube_id": "zo01GjDcIyg",
           "pdf_link": "https://drive.google.com/file/d/1OVTaIH5-UPC3DehuqLCY0yRgjXnQHrNP/view",
           "gratis": true,
           "preguntas": [
-{
-    "pregunta": "Juan tiene $10,000 ahorrados. Decide usarlos para iniciar un negocio en lugar de irse de vacaciones a Europa con su familia. Al tomar esta decisión, Juan está asumiendo que el beneficio del negocio será mayor que el disfrute del viaje. ¿Cómo se llama en economía al valor de la alternativa (el viaje) a la que Juan renunció?",
-    "opciones": [
-      "Rentabilidad esperada",
-      "Costo de oportunidad",
-      "Riesgo de inversión",
-      "Liquidez del activo"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "María necesita dinero urgente para una emergencia médica. Tiene dos inversiones: una casa y acciones en la bolsa. Decide vender las acciones porque puede convertirlas en efectivo casi instantáneamente, mientras que vender la casa tardaría meses. ¿Qué factor de la inversión determinó la decisión de María?",
-    "opciones": [
-      "El Plazo",
-      "El Riesgo",
-      "La Rentabilidad",
-      "La Liquidez"
-    ],
-    "correcta": 3
-  },
-  {
-    "pregunta": "Carlos decide gastar dinero y tiempo durante 5 años estudiando una carrera universitaria, con la expectativa de obtener mejores ingresos laborales en el futuro. Según el video, ¿qué tipo de actividad está realizando Carlos?",
-    "opciones": [
-      "Un gasto suntuario",
-      "Un ahorro pasivo",
-      "Una inversión en sí mismo (educativa)",
-      "Una pérdida de tiempo"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "Un inversor está analizando una oportunidad que promete duplicar su dinero en solo una semana. Basándose en la relación entre los factores de inversión explicados, ¿qué debería asumir el inversor sobre el riesgo de esta operación?",
-    "opciones": [
-      "Que el riesgo es muy bajo o nulo.",
-      "Que el riesgo es muy alto.",
-      "Que el riesgo no tiene relación con la ganancia.",
-      "Que la liquidez es nula."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Sofía compró acciones de una empresa consolidada. Al final del año, la empresa obtuvo ganancias y decidió repartir una parte de estas entre sus accionistas. Sofía recibió un pago por este concepto. ¿Cómo se llama este beneficio?",
-    "opciones": [
-      "Interés compuesto",
-      "Dividendo",
-      "Plusvalía",
-      "Regalía"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Pedro guarda su dinero bajo el colchón durante 10 años. Al sacarlo, se da cuenta de que compra mucho menos que antes. Ana invirtió su dinero y logró que creciera. ¿Cuál es la diferencia clave en la gestión del dinero entre Pedro y Ana?",
-    "opciones": [
-      "Pedro invirtió y Ana ahorró.",
-      "Ambos ahorraron, pero Ana tuvo suerte.",
-      "Pedro solo ahorró (sin rendimiento) y Ana invirtió (buscando rendimiento).",
-      "Pedro asumió más riesgos que Ana."
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "Una empresa de logística decide comprar 10 nuevos camiones para ampliar su flota y mejorar sus tiempos de entrega. ¿En qué categoría de inversión cae esta adquisición según el elemento invertido?",
-    "opciones": [
-      "Inversión en commodities",
-      "Inversión en transporte",
-      "Inversión en bienes inmuebles",
-      "Inversión en acciones"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Luis quiere invertir en 'Commodities' o materias primas. ¿Cuál de las siguientes opciones de compra corresponde a este tipo de inversión?",
-    "opciones": [
-      "Comprar un apartamento para alquilar.",
-      "Comprar barriles de petróleo o lingotes de oro.",
-      "Comprar acciones de una empresa tecnológica.",
-      "Pagar la matrícula de una maestría."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Elena busca una inversión que le dé resultados en un periodo de 5 años para pagar la universidad de su hijo. Según la clasificación por tiempo, ¿qué tipo de inversión está planeando Elena?",
-    "opciones": [
-      "Inversión a corto plazo",
-      "Inversión a mediano plazo",
-      "Inversión a largo plazo",
-      "Inversión inmediata"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "Un escritor dedica un año entero a escribir una novela, invirtiendo su tiempo y esfuerzo con la esperanza de cobrar derechos de autor en el futuro. ¿Qué recurso principal está invirtiendo el escritor?",
-    "opciones": [
-      "Capital financiero",
-      "Tierra",
-      "Tiempo y habilidades (trabajo)",
-      "Maquinaria"
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Cuál es la definición general de una inversión según el video?",
-    "opciones": [
-      "Guardar dinero en un lugar seguro sin tocarlo.",
-      "Dedicar recursos (tiempo, dinero, esfuerzo) con el objetivo de obtener un beneficio futuro.",
-      "Gastar dinero en bienes de lujo.",
-      "Pedir dinero prestado al banco."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuáles son los cuatro factores principales que conforman una inversión?",
-    "opciones": [
-      "Dinero, Tierra, Trabajo, Tiempo.",
-      "Ahorro, Gasto, Deuda, Crédito.",
-      "Rentabilidad, Riesgo, Liquidez, Plazo.",
-      "Acciones, Bonos, Inmuebles, Divisas."
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Qué se entiende por 'Rentabilidad' en una inversión?",
-    "opciones": [
-      "La posibilidad de perder el dinero.",
-      "El tiempo que tarda en recuperarse el dinero.",
-      "La posible ganancia o beneficio que se obtiene.",
-      "La facilidad para vender la inversión."
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Cuál es el rango de tiempo para una inversión considerada de 'corto plazo'?",
-    "opciones": [
-      "Entre 1 y 3 años.",
-      "Más de 3 años.",
-      "Menos de un año.",
-      "Más de 5 años."
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Qué significa el término 'Liquidez' en el contexto de las inversiones?",
-    "opciones": [
-      "La capacidad de convertir una inversión en dinero en efectivo rápidamente.",
-      "La cantidad de ganancia líquida obtenida.",
-      "El riesgo de que la inversión se evapore.",
-      "El flujo de caja de una empresa."
-    ],
-    "correcta": 0
-  },
-  {
-    "pregunta": "¿Qué es el riesgo en una inversión?",
-    "opciones": [
-      "La ganancia asegurada.",
-      "La probabilidad de obtener la ganancia esperada o de sufrir una pérdida.",
-      "El costo de oportunidad.",
-      "El tiempo de espera."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué rango de tiempo abarca una inversión de 'mediano plazo' según el video?",
-    "opciones": [
-      "Menos de un mes.",
-      "Menos de un año.",
-      "Entre uno y tres años.",
-      "Más de diez años."
-    ],
-    "correcta": 2
-  },
-  {
-    "pregunta": "¿Qué son los 'Commodities'?",
-    "opciones": [
-      "Bienes raíces como casas y edificios.",
-      "Bienes básicos destinados a uso comercial (café, azúcar, oro, etc.).",
-      "Acciones de empresas de tecnología.",
-      "Criptomonedas."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuál es la principal diferencia entre ahorrar e invertir?",
-    "opciones": [
-      "Ahorrar genera grandes ganancias; invertir no.",
-      "Ahorrar es solo guardar dinero (sin o bajo rendimiento); invertir busca hacerlo crecer asumiendo riesgos.",
-      "Invertir es más seguro que ahorrar.",
-      "No hay diferencia, son sinónimos."
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué son los dividendos?",
-    "opciones": [
-      "El precio de venta de una acción.",
-      "Las pérdidas de una empresa.",
-      "Las ganancias de una empresa que se distribuyen entre los accionistas.",
-      "El interés que paga el banco por un ahorro."
-    ],
-    "correcta": 2
-  }
-],
-          "resumen": "La clase define la inversión como dedicar recursos —tierra, trabajo, tiempo o capital— con la expectativa de obtener beneficios futuros. Toda inversión implica riesgo e incertidumbre, así como un costo de oportunidad: aquello a lo que se renuncia al elegirla. Para evaluar una inversión se consideran rentabilidad, riesgo, liquidez y plazo, junto con las preferencias y la disposición al riesgo de cada persona. Se presentan tipos según su duración, el bien o recurso invertido y su ámbito: incluyen educación, maquinaria, commodities, transporte, inmuebles y acciones. También se distingue entre ahorrar, que es guardar dinero con poco o ningún rendimiento, e invertir, que es colocarlo en proyectos para buscar beneficios, asumiendo riesgos. La clase señala que el ahorro puede servir para inversión, objetivos y emergencias, y que conviene invertir con cuidado.",
+            {
+              "pregunta": "Según la clase, ¿qué representa una acción de una empresa?",
+              "opciones": [
+                "Una pequeña participación en la propiedad de la empresa.",
+                "Un préstamo otorgado exclusivamente al Estado.",
+                "Una garantía de recibir intereses fijos todos los años.",
+                "Un contrato que impide perder el dinero invertido."
+              ],
+              "correcta": 0,
+              "resolucion": "Una acción representa una pequeña parte de una empresa. Quien la compra adquiere una participación en su propiedad; eso no garantiza ganancias ni intereses fijos."
+            },
+            {
+              "pregunta": "En un ejemplo hipotético, se compran 12 acciones a 25 dólares cada una y después se venden todas a 30 dólares. Sin considerar comisiones, impuestos ni dividendos, ¿cuál es la ganancia por el cambio de precio?",
+              "opciones": [
+                "30 dólares.",
+                "50 dólares.",
+                "60 dólares.",
+                "360 dólares."
+              ],
+              "correcta": 2,
+              "resolucion": "La compra cuesta 12 × 25 = 300 dólares y la venta produce 12 × 30 = 360 dólares. La ganancia por el cambio de precio es 360 − 300 = 60 dólares."
+            },
+            {
+              "pregunta": "¿Qué operación describe mejor la compra de un bono, según el video?",
+              "opciones": [
+                "Adquirir necesariamente una parte de la propiedad del emisor.",
+                "Prestar dinero a un gobierno o una empresa a cambio de intereses.",
+                "Comprar un inmueble para alquilarlo.",
+                "Entregar dinero sin plazo y con rentabilidad garantizada por cualquier circunstancia."
+              ],
+              "correcta": 1,
+              "resolucion": "El video presenta los bonos como instrumentos mediante los cuales se presta dinero a gobiernos o empresas a cambio de intereses. El pago depende de que el emisor cumpla sus obligaciones."
+            },
+            {
+              "pregunta": "Un bono hipotético tiene un valor de 1.500 dólares y paga un interés anual del 6 %. Si se cumple el pago acordado, ¿cuánto se recibe por intereses de un año, sin incluir la devolución del capital?",
+              "opciones": [
+                "6 dólares.",
+                "1.500 dólares.",
+                "1.590 dólares.",
+                "90 dólares."
+              ],
+              "correcta": 3,
+              "resolucion": "El interés de un año es 1.500 × 0,06 = 90 dólares. Los 1.500 dólares corresponden al capital, no al interés; el supuesto del ejercicio es que el emisor cumple el pago."
+            },
+            {
+              "pregunta": "¿Cuáles son dos formas de obtener ingresos o ganancias mediante bienes raíces que se explican en la clase?",
+              "opciones": [
+                "Recibir dividendos del banco y crear criptomonedas.",
+                "Obtener siempre un interés fijo y eliminar todos los gastos.",
+                "Alquilar una propiedad o venderla a un precio mayor si su valor aumenta.",
+                "Cobrar comisiones de un fondo y prestar dinero al Estado."
+              ],
+              "correcta": 2,
+              "resolucion": "La clase explica el alquiler de propiedades para recibir ingresos y su posible venta posterior a un precio mayor. Ambas posibilidades tienen riesgos y gastos; no constituyen una ganancia asegurada."
+            },
+            {
+              "pregunta": "Una persona necesita recuperar pronto el dinero invertido en una propiedad. ¿Qué dificultad señalada en el video debe considerar?",
+              "opciones": [
+                "Vender un inmueble puede tomar bastante tiempo.",
+                "Todos los inmuebles se venden de inmediato al precio deseado.",
+                "Los inmuebles nunca generan gastos de mantenimiento.",
+                "El alquiler elimina la posibilidad de que la propiedad pierda valor."
+              ],
+              "correcta": 0,
+              "resolucion": "El video indica que vender un inmueble puede tomar bastante tiempo, por lo que no siempre es fácil recuperar rápidamente el dinero invertido. También pueden existir gastos y pérdida de valor."
+            },
+            {
+              "pregunta": "¿Qué caracteriza a un fondo de inversión en la explicación del video?",
+              "opciones": [
+                "Reúne dinero para comprar siempre una única acción elegida al azar.",
+                "Garantiza que ningún activo de su cartera pueda perder valor.",
+                "Impide que profesionales participen en su administración.",
+                "Reúne dinero de varios inversionistas para invertir en distintos activos siguiendo una estrategia."
+              ],
+              "correcta": 3,
+              "resolucion": "Los fondos reúnen dinero de diferentes inversionistas y suelen ser administrados por profesionales que siguen una estrategia. Distribuir la inversión entre activos ayuda a diversificar, pero no elimina las pérdidas posibles."
+            },
+            {
+              "pregunta": "¿Qué efecto pueden tener las comisiones de administración de un fondo sobre el resultado que obtiene el inversionista?",
+              "opciones": [
+                "Garantizan que el fondo nunca registre pérdidas.",
+                "Pueden reducir la rentabilidad obtenida.",
+                "Transforman todas las participaciones del fondo en inmuebles.",
+                "Eliminan la necesidad de conocer los activos del fondo."
+              ],
+              "correcta": 1,
+              "resolucion": "La clase señala que algunos fondos cobran comisiones de administración y que estas pueden reducir la rentabilidad obtenida. Por ello se deben distinguir los resultados de los activos de los costos del fondo."
+            },
+            {
+              "pregunta": "¿Qué diferencia entre los ETF y muchos fondos tradicionales menciona expresamente el video?",
+              "opciones": [
+                "Los ETF solo pueden invertir en una empresa.",
+                "Los ETF se compran y venden en bolsa de forma similar a las acciones.",
+                "Los ETF no pueden incluir bonos ni materias primas.",
+                "Los ETF aseguran ganancias independientemente de sus activos."
+              ],
+              "correcta": 1,
+              "resolucion": "El video explica que los ETF son fondos cotizados y que se compran y venden en bolsa de manera similar a las acciones. Pueden reunir diferentes activos y también pueden perder valor."
+            },
+            {
+              "pregunta": "Un ETF reúne acciones de muchas empresas. Si disminuye el valor de los activos que contiene, ¿qué puede ocurrir con la inversión?",
+              "opciones": [
+                "La diversificación obliga al ETF a obtener una ganancia.",
+                "El inversionista recibe automáticamente el capital duplicado.",
+                "El ETF deja de depender del comportamiento de sus activos.",
+                "La inversión también puede perder valor, aunque esté diversificada."
+              ],
+              "correcta": 3,
+              "resolucion": "Diversificar distribuye el dinero entre activos, pero no garantiza beneficios. El video señala que, si disminuye el valor de los activos de un ETF, la inversión puede perder valor."
+            },
+            {
+              "pregunta": "¿Qué puede suceder al retirar antes del vencimiento el dinero de un depósito a plazo, según la clase?",
+              "opciones": [
+                "Se garantiza un rendimiento mayor al acordado.",
+                "La entidad debe duplicar los intereses de inmediato.",
+                "Pueden aplicarse penalizaciones o perderse intereses.",
+                "El depósito se convierte automáticamente en acciones."
+              ],
+              "correcta": 2,
+              "resolucion": "En un depósito a plazo, el dinero generalmente debe permanecer hasta el vencimiento para obtener el rendimiento acordado. El retiro anticipado puede ocasionar penalizaciones o pérdida de intereses."
+            },
+            {
+              "pregunta": "Se depositan hipotéticamente 3.000 dólares durante un año a una tasa simple del 4 % anual. Si se cumplen las condiciones y no hay comisiones ni impuestos, ¿cuánto se obtiene por intereses?",
+              "opciones": [
+                "120 dólares.",
+                "12 dólares.",
+                "3.120 dólares.",
+                "750 dólares."
+              ],
+              "correcta": 0,
+              "resolucion": "El interés simple de un año es 3.000 × 0,04 = 120 dólares. La cifra 3.120 incluye el capital más los intereses, mientras que la pregunta solicita únicamente los intereses."
+            },
+            {
+              "pregunta": "¿Qué diferencia del oro físico frente a algunas acciones y bonos se destaca en el video?",
+              "opciones": [
+                "Por sí mismo no paga dividendos ni intereses periódicos.",
+                "Siempre produce un dividendo mensual fijo.",
+                "No necesita almacenamiento ni medidas de seguridad.",
+                "Su precio no puede disminuir."
+              ],
+              "correcta": 0,
+              "resolucion": "La clase distingue el oro físico de las acciones que pagan dividendos y de los bonos que generan intereses: el metal no produce por sí mismo esos ingresos periódicos. Además, puede tener costos de almacenamiento y seguridad."
+            },
+            {
+              "pregunta": "Aunque algunas personas consideran al oro un activo refugio, ¿qué precisión hace la clase sobre sus resultados?",
+              "opciones": [
+                "Su precio aumenta obligatoriamente cada año.",
+                "Protege de manera absoluta contra cualquier pérdida.",
+                "Su precio puede bajar y no garantiza ganancias.",
+                "No puede usarse junto con otros activos en una cartera."
+              ],
+              "correcta": 2,
+              "resolucion": "El video señala que el precio del oro puede disminuir y que invertir en metales no garantiza ganancias ni protección absoluta frente a pérdidas. La expresión activo refugio no equivale a ausencia de riesgo."
+            },
+            {
+              "pregunta": "¿Qué significa la volatilidad al describir las criptomonedas en esta clase?",
+              "opciones": [
+                "Que todas pagan el mismo interés anual fijo.",
+                "Que sus precios no pueden cambiar durante varios años.",
+                "Que cuentan siempre con un seguro de depósitos bancarios.",
+                "Que sus precios pueden experimentar subidas y caídas muy pronunciadas."
+              ],
+              "correcta": 3,
+              "resolucion": "La volatilidad se explica como la posibilidad de que los precios de las criptomonedas presenten aumentos y caídas muy pronunciados, incluso en periodos cortos. Por tanto, no equivale a una ganancia segura."
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes riesgos de las criptomonedas se menciona de forma expresa en el video?",
+              "opciones": [
+                "La imposibilidad de que su precio disminuya.",
+                "El fraude o la pérdida de acceso a las billeteras digitales.",
+                "La garantía universal de recuperar el dinero mediante un seguro de depósitos.",
+                "El cobro obligatorio de dividendos por parte de todas las redes."
+              ],
+              "correcta": 1,
+              "resolucion": "La clase menciona riesgos de fraude, plataformas de intercambio y pérdida de acceso a billeteras digitales. También indica que las criptomonedas generalmente no cuentan con seguros de depósitos como los bancarios."
+            },
+            {
+              "pregunta": "¿Qué grupo contiene ejemplos de materias primas citadas en el video?",
+              "opciones": [
+                "Departamentos, oficinas y locales comerciales.",
+                "Participaciones de fondos, acciones y bonos.",
+                "Patentes, aplicaciones y marcas comerciales.",
+                "Petróleo, cobre, trigo y café."
+              ],
+              "correcta": 3,
+              "resolucion": "Las materias primas se presentan como recursos naturales empleados para fabricar productos, producir energía o elaborar alimentos. Entre los ejemplos del video se encuentran petróleo, cobre, trigo, café y gas natural."
+            },
+            {
+              "pregunta": "Una sequía altera la oferta de un producto agrícola y cambia su precio. ¿Con qué factor explicado para las materias primas se relaciona este caso?",
+              "opciones": [
+                "La obligación de que todos los precios permanezcan fijos.",
+                "Las condiciones climáticas que pueden afectar sus precios.",
+                "La eliminación automática de los riesgos por diversificación.",
+                "La desaparición de la demanda mundial."
+              ],
+              "correcta": 1,
+              "resolucion": "El video enumera las condiciones climáticas entre los factores que pueden modificar los precios de las materias primas. También menciona demanda mundial, conflictos internacionales y niveles de producción."
+            },
+            {
+              "pregunta": "Según la clase, ¿de dónde pueden proceder los ingresos de un negocio en el que se invierte?",
+              "opciones": [
+                "De la venta de productos o la prestación de servicios.",
+                "De una ganancia fija garantizada por el solo hecho de abrirlo.",
+                "Exclusivamente de seguros de depósitos sobre criptomonedas.",
+                "Únicamente de la variación diaria del precio del oro."
+              ],
+              "correcta": 0,
+              "resolucion": "La inversión en negocios puede financiar la creación de una empresa o la participación en una existente. La clase explica que el negocio genera ingresos mediante la venta de productos o la prestación de servicios."
+            },
+            {
+              "pregunta": "Una cafetería recién creada vende menos de lo esperado y enfrenta un aumento de costos. ¿Qué conclusión coincide con la explicación sobre invertir en negocios?",
+              "opciones": [
+                "Los costos y las ventas no afectan a los resultados.",
+                "La inversión tiene una ganancia obligatoria desde el primer día.",
+                "Existen riesgos y la recuperación del capital puede requerir varios años.",
+                "Abrir un negocio elimina cualquier efecto de la competencia."
+              ],
+              "correcta": 2,
+              "resolucion": "El video señala que las ventas pueden ser menores de lo esperado, los costos pueden aumentar y la competencia puede afectar al negocio. Algunos negocios necesitan varios años para recuperar el capital invertido."
+            }
+          ],
+          "resumen": "La clase presenta diez alternativas de inversión: acciones, bonos, bienes raíces, fondos de inversión, ETFs, depósitos a plazo, metales preciosos, criptomonedas, materias primas y negocios. Explica de dónde pueden provenir sus ganancias —como dividendos, intereses, alquileres, valorización o beneficios empresariales— y muestra ejemplos numéricos de algunas opciones. También compara características prácticas: los fondos y ETFs reúnen diversos activos; los depósitos a plazo ofrecen rendimientos más previsibles, pero restringen el acceso al dinero; y el oro no produce ingresos periódicos. La exposición destaca que todas las inversiones tienen riesgos, aunque de distinta naturaleza: variaciones de precios, incumplimiento del emisor, gastos, inflación, volatilidad o dificultades para vender. La decisión exige considerar condiciones, costos, horizonte y riesgos, sin asumir que la diversificación o la previsibilidad eliminan posibles pérdidas.",
           "puntos_clave": [
-            "Invertir consiste en destinar recursos disponibles —como tierra, trabajo, tiempo o dinero— para buscar un beneficio futuro.",
-            "Toda inversión conlleva incertidumbre y un costo de oportunidad: al elegir qué hacer con los recursos, se renuncia a otras opciones posibles.",
-            "La evaluación de una inversión considera cuatro factores: rentabilidad, riesgo, liquidez y plazo; describen posibles ganancias, incertidumbre, recuperación del dinero y tiempo requerido.",
-            "Las inversiones se pueden clasificar por duración: corto plazo, menos de un año; mediano, entre uno y tres años; largo, más de tres años.",
-            "Ahorrar es guardar dinero con rendimiento nulo o bajo; invertir es colocarlo en proyectos para buscar beneficios, con mayores posibilidades de crecimiento y también riesgos."
+            "Las acciones representan una parte de una empresa; su precio puede subir o bajar y algunas compañías pagan dividendos.",
+            "Los bonos financian a gobiernos o empresas a cambio de intereses, pero el emisor puede incumplir y el precio puede caer antes del vencimiento.",
+            "Los bienes raíces pueden generar alquileres o ganancias por valorización, aunque requieren capital y pueden implicar gastos, vacancia y demoras al vender.",
+            "Los fondos y ETFs distribuyen la inversión entre activos; los fondos son administrados y los ETFs se negocian en bolsa como acciones.",
+            "Los depósitos a plazo ofrecen intereses previsibles, pero retirar el dinero antes del vencimiento puede traer penalizaciones o pérdida de intereses.",
+            "Criptomonedas, materias primas y negocios pueden ofrecer ganancias, pero sus resultados están expuestos a volatilidad, cambios de mercado y riesgos operativos."
           ],
           "momentos_clave": [
             {
-              "titulo": "Qué significa invertir",
-              "texto": "La clase define la inversión como dedicar recursos disponibles para obtener un beneficio futuro; entre esos recursos menciona tierra, trabajo, tiempo y capital.",
+              "titulo": "Acciones: participación y variación de valor",
+              "texto": "La clase explica que una acción representa una fracción de una empresa y que su valor puede cambiar, con posibilidad de ganancias, pérdidas y dividendos.",
               "segundos": 33,
-              "youtube_id": "VnQlMaTos4o",
+              "youtube_id": "zo01GjDcIyg",
               "evidencia": {
                 "segmento_inicio": "s000013",
                 "segmento_fin": "s000016",
-                "cita": "una inversión consiste en la actividad de dedicar recursos que dispongamos con el objetivo de tener un beneficio en el futuro",
-                "inicio_segundos": 33,
-                "fin_segundos": 44,
+                "cita": "Sin embargo, si el precio disminuye, también podrías perder parte del dinero invertido. Además, algunas empresas distribuyen una parte de sus ganancias",
+                "inicio_segundos": 33.68,
+                "fin_segundos": 47.120000000000005,
                 "segundos": 33,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
@@ -8500,17 +8521,17 @@
               }
             },
             {
-              "titulo": "Costo de oportunidad",
-              "texto": "Al elegir una inversión se renuncia a otras posibilidades de uso de los recursos. El ejemplo del dinero destinado a invertir ilustra que podría emplearse en otras opciones.",
-              "segundos": 138,
-              "youtube_id": "VnQlMaTos4o",
+              "titulo": "Bonos: préstamo e intereses",
+              "texto": "Se presenta el bono como un préstamo a un gobierno o empresa a cambio de intereses; el retorno depende de que el emisor cumpla y de las condiciones de venta.",
+              "segundos": 77,
+              "youtube_id": "zo01GjDcIyg",
               "evidencia": {
-                "segmento_inicio": "s000060",
-                "segmento_fin": "s000064",
-                "cita": "el coste de oportunidad es todo aquello que podríamos estar renunciando a hacer al utilizar los distintos recursos que tengamos a disposición",
-                "inicio_segundos": 138,
-                "fin_segundos": 149,
-                "segundos": 138,
+                "segmento_inicio": "s000030",
+                "segmento_fin": "s000033",
+                "cita": "permiten prestar dinero a gobiernos o empresas a cambio de recibir intereses. Son una de las formas de inversión más utilizadas",
+                "inicio_segundos": 77.24,
+                "fin_segundos": 90.56,
+                "segundos": 77,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -8519,17 +8540,17 @@
               }
             },
             {
-              "titulo": "Factores para evaluar una inversión",
-              "texto": "La clase presenta rentabilidad, riesgo, liquidez y plazo como factores para valorar lo que se podría ganar, perder, recuperar y cuánto tardarían los resultados.",
-              "segundos": 376,
-              "youtube_id": "VnQlMaTos4o",
+              "titulo": "Bienes raíces: alquiler y gastos",
+              "texto": "La inversión inmobiliaria puede producir ingresos periódicos al alquilar una propiedad, aunque hay que descontar impuestos, mantenimiento y otros gastos.",
+              "segundos": 167,
+              "youtube_id": "zo01GjDcIyg",
               "evidencia": {
-                "segmento_inicio": "s000165",
-                "segmento_fin": "s000168",
-                "cita": "utilizamos cuatro factores que conforman la inversión la rentabilidad el riesgo la liquidez y el plazo",
-                "inicio_segundos": 376,
-                "fin_segundos": 388,
-                "segundos": 376,
+                "segmento_inicio": "s000063",
+                "segmento_fin": "s000066",
+                "cita": "Una de las formas más comunes de invertir en bienes raíces es comprar una propiedad para alquilarla y recibir ingresos periódicos.",
+                "inicio_segundos": 167.252,
+                "fin_segundos": 178.012,
+                "segundos": 167,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -8538,17 +8559,17 @@
               }
             },
             {
-              "titulo": "Clasificación por duración",
-              "texto": "Las inversiones pueden dividirse por plazo: corto, menos de un año; mediano, entre uno y tres años; y largo, más de tres años.",
-              "segundos": 539,
-              "youtube_id": "VnQlMaTos4o",
+              "titulo": "Fondos: diversificación y comisiones",
+              "texto": "Los fondos agrupan dinero para invertir en varios activos y pueden distribuir el riesgo; las pérdidas y las comisiones pueden reducir el resultado.",
+              "segundos": 273,
+              "youtube_id": "zo01GjDcIyg",
               "evidencia": {
-                "segmento_inicio": "s000237",
-                "segmento_fin": "s000241",
-                "cita": "inversiones de corto plazo son todas las inversiones a menos de un año inversiones de mediano plazo aquí entre las inversiones entre uno y tres años",
-                "inicio_segundos": 539,
-                "fin_segundos": 550,
-                "segundos": 539,
+                "segmento_inicio": "s000106",
+                "segmento_fin": "s000109",
+                "cita": "Una de sus principales ventajas es la diversificación, que permite distribuir el riesgo entre diferentes activos.",
+                "inicio_segundos": 273.014,
+                "fin_segundos": 283.69399999999996,
+                "segundos": 273,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -8557,17 +8578,36 @@
               }
             },
             {
-              "titulo": "Diferencia entre ahorrar e invertir",
-              "texto": "Ahorrar es reservar dinero para el futuro sin rendimiento o con interés bajo; invertir es colocarlo en proyectos con la expectativa de obtener beneficios, asumiendo riesgos.",
-              "segundos": 666,
-              "youtube_id": "VnQlMaTos4o",
+              "titulo": "Depósitos a plazo: rendimiento y vencimiento",
+              "texto": "El dinero suele quedar depositado hasta la fecha pactada; retirar antes puede causar penalizaciones o pérdida de intereses.",
+              "segundos": 406,
+              "youtube_id": "zo01GjDcIyg",
               "evidencia": {
-                "segmento_inicio": "s000292",
-                "segmento_fin": "s000296",
-                "cita": "ahorrar consiste solamente en guardar el dinero que dispongas para disponer de él en el futuro sin generar ningún tipo de rendimiento o ganando un interés muy bajo",
-                "inicio_segundos": 666,
-                "fin_segundos": 677,
-                "segundos": 666,
+                "segmento_inicio": "s000160",
+                "segmento_fin": "s000163",
+                "cita": "el dinero generalmente debe permanecer depositado hasta la fecha de vencimiento para obtener el rendimiento acordado.",
+                "inicio_segundos": 406.575,
+                "fin_segundos": 418.895,
+                "segundos": 406,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Criptomonedas: volatilidad y riesgos",
+              "texto": "La clase destaca la volatilidad de sus precios y menciona riesgos de fraude, plataformas de intercambio y pérdida de acceso a billeteras digitales.",
+              "segundos": 589,
+              "youtube_id": "zo01GjDcIyg",
+              "evidencia": {
+                "segmento_inicio": "s000228",
+                "segmento_fin": "s000231",
+                "cita": "Una de sus características principales es la volatilidad, porque sus precios pueden experimentar aumentos y caídas muy pronunciadas.",
+                "inicio_segundos": 589.897,
+                "fin_segundos": 603.017,
+                "segundos": 589,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -8576,78 +8616,86 @@
               }
             }
           ],
-          "duracion_segundos": null,
+          "duracion_segundos": 789,
           "summary_provenance": {
             "model": "gpt-6-luna",
             "prompt_version": "edutube-class-summary-1-long-context",
-            "generated_at": "2026-10-29T18:58:41.827Z",
-            "source_sha256": "cfbf81e9bdaf98346d7849db55032e1e32e139fc8b3018e0272534e65e691a49",
-            "request_sha256": "1673995db59c1f77588c27fa87347e98f7f7e93132689cec31b38e00a10ec08e",
-            "transcript_segments_sha256": "f3b07d667378da537bb68dd68f1697ba016862bf4486c59031a359d1aeb38011",
+            "generated_at": "2026-10-29T19:38:50.626Z",
+            "source_sha256": "d1f85a255b5ec1dcdb5a9deec5d39ed7d56989e36cc05878d5ca9bdea97f5e3c",
+            "request_sha256": "7074b6e234edd87b3705ef068156a5d2b1ed47ecdb6abb5d562a984fa4edea7c",
+            "transcript_segments_sha256": "59d12c62da152a1895b8e83ca46f644bd8e4a519b7e754c0709866504fb66453",
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "schema_plain_text_and_literal_segment_evidence",
             "factual_review": "not_human_verified",
             "playback": "not_verified",
             "key_point_evidence": [
               {
-                "segmento_inicio": "s000013",
-                "segmento_fin": "s000016",
-                "cita": "una inversión consiste en la actividad de dedicar recursos que dispongamos con el objetivo de tener un beneficio en el futuro",
-                "inicio_segundos": 33,
-                "fin_segundos": 44,
-                "segundos": 33,
+                "segmento_inicio": "s000004",
+                "segmento_fin": "s000006",
+                "cita": "pequeñas partes de una empresa y permiten que cualquier inversionista se convierta en propietario de una fracción",
+                "inicio_segundos": 8.2,
+                "fin_segundos": 17.880000000000003,
+                "segundos": 8,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000060",
-                "segmento_fin": "s000064",
-                "cita": "el coste de oportunidad es todo aquello que podríamos estar renunciando a hacer al utilizar los distintos recursos que tengamos a disposición",
-                "inicio_segundos": 138,
-                "fin_segundos": 149,
-                "segundos": 138,
+                "segmento_inicio": "s000030",
+                "segmento_fin": "s000033",
+                "cita": "permiten prestar dinero a gobiernos o empresas a cambio de recibir intereses. Son una de las formas de inversión más utilizadas",
+                "inicio_segundos": 77.24,
+                "fin_segundos": 90.56,
+                "segundos": 77,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000165",
-                "segmento_fin": "s000168",
-                "cita": "utilizamos cuatro factores que conforman la inversión la rentabilidad el riesgo la liquidez y el plazo",
-                "inicio_segundos": 376,
-                "fin_segundos": 388,
-                "segundos": 376,
+                "segmento_inicio": "s000064",
+                "segmento_fin": "s000066",
+                "cita": "comprar una propiedad para alquilarla y recibir ingresos periódicos.",
+                "inicio_segundos": 169.012,
+                "fin_segundos": 178.012,
+                "segundos": 169,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000237",
-                "segmento_fin": "s000241",
-                "cita": "inversiones de corto plazo son todas las inversiones a menos de un año inversiones de mediano plazo aquí entre las inversiones entre uno y tres años",
-                "inicio_segundos": 539,
-                "fin_segundos": 550,
-                "segundos": 539,
+                "segmento_inicio": "s000090",
+                "segmento_fin": "s000094",
+                "cita": "reúnen el dinero de diferentes inversionistas para invertirlo en una variedad de activos, como acciones, bonos y otros instrumentos financieros.",
+                "inicio_segundos": 237.012,
+                "fin_segundos": 251.57399999999998,
+                "segundos": 237,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000292",
-                "segmento_fin": "s000296",
-                "cita": "ahorrar consiste solamente en guardar el dinero que dispongas para disponer de él en el futuro sin generar ningún tipo de rendimiento o ganando un interés muy bajo",
-                "inicio_segundos": 666,
-                "fin_segundos": 677,
-                "segundos": 666,
+                "segmento_inicio": "s000160",
+                "segmento_fin": "s000163",
+                "cita": "el dinero generalmente debe permanecer depositado hasta la fecha de vencimiento para obtener el rendimiento acordado.",
+                "inicio_segundos": 406.575,
+                "fin_segundos": 418.895,
+                "segundos": 406,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s000228",
+                "segmento_fin": "s000231",
+                "cita": "Una de sus características principales es la volatilidad, porque sus precios pueden experimentar aumentos y caídas muy pronunciadas.",
+                "inicio_segundos": 589.897,
+                "fin_segundos": 603.017,
+                "segundos": 589,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               }
             ],
             "summary_origin": "per_video_grounded_EduTube_summary",
             "transcript": {
-              "kind": "youtubetotranscript_web",
-              "provider": "YouTubeToTranscript.com",
+              "kind": "youtube_captions_direct",
+              "provider": "yt_dlp",
               "language": "es",
-              "automatic_speech_recognition": null,
+              "automatic_speech_recognition": true,
               "human_review": "not_verified",
-              "playback": "not_verified",
-              "video_currently_unavailable": true
+              "playback": "not_verified"
             },
             "duration_validation": {
-              "source_duration_valid": false,
-              "basis": "source_duration_unknown",
+              "source_duration_valid": true,
+              "basis": "provider_duration_not_playback_verified",
               "playback": "not_verified"
             },
             "segment_index_basis": "normalized_nonempty_source_segments_with_original_mapping_retained_privately"

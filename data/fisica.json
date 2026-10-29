@@ -1643,253 +1643,253 @@
       "videos": [
         {
           "titulo": "2.1 Dinámica",
-          "youtube_id": "ry4etxG_ZtQ",
+          "youtube_id": "DnqaHsZi4_A",
           "pdf_link": "https://drive.google.com/file/d/1Xfnw7HqVL97_AEpCYF514eGuQIq5n_Up/view",
           "gratis": true,
           "preguntas": [
             {
-              "pregunta": "En el movimiento parabólico de caída libre, ¿qué tipo de movimiento se describe en el eje horizontal ($x$) y en el eje vertical ($y$), respectivamente?",
+              "pregunta": "¿Qué estudia principalmente la dinámica, a diferencia de una descripción puramente cinemática?",
               "opciones": [
-                "MRUV y MRU",
-                "MRU y MRU",
-                "MRU y MRUV",
-                "MRUV y MRUV"
+                "Únicamente la forma geométrica de una trayectoria.",
+                "Solo las posiciones de un móvil en distintos instantes.",
+                "Las causas que producen cambios en el movimiento de los cuerpos.",
+                "Solo la distancia total recorrida por un móvil."
               ],
               "correcta": 2,
-              "resolucion": "El movimiento parabólico es un movimiento compuesto. En el eje horizontal no hay aceleración, por lo que es un Movimiento Rectilíneo Uniforme ($MRU$). En el eje vertical actúa la aceleración de la gravedad, resultando en un Movimiento Rectilíneo Uniformemente Variado ($MRUV$)."
+              "resolucion": "La dinámica relaciona las fuerzas con los cambios del movimiento. La cinemática describe el movimiento sin estudiar sus causas."
             },
             {
-              "pregunta": "Si un proyectil se lanza horizontalmente con una rapidez $v_0$ desde una altura $H$, ¿cuál es el valor de la componente vertical de la velocidad inicial ($v_{0y}$)?",
+              "pregunta": "¿Qué magnitud se utiliza como medida de la inercia de un cuerpo?",
               "opciones": [
-                "$v_0$",
-                "$0$",
-                "$g \\cdot t$",
-                "$\\sqrt{2gH}$"
-              ],
-              "correcta": 1,
-              "resolucion": "En un lanzamiento horizontal, el vector velocidad inicial no tiene inclinación respecto al eje $x$. Por lo tanto, la componente vertical inicial es nula ($v_{0y} = 0$)."
-            },
-            {
-              "pregunta": "En el punto más alto de la trayectoria de un proyectil en movimiento parabólico, ¿cuál de las siguientes afirmaciones es correcta?",
-              "opciones": [
-                "La velocidad total del proyectil es cero",
-                "La aceleración del proyectil es cero",
-                "La velocidad es mínima pero no nula, siendo igual a $v_x$",
-                "La componente vertical de la velocidad es máxima"
-              ],
-              "correcta": 2,
-              "resolucion": "En la altura máxima, la componente vertical de la velocidad ($v_y$) se anula momentáneamente. Sin embargo, la componente horizontal ($v_x$) permanece constante, por lo que la velocidad total es igual a $v_x$."
-            },
-            {
-              "pregunta": "Para un proyectil lanzado con rapidez $v_0$ y un ángulo $\\theta$ con la horizontal, ¿cómo se expresa la componente vertical de la velocidad inicial?",
-              "opciones": [
-                "$v_0 \\cos \\theta$",
-                "$v_0 \\tan \\theta$",
-                "$v_0 \\sin \\theta$",
-                "$v_0 / \\sin \\theta$"
-              ],
-              "correcta": 2,
-              "resolucion": "Por descomposición vectorial, la componente opuesta al ángulo de lanzamiento $\\theta$ corresponde al eje vertical y se calcula como $v_{0y} = v_0 \\sin \\theta$."
-            },
-            {
-              "pregunta": "En una trayectoria parabólica simétrica (lanzamiento y llegada al mismo nivel), ¿cuál es la relación entre el tiempo de subida ($t_s$) y el tiempo de bajada ($t_b$)?",
-              "opciones": [
-                "$t_s > t_b$",
-                "$t_s < t_b$",
-                "$t_s = t_b$",
-                "$t_s = 2t_b$"
-              ],
-              "correcta": 2,
-              "resolucion": "Debido a la simetría de la parábola y al despreciar la resistencia del aire, el tiempo que tarda el proyectil en alcanzar la altura máxima es igual al tiempo que tarda en descender al mismo nivel inicial."
-            },
-            {
-              "pregunta": "Un proyectil se lanza con $v_0 = 50$ m/s y un ángulo $\\theta = 37^\\circ$. Si $g = 10$ $m/s^2$, calcule el tiempo de vuelo (Considere $\\sin 37^\\circ = 3/5$).",
-              "opciones": [
-                "3 s",
-                "6 s",
-                "8 s",
-                "10 s"
-              ],
-              "correcta": 1,
-              "resolucion": "Primero hallamos $v_{0y} = 50 \\cdot \\sin 37^\\circ = 50 \\cdot (3/5) = 30$ m/s. El tiempo de subida es $t_s = v_{0y}/g = 30/10 = 3$ s. El tiempo de vuelo es el doble: $T_v = 6$ s."
-            },
-            {
-              "pregunta": "En el Movimiento Circular Uniforme ($MCU$), ¿cuál de las siguientes magnitudes vectoriales permanece constante?",
-              "opciones": [
-                "Vector velocidad",
-                "Vector aceleración centrípeta",
-                "Velocidad angular ($\\omega$)",
-                "Vector posición"
-              ],
-              "correcta": 2,
-              "resolucion": "En el $MCU$, la rapidez angular es constante y su dirección no cambia (siempre es perpendicular al plano de giro), por lo tanto, el vector velocidad angular es constante. Los vectores velocidad y aceleración centrípeta cambian de dirección continuamente."
-            },
-            {
-              "pregunta": "¿Qué magnitud física representa el número de vueltas o revoluciones que un cuerpo realiza por unidad de tiempo?",
-              "opciones": [
-                "Periodo ($T$)",
-                "Frecuencia ($f$)",
-                "Desplazamiento angular ($\\theta$)",
-                "Aceleración angular ($\\alpha$)"
-              ],
-              "correcta": 1,
-              "resolucion": "La frecuencia ($f$) se define como la cantidad de vueltas realizadas en un intervalo de tiempo. Su unidad en el SI es el Hertz ($Hz = 1/s$)."
-            },
-            {
-              "pregunta": "Si un cuerpo tiene un periodo de $T = 0.5$ s en un $MCU$, ¿cuál es su rapidez angular en $rad/s$?",
-              "opciones": [
-                "$\\pi$",
-                "$2\\pi$",
-                "$4\\pi$",
-                "$0.5\\pi$"
-              ],
-              "correcta": 2,
-              "resolucion": "La fórmula de la rapidez angular en función del periodo es $\\omega = 2\\pi / T$. Sustituyendo: $\\omega = 2\\pi / 0.5 = 4\\pi$ $rad/s$."
-            },
-            {
-              "pregunta": "¿Cuál es la relación correcta entre la rapidez tangencial ($v$) y la rapidez angular ($\\omega$) de un punto situado a una distancia $R$ del centro de giro?",
-              "opciones": [
-                "$v = \\omega / R$",
-                "$v = \\omega \\cdot R$",
-                "$\\omega = v \\cdot R$",
-                "$v = \\alpha \\cdot R$"
-              ],
-              "correcta": 1,
-              "resolucion": "La rapidez lineal o tangencial es directamente proporcional a la rapidez angular y al radio de giro: $v = \\omega \\cdot R$."
-            },
-            {
-              "pregunta": "En el $MCU$, la aceleración centrípeta se encarga de cambiar:",
-              "opciones": [
-                "El módulo de la velocidad",
-                "La dirección de la velocidad",
-                "La rapidez angular",
-                "El radio de la trayectoria"
-              ],
-              "correcta": 1,
-              "resolucion": "En un movimiento circular uniforme, el módulo de la velocidad es constante. La aceleración centrípeta actúa perpendicularmente a la velocidad, alterando únicamente su dirección para mantener la trayectoria curva."
-            },
-            {
-              "pregunta": "Un disco gira a $120$ RPM. Exprese esta frecuencia en Hertz ($Hz$).",
-              "opciones": [
-                "2 Hz",
-                "120 Hz",
-                "1 Hz",
-                "4 Hz"
+                "La masa.",
+                "La velocidad.",
+                "La fuerza resultante.",
+                "La aceleración."
               ],
               "correcta": 0,
-              "resolucion": "RPM significa revoluciones por minuto. Para convertir a $Hz$ (revoluciones por segundo), dividimos entre 60: $f = 120 / 60 = 2$ $Hz$."
+              "resolucion": "La masa mide la inercia: a mayor masa, mayor resistencia a cambiar el estado de movimiento."
             },
             {
-              "pregunta": "En el Movimiento Circular Uniformemente Variado ($MCUV$), ¿qué magnitud permanece constante?",
+              "pregunta": "En un sistema de referencia inercial, un cuerpo se desplaza en línea recta con velocidad constante. ¿Qué se deduce sobre la fuerza resultante que actúa sobre él?",
               "opciones": [
-                "Velocidad angular",
-                "Aceleración angular ($\\alpha$)",
-                "Aceleración centrípeta",
-                "Rapidez tangencial"
+                "Es constante y distinta de cero.",
+                "Tiene el mismo sentido que la velocidad.",
+                "Es igual al peso del cuerpo.",
+                "Es cero, aunque pueden actuar fuerzas que se equilibran."
+              ],
+              "correcta": 3,
+              "resolucion": "La velocidad constante implica aceleración nula. Por la segunda ley, F resultante = m × a = 0. Esto no exige que cada fuerza individual sea cero."
+            },
+            {
+              "pregunta": "Para un cuerpo de masa positiva y constante, ¿qué relación existe entre la fuerza resultante y la aceleración?",
+              "opciones": [
+                "Son siempre perpendiculares.",
+                "Tienen la misma dirección y el mismo sentido.",
+                "Tienen necesariamente sentidos opuestos.",
+                "Solo coinciden si el cuerpo está en reposo."
               ],
               "correcta": 1,
-              "resolucion": "El $MCUV$ se caracteriza porque la rapidez angular cambia de manera uniforme, lo que implica que la aceleración angular ($\\alpha$) es constante."
+              "resolucion": "La segunda ley expresa F resultante = m × a. Como la masa es positiva, la fuerza resultante y la aceleración tienen la misma dirección y sentido."
             },
             {
-              "pregunta": "Si una partícula en $MCUV$ parte del reposo y alcanza una rapidez angular de $10$ $rad/s$ en $2$ s, ¿cuál es su aceleración angular?",
+              "pregunta": "Sobre un cuerpo de 2 kg actúa una fuerza resultante horizontal de 10 N. ¿Cuál es el módulo de su aceleración?",
               "opciones": [
-                "$20$ $rad/s^2$",
-                "$10$ $rad/s^2$",
-                "$5$ $rad/s^2$",
-                "$2$ $rad/s^2$"
-              ],
-              "correcta": 2,
-              "resolucion": "Usamos la fórmula $\\omega_f = \\omega_0 + \\alpha \\cdot t$. Como parte del reposo, $\\omega_0 = 0$. Entonces $10 = 0 + \\alpha \\cdot 2$, resultando $\\alpha = 5$ $rad/s^2$."
-            },
-            {
-              "pregunta": "¿Cuál es la expresión para calcular la aceleración tangencial ($a_t$) en un $MCUV$?",
-              "opciones": [
-                "$a_t = \\omega^2 \\cdot R$",
-                "$a_t = \\alpha \\cdot R$",
-                "$a_t = v^2 / R$",
-                "$a_t = \\omega \\cdot R$"
+                "20 m/s²",
+                "5 m/s²",
+                "0,2 m/s²",
+                "12 m/s²"
               ],
               "correcta": 1,
-              "resolucion": "La aceleración tangencial es la responsable de cambiar el módulo de la velocidad tangencial y se calcula multiplicando la aceleración angular por el radio: $a_t = \\alpha \\cdot R$."
+              "resolucion": "Aplicamos F resultante = m × a: a = 10/2 = 5 m/s²."
             },
             {
-              "pregunta": "En un movimiento circular, si el vector velocidad y el vector aceleración son perpendiculares en todo momento, el movimiento es:",
+              "pregunta": "Una misma fuerza resultante no nula actúa primero sobre una masa m y después sobre una masa 2m. ¿Cómo cambia la aceleración en el segundo caso?",
               "opciones": [
-                "MCUV acelerado",
-                "MCUV desacelerado",
-                "MCU",
-                "Parabólico"
+                "Se duplica.",
+                "Se cuadruplica.",
+                "Se mantiene igual.",
+                "Se reduce a la mitad."
               ],
-              "correcta": 2,
-              "resolucion": "Si son perpendiculares, significa que la aceleración solo tiene componente centrípeta (hacia el centro) y no tiene componente tangencial. Esto es característico del $MCU$, donde la rapidez es constante."
+              "correcta": 3,
+              "resolucion": "Con fuerza resultante fija, a = F/m. Al duplicar la masa, la aceleración pasa a F/(2m), la mitad de la inicial."
             },
             {
-              "pregunta": "Calcule el ángulo barrido ($\\theta$) por un móvil en $MCU$ que gira con $\\omega = 2$ $rad/s$ durante un tiempo $t = 5$ s.",
+              "pregunta": "Un bloque de 3 kg recibe dos fuerzas horizontales: 20 N hacia la derecha y 8 N hacia la izquierda. Sin otras fuerzas horizontales, ¿cuál es su aceleración?",
               "opciones": [
-                "10 rad",
-                "2.5 rad",
-                "0.4 rad",
-                "20 rad"
+                "4 m/s² hacia la derecha.",
+                "28/3 m/s² hacia la derecha.",
+                "12 m/s² hacia la derecha.",
+                "4 m/s² hacia la izquierda."
               ],
               "correcta": 0,
-              "resolucion": "En el $MCU$, el desplazamiento angular se calcula como $\\theta = \\omega \\cdot t$. Sustituyendo los valores: $\\theta = 2 \\cdot 5 = 10$ $rad$."
+              "resolucion": "Tomando la derecha como positiva, F resultante = 20 − 8 = 12 N. Entonces a = 12/3 = 4 m/s² hacia la derecha."
             },
             {
-              "pregunta": "La aceleración centrípeta ($a_c$) también puede expresarse en función de la rapidez angular como:",
+              "pregunta": "Un automóvil de 1200 kg se desplaza en línea recta y reduce uniformemente su rapidez de 20 m/s a 10 m/s en 5 s, sin cambiar de sentido. ¿Cuál es el módulo de la fuerza resultante durante ese intervalo?",
               "opciones": [
-                "$a_c = \\omega \\cdot R$",
-                "$a_c = \\omega^2 \\cdot R$",
-                "$a_c = \\omega \\cdot R^2$",
-                "$a_c = \\alpha \\cdot R$"
+                "1200 N",
+                "3600 N",
+                "2400 N",
+                "6000 N"
+              ],
+              "correcta": 2,
+              "resolucion": "La aceleración es (10 − 20)/5 = −2 m/s² en el eje orientado según el movimiento. La fuerza resultante es −2400 N; su módulo es 2400 N."
+            },
+            {
+              "pregunta": "Un bloque de 4 kg está sobre un piso horizontal y no acelera verticalmente. Solo el peso y la normal tienen componente vertical. Si g = 10 m/s², ¿cuánto vale la normal?",
+              "opciones": [
+                "40 N",
+                "4 N",
+                "10 N",
+                "0 N"
+              ],
+              "correcta": 0,
+              "resolucion": "Como no hay aceleración vertical, N − mg = 0. Por ello N = 4 × 10 = 40 N. Las posibles fuerzas horizontales no alteran esta igualdad bajo las condiciones dadas."
+            },
+            {
+              "pregunta": "Un móvil tiene velocidad hacia la derecha y aceleración hacia la izquierda. Mientras conserve ese sentido de movimiento, ¿qué ocurre con su rapidez?",
+              "opciones": [
+                "Aumenta necesariamente.",
+                "Es nula en todo instante.",
+                "Permanece constante.",
+                "Disminuye."
+              ],
+              "correcta": 3,
+              "resolucion": "Cuando la aceleración apunta en sentido contrario a la velocidad, la rapidez disminuye durante el intervalo anterior a una posible detención."
+            },
+            {
+              "pregunta": "En una región donde g = 10 m/s², ¿cuál es el módulo del peso de un cuerpo de masa 5 kg?",
+              "opciones": [
+                "0,5 N",
+                "5 N",
+                "50 N",
+                "15 N"
+              ],
+              "correcta": 2,
+              "resolucion": "El peso es una fuerza gravitatoria. Su módulo se obtiene con P = mg = 5 × 10 = 50 N."
+            },
+            {
+              "pregunta": "Un bloque se desliza por un plano inclinado liso que forma 30° con la horizontal. No actúan otras fuerzas aparte del peso y la normal. Si g = 10 m/s², ¿cuál es su aceleración a lo largo del plano?",
+              "opciones": [
+                "10 m/s² hacia abajo del plano.",
+                "5 m/s² hacia abajo del plano.",
+                "5√3 m/s² hacia abajo del plano.",
+                "0 m/s²."
               ],
               "correcta": 1,
-              "resolucion": "Partiendo de $a_c = v^2 / R$ y sustituyendo $v = \\omega \\cdot R$, obtenemos $a_c = (\\omega \\cdot R)^2 / R = \\omega^2 \\cdot R$."
+              "resolucion": "La componente del peso paralela al plano es mg sen 30°. Entonces ma = mg sen 30° y a = 10 × 1/2 = 5 m/s² hacia abajo del plano."
             },
             {
-              "pregunta": "Si un proyectil se lanza con un ángulo $\\theta = 45^\\circ$, ¿qué característica especial tiene su trayectoria respecto al alcance horizontal ($R$)?",
+              "pregunta": "Un bloque de 2 kg permanece en contacto con un plano inclinado liso de 30° y no acelera perpendicularmente a él. Solo actúan el peso y la normal. Si g = 10 m/s², ¿cuál es la normal?",
               "opciones": [
-                "El alcance es mínimo",
-                "El alcance es igual a la altura máxima",
-                "El alcance es máximo para una rapidez dada",
-                "El tiempo de vuelo es mínimo"
+                "20√3 N",
+                "20 N",
+                "10 N",
+                "10√3 N"
               ],
-              "correcta": 2,
-              "resolucion": "En el movimiento parabólico, el alcance horizontal máximo se logra teóricamente con un ángulo de disparo de $45^\\circ$."
+              "correcta": 3,
+              "resolucion": "En el eje perpendicular al plano, N = mg cos 30°. Así, N = 2 × 10 × √3/2 = 10√3 N."
             },
             {
-              "pregunta": "Un cuerpo en $MCUV$ tiene una aceleración angular de $2$ $rad/s^2$. ¿Cuántas vueltas dará en los primeros $2$ s si parte del reposo?",
+              "pregunta": "Una fuerza horizontal de 50 N tira de un bloque de 10 kg que se desliza sobre un piso horizontal en el mismo sentido que esa fuerza. Si el coeficiente de rozamiento cinético es 0,2 y g = 10 m/s², ¿cuál es la aceleración del bloque?",
               "opciones": [
-                "$4$ vueltas",
-                "$4/\\pi$ vueltas",
-                "$2/\\pi$ vueltas",
-                "$8\\pi$ vueltas"
+                "3 m/s²",
+                "5 m/s²",
+                "2 m/s²",
+                "7 m/s²"
+              ],
+              "correcta": 0,
+              "resolucion": "La normal es N = mg = 100 N. El rozamiento cinético vale 0,2 × 100 = 20 N. La fuerza resultante es 50 − 20 = 30 N y a = 30/10 = 3 m/s²."
+            },
+            {
+              "pregunta": "Un bloque de 20 kg desliza por un piso horizontal. Una fuerza horizontal F, dirigida en el sentido de su movimiento, le produce una aceleración de 0,2 m/s² en el sentido de F. Si el coeficiente de rozamiento cinético es 0,1 y g = 10 m/s², ¿cuánto vale F?",
+              "opciones": [
+                "4 N",
+                "24 N",
+                "40 N",
+                "20 N"
+              ],
+              "correcta": 1,
+              "resolucion": "La normal vale 200 N y el rozamiento cinético es 0,1 × 200 = 20 N. De F − 20 = 20 × 0,2 se obtiene F = 24 N."
+            },
+            {
+              "pregunta": "Dos bloques de 2 kg y 3 kg están unidos por una cuerda ideal tensa, sobre un piso horizontal sin rozamiento. Una fuerza horizontal externa de 20 N tira del bloque de 3 kg. ¿Cuál es la aceleración común?",
+              "opciones": [
+                "10 m/s²",
+                "20/3 m/s²",
+                "4 m/s²",
+                "2 m/s²"
               ],
               "correcta": 2,
-              "resolucion": "Hallamos el ángulo: $\\theta = \\omega_0 t + \\frac{1}{2}\\alpha t^2 = 0 + \\frac{1}{2}(2)(2^2) = 4$ $rad$. Para hallar las vueltas ($n$), dividimos entre $2\\pi$: $n = 4 / (2\\pi) = 2/\\pi$ vueltas."
+              "resolucion": "Para el sistema completo, la masa total es 2 + 3 = 5 kg. La tensión es interna. Entonces a = 20/5 = 4 m/s²."
+            },
+            {
+              "pregunta": "Dos bloques de 2 kg y 3 kg, unidos por una cuerda ideal tensa, están sobre un piso horizontal sin rozamiento. Una fuerza externa de 20 N tira del bloque de 3 kg y ambos aceleran a 4 m/s². ¿Cuál es la tensión de la cuerda?",
+              "opciones": [
+                "12 N",
+                "8 N",
+                "20 N",
+                "5 N"
+              ],
+              "correcta": 1,
+              "resolucion": "Aislamos el bloque de 2 kg: su única fuerza horizontal es la tensión. Por tanto T = ma = 2 × 4 = 8 N."
+            },
+            {
+              "pregunta": "Un cajón parte del reposo y recorre 12 m en 2 s con aceleración horizontal constante. La única fuerza horizontal es de 12 N y no hay rozamiento. ¿Cuál es la masa del cajón?",
+              "opciones": [
+                "6 kg",
+                "12 kg",
+                "2 kg",
+                "24 kg"
+              ],
+              "correcta": 2,
+              "resolucion": "Primero usamos d = at²/2: a = 2 × 12/2² = 6 m/s². Luego m = F/a = 12/6 = 2 kg."
+            },
+            {
+              "pregunta": "¿En cuál de los siguientes marcos se pueden aplicar directamente las leyes de Newton tal como se presentan en la clase?",
+              "opciones": [
+                "En un sistema de referencia inercial.",
+                "Solo en uno que esté girando aceleradamente.",
+                "Solo en uno unido a un cuerpo en caída libre, sin más condiciones.",
+                "En cualquier marco con aceleración arbitraria."
+              ],
+              "correcta": 0,
+              "resolucion": "El docente establece que las leyes de Newton, en la forma utilizada en la clase, se aplican desde un sistema de referencia inercial."
+            },
+            {
+              "pregunta": "Un cuerpo describe una circunferencia con rapidez constante. ¿Por qué necesita una fuerza resultante con componente dirigida hacia el centro?",
+              "opciones": [
+                "Porque la rapidez debe aumentar en todo instante.",
+                "Porque una trayectoria circular exige una fuerza tangencial que anule el peso.",
+                "Porque en ese movimiento la aceleración siempre es nula.",
+                "Porque la dirección de la velocidad cambia continuamente."
+              ],
+              "correcta": 3,
+              "resolucion": "Aunque la rapidez sea constante, la dirección de la velocidad cambia. La componente centrípeta de la fuerza produce ese cambio de dirección y apunta hacia el centro de la circunferencia."
             }
           ],
-          "resumen": "La clase estudia dos movimientos en dos dimensiones: el parabólico y el circular. El parabólico se analiza por separado en los ejes X e Y: en X hay MRU y en Y, caída libre. Se revisan las componentes de la velocidad, las condiciones para aplicar las fórmulas de altura máxima, alcance y tiempo de vuelo, y ejercicios de lanzamiento horizontal, incluido uno desde un ascensor. Luego se introducen el desplazamiento y la velocidad angular, el período y la frecuencia, y el movimiento circular uniforme (MCU) y uniformemente variado (MCUV). Se relacionan el arco con el ángulo y la rapidez tangencial con la angular; también se definen las aceleraciones centrípeta y tangencial. Los ejemplos muestran cómo elegir un sistema de referencia, identificar datos iniciales y combinar ecuaciones según lo que se pide.",
+          "resumen": "La clase presenta la dinámica como el estudio de las causas del movimiento y desarrolla las leyes de Newton junto con conceptos necesarios para resolver ejercicios. Explica la inercia como la tendencia de los cuerpos a mantener su estado y la masa como medida de esa inercia. Distingue fuerzas externas e internas, y revisa acción y reacción, rozamiento y fuerza elástica. Para la segunda ley, relaciona la fuerza resultante con la aceleración y señala que ambas tienen la misma dirección; también diferencia reposo de equilibrio. Luego aplica estos principios a problemas de planos inclinados, bloques conectados y movimiento circular. En los ejercicios, propone dibujar las fuerzas, elegir ejes convenientes y usar los datos disponibles para hallar aceleraciones, fuerzas, tensiones o coeficientes de rozamiento.",
           "puntos_clave": [
-            "El movimiento parabólico combina MRU en el eje X y MRUV vertical o caída libre en el eje Y.",
-            "La componente horizontal de la velocidad permanece constante; la vertical cambia y se anula en el punto más alto.",
-            "Las fórmulas de altura máxima, alcance y tiempo de vuelo se restringen a parábolas entre puntos del mismo nivel.",
-            "En el movimiento circular, el desplazamiento angular es el cambio de posición angular y se expresa en radianes.",
-            "El MCU mantiene constante la velocidad angular; en el MCUV, la aceleración angular es constante.",
-            "La aceleración centrípeta apunta al centro; la tangencial aparece cuando varía la rapidez tangencial."
+            "La dinámica estudia qué causa cambios en el movimiento, a diferencia de describir cómo se mueve un cuerpo.",
+            "La inercia es la propiedad de mantener el estado inicial; la masa se presenta como medida de la inercia.",
+            "La fuerza resulta de la interacción entre cuerpos. Las fuerzas internas aparecen entre elementos del sistema y se contraponen en pares de acción y reacción.",
+            "La fuerza resultante distinta de cero produce aceleración en su misma dirección; la relación de la segunda ley se expresa como fuerza igual a masa por aceleración.",
+            "En un plano inclinado conviene elegir un eje paralelo y otro perpendicular al plano, y descomponer la gravedad en componentes.",
+            "En el movimiento circular, la componente centrípeta de la fuerza resultante mantiene la trayectoria curvada; sin ella, el movimiento sería rectilíneo."
           ],
           "momentos_clave": [
             {
-              "titulo": "Dos ejes para estudiar el movimiento parabólico",
-              "texto": "El análisis requiere coordenadas X e Y: el movimiento horizontal es uniforme y el vertical corresponde al MRUV o caída libre.",
-              "segundos": 135,
-              "youtube_id": "ry4etxG_ZtQ",
+              "titulo": "La dinámica busca las causas del movimiento",
+              "texto": "Se distingue la descripción del movimiento del estudio de qué lo genera o modifica; Newton aborda esas causas mediante sus tres leyes fundamentales.",
+              "segundos": 83,
+              "youtube_id": "DnqaHsZi4_A",
               "evidencia": {
-                "segmento_inicio": "s000047",
-                "segmento_fin": "s000049",
-                "cita": "Como el movimiento parabólico es un movimiento en dos dimensiones, tenemos que usar dos ejes coordenados.",
-                "inicio_segundos": 135.52,
-                "fin_segundos": 143.28,
-                "segundos": 135,
+                "segmento_inicio": "s000027",
+                "segmento_fin": "s000031",
+                "cita": "hemos descrito el movimiento con velocidad constante con aceleración constante el movimiento parabólico el movimiento circular etcétera pero no nos hemos preguntado todavía quién",
+                "inicio_segundos": 83.36,
+                "fin_segundos": 98.75,
+                "segundos": 83,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -1898,17 +1898,17 @@
               }
             },
             {
-              "titulo": "Componentes de la velocidad en la parábola",
-              "texto": "La velocidad se descompone en componentes horizontal y vertical; la vertical se anula en la altura máxima, mientras la horizontal permanece constante.",
-              "segundos": 516,
-              "youtube_id": "ry4etxG_ZtQ",
+              "titulo": "Segunda ley y dirección de la aceleración",
+              "texto": "La clase relaciona una fuerza resultante no nula con una aceleración en la misma dirección y aplica la segunda ley para calcular fuerzas.",
+              "segundos": 779,
+              "youtube_id": "DnqaHsZi4_A",
               "evidencia": {
-                "segmento_inicio": "s000225",
-                "segmento_fin": "s000228",
-                "cita": "Cuando la pelota llega al punto más alto de la trayectoria parabólica, se anula esa componente vertical, por eso acá dice V sub Y igual a 0",
-                "inicio_segundos": 516.68,
-                "fin_segundos": 528.36,
-                "segundos": 516,
+                "segmento_inicio": "s000262",
+                "segmento_fin": "s000266",
+                "cita": "cuando la fuerza resultado sobre un sistema o un sistema un conjunto de cuerpos no es nula no es nula entonces éste adquiere una aceleración en la misma dirección",
+                "inicio_segundos": 779.999,
+                "fin_segundos": 802.7090000000001,
+                "segundos": 779,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -1917,17 +1917,17 @@
               }
             },
             {
-              "titulo": "Ejercicio de lanzamiento desde un ascensor",
-              "texto": "Desde tierra, el proyectil hereda la velocidad vertical del ascensor además de la horizontal de lanzamiento; con esas componentes se calculan el tiempo de caída y el alcance.",
-              "segundos": 2300,
-              "youtube_id": "ry4etxG_ZtQ",
+              "titulo": "Fuerza centrípeta en la trayectoria circular",
+              "texto": "Se explica que la fuerza centrípeta cambia la dirección del movimiento y permite la trayectoria circular; sin ella, el cuerpo seguiría una trayectoria rectilínea.",
+              "segundos": 2326,
+              "youtube_id": "DnqaHsZi4_A",
               "evidencia": {
-                "segmento_inicio": "s001046",
-                "segmento_fin": "s001049",
-                "cita": "el proyectil no solamente tiene velocidad horizontal, que es el con que lo lanza la persona, sino también tiene velocidad vertical",
-                "inicio_segundos": 2300.28,
-                "fin_segundos": 2310.2,
-                "segundos": 2300,
+                "segmento_inicio": "s000758",
+                "segmento_fin": "s000762",
+                "cita": "esta fuerza centrípeta es la responsable ojo es la responsable para que el cuerpo se mueva de manera circunferencia qué pasaría si esta fuerza no existiera",
+                "inicio_segundos": 2326.02,
+                "fin_segundos": 2347.3089999999997,
+                "segundos": 2326,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -1936,17 +1936,17 @@
               }
             },
             {
-              "titulo": "Desplazamiento angular y longitud de arco",
-              "texto": "En una trayectoria circular se compara la posición angular inicial y final; el desplazamiento angular se expresa en radianes y se relaciona con la longitud del arco.",
-              "segundos": 3310,
-              "youtube_id": "ry4etxG_ZtQ",
+              "titulo": "Fuerzas en un plano inclinado",
+              "texto": "Para analizar un bloque inclinado, se trazan ejes paralelo y perpendicular al plano, se dibuja la gravedad y se consideran sus componentes junto con la normal y el rozamiento.",
+              "segundos": 3883,
+              "youtube_id": "DnqaHsZi4_A",
               "evidencia": {
-                "segmento_inicio": "s001479",
-                "segmento_fin": "s001482",
-                "cita": "restando el ángulo final, o sea, posición angular final, menos la posición angular inicial, y se expresa en radianes",
-                "inicio_segundos": 3310.08,
-                "fin_segundos": 3320.08,
-                "segundos": 3310,
+                "segmento_inicio": "s001226",
+                "segmento_fin": "s001230",
+                "cita": "el primer paso es en este plano en este bloque y el centro a partir del centro voy a trazar un eje cartesiano uno que éste sea el eje x así",
+                "inicio_segundos": 3883.46,
+                "fin_segundos": 3899.9500000000003,
+                "segundos": 3883,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -1955,36 +1955,17 @@
               }
             },
             {
-              "titulo": "MCU y rapidez tangencial",
-              "texto": "En el MCU la velocidad angular permanece constante. La rapidez tangencial se relaciona con la angular mediante el radio de la circunferencia.",
-              "segundos": 4271,
-              "youtube_id": "ry4etxG_ZtQ",
+              "titulo": "Rozamiento y equilibrio en el plano",
+              "texto": "Al comparar las fuerzas paralelas y perpendiculares al plano, se analiza el caso de reposo o velocidad constante y se relaciona el rozamiento con el ángulo.",
+              "segundos": 4205,
+              "youtube_id": "DnqaHsZi4_A",
               "evidencia": {
-                "segmento_inicio": "s001901",
-                "segmento_fin": "s001904",
-                "cita": "rapidez tangencial o lineal es igual al angular multiplicado por el radio de la circunferencia.",
-                "inicio_segundos": 4271.88,
-                "fin_segundos": 4283.84,
-                "segundos": 4271,
-                "validacion": "literal_quote_in_exact_transcript_segments"
-              },
-              "verification": {
-                "transcript": "literal_quote_validated",
-                "playback": "not_verified"
-              }
-            },
-            {
-              "titulo": "Aceleraciones en el movimiento circular",
-              "texto": "La aceleración centrípeta se dirige al centro y la tangencial acompaña los cambios de rapidez; en el MCU no hay aceleración tangencial.",
-              "segundos": 6003,
-              "youtube_id": "ry4etxG_ZtQ",
-              "evidencia": {
-                "segmento_inicio": "s002638",
-                "segmento_fin": "s002641",
-                "cita": "Cuando varía la velocidad tangencial o la rapidez tangencial, va a experimentar una aceleración tangencial",
-                "inicio_segundos": 6003.08,
-                "fin_segundos": 6011.160000000001,
-                "segundos": 6003,
+                "segmento_inicio": "s001328",
+                "segmento_fin": "s001332",
+                "cita": "si este bloque está en reposo o tienen una velocidad constante si tiene esta reposición una velocidad constante significa que la fuerza resultante es igual a cero",
+                "inicio_segundos": 4205.13,
+                "fin_segundos": 4220.79,
+                "segundos": 4205,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -1993,79 +1974,79 @@
               }
             }
           ],
-          "duracion_segundos": 6718,
+          "duracion_segundos": 6968,
           "summary_provenance": {
             "model": "gpt-6-luna",
             "prompt_version": "edutube-class-summary-1-long-context",
-            "generated_at": "2026-10-29T19:00:19.254Z",
-            "source_sha256": "de46d12292e50bb8e9a5517c19f5c2f8f2c116aef45fedae0eb4d1115137d146",
-            "request_sha256": "6d965693ae729b5928158f1f41c8bfd308480bd313944df09bf253bf6799c341",
-            "transcript_segments_sha256": "cb60d9310a127f4026a95b851429772292f9935900c4efdbff1e9d8926a16038",
+            "generated_at": "2026-10-29T19:38:50.965Z",
+            "source_sha256": "528f522365485fb8b9faf2a761012ca08cd206dfa47632489d9098b836a9cd8e",
+            "request_sha256": "b38837ca95d1472398a1451ac32285e37efb40c4da0b59b8d8c081dad4335336",
+            "transcript_segments_sha256": "3c78054be61b012086447bab8876c552f47625e6cc9331cfbbd1f3a47daf4ed2",
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "schema_plain_text_and_literal_segment_evidence",
             "factual_review": "not_human_verified",
             "playback": "not_verified",
             "key_point_evidence": [
               {
-                "segmento_inicio": "s000052",
-                "segmento_fin": "s000056",
-                "cita": "un movimiento rectilíneo uniforme en el eje X, vamos a usar el eje X para el MRU, y un movimiento rectilíneo uniformemente variado",
-                "inicio_segundos": 149.2,
-                "fin_segundos": 163.24,
-                "segundos": 149,
+                "segmento_inicio": "s000027",
+                "segmento_fin": "s000031",
+                "cita": "hemos descrito el movimiento con velocidad constante con aceleración constante el movimiento parabólico el movimiento circular etcétera pero no nos hemos preguntado todavía quién",
+                "inicio_segundos": 83.36,
+                "fin_segundos": 98.75,
+                "segundos": 83,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000225",
-                "segmento_fin": "s000228",
-                "cita": "Cuando la pelota llega al punto más alto de la trayectoria parabólica, se anula esa componente vertical, por eso acá dice V sub Y igual a 0",
-                "inicio_segundos": 516.68,
-                "fin_segundos": 528.36,
-                "segundos": 516,
+                "segmento_inicio": "s000182",
+                "segmento_fin": "s000186",
+                "cita": "simplemente es una propiedad que tiene los cuerpos de mantener su estado inicial por ejemplo muchachos este carrito está parado",
+                "inicio_segundos": 548.16,
+                "fin_segundos": 564.4590000000001,
+                "segundos": 548,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000565",
-                "segmento_fin": "s000570",
-                "cita": "estas se aplican solamente a la circunstancia de del caso de la de la parábola simétrica, o sea, descrita entre dos puntos de igual nivel",
-                "inicio_segundos": 1256.08,
-                "fin_segundos": 1270.48,
-                "segundos": 1256,
+                "segmento_inicio": "s000121",
+                "segmento_fin": "s000124",
+                "cita": "notar que estas fuerzas son de acción y reacción siempre aparecen en pares de estas fuerzas al final se cancelan estas fuerzas internas",
+                "inicio_segundos": 379.83,
+                "fin_segundos": 393.75,
+                "segundos": 379,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s001479",
-                "segmento_fin": "s001482",
-                "cita": "restando el ángulo final, o sea, posición angular final, menos la posición angular inicial, y se expresa en radianes",
-                "inicio_segundos": 3310.08,
-                "fin_segundos": 3320.08,
-                "segundos": 3310,
+                "segmento_inicio": "s000262",
+                "segmento_fin": "s000266",
+                "cita": "cuando la fuerza resultado sobre un sistema o un sistema un conjunto de cuerpos no es nula no es nula entonces éste adquiere una aceleración en la misma dirección",
+                "inicio_segundos": 779.999,
+                "fin_segundos": 802.7090000000001,
+                "segundos": 779,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s002255",
-                "segmento_fin": "s002258",
-                "cita": "La condición para que una partícula, un cuerpo tenga MCUV es que realice cambios de velocidad angular iguales en intervalos de tiempo iguales",
-                "inicio_segundos": 5112.72,
-                "fin_segundos": 5125.200000000001,
-                "segundos": 5112,
+                "segmento_inicio": "s001226",
+                "segmento_fin": "s001230",
+                "cita": "el primer paso es en este plano en este bloque y el centro a partir del centro voy a trazar un eje cartesiano uno que éste sea el eje x así",
+                "inicio_segundos": 3883.46,
+                "fin_segundos": 3899.9500000000003,
+                "segundos": 3883,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s002638",
-                "segmento_fin": "s002641",
-                "cita": "Cuando varía la velocidad tangencial o la rapidez tangencial, va a experimentar una aceleración tangencial",
-                "inicio_segundos": 6003.08,
-                "fin_segundos": 6011.160000000001,
-                "segundos": 6003,
+                "segmento_inicio": "s000758",
+                "segmento_fin": "s000762",
+                "cita": "esta fuerza centrípeta es la responsable ojo es la responsable para que el cuerpo se mueva de manera circunferencia qué pasaría si esta fuerza no existiera",
+                "inicio_segundos": 2326.02,
+                "fin_segundos": 2347.3089999999997,
+                "segundos": 2326,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               }
             ],
             "summary_origin": "per_video_grounded_EduTube_summary",
             "transcript": {
-              "kind": "youtube_captions",
-              "provider": "TranscriptAPI",
-              "language": "asr-es",
+              "kind": "youtube_captions_direct",
+              "provider": "yt_dlp",
+              "language": "es",
               "automatic_speech_recognition": true,
               "human_review": "not_verified",
               "playback": "not_verified"
@@ -2478,251 +2459,252 @@
         },
         {
           "titulo": "2.3 ESTATICA I - Leyes de Newton",
-          "youtube_id": "T34tp2XoJTE",
+          "youtube_id": "aVjc3cZqhFo",
           "pdf_link": "https://drive.google.com/file/d/1Xfnw7HqVL97_AEpCYF514eGuQIq5n_Up/view",
           "gratis": false,
           "preguntas": [
             {
-              "pregunta": "¿Cuál es la naturaleza física fundamental de la fuerza de rozamiento según la explicación inicial?",
+              "pregunta": "¿Por qué la fuerza es una magnitud vectorial?",
               "opciones": [
-                "Fuerza gravitatoria",
-                "Fuerza nuclear fuerte",
-                "Fuerza electromagnética",
-                "Fuerza elástica"
-              ],
-              "correcta": 2,
-              "resolucion": "Como se menciona al inicio de la clase [00:01:06], la fuerza de rozamiento es de naturaleza electromagnética y se genera debido a las irregularidades y rugosidades microscópicas de las superficies en contacto."
-            },
-            {
-              "pregunta": "¿Qué condición es indispensable para que aparezca la fuerza de rozamiento por deslizamiento entre dos superficies ásperas?",
-              "opciones": [
-                "Que las superficies sean perfectamente lisas",
-                "Que exista una tendencia al deslizamiento o deslizamiento relativo",
-                "Que el cuerpo esté siempre en movimiento acelerado",
-                "Que la fuerza de gravedad sea nula"
+                "Porque solo se representa mediante un número positivo.",
+                "Porque, además de su módulo y unidad, tiene dirección y sentido.",
+                "Porque siempre vale lo mismo que la masa.",
+                "Porque su unidad es el kilogramo."
               ],
               "correcta": 1,
-              "resolucion": "El profesor explica con el ejemplo de la esponja y la regla [00:03:11] que, aunque las superficies sean ásperas, si no hay tendencia al deslizamiento, la fuerza de rozamiento es cero."
+              "resolucion": "Una fuerza no queda descrita solo por un valor numérico y su unidad: también se deben especificar su dirección y sentido."
             },
             {
-              "pregunta": "La fuerza de contacto ($R$ o $F_{contacto}$) entre un bloque y una superficie rugosa es la resultante vectorial de:",
+              "pregunta": "¿Qué instrumento permite medir el módulo de una fuerza mediante la deformación de un resorte?",
               "opciones": [
-                "La fuerza de gravedad y la normal",
-                "La fuerza motriz y el rozamiento",
-                "La fuerza normal y la fuerza de rozamiento",
-                "La tensión y el peso"
+                "Un cronómetro.",
+                "Un termómetro.",
+                "Una balanza de dos platillos.",
+                "Un dinamómetro."
+              ],
+              "correcta": 3,
+              "resolucion": "El dinamómetro utiliza la deformación de un resorte para medir fuerzas, de acuerdo con su calibración elástica."
+            },
+            {
+              "pregunta": "Un resorte ideal de constante elástica 200 N/m se estira 5 cm dentro de su régimen elástico. ¿Cuál es el módulo de la fuerza elástica?",
+              "opciones": [
+                "10 N",
+                "40 N",
+                "0,25 N",
+                "1000 N"
+              ],
+              "correcta": 0,
+              "resolucion": "Por la ley de Hooke, F = kx. Convertimos 5 cm a 0,05 m y calculamos F = 200 × 0,05 = 10 N."
+            },
+            {
+              "pregunta": "Una fuerza de 30 N produce una deformación de 20 cm en un resorte ideal. ¿Cuál es su constante elástica en N/m?",
+              "opciones": [
+                "6 N/m",
+                "1,5 N/m",
+                "150 N/m",
+                "600 N/m"
               ],
               "correcta": 2,
-              "resolucion": "En el minuto [00:14:18], se aclara que la normal y el rozamiento no son fuerzas independientes, sino componentes de una única fuerza llamada reacción total o fuerza de contacto."
+              "resolucion": "Convertimos 20 cm a 0,20 m. De F = kx se obtiene k = F/x = 30/0,20 = 150 N/m."
             },
             {
-              "pregunta": "¿Cómo se calcula el módulo de la fuerza de contacto total ($F_c$) a partir de sus componentes perpendiculares?",
+              "pregunta": "En un sistema de referencia inercial, ¿qué condición caracteriza al equilibrio de traslación de un cuerpo?",
               "opciones": [
-                "$F_c = N + f$",
-                "$F_c = N - f$",
-                "$F_c = \\sqrt{f^2 + N^2}$",
-                "$F_c = \\frac{f}{N}$"
+                "Que siempre aumente su rapidez.",
+                "Que no exista ninguna fuerza individual sobre él.",
+                "Que la fuerza mayor sea igual a la masa.",
+                "Que la suma vectorial de las fuerzas sea cero."
               ],
-              "correcta": 2,
-              "resolucion": "Dado que la normal ($N$) y la fuerza de rozamiento ($f$) son perpendiculares entre sí, su resultante se halla mediante el teorema de Pitágoras [00:15:08]."
+              "correcta": 3,
+              "resolucion": "En equilibrio de traslación, la fuerza resultante y la aceleración son cero. Puede haber fuerzas individuales que se compensen."
             },
             {
-              "pregunta": "En una situación de reposo donde NO hay movimiento inminente, ¿cómo se determina el valor de la fuerza de rozamiento estática ($f_s$)?",
+              "pregunta": "Un cuerpo se mueve en línea recta con velocidad constante. En un marco inercial, ¿puede encontrarse en equilibrio de traslación?",
               "opciones": [
-                "Usando siempre la fórmula $\\mu_s \\cdot N$",
-                "Mediante las leyes de la mecánica (equilibrio de fuerzas)",
-                "Es siempre igual al peso del cuerpo",
-                "Es una constante que depende únicamente del material"
+                "No, porque todo movimiento requiere una fuerza resultante distinta de cero.",
+                "Sí, porque su aceleración y la fuerza resultante son nulas.",
+                "Sí, pero únicamente si su masa es cero.",
+                "No, porque equilibrio significa siempre ausencia de toda fuerza."
               ],
               "correcta": 1,
-              "resolucion": "Como se explica en los problemas [00:43:58] y [01:57:06], si no hay movimiento inminente, la fuerza de rozamiento se halla por equilibrio (sumatoria de fuerzas igual a cero) y no necesariamente es igual al valor máximo."
+              "resolucion": "La primera ley permite mantener una velocidad constante cuando la fuerza resultante es cero. Esto es equilibrio de traslación, aunque el cuerpo no esté en reposo."
             },
             {
-              "pregunta": "¿Qué significa que un cuerpo se encuentre en estado de 'movimiento inminente'?",
+              "pregunta": "Un estudiante empuja una pared con una fuerza horizontal de 80 N. Según la tercera ley de Newton, ¿qué fuerza ejerce la pared sobre el estudiante?",
               "opciones": [
-                "Que el cuerpo se mueve a velocidad constante",
-                "Que el cuerpo tiene una aceleración muy grande",
-                "Que el cuerpo está a punto de deslizar, pero aún está en reposo",
-                "Que no existe fuerza de rozamiento en ese instante"
+                "Una fuerza de 80 N en el mismo sentido.",
+                "Una fuerza de 40 N en sentido opuesto.",
+                "Una fuerza de 80 N en sentido opuesto.",
+                "Ninguna, porque la pared no se mueve."
               ],
               "correcta": 2,
-              "resolucion": "El término 'movimiento inminente' se refiere al estado límite donde el cuerpo está a punto de resbalar [00:19:08], momento en el cual actúa la fuerza de rozamiento estática máxima."
+              "resolucion": "Las fuerzas de acción y reacción tienen igual módulo y sentidos opuestos. La pared ejerce 80 N sobre el estudiante en sentido contrario al empuje."
             },
             {
-              "pregunta": "¿Cuál es la fórmula específica para calcular la magnitud de la fuerza de rozamiento estática máxima ($f_{s\\,max}$)?",
+              "pregunta": "¿Por qué las fuerzas de acción y reacción no se suman como dos fuerzas que se anulan en el diagrama de cuerpo libre de un solo objeto?",
               "opciones": [
-                "$f_{s\\,max} = \\mu_k \\cdot N$",
-                "$f_{s\\,max} = \\mu_s \\cdot N$",
-                "$f_{s\\,max} = \\mu_s \\cdot mg$",
-                "$f_{s\\,max} = \\tan(\\alpha)$"
+                "Porque actúan sobre cuerpos diferentes.",
+                "Porque una de ellas aparece mucho después que la otra.",
+                "Porque siempre tienen módulos diferentes.",
+                "Porque ambas apuntan en el mismo sentido."
+              ],
+              "correcta": 0,
+              "resolucion": "Una interacción genera una fuerza sobre cada uno de los dos cuerpos. El diagrama de un cuerpo incluye únicamente las fuerzas que actúan sobre ese cuerpo."
+            },
+            {
+              "pregunta": "¿Cuál es la orientación de la fuerza normal que una superficie ejerce sobre un cuerpo en contacto con ella?",
+              "opciones": [
+                "Siempre paralela al movimiento.",
+                "Siempre horizontal, incluso en un plano inclinado.",
+                "Perpendicular a la superficie de contacto.",
+                "En la misma dirección que la cuerda más cercana."
+              ],
+              "correcta": 2,
+              "resolucion": "La normal es la componente de la fuerza de contacto perpendicular a la superficie. Su orientación depende de cómo esté situada esa superficie."
+            },
+            {
+              "pregunta": "Una cuerda ideal tensa está unida a un bloque. ¿Cómo se dibuja la fuerza de tensión que la cuerda ejerce sobre él?",
+              "opciones": [
+                "A lo largo de la cuerda, tirando del bloque hacia fuera de él.",
+                "Perpendicular a la cuerda y hacia abajo.",
+                "Siempre entrando en el bloque, como un empuje.",
+                "Siempre en sentido contrario al peso, sin importar la orientación de la cuerda."
+              ],
+              "correcta": 0,
+              "resolucion": "La cuerda tira del cuerpo a lo largo de su propia dirección; no lo empuja. Por ello se representa la tensión saliendo del cuerpo hacia la cuerda."
+            },
+            {
+              "pregunta": "¿Qué debe mostrar un diagrama de cuerpo libre de un bloque?",
+              "opciones": [
+                "Todas las fuerzas que el bloque ejerce sobre los demás cuerpos.",
+                "Su trayectoria, pero ninguna fuerza.",
+                "La velocidad y la aceleración tratadas como si fueran fuerzas.",
+                "Las fuerzas externas que actúan sobre el bloque aislado."
+              ],
+              "correcta": 3,
+              "resolucion": "Se aísla el cuerpo y se representan las fuerzas que los otros cuerpos ejercen sobre él. La velocidad y la aceleración no son fuerzas."
+            },
+            {
+              "pregunta": "En un nudo en equilibrio actúan horizontalmente 30 N hacia la derecha y 18 N hacia la izquierda. ¿Qué tercera fuerza horizontal se necesita para mantener el equilibrio?",
+              "opciones": [
+                "12 N hacia la derecha.",
+                "12 N hacia la izquierda.",
+                "48 N hacia la izquierda.",
+                "18 N hacia la derecha."
               ],
               "correcta": 1,
-              "resolucion": "La fuerza de rozamiento estática máxima es directamente proporcional a la fuerza normal, siendo la constante de proporcionalidad el coeficiente estático $\\mu_s$ [00:24:47]."
+              "resolucion": "Sin la tercera fuerza hay una resultante de 30 − 18 = 12 N hacia la derecha. Se necesitan 12 N hacia la izquierda para que la suma sea cero."
             },
             {
-              "pregunta": "Si un bloque de $5\\ kg$ está en reposo sobre una mesa horizontal y se le aplica una fuerza lateral de $10\\ N$ sin lograr moverlo, ¿cuánto vale la fuerza de rozamiento?",
+              "pregunta": "Una lámpara de 5 kg cuelga en reposo de una sola cuerda vertical ideal. Si g = 10 m/s², ¿cuál es la tensión?",
               "opciones": [
-                "$50\\ N$",
-                "$0\\ N$",
-                "$10\\ N$",
-                "Depende del valor de $\\mu_s$"
+                "50 N",
+                "5 N",
+                "0 N",
+                "100 N"
+              ],
+              "correcta": 0,
+              "resolucion": "Sobre la lámpara actúan el peso hacia abajo y la tensión hacia arriba. Como está en equilibrio, T = mg = 5 × 10 = 50 N."
+            },
+            {
+              "pregunta": "Un cuerpo de peso 100 N está sostenido en reposo por dos cuerdas verticales que tiran de él hacia arriba. Si una ejerce una tensión de 60 N, ¿cuánto vale la tensión de la otra?",
+              "opciones": [
+                "160 N",
+                "60 N",
+                "40 N",
+                "100 N"
               ],
               "correcta": 2,
-              "resolucion": "Por la primera condición de equilibrio, la fuerza de rozamiento debe anular exactamente a la fuerza aplicada de $10\\ N$ para que el cuerpo permanezca en reposo [00:12:43]."
+              "resolucion": "Las tensiones apuntan hacia arriba y deben equilibrar el peso: 60 + T = 100. Por tanto T = 40 N."
             },
             {
-              "pregunta": "¿Qué relación numérica existe generalmente entre los coeficientes de rozamiento estático ($\\mu_s$) y cinético ($\\mu_k$) para un mismo par de superficies?",
+              "pregunta": "Un bloque de 10 kg reposa sobre un piso horizontal. Además de su peso, recibe un empuje vertical de 20 N hacia abajo. Si g = 10 m/s², ¿cuál es la normal?",
               "opciones": [
-                "$\\mu_s < \\mu_k$",
-                "$\\mu_s = \\mu_k$",
-                "$\\mu_s > \\mu_k$",
-                "$\\mu_s = 0$"
-              ],
-              "correcta": 2,
-              "resolucion": "Debido a que es más difícil iniciar el movimiento que mantenerlo, el coeficiente estático es mayor que el cinético en situaciones preuniversitarias estándar [01:31:40]."
-            },
-            {
-              "pregunta": "Si entre la fuerza de contacto total ($F_c$) y la normal ($N$) se forma un ángulo $\\alpha$ en situación de movimiento inminente, se cumple que:",
-              "opciones": [
-                "$\\sin(\\alpha) = \\mu_s$",
-                "$\\cos(\\alpha) = \\mu_s$",
-                "$\\tan(\\alpha) = \\mu_s$",
-                "$\\alpha = 90^\\circ$"
-              ],
-              "correcta": 2,
-              "resolucion": "Como el cateto opuesto es $f_{s\\,max}$ y el adyacente es $N$ en el triángulo de fuerzas, la tangente del ángulo equivale al coeficiente de rozamiento estático [00:33:17]."
-            },
-            {
-              "pregunta": "¿De qué factores DEPENDE principalmente la magnitud de la fuerza de rozamiento por deslizamiento?",
-              "opciones": [
-                "Del área geométrica de las superficies en contacto",
-                "De la velocidad relativa del cuerpo",
-                "De la naturaleza de las superficies ($\\mu$) y de la fuerza normal ($N$)",
-                "Únicamente de la masa del cuerpo y no de la inclinación"
-              ],
-              "correcta": 2,
-              "resolucion": "La fuerza de rozamiento depende de la interacción entre superficies (coeficiente) y de qué tan fuerte se presionan (normal), siendo independiente del área de contacto [00:28:15]."
-            },
-            {
-              "pregunta": "Cuando un cuerpo ya se encuentra deslizando efectivamente sobre una superficie, la fuerza de rozamiento que actúa se denomina:",
-              "opciones": [
-                "Rozamiento estático",
-                "Rozamiento cinético",
-                "Rozamiento máximo",
-                "Fuerza de inercia"
+                "80 N",
+                "120 N",
+                "20 N",
+                "100 N"
               ],
               "correcta": 1,
-              "resolucion": "La fuerza de rozamiento cinética aparece exclusivamente cuando ya existe un deslizamiento relativo o resbalamiento entre las superficies [01:02:18]."
+              "resolucion": "El bloque no acelera verticalmente. La normal equilibra las dos fuerzas descendentes: N = mg + 20 = 100 + 20 = 120 N."
             },
             {
-              "pregunta": "En un bloque que se mueve con velocidad constante ($MRU$) sobre una superficie rugosa horizontal, la fuerza motriz ($F$) debe ser:",
+              "pregunta": "Un bloque de peso 100 N está apoyado en un piso horizontal. Se tira de él con una fuerza vertical de 30 N hacia arriba y sigue en reposo en contacto con el piso. ¿Cuál es la normal?",
               "opciones": [
-                "Mayor que la fuerza de rozamiento cinética",
-                "Igual en magnitud a la fuerza de rozamiento cinética",
-                "Menor que la fuerza de rozamiento cinética",
-                "Igual a cero para que no acelere"
+                "130 N",
+                "100 N",
+                "30 N",
+                "70 N"
+              ],
+              "correcta": 3,
+              "resolucion": "En equilibrio vertical se cumple N + 30 − 100 = 0. Así, N = 70 N. El cuerpo mantiene el contacto, por lo que esta normal es positiva."
+            },
+            {
+              "pregunta": "Un bloque permanece en reposo mientras una fuerza horizontal de 8 N intenta moverlo hacia la derecha. El rozamiento estático máximo es 20 N. ¿Cuál es el rozamiento que actúa en ese instante?",
+              "opciones": [
+                "0 N, porque el bloque no se mueve.",
+                "20 N hacia la izquierda.",
+                "12 N hacia la derecha.",
+                "8 N hacia la izquierda."
+              ],
+              "correcta": 3,
+              "resolucion": "El rozamiento estático se ajusta a la fuerza necesaria para mantener el equilibrio, hasta su valor máximo. Aquí vale 8 N hacia la izquierda; no tiene por qué alcanzar 20 N."
+            },
+            {
+              "pregunta": "Un bloque está a punto de deslizar sobre un piso horizontal. Si la normal es 100 N y el coeficiente de rozamiento estático es 0,4, ¿cuánto vale el módulo del rozamiento estático máximo?",
+              "opciones": [
+                "4 N",
+                "40 N",
+                "100 N",
+                "250 N"
               ],
               "correcta": 1,
-              "resolucion": "Al haber velocidad constante, el cuerpo está en equilibrio cinético, por lo que la fuerza resultante es cero y la fuerza motriz iguala a la de fricción [01:16:52]."
+              "resolucion": "En el límite de deslizamiento, f estático máximo = μ estático × N = 0,4 × 100 = 40 N."
             },
             {
-              "pregunta": "Un bloque de $8\\ kg$ está en movimiento inminente sobre un piso horizontal con $\\mu_s = 0,3$. ¿Cuánto vale la fuerza horizontal aplicada? ($g = 10\\ m/s^2$)",
+              "pregunta": "Un bloque ya desliza sobre una superficie. La normal vale 80 N y el coeficiente de rozamiento cinético es 0,3. ¿Cuál es el módulo del rozamiento cinético?",
               "opciones": [
-                "$80\\ N$",
-                "$24\\ N$",
-                "$8\\ N$",
-                "$30\\ N$"
-              ],
-              "correcta": 1,
-              "resolucion": "La normal $N$ es igual al peso ($80\\ N$). La fuerza de rozamiento máxima es $f_{s\\,max} = 0,3 \\times 80 = 24\\ N$. Al ser movimiento inminente, la fuerza aplicada iguala a este valor [00:55:44]."
-            },
-            {
-              "pregunta": "Si un bloque de $20\\ N$ de peso es presionado lateralmente contra una pared vertical, ¿qué fuerza impide directamente que caiga?",
-              "opciones": [
-                "La fuerza normal de la pared",
-                "La fuerza con la que se presiona lateralmente",
-                "La fuerza de rozamiento estática dirigida hacia arriba",
-                "La aceleración de la gravedad invertida"
+                "80 N",
+                "0,3 N",
+                "24 N",
+                "240 N"
               ],
               "correcta": 2,
-              "resolucion": "Como se muestra en el problema 5 [01:24:22], la fuerza de rozamiento estática se opone al deslizamiento hacia abajo (peso) y apunta verticalmente hacia arriba."
+              "resolucion": "Al existir deslizamiento se usa el coeficiente cinético: f cinético = μ cinético × N = 0,3 × 80 = 24 N."
             },
             {
-              "pregunta": "¿Qué sucede con el valor de la fuerza de rozamiento cinético si aumenta la velocidad del cuerpo dentro de rangos normales?",
+              "pregunta": "Un bloque descansa sobre una mesa horizontal perfectamente lisa, sin cuerdas ni otras fuerzas aplicadas. ¿Qué fuerzas aparecen en su diagrama de cuerpo libre?",
               "opciones": [
-                "Aumenta proporcionalmente",
-                "Disminuye exponencialmente",
-                "Se mantiene prácticamente constante",
-                "Se vuelve nulo al alcanzar altas velocidades"
+                "El peso y la normal.",
+                "Solo la normal, porque el bloque no se mueve.",
+                "El peso, la normal y una fuerza de rozamiento obligatoria.",
+                "El peso y una tensión horizontal."
               ],
-              "correcta": 2,
-              "resolucion": "A diferencia del rozamiento estático, el valor del rozamiento cinético es prácticamente independiente de la velocidad de deslizamiento [01:09:49]."
-            },
-            {
-              "pregunta": "En el problema de dos bloques superpuestos (A sobre B), si el bloque B es acelerado horizontalmente, la fuerza que acelera al bloque A es:",
-              "opciones": [
-                "La fuerza externa aplicada directamente a B",
-                "La fuerza normal entre A y B",
-                "La fuerza de rozamiento entre A y B",
-                "La fuerza de gravedad del bloque B"
-              ],
-              "correcta": 2,
-              "resolucion": "Para que el bloque superior acompañe al inferior sin resbalar, la única fuerza horizontal que puede actuar sobre él es la fricción estática [01:39:45]."
-            },
-            {
-              "pregunta": "Si un bloque está en reposo sobre un plano inclinado de ángulo $\\theta$, la fuerza de rozamiento necesaria para mantener el equilibrio es:",
-              "opciones": [
-                "$mg \\cdot \\cos(\\theta)$",
-                "$mg \\cdot \\tan(\\theta)$",
-                "$mg \\cdot \\sin(\\theta)$",
-                "$\\mu \\cdot mg$"
-              ],
-              "correcta": 2,
-              "resolucion": "Por descomposición del peso en un plano inclinado, la componente que intenta hacerlo deslizar es $mg \\cdot \\sin(\\theta)$, por lo que la fricción debe igualar ese valor en equilibrio [02:10:08]."
-            },
-            {
-              "pregunta": "Si un problema de física proporciona dos coeficientes de fricción, $0,2$ y $0,5$, ¿cuál debe usarse para una situación de 'punto de resbalar'?",
-              "opciones": [
-                "$0,2$",
-                "$0,5$",
-                "El promedio de ambos ($0,35$)",
-                "Depende de la masa del bloque"
-              ],
-              "correcta": 1,
-              "resolucion": "El estado de 'punto de resbalar' o movimiento inminente requiere el uso del coeficiente estático, que siempre es el mayor de los dos valores proporcionados [01:43:50]."
-            },
-            {
-              "pregunta": "¿Cuál de las siguientes afirmaciones sobre la fuerza normal es CORRECTA?",
-              "opciones": [
-                "Siempre es numéricamente igual al peso ($mg$)",
-                "Es una componente de la fuerza de contacto y es perpendicular a la superficie",
-                "Es paralela a la superficie de contacto en todo momento",
-                "Solo existe si el cuerpo está en movimiento cinético"
-              ],
-              "correcta": 1,
-              "resolucion": "La normal es la componente de la reacción que actúa de forma perpendicular a las superficies en contacto [00:13:16] y su valor depende de las fuerzas que presionan las superficies [01:11:01]."
+              "correcta": 0,
+              "resolucion": "Actúan el peso debido a la Tierra y la normal de la mesa. Como la superficie es lisa y no hay cuerda ni otras interacciones indicadas, no se añaden rozamiento ni tensión."
             }
           ],
-          "resumen": "La clase explica el rozamiento como una fuerza de origen electromagnético asociada a las irregularidades de dos superficies en contacto. Distingue el rozamiento estático, que se ajusta para impedir el deslizamiento, del cinético, que actúa cuando el cuerpo ya desliza. La fuerza estática alcanza su máximo en el movimiento inminente y entonces se calcula con el coeficiente estático por la normal; el rozamiento cinético también se relaciona con su coeficiente y la normal. Se aclara que la normal y el rozamiento son componentes de la fuerza de contacto, cuya magnitud puede hallarse con Pitágoras. Mediante ejercicios de equilibrio y movimiento, se enfatiza que no debe usarse la fórmula del máximo si el enunciado no indica movimiento inminente. También se comenta que el coeficiente depende de la interacción entre materiales y suele ser mayor para el caso estático.",
+          "resumen": "La clase presenta conceptos básicos de estática y repasa las leyes de Newton, con énfasis en la inercia, la acción y reacción, y las fuerzas que intervienen en los diagramas de cuerpo libre. Explica la fuerza como vector, el principio de transmisibilidad y la medición de tensiones con dinamómetro. Aplica la relación entre fuerza, constante elástica y deformación en un resorte, y distingue masa de peso. Luego define peso, normal, tensión y fricción, y muestra cómo representar estas fuerzas. Para el equilibrio, plantea que la suma de fuerzas se anula y resuelve ejemplos con fuerzas horizontales y verticales. Finalmente diferencia rozamiento estático y cinético, explica cuándo se usa cada uno y aplica estas ideas en un problema con una fuerza oblicua.",
           "puntos_clave": [
-            "El rozamiento surge por la interacción de las irregularidades de las superficies; que sean ásperas no basta si no existe tendencia al deslizamiento.",
-            "El rozamiento estático impide que el cuerpo deslice y puede aumentar hasta un máximo; el cinético actúa cuando el deslizamiento ya comenzó.",
-            "La normal y el rozamiento son componentes de la fuerza de contacto; su magnitud se obtiene con Pitágoras al ser componentes perpendiculares.",
-            "El coeficiente de rozamiento corresponde a la interacción entre las dos superficies; en general, el estático es mayor que el cinético."
+            "La fuerza es una magnitud vectorial: tiene dirección y puede cambiar el estado de movimiento de un cuerpo.",
+            "El principio de transmisibilidad permite desplazar una fuerza a lo largo de su misma línea de acción sin cambiar su efecto sobre el cuerpo.",
+            "El peso es la atracción que ejerce la Tierra sobre los cuerpos; la normal es la reacción de la superficie y se dibuja perpendicular a ella.",
+            "La fricción se opone al movimiento o a su tendencia. El rozamiento estático corresponde al reposo y el cinético al movimiento.",
+            "En equilibrio, las fuerzas se compensan en cada eje; el diagrama de cuerpo libre reúne las fuerzas que actúan sobre el cuerpo."
           ],
           "momentos_clave": [
             {
-              "titulo": "Origen del rozamiento en las superficies",
-              "texto": "Se explica que las superficies tienen irregularidades que se enlazan al interactuar y generan rozamiento; sin tendencia a deslizar, la fuerza no aparece.",
-              "segundos": 108,
-              "youtube_id": "T34tp2XoJTE",
+              "titulo": "La fuerza como vector",
+              "texto": "Se explica que la fuerza tiene dirección y puede modificar el estado de movimiento de un cuerpo, diferenciando el vector de su módulo.",
+              "segundos": 205,
+              "youtube_id": "aVjc3cZqhFo",
               "evidencia": {
-                "segmento_inicio": "s000038",
-                "segmento_fin": "s000042",
-                "cita": "esa superficie cuando interactúa con otra, igual de áspera, rugosa, entre ellas dos se están enlazando esos sobresalientes y debido a esos sobresalientes",
-                "inicio_segundos": 108.84,
-                "fin_segundos": 125.67999999999999,
-                "segundos": 108,
+                "segmento_inicio": "s000078",
+                "segmento_fin": "s000081",
+                "cita": "la fuerza es una cantidad vectorial que al actuar sobre un cuerpo puede cambiar qué cosa puede cambiar su estado de movimiento",
+                "inicio_segundos": 205.569,
+                "fin_segundos": 219.34,
+                "segundos": 205,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -2731,17 +2713,17 @@
               }
             },
             {
-              "titulo": "Estático y cinético en el plano inclinado",
-              "texto": "Al aumentar la pendiente crece el rozamiento estático hasta su máximo; una vez que la esponja empieza a deslizar, actúa el rozamiento cinético.",
-              "segundos": 245,
-              "youtube_id": "T34tp2XoJTE",
+              "titulo": "Principio de transmisibilidad",
+              "texto": "Una fuerza puede trasladarse dentro de su línea de acción y producir el mismo efecto; cambiarla a otra línea no conserva necesariamente ese efecto.",
+              "segundos": 433,
+              "youtube_id": "aVjc3cZqhFo",
               "evidencia": {
-                "segmento_inicio": "s000085",
-                "segmento_fin": "s000089",
-                "cita": "La esponja quiere resbalar, pero no resbala, no desliza, porque la fuerza de rozamiento que está impidiendo su deslizamiento es la fuerza de rozamiento estática",
-                "inicio_segundos": 245.2,
-                "fin_segundos": 266,
-                "segundos": 245,
+                "segmento_inicio": "s000164",
+                "segmento_fin": "s000166",
+                "cita": "en cualquier parte de la línea de acción va a generar el mismo efecto sobre el cuerpo",
+                "inicio_segundos": 433.06,
+                "fin_segundos": 446.41,
+                "segundos": 433,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -2750,17 +2732,17 @@
               }
             },
             {
-              "titulo": "Fuerza de contacto y sus componentes",
-              "texto": "La normal y el rozamiento se presentan como componentes de la fuerza de contacto; el docente relaciona su resultante con Pitágoras y advierte cómo contar fuerzas en el diagrama.",
-              "segundos": 880,
-              "youtube_id": "T34tp2XoJTE",
+              "titulo": "Inercia y primera ley de Newton",
+              "texto": "La inercia explica la tendencia de los cuerpos a mantener su reposo o movimiento, como muestran los ejemplos del skate y del vehículo que frena.",
+              "segundos": 1286,
+              "youtube_id": "aVjc3cZqhFo",
               "evidencia": {
-                "segmento_inicio": "s000279",
-                "segmento_fin": "s000282",
-                "cita": "La normal y la fuerza de rozamiento son componentes de la fuerza de contacto. Si tú te logras dar cuenta, la fuerza de contacto hace el papel hipotenusa",
-                "inicio_segundos": 880.639,
-                "fin_segundos": 897.3199999999999,
-                "segundos": 880,
+                "segmento_inicio": "s000471",
+                "segmento_fin": "s000474",
+                "cita": "en que todo cuerpo en reposo permanece en reposo o tiende a permanecer en reposo y todo cuerpo en movimiento tiende a permanecer en movimiento",
+                "inicio_segundos": 1286.39,
+                "fin_segundos": 1297.48,
+                "segundos": 1286,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -2769,17 +2751,17 @@
               }
             },
             {
-              "titulo": "Ejercicio: equilibrio con cuerda y polea",
-              "texto": "En el primer problema, el equilibrio permite hallar el rozamiento estático necesario y la normal; luego se obtiene la reacción como resultante de ambas componentes.",
-              "segundos": 2731,
-              "youtube_id": "T34tp2XoJTE",
+              "titulo": "Representación de las fuerzas",
+              "texto": "Se definen peso, normal, tensión y fricción, y se indican sus direcciones: el peso hacia abajo, la normal perpendicular y la fricción opuesta al movimiento.",
+              "segundos": 2391,
+              "youtube_id": "aVjc3cZqhFo",
               "evidencia": {
-                "segmento_inicio": "s000874",
-                "segmento_fin": "s000878",
-                "cita": "Como el sistema está en equilibrio, entonces decimos que si está en equilibrio, la fuerza que va a la derecha con la fuerza que va a la izquierda se deben cancelar.",
-                "inicio_segundos": 2731.079,
-                "fin_segundos": 2747.7599999999998,
-                "segundos": 2731,
+                "segmento_inicio": "s000891",
+                "segmento_fin": "s000893",
+                "cita": "la fuerza que se opone al movimiento bien la fuerza que se opone al movimiento",
+                "inicio_segundos": 2391.78,
+                "fin_segundos": 2402.4199999999996,
+                "segundos": 2391,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -2788,17 +2770,36 @@
               }
             },
             {
-              "titulo": "Ejercicio de dos bloques y aceleración",
-              "texto": "Se analiza el bloque superior para hallar la aceleración límite sin deslizamiento relativo; después se trata el conjunto como sistema y se aplica la segunda ley de Newton.",
-              "segundos": 6104,
-              "youtube_id": "T34tp2XoJTE",
+              "titulo": "Equilibrio y diagrama de cuerpo libre",
+              "texto": "El diagrama reúne las fuerzas que actúan sobre un cuerpo. En el ejemplo de equilibrio, las fuerzas se compensan para que la resultante sea cero.",
+              "segundos": 2922,
+              "youtube_id": "aVjc3cZqhFo",
               "evidencia": {
-                "segmento_inicio": "s001959",
-                "segmento_fin": "s001962",
-                "cita": "La fuerza resultante es igual a la masa por la aceleración. Segunda ley de Newton aplicada convenientemente.",
-                "inicio_segundos": 6104.84,
-                "fin_segundos": 6120.159,
-                "segundos": 6104,
+                "segmento_inicio": "s001091",
+                "segmento_fin": "s001093",
+                "cita": "la suma de todas las fuerzas que estén participando sobre el bloque es igual a cero",
+                "inicio_segundos": 2922.48,
+                "fin_segundos": 2931.25,
+                "segundos": 2922,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              "verification": {
+                "transcript": "literal_quote_validated",
+                "playback": "not_verified"
+              }
+            },
+            {
+              "titulo": "Rozamiento estático y cinético",
+              "texto": "La clase distingue el rozamiento estático, cuando el móvil está en reposo, del cinético, cuando se mueve, y aplica esa diferencia en un problema.",
+              "segundos": 3164,
+              "youtube_id": "aVjc3cZqhFo",
+              "evidencia": {
+                "segmento_inicio": "s001185",
+                "segmento_fin": "s001187",
+                "cita": "el rozamiento estático quiere decir que es el rozamiento que existe cuando el móvil está en reposo",
+                "inicio_segundos": 3164.17,
+                "fin_segundos": 3177.43,
+                "segundos": 3164,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               "verification": {
@@ -2807,61 +2808,70 @@
               }
             }
           ],
-          "duracion_segundos": 8626,
+          "duracion_segundos": 4245,
           "summary_provenance": {
             "model": "gpt-6-luna",
             "prompt_version": "edutube-class-summary-1-long-context",
-            "generated_at": "2026-10-29T19:00:19.772Z",
-            "source_sha256": "c2c89901414e93e8dd4a778aa5d791ea42d8864add9b4801afc6318156a173c1",
-            "request_sha256": "3084bcbc52df0f2a719fac28724fb714709ebab310416d86acc94a72e16276a6",
-            "transcript_segments_sha256": "1322bd5c26befd9f9d7d8afcf609740d9cb54b95881be378772d997bcf2ec166",
+            "generated_at": "2026-10-29T19:38:49.400Z",
+            "source_sha256": "8e2330a7c34576c479900aaecd09044820f1cb3da0c6ce151dde754f99bd7106",
+            "request_sha256": "4c2f1ca69429f2f0502e0ddab01c2c8746eb0f2c5a62f3bf5cfa3fbb6dcb4378",
+            "transcript_segments_sha256": "986d78ee6432f36f539c18420acaadd195bd415480d9fe410c18f059ca4f70e5",
             "source_integrity": "exact_lesson_course_and_youtube_id",
             "validation": "schema_plain_text_and_literal_segment_evidence",
             "factual_review": "not_human_verified",
             "playback": "not_verified",
             "key_point_evidence": [
               {
-                "segmento_inicio": "s000043",
-                "segmento_fin": "s000048",
-                "cita": "se generan las eh se genera la fuerza de rozamiento. Entonces, la fuerza de rozamiento se genera debido a estas irregularidades que existen entre las superficies.",
-                "inicio_segundos": 123.719,
-                "fin_segundos": 141.08,
-                "segundos": 123,
+                "segmento_inicio": "s000078",
+                "segmento_fin": "s000081",
+                "cita": "la fuerza es una cantidad vectorial que al actuar sobre un cuerpo puede cambiar qué cosa puede cambiar su estado de movimiento",
+                "inicio_segundos": 205.569,
+                "fin_segundos": 219.34,
+                "segundos": 205,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000113",
-                "segmento_fin": "s000115",
-                "cita": "La estática cuando todavía no desliza y la cinética cuando ya está deslizando.",
-                "inicio_segundos": 324.08,
-                "fin_segundos": 336.36,
-                "segundos": 324,
+                "segmento_inicio": "s000164",
+                "segmento_fin": "s000166",
+                "cita": "en cualquier parte de la línea de acción va a generar el mismo efecto sobre el cuerpo",
+                "inicio_segundos": 433.06,
+                "fin_segundos": 446.41,
+                "segundos": 433,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s000279",
-                "segmento_fin": "s000282",
-                "cita": "La normal y la fuerza de rozamiento son componentes de la fuerza de contacto. Si tú te logras dar cuenta, la fuerza de contacto hace el papel hipotenusa",
-                "inicio_segundos": 880.639,
-                "fin_segundos": 897.3199999999999,
-                "segundos": 880,
+                "segmento_inicio": "s000768",
+                "segmento_fin": "s000769",
+                "cita": "el peso es la fuerza con la que la tierra atrae a los cuerpos",
+                "inicio_segundos": 2048.23,
+                "fin_segundos": 2058.4,
+                "segundos": 2048,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               },
               {
-                "segmento_inicio": "s001737",
-                "segmento_fin": "s001740",
-                "cita": "El coeficiente de fricción se debe a la interacción mutua y cada uno de estos elementos, de estos cuerpos que están conformados",
-                "inicio_segundos": 5437.96,
-                "fin_segundos": 5450.719,
-                "segundos": 5437,
+                "segmento_inicio": "s001185",
+                "segmento_fin": "s001187",
+                "cita": "el rozamiento estático quiere decir que es el rozamiento que existe cuando el móvil está en reposo",
+                "inicio_segundos": 3164.17,
+                "fin_segundos": 3177.43,
+                "segundos": 3164,
+                "validacion": "literal_quote_in_exact_transcript_segments"
+              },
+              {
+                "segmento_inicio": "s001091",
+                "segmento_fin": "s001093",
+                "cita": "la suma de todas las fuerzas que estén participando sobre el bloque es igual a cero",
+                "inicio_segundos": 2922.48,
+                "fin_segundos": 2931.25,
+                "segundos": 2922,
                 "validacion": "literal_quote_in_exact_transcript_segments"
               }
             ],
             "summary_origin": "per_video_grounded_EduTube_summary",
             "transcript": {
-              "kind": "youtube_captions",
-              "provider": "TranscriptAPI",
-              "language": "asr-es",
+              "kind": "youtube_captions_direct",
+              "provider": "yt_dlp",
+              "language": "es",
               "automatic_speech_recognition": true,
               "human_review": "not_verified",
               "playback": "not_verified"
